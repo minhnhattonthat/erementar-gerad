@@ -310,6 +310,34 @@ def status_patches(d):
     return out
 
 
+PLATES_AT = 0x0C45F8   # battle HP-bar name plates: 27 tiles in one 8-px row; (first tile, tiles, name)
+PLATES = [(0, 4, 'Cou'), (10, 4, 'Ren'), (14, 4, 'Cisqua'), (18, 5, 'Rowen'), (23, 4, 'Kea')]
+
+
+def plate_patches(d):
+    """Text 2 on interior F; redrawn only on interior pixels so the slanted borders stay."""
+    font = tag_font()
+    img = tiles_to_img(d[PLATES_AT:PLATES_AT + 27 * 32], 27, 1)
+    px = [[img.getpixel((x, y))[0] // 17 for x in range(27 * 8)] for y in range(8)]
+    for t0, n, name in PLATES:
+        x0 = t0 * 8
+        for y in range(8):
+            for x in range(x0, x0 + n * 8):
+                if px[y][x] == 2:
+                    px[y][x] = 0xF
+        interior = {(x, y) for y in range(8) for x in range(x0, x0 + n * 8) if px[y][x] == 0xF}
+        x = x0 + 1
+        for c in name:
+            g = font[c]
+            for gy, row in enumerate(g):
+                for gx, on in enumerate(row):
+                    if on and gy < 7:   # descenders may cross row 7 (bottom border): drop those pixels
+                        assert (x + gx, gy) in interior, f'plate {name}: ink outside the plate at {x + gx},{gy}'
+                        px[gy][x + gx] = 2
+            x += len(g[0]) + 1
+    return [(PLATES_AT, pack_obj(px, 27 * 8, 8))]
+
+
 def badge_patches(d):
     import collections, vwf
     font = vwf.Font()

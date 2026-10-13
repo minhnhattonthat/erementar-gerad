@@ -8,7 +8,7 @@ The pair glyphs actually used are rendered into ROM and asm/pairs.asm is assembl
 """
 import argparse, json, struct, subprocess, sys
 from pathlib import Path
-import fit, gfx, romlib, vwf
+import fit, gfx, romlib, screens, vwf
 
 FREE_LO, FREE_HI = 0x640000, 0x800000
 OUT = romlib.ROOT / 'build' / 'eg_en.gba'
@@ -97,8 +97,11 @@ def build(out, marker=False, qa=None, identity=False):
         for s in texts[i][1]:
             struct.pack_into('<I', d, int(s, 16), romlib.BASE + a)
     if not identity:
+        # full-screen pictures (tutorial pages): re-encoded into free space, literal-pool pointers repointed
+        for slot, a in screens.patches(d, lambda b: free.put(b)):
+            struct.pack_into('<I', d, slot, romlib.BASE + a)
         # name tags, skill/attack/item labels (font/labels.tsv): redrawn in place, same size
-        for a, b in gfx.tag_patches(d) + gfx.label_patches(d) + gfx.tab_patches() + gfx.composite_patches(d) + gfx.badge_patches(d) + gfx.status_patches(d):
+        for a, b in gfx.tag_patches(d) + gfx.label_patches(d) + gfx.tab_patches() + gfx.composite_patches(d) + gfx.badge_patches(d) + gfx.status_patches(d) + gfx.plate_patches(d):
             d[a:a + len(b)] = b
     Path(out).parent.mkdir(exist_ok=True)
     Path(out).write_bytes(d)
