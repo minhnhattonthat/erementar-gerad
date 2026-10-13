@@ -13,9 +13,15 @@
   caller positions them.
 - Only these two layout routines call the glyph lookups/upload.
 
-## English plan (engine spike pending)
-- Cell = 2 ASCII bytes (both letters drawn in one 16x16 sprite). Hook lookup: first byte < 0x80 -> page 3 =
-  "pair" glyph; hook upload: compose the pair from a proportional 1bpp font into a RAM buffer, upload that.
-- Variable advance: dialogue x += width(pair) instead of 12; menu entry advance byte = width(pair).
-  Same sprite count per line as Japanese (~20), ~2x the letters.
-- `nn` stays newline: the encoder must never place "nn" letters in one cell (swap in an alternate 'n' code).
+- `080025C0(src, size)` is an OBJ tile cache keyed by the **source address**: glyphs must have distinct,
+  stable source addresses (so no runtime composition into one RAM buffer).
+
+## English (asm/pairs.asm, tools/vwf.py; spike passed 2026-10-14)
+- Cell = 2 ASCII bytes drawn as one 16x16 glyph. Only pairs the script uses are pre-rendered into ROM at build
+  time (PAIR_GFX, 128 B each) with a u16 lookup table PAIR_TAB[(a-0x20)*128+b]; glyph 0 = '?' fallback.
+- Hooks: lookup 0800A86C (first byte < 0x80 -> page 3, idx = code), upload 0800A780 (page 3 -> PAIR_GFX),
+  dialogue advance 0800EA80 and menu advance 0800E5A4 (width(a)+width(b), SJIS cells 12).
+- Dialogue auto-wrap limit raised to (N+1)*12 for every cell (0800EA26): 192 px in the main box.
+- `nn` stays newline: an "nn" letter pair is encoded 6E 7F (0x7F = alternate 'n').
+- Font: font/en11.txt (11 px proportional, from monster-guardians), ink = palette index 1.
+- Non-ASCII characters in English text stay Shift-JIS cells (game font, 12 px), aligned to a cell boundary.

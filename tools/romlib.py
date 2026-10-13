@@ -14,7 +14,7 @@ TEXT_RANGES = [(0x030000, 0x0C0000), (0x1F0000, 0x240000)]
 
 
 def load(path=ROM):
-    return open(path, 'rb').read()
+    return Path(path).read_bytes()
 
 
 def u32(d, a):

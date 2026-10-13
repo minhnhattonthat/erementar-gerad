@@ -5,8 +5,11 @@ Read it before ROM, text or QA work. `$S` below = `.claude/skills/translate-retr
 
 ## Commands (repo root; `python`, never `python3`)
 - Check:   `python -X utf8 tools/check.py` (unittest + lint; the pre-commit hook runs this)
-- Smoke:   `python -X utf8 $S/emu.py <rom> --out work/qa/smoke --frames 1800 --shot-every 150 --sheet --smoke --timeout 120`
-- Build / release: not yet written.
+- Dump:    `python -X utf8 tools/dump.py` (refuses to overwrite; `--force` keeps en/notes)
+- Build:   `python -X utf8 tools/build.py [--marker | --identity] [--qa ID=TEXT]` -> build/eg_en.gba
+- Smoke:   `python -X utf8 $S/emu.py build/eg_en.gba --out work/qa/smoke --frames 1800 --shot-every 150 --sheet --smoke --timeout 120`
+- Intro route (title -> first dialogue -> map menu): `--route-str "1500 -;6 start;120 -;6 a;120 -;6 a;120 -" --frames 3800 --mash 60 --mash-key a`
+- Release: not yet written.
 
 ## Paths
 - JP ROM `rom/2047 - Erementar Gerad (J)(Supplex).gba` (gitignored). Mesen 2.2.1 lives directly in `tools/`

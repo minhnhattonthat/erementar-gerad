@@ -45,7 +45,7 @@ def main():
     if existing and not force:
         sys.exit('script/ has files; refusing to overwrite (use --force to re-dump keeping en/notes)')
     for p in existing:
-        for e in json.load(open(p, encoding='utf-8')):
+        for e in json.loads(p.read_text('utf-8')):
             old[e['id']] = e
     n = 0
     for name, es in files(romlib.load()).items():

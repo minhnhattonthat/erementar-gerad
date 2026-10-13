@@ -17,7 +17,7 @@ class TextTests(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         cls.d = romlib.load()
-        cls.es = [e for p in sorted(romlib.SCRIPT_DIR.glob('*.json')) for e in json.load(open(p, encoding='utf-8'))]
+        cls.es = [e for p in sorted(romlib.SCRIPT_DIR.glob('*.json')) for e in json.loads(p.read_text('utf-8'))]
 
     def test_roundtrip(self):
         for e in self.es:
