@@ -12,7 +12,9 @@ from gfx import bgr555, tag_font
 # name: (palette offset, tileset pointer slot, [map pointer slots])
 SCREENS = {
     'battle_tutorial': (0x09C97C, 0x01BBB8, [0x01BBBC, 0x01BBC0, 0x01BBC4]),
+    'title_logo': (0x09C53C, 0x0181CC, [0x0181D0, 0x0181D4, 0x0181D8]),
 }
+FONT_DIR = 'C:/Windows/Fonts/'
 WHITE, YELLOW, BLACK, PLATE = (255, 255, 255), (255, 255, 148), (0, 0, 0), (246, 246, 246)
 PLATE_TEXT = [(5, 'Cou'), (53, 'Ren'), (101, 'Cisqua'), (149, 'Rowen'), (197, 'Kea')]   # battle bar, rows 6-12
 
@@ -20,23 +22,65 @@ PLATE_TEXT = [(5, 'Cou'), (53, 'Ren'), (101, 'Cisqua'), (149, 'Rowen'), (197, 'K
 # shadow = white tag-font text + black shadow on a gradient (text, x, y); badge = yellow outlined text (text).
 EDITS = {
     'battle_tutorial': {
-        0: [('box', (140, 10, 228, 30), (['A: Next'],)),
+        0: [('plates', (0, 0, 0, 0), ()),
+            ('box', (140, 10, 228, 30), (['A: Next'],)),
             ('box', (96, 46, 184, 78), (['Pick up', 'Select'],)),
             ('box', (22, 98, 86, 114), (['Run'],)),
             ('box', (176, 98, 236, 114), (['Item'],))],
-        1: [('box', (140, 10, 228, 30), (['A: Next'],)),
+        1: [('plates', (0, 0, 0, 0), ()),
+            ('box', (140, 10, 228, 30), (['A: Next'],)),
             ('box', (22, 12, 108, 66), (['Combine them', 'to create all', 'sorts of skills'],)),
             ('box', (36, 86, 108, 100), (['button:'],)),
             ('box', (22, 102, 108, 118), (['pick a target'],)),
             ('shadow', (120, 86, 146, 96), ('Attack', 122, 88)),
             ('shadow', (130, 96, 161, 108), ('Speed', 134, 98)),
             ('badge', (194, 86, 232, 104), ('Single',))],
-        2: [('box', (22, 12, 108, 66), (['Choose up to', '5 skills', 'per turn'],)),
+        2: [('plates', (0, 0, 0, 0), ()),
+            ('box', (22, 12, 108, 66), (['Choose up to', '5 skills', 'per turn'],)),
             ('box', (22, 84, 108, 118), (['Press OK', 'to finish'],)),
             ('box', (140, 10, 228, 30), (['A: Fight!'],)),
             ('box', (140, 44, 228, 62), (['B: Once more'],))],
     },
+    'title_logo': {
+        # katakana エレメンタル / ジェレイド -> big silver lettering (the small romaji line under it stays)
+        1: [('logo', (4, 33, 112, 58), ('EREMENTAR', 'impact.ttf', 22)),
+            ('logo', (146, 33, 236, 58), ('GERAD', 'impact.ttf', 22))],
+        # 封印されし謳 (Fuuin sareshi Uta) inside its swoosh
+        2: [('logo', (54, 75, 166, 106), ('The Sealed Song', 'georgiab.ttf', 13, 'blue'))],
+    },
 }
+GRADIENTS = {
+    'silver': ([(255, 255, 255), (246, 246, 246), (238, 238, 238), (230, 238, 238), (213, 213, 222), (197, 205, 205),
+                (164, 164, 164), (131, 131, 131)], BLACK),          # palette-2 greys, top to bottom
+    'blue': ([(255, 255, 255), (238, 246, 255), (230, 230, 246), (205, 213, 238), (189, 197, 230), (172, 180, 213),
+              (156, 164, 205)], (8, 16, 24)),                        # palette-3 blues
+}
+def draw_logo_text(img, rect, text, font_file, size, style='silver', transparent=None):
+    """Erase rect (to each tile's transparent colour), draw text centred: vertical gradient + 1 px outline."""
+    from PIL import ImageDraw, ImageFont
+    x0, y0, x1, y1 = rect
+    grad, edge = GRADIENTS[style]
+    for y in range(y0, y1):
+        for x in range(x0, x1):
+            img.putpixel((x, y), transparent(x, y) if transparent else img.getpixel((0, 0)))
+    f = ImageFont.truetype(FONT_DIR + font_file, size, layout_engine=ImageFont.Layout.BASIC)
+    mask = Image.new('L', (x1 - x0, y1 - y0), 0)
+    dr = ImageDraw.Draw(mask)
+    l, t, r, b = dr.textbbox((0, 0), text, font=f)
+    w, h = r - l, b - t
+    if w > x1 - x0 - 2 or h > y1 - y0 - 2:
+        raise ValueError(f'{text!r} {w}x{h} does not fit {x1 - x0}x{y1 - y0}')
+    ox, oy = (x1 - x0 - w) // 2 - l, (y1 - y0 - h) // 2 - t
+    dr.text((ox, oy), text, fill=255, font=f)
+    ink = {(x, y) for y in range(mask.height) for x in range(mask.width) if mask.getpixel((x, y)) >= 128}
+    top, bot = min(y for _, y in ink), max(y for _, y in ink)
+    for (x, y) in ink:
+        for dx in (-1, 0, 1):
+            for dy in (-1, 0, 1):
+                if (x + dx, y + dy) not in ink and 0 <= x + dx < mask.width and 0 <= y + dy < mask.height:
+                    img.putpixel((x0 + x + dx, y0 + y + dy), edge)
+    for (x, y) in ink:
+        img.putpixel((x0 + x, y0 + y), grad[(y - top) * len(grad) // (bot - top + 1)])
 
 
 def ptr(d, slot):
@@ -90,11 +134,13 @@ def draw_glyphs(img, text, x, y, color, font, mask=None):
         x += font.w[ord(c)]
 
 
-def edit_page(img, edits):
+def edit_page(img, edits, transparent=None):
+    """transparent(x, y) -> colour of palette index 0 for the tile at x, y (erase target for 'logo')."""
     font, tf = vwf.Font(), tag_font()
     grey = lambda c: c[0] == c[1] == c[2]
     orig = img.copy()
-    for t0 in PLATE_TEXT:          # battle bar names (only pixels that were the bar's greys, so boxes stay)
+    plates = PLATE_TEXT if any(k == 'plates' for k, *_ in edits) else []
+    for t0 in plates:          # battle bar names (only pixels that were the bar's greys, so boxes stay)
         x0, name = t0
         for y in range(6, 13):
             for x in range(x0, x0 + 30):
@@ -122,6 +168,10 @@ def edit_page(img, edits):
                 if font.text_width(line) > x1 - x0:
                     raise ValueError(f'{line!r} wider than its box ({x1 - x0} px)')
                 draw_glyphs(img, line, x0 + 1, top + 14 * i, WHITE, font)
+        elif kind == 'plates':
+            pass   # handled above
+        elif kind == 'logo':
+            draw_logo_text(img, (x0, y0, x1, y1), *args, transparent=transparent)
         elif kind in ('shadow', 'badge'):
             ink_colors = (WHITE, BLACK, PLATE) if kind == 'shadow' else (YELLOW, BLACK)
             for y in range(y0, y1):
@@ -163,7 +213,8 @@ def encode(d, name):
     out_tiles, seen, new_maps = [bytes(32)], {bytes(32): 0}, []
     for page, m in enumerate(maps):
         idx, pals = page_indices(tiles, m)
-        img = edit_page(to_img(idx, pals, pal), EDITS.get(name, {}).get(page, []))
+        img = edit_page(to_img(idx, pals, pal), EDITS.get(name, {}).get(page, []),
+                        lambda x, y, pals=pals: pal[pals[y // 8][x // 8] * 16])
         nm = bytearray(m)
         for ty in range(20):
             for tx in range(30):
@@ -180,7 +231,7 @@ def encode(d, name):
                             row.append(colors.index(c))
                         elif c == PLATE:   # bar name running under a box: keep the box's own pixel
                             row.append(o)
-                        elif min(sum(abs(a - b) for a, b in zip(c, k)) for k in colors) <= 40:
+                        elif min(sum(abs(a - b) for a, b in zip(c, k)) for k in colors) <= 50:
                             # tiles under the same art use slightly different whites (255 vs 246): nearest
                             row.append(min(range(16), key=lambda i: sum(abs(a - b) for a, b in zip(c, colors[i]))))
                         else:
@@ -222,5 +273,6 @@ if __name__ == '__main__':
                 idx, pals = page_indices(tiles, m)
                 img = to_img(idx, pals, pal)
                 img.save(out / f'{name}_{i}.png')
-                edit_page(img, EDITS.get(name, {}).get(i, [])).save(out / f'{name}_{i}_en.png')
+                edit_page(img, EDITS.get(name, {}).get(i, []),
+                          lambda x, y, pals=pals: pal[pals[y // 8][x // 8] * 16]).save(out / f'{name}_{i}_en.png')
                 print(out / f'{name}_{i}_en.png')
