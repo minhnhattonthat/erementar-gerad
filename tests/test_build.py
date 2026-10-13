@@ -6,7 +6,7 @@ import build, romlib, vwf
 
 # Bytes the hooks in asm/pairs.asm may change.
 HOOKS = [(0x00A780, 0x00A788), (0x00A86C, 0x00A874), (0x00E5A4, 0x00E5B0), (0x00EA26, 0x00EA28),
-         (0x00EA80, 0x00EA8A)]
+         (0x00EA80, 0x00EA8A), (0x00EA34, 0x00EA3C), (0x02879C, 0x02879E)]
 
 
 @unittest.skipUnless(romlib.ROM.exists(), 'needs rom/')

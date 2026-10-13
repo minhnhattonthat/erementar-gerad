@@ -9,6 +9,8 @@
 .open BUILD_ROM, 0x08000000
 .thumb
 
+WRAP_EXTRA equ 20
+
 ; ---- glyph lookup 0800A86C(code, u16 *idx, u8 *page): ASCII first byte -> page 3, idx = code
 .org 0x0800A86C
   ldr r3,=lookup_hook|1
@@ -28,10 +30,18 @@
   .pool
   nop
 
-; ---- dialogue auto-wrap limit: every cell gets the (width+1)*12 px limit that 81xx punctuation had
-;      (dialogue: 15 -> 16 cells = 192 px). Our build line-breaks itself; this is only the safety net.
+; ---- dialogue auto-wrap limit: every cell gets the (width+1)*12 px limit that 81xx punctuation had, plus
+;      WRAP_EXTRA px (main box: 16 cells + 20 = 212 px). Our build line-breaks itself; this is the safety net.
 .org 0x0800EA26
   b 0x0800EA32
+.org 0x0800EA34
+  ldr r0,=wrap_limit|1
+  bx r0
+  .pool
+
+; ---- main dialogue box text origin x: 30 -> 14 px (0x0802879C movs r0,#0xF0 / lsls r0,#5)
+.org 0x0802879C
+  mov r0,#0x70
 
 ; ---- menu layout 0800E4FC: entry advance byte (was 12)
 .org 0x0800E5A4
@@ -118,6 +128,17 @@ dlg_advance:                   ; replaced 0800EA80-EA91: sb = (sb+1)&0xFF / sl +
   add r5,#2
   ldr r0,=0x0800EA92|1         ; loop head reloads r0
   bx r0
+
+wrap_limit:                    ; replaced 0800EA34-EA3B: r0 = r1*12 px (8.8) / r7 = r2
+  lsl r0,r1,#1
+  add r0,r0,r1
+  lsl r0,r0,#10
+  mov r3,#WRAP_EXTRA
+  lsl r3,r3,#8
+  add r0,r0,r3
+  add r7,r2,#0
+  ldr r3,=0x0800EA3C|1         ; r3 is not live here
+  bx r3
 
 menu_advance:                  ; replaced 0800E5A4-E5B1: str r0,[r4] / strb 12,[r4,#4] / r4 += 8 / r7++
   str r0,[r4]
