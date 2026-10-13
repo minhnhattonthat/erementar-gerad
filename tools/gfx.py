@@ -226,6 +226,113 @@ def label_patches(d):
     return out
 
 
+POOL_AT, POOL_N = 0x19C83C, 116    # 8x8 UI tile pool; the game assembles header sprites in VRAM from these tiles
+SPEED = [[13, 29, 37], [14, 30, 38], [15, 31, 39], [17, 33, 41], [18, 34, 42], [19, 35, 43]]  # 3 identical copies
+# (name, 4x4 layout of pool tiles (lists = identical copies, None = blank), [(text, x, y)]) - layouts from VRAM dumps
+COMPOSITES = [
+    ('item info header', [[20], [21], None, None, [24], [25], [26], None,
+                          None, SPEED[0], SPEED[1], SPEED[2], None, SPEED[3], SPEED[4], SPEED[5]],
+     [('Heal', 1, 8), ('Speed', 10, 18)]),
+    ('combo info header', [[4], [5], [6], None, [8], [9], [10], None,
+                           None, SPEED[0], SPEED[1], SPEED[2], None, SPEED[3], SPEED[4], SPEED[5]],
+     [('Attack', 0, 8), ('Speed', 10, 18)]),
+]
+TEXT_FILL, TEXT_SHADOW = 2, 3
+
+
+def tag_text(px, font, text, x, y, fill, shadow):
+    """Draw tag-font text into a pixel grid with a shadow right/below."""
+    ink = set()
+    for c in text:
+        if c == ' ':
+            x += 2
+            continue
+        for gy, row in enumerate(font[c]):
+            for gx, on in enumerate(row):
+                if on:
+                    ink.add((x + gx, y + gy))
+        x += len(font[c][0]) + 1
+    for (ix, iy) in ink:
+        for (sx, sy) in ((ix + 1, iy), (ix, iy + 1), (ix + 1, iy + 1)):
+            if (sx, sy) not in ink and 0 <= sy < len(px) and 0 <= sx < len(px[0]):
+                px[sy][sx] = shadow
+    for (ix, iy) in ink:
+        px[iy][ix] = fill
+
+
+def composite_patches(d):
+    """[(offset, 32 bytes)] for pool tiles, from English redraws of each composite header sprite."""
+    font = tag_font()
+    out = {}
+    for name, layout, words in COMPOSITES:
+        px = [[0] * 32 for _ in range(32)]
+        for k, src in enumerate(layout):
+            if src:
+                img = tiles_to_img(d[POOL_AT + 32 * src[0]:POOL_AT + 32 * src[0] + 32], 1, 1)
+                for y in range(8):
+                    for x in range(8):
+                        px[(k // 4) * 8 + y][(k % 4) * 8 + x] = img.getpixel((x, y))[0] // 17
+        px = [[0 if v in (TEXT_FILL, TEXT_SHADOW) else v for v in row] for row in px]
+        for text, x, y in words:
+            tag_text(px, font, text, x, y, TEXT_FILL, TEXT_SHADOW)
+        for k, src in enumerate(layout):
+            tile = pack_obj([row[(k % 4) * 8:(k % 4) * 8 + 8] for row in px[(k // 4) * 8:(k // 4) * 8 + 8]], 8, 8)
+            if src is None:
+                if any(tile):
+                    raise ValueError(f'{name}: tile {k} needs ink but the game draws it blank')
+                continue
+            for p in src:
+                a = POOL_AT + 32 * p
+                if a in out and out[a] != tile:
+                    raise ValueError(f'{name}: pool tile {p} shared with a different drawing')
+                out[a] = tile
+    return sorted(out.items())
+
+
+BADGES = [(0x19C23C, 'All'), (0x19C33C, 'Single')]   # 全体 / 単体: 32x16 OBJ, gradient badge, text fill E + outline 1
+
+
+STATUS_LABELS = [(0x19C43C, 'React'), (0x19C53C, 'Ailment'), (0x19C63C, 'Downed'), (0x19C73C, 'Fallen')]
+# リアクト / 状態異常 / 行動不能 / 戦闘不能: 32x16 OBJ, text fill 2 + shadow (1 or 3), rows 5-13
+
+
+def status_patches(d):
+    font = tag_font()
+    out = []
+    for a, text in STATUS_LABELS:
+        img = tiles_to_img(d[a:a + 256], 4, 2)
+        vals = {img.getpixel((x, y))[0] // 17 for x in range(32) for y in range(16)} - {0, TEXT_FILL}
+        assert len(vals) == 1, (hex(a), vals)
+        px = [[0] * 32 for _ in range(16)]
+        tw = tag_width(font, text) + 1
+        tag_text(px, font, text, (32 - tw) // 2, 6, TEXT_FILL, vals.pop())
+        out.append((a, pack_obj(px, 32, 16)))
+    return out
+
+
+def badge_patches(d):
+    import collections, vwf
+    font = vwf.Font()
+    out = []
+    for a, text in BADGES:
+        img = tiles_to_img(d[a:a + 256], 4, 2)
+        px = [[img.getpixel((x, y))[0] // 17 for x in range(32)] for y in range(16)]
+        for y, row in enumerate(px):
+            bg = collections.Counter(v for v in row if v not in (0, 1, 0xE)).most_common(1)
+            nz = [x for x, v in enumerate(row) if v]
+            if bg and nz:
+                for x in range(nz[0], nz[-1] + 1):
+                    if row[x] in (1, 0xE):
+                        row[x] = bg[0][0]
+        txt = outlined(font, text, 32, 16, 2, 28, y0=2, tight=True, fill=0xE, edge=1)
+        for y in range(16):
+            for x in range(32):
+                if txt[y][x]:
+                    px[y][x] = txt[y][x]
+        out.append((a, pack_obj(px, 32, 16)))
+    return out
+
+
 def tiles_to_img(data, w_tiles, h_tiles, pal=None):
     """Row-major 4bpp tiles -> PIL image (palette: list of 16 RGB tuples, default grey ramp)."""
     pal = pal or [(i * 17, i * 17, i * 17) for i in range(16)]
