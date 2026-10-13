@@ -466,7 +466,7 @@
  {
   "id": "203C20",
   "jp": "港と街の入り口へ\n行ってみましょう。",
-  "en": "Let's try the port and the town entrance.",
+  "en": "Let's try the harbor and the town entrance.",
   "slots": [
    "5ED37C"
   ]
@@ -618,7 +618,7 @@
  {
   "id": "2038B8",
   "jp": "そういえば、闘技場から\nいなくなったファイターって\nこの港から出たかもしれない？",
-  "en": "Come to think of it, maybe that fighter who disappeared from the arena left from this port?",
+  "en": "Come to think of it, maybe that fighter who disappeared from the arena left from this harbor?",
   "slots": [
    "5ED7D8"
   ]
@@ -682,7 +682,7 @@
  {
   "id": "203718",
   "jp": "よっし、港からそいつが\n出たかどうかしらべよう！",
-  "en": "All right, let's find out if the guy left from the port!",
+  "en": "All right, let's find out if the guy left from the harbor!",
   "slots": [
    "5ED91C"
   ]
@@ -770,7 +770,7 @@
  {
   "id": "203560",
   "jp": "あのさ、この港から男の人が\n船に乗って出て行かなかった？",
-  "en": "So, did a man get on a ship and leave from this port?",
+  "en": "So, did a man get on a ship and leave from this harbor?",
   "slots": [
    "5EDAA8"
   ]
@@ -922,7 +922,7 @@
  {
   "id": "20322C",
   "jp": "じーさん海に向かって…\nつりでもやってんのかな？",
-  "en": null,
+  "en": "Gramps is staring out at the sea... Is he fishing or somethin'?",
   "slots": [
    "5EDEE0"
   ]
@@ -930,7 +930,7 @@
  {
   "id": "2031E8",
   "jp": "この街にいるせいで、\nレンやキーアを危険な目に\nあわせちゃうんなら",
-  "en": null,
+  "en": "If us bein' in this town is gonna put Ren and Kea in danger,",
   "slots": [
    "5EDFDC"
   ]
@@ -938,7 +938,7 @@
  {
   "id": "2031B8",
   "jp": "この街を出て、ほかへ\n行った方がいいのかな。",
-  "en": null,
+  "en": "maybe we oughta leave and go someplace else.",
   "slots": [
    "5EE000"
   ]
@@ -946,7 +946,7 @@
  {
   "id": "20316C",
   "jp": "クーさんにしては後ろ向きな\n意見ですね。気持ちは\nわからなくもないですが…",
-  "en": null,
+  "en": "That's rather gloomy, coming from you, Cou-san. Not that I can't understand how you feel...",
   "slots": [
    "5EE024"
   ]
@@ -954,7 +954,7 @@
  {
   "id": "203118",
   "jp": "つかまっているエディルレイド\nたちを思うと、このままでは\nこの街から出られません。",
-  "en": null,
+  "en": "But when I think of the captured Edel Raids, we can't leave this town with things as they are.",
   "slots": [
    "5EE048"
   ]
@@ -962,7 +962,7 @@
  {
   "id": "20310C",
   "jp": "そうだな。",
-  "en": null,
+  "en": "Yeah, you're right.",
   "slots": [
    "5EE06C"
   ]
@@ -970,7 +970,7 @@
  {
   "id": "2030E0",
   "jp": "この街から出るのは\nまだ先になるだろうな…",
-  "en": null,
+  "en": "Guess we won't be leavin' this town for a while yet...",
   "slots": [
    "5EE144"
   ]
@@ -978,7 +978,7 @@
  {
   "id": "2030B4",
   "jp": "ここから人が出てっても\nわかんないよな。",
-  "en": null,
+  "en": "Even if people left from here, nobody'd know, huh.",
   "slots": [
    "5EE240"
   ]
@@ -986,7 +986,7 @@
  {
   "id": "203080",
   "jp": "街への出入りを誰かが\n見てれば、話はベツだけどね…",
-  "en": null,
+  "en": "Unless someone was watching who came in and out of town, that is...",
   "slots": [
    "5EE264"
   ]
@@ -994,7 +994,7 @@
  {
   "id": "203070",
   "jp": "よわったなぁ…",
-  "en": null,
+  "en": "Man, I'm stumped...",
   "slots": [
    "5EE288"
   ]
@@ -1002,7 +1002,7 @@
  {
   "id": "203054",
   "jp": "どこ行っちゃったんだろ。",
-  "en": null,
+  "en": "Where'd they go?",
   "slots": [
    "5EE2AC"
   ]
@@ -1010,7 +1010,7 @@
  {
   "id": "20303C",
   "jp": "どこ行ったんだろうな…",
-  "en": null,
+  "en": "Where'd they go, I wonder...",
   "slots": [
    "5EE384"
   ]
@@ -1018,7 +1018,7 @@
  {
   "id": "203028",
   "jp": "お昼はまだだよ。",
-  "en": null,
+  "en": "Lunch isn't ready yet.",
   "slots": [
    "5EE4A4"
   ]
@@ -1026,7 +1026,7 @@
  {
   "id": "203008",
   "jp": "あわてんぼうだね。\nフフフフ。",
-  "en": null,
+  "en": "My, you're an impatient one. Hee hee hee hee.",
   "slots": [
    "5EE4C8"
   ]
@@ -1034,7 +1034,7 @@
  {
   "id": "202FE4",
   "jp": "およ。\nおばーちゃん、何してんだ？",
-  "en": null,
+  "en": "Oh? Granny, whatcha doin'?",
   "slots": [
    "5EE630"
   ]
@@ -1042,7 +1042,7 @@
  {
   "id": "202FA0",
   "jp": "おやおや、お早いお帰りだね。\nお昼ごはんはまだできちゃ\nいないよ。",
-  "en": null,
+  "en": "Well, well, you're back early. Lunch isn't ready yet.",
   "slots": [
    "5EE654"
   ]
@@ -1050,7 +1050,7 @@
  {
   "id": "202F74",
   "jp": "おばーちゃん、今日のお昼の\nメニューは何？",
-  "en": null,
+  "en": "Granny, what's on the lunch menu today?",
   "slots": [
    "5EE678"
   ]
@@ -1058,7 +1058,7 @@
  {
   "id": "202F54",
   "jp": "フフフ。\nそれはお楽しみだよ。",
-  "en": null,
+  "en": "Hee hee hee. You'll just have to wait and see.",
   "slots": [
    "5EE69C"
   ]
@@ -1066,7 +1066,7 @@
  {
   "id": "202F14",
   "jp": "ヒントはおじーさんが\n海からとってきてくれる\nもんだけどね。",
-  "en": null,
+  "en": "Here's a hint, though: it's something the old man brings me from the sea.",
   "slots": [
    "5EE6C0"
   ]
@@ -1074,7 +1074,7 @@
  {
   "id": "202EF8",
   "jp": "海？　海って…\nサカナ？",
-  "en": null,
+  "en": "The sea? From the sea... fish?",
   "slots": [
    "5EE6E4"
   ]
@@ -1082,7 +1082,7 @@
  {
   "id": "202EDC",
   "jp": "フフフフ。\nどうだろうね。",
-  "en": null,
+  "en": "Hee hee hee hee. Who knows?",
   "slots": [
    "5EE708"
   ]
@@ -1090,7 +1090,7 @@
  {
   "id": "207540",
   "jp": "おばーちゃん、\nごはんごはん～。",
-  "en": null,
+  "en": "Granny, food, food~!",
   "slots": [
    "5EE870"
   ]
@@ -1098,7 +1098,7 @@
  {
   "id": "207504",
   "jp": "はいはい。\nさっき海でとれた\nサカナのカルパッチョだよ。",
-  "en": null,
+  "en": "Yes, yes. Here's carpaccio made from fish caught in the sea just a while ago.",
   "slots": [
    "5EE894"
   ]
@@ -1106,7 +1106,7 @@
  {
   "id": "2074C0",
   "jp": "こっちはサシミにしたり\nほかのとあえてるから\n好きにつまんどくれ。",
-  "en": null,
+  "en": "And these I made into sashimi or tossed with other things, so pick at whatever you like.",
   "slots": [
    "5EE8B8"
   ]
@@ -1114,7 +1114,7 @@
  {
   "id": "207480",
   "jp": "きゃう～。\nこのマカロニとおサカナの\nマリネ、おいしいぃ～。",
-  "en": null,
+  "en": "Kyaa~! This macaroni and marinated fish is soooo good~!",
   "slots": [
    "5EE8DC"
   ]
@@ -1122,7 +1122,7 @@
  {
   "id": "207450",
   "jp": "そんだけ食べてもらえると\n気持ちイイわねぇ。",
-  "en": null,
+  "en": "It sure feels nice to see you eat that much.",
   "slots": [
    "5EE900"
   ]
@@ -1130,7 +1130,7 @@
  {
   "id": "207410",
   "jp": "それじゃ、\nアタシは仕事があるから\n何かあったら声かけとくれ。",
-  "en": null,
+  "en": "Well then, I've got work to do, so holler if you need anything.",
   "slots": [
    "5EE924"
   ]
@@ -1138,7 +1138,7 @@
  {
   "id": "2073DC",
   "jp": "ごていねいに\nありがとうございます\nおかみさん。",
-  "en": null,
+  "en": "Thank you very kindly, landlady.",
   "slots": [
    "5EE948"
   ]
@@ -1146,7 +1146,7 @@
  {
   "id": "2073D0",
   "jp": "…って…",
-  "en": null,
+  "en": "...Wait...",
   "slots": [
    "5EE96C"
   ]
@@ -1154,7 +1154,7 @@
  {
   "id": "207388",
   "jp": "キーア！　それは私が\nねらっていたおサシミです！！\nよこしなさいッ…",
-  "en": null,
+  "en": "Kea! That's the sashimi I had my eye on!! Hand it over...!",
   "slots": [
    "5EE990"
   ]
@@ -1162,7 +1162,7 @@
  {
   "id": "20736C",
   "jp": "だーめ。\nあたしのもの～。",
-  "en": null,
+  "en": "Nope. It's mine~",
   "slots": [
    "5EE9B4"
   ]
@@ -1170,7 +1170,7 @@
  {
   "id": "207360",
   "jp": "キーッ！",
-  "en": null,
+  "en": "Grrrr!",
   "slots": [
    "5EE9D8"
   ]
@@ -1178,7 +1178,7 @@
  {
   "id": "207328",
   "jp": "先輩もキーアも\nもう少し、しずかに\n食べて下さいね。",
-  "en": null,
+  "en": "Senpai, Kea, please eat a little more quietly.",
   "slots": [
    "5EE9FC"
   ]
@@ -1186,7 +1186,7 @@
  {
   "id": "2072F4",
   "jp": "それより、いろいろ集めた情報を\nまとめませんか。",
-  "en": null,
+  "en": "More importantly, shall we go over all the info we've gathered?",
   "slots": [
    "5EEA20"
   ]
@@ -1194,7 +1194,7 @@
  {
   "id": "2072E0",
   "jp": "ってきいてない…",
-  "en": null,
+  "en": "...And they're not listening...",
   "slots": [
    "5EEA44"
   ]
@@ -1202,7 +1202,7 @@
  {
   "id": "2072B4",
   "jp": "ひゃいじょぶへふ。\n（だいじょうぶです）",
-  "en": null,
+  "en": "Ish'h fhine. (It's fine.)",
   "slots": [
    "5EEA68"
   ]
@@ -1210,7 +1210,7 @@
  {
   "id": "207274",
   "jp": "おひゃひゃひはひーへまふほへ\n（おはなしは　きいてますので）",
-  "en": null,
+  "en": "Ah'm lishnin' 'o 'oo. (I'm listening to you.)",
   "slots": [
    "5EEA8C"
   ]
@@ -1218,7 +1218,7 @@
  {
   "id": "207244",
   "jp": "ひゅひゅへへふははひ。\n（すすめてください）",
-  "en": null,
+  "en": "Pheesh gho on. (Please go on.)",
   "slots": [
    "5EEAB0"
   ]
@@ -1226,7 +1226,7 @@
  {
   "id": "207218",
   "jp": "食べるかしゃべるか\nどっちかにして下さい。",
-  "en": null,
+  "en": "Please either eat or talk, one or the other.",
   "slots": [
    "5EEAD4"
   ]
@@ -1234,7 +1234,7 @@
  {
   "id": "2071F8",
   "jp": "食べる方をえらんだんですね…",
-  "en": null,
+  "en": "So she chose eating...",
   "slots": [
    "5EEB1C"
   ]
@@ -1242,7 +1242,7 @@
  {
   "id": "2071B0",
   "jp": "えーっと、何からまとめるのか\nクーとレンちゃんも\n手伝ってくれるかな。",
-  "en": null,
+  "en": "Um, Cou, Ren-chan, could you help me figure out what to go over first?",
   "slots": [
    "5EEB40"
   ]
@@ -1250,7 +1250,7 @@
  {
   "id": "207188",
   "jp": "じゃあ、\nほかのこともまとめようか。",
-  "en": null,
+  "en": "Okay, let's go over the other things too.",
   "slots": [
    "5EEB64"
   ]
@@ -1258,7 +1258,7 @@
  {
   "id": "207140",
   "jp": "とりあえず、そんな感じかな。\n午後からもいろいろ\nしらべてまわろう。",
-  "en": null,
+  "en": "I guess that about covers it. Let's keep looking into things this afternoon too.",
   "slots": [
    "5EEB88"
   ]
@@ -1266,7 +1266,7 @@
  {
   "id": "207130",
   "jp": "りょーかいッ！",
-  "en": null,
+  "en": "Roger that!",
   "slots": [
    "5EEBAC"
   ]
@@ -1274,7 +1274,7 @@
  {
   "id": "207120",
   "jp": "黒集団のこと",
-  "en": null,
+  "en": "The Black Group",
   "slots": [
    "5EEBD0"
   ]
@@ -1282,7 +1282,7 @@
  {
   "id": "207110",
   "jp": "行方不明の二人",
-  "en": null,
+  "en": "The missing pair",
   "slots": [
    "5EEBF4"
   ]
@@ -1290,7 +1290,7 @@
  {
   "id": "207100",
   "jp": "エディルレイド",
-  "en": null,
+  "en": "Edel Raids",
   "slots": [
    "5EEC18"
   ]
@@ -1298,7 +1298,7 @@
  {
   "id": "2070EC",
   "jp": "黒集団のことだね。",
-  "en": null,
+  "en": "So, the Black Group.",
   "slots": [
    "5EEC3C"
   ]
@@ -1306,7 +1306,7 @@
  {
   "id": "2070B0",
   "jp": "アークエイルも、彼らのことは\n知らなかったみたいなんだ。",
-  "en": null,
+  "en": "Seems even Arc Aile didn't know about them.",
   "slots": [
    "5EEC60"
   ]
@@ -1314,7 +1314,7 @@
  {
   "id": "207060",
   "jp": "ただ、プレジャーと\nエディルレイドが、おそわれた\nウワサは知ってたみたいだね。",
-  "en": null,
+  "en": "But they did seem to know the rumors about Pledgers and Edel Raids being attacked.",
   "slots": [
    "5EEC84"
   ]
@@ -1322,7 +1322,7 @@
  {
   "id": "20701C",
   "jp": "黒集団がプレジャーと\nエディルレイドをねらう理由は\n何なんだろう…",
-  "en": null,
+  "en": "Why would the Black Group be after Pledgers and Edel Raids...",
   "slots": [
    "5EECA8"
   ]
@@ -1330,7 +1330,7 @@
  {
   "id": "20700C",
   "jp": "不幸になるから",
-  "en": null,
+  "en": "Misfortune",
   "slots": [
    "5EECCC"
   ]
@@ -1338,7 +1338,7 @@
  {
   "id": "206FF8",
   "jp": "集団に入れるため",
-  "en": null,
+  "en": "Recruitment",
   "slots": [
    "5EECF0"
   ]
@@ -1346,7 +1346,7 @@
  {
   "id": "206FB8",
   "jp": "『人とエディルレイドに\n　共に生きていられる\n　明日はない』",
-  "en": null,
+  "en": "\"There is no tomorrow in which people and Edel Raids can live together.\"",
   "slots": [
    "5EED38"
   ]
@@ -1354,7 +1354,7 @@
  {
   "id": "206FA0",
   "jp": "とか言ってた気がする。",
-  "en": null,
+  "en": "...I think they said somethin' like that.",
   "slots": [
    "5EED5C"
   ]
@@ -1362,7 +1362,7 @@
  {
   "id": "206F50",
   "jp": "プレジャーとエディルレイドが\nいっしょにいると、不幸になる\nってイミなのかな？",
-  "en": null,
+  "en": "Does that mean Pledgers and Edel Raids end up unhappy if they're together?",
   "slots": [
    "5EED80"
   ]
@@ -1370,7 +1370,7 @@
  {
   "id": "206F14",
   "jp": "…それは、\nエディルレイドを知ってから、\nよくきく話だね。",
-  "en": null,
+  "en": "...That's something you hear a lot once you get to know about Edel Raids.",
   "slots": [
    "5EEDA4"
   ]
@@ -1378,7 +1378,7 @@
  {
   "id": "206ED4",
   "jp": "人にくらべて、エディルレイドは\nあまりにも長く生きてしまう。",
-  "en": null,
+  "en": "Compared to humans, Edel Raids live far, far too long.",
   "slots": [
    "5EEDC8"
   ]
@@ -1386,7 +1386,7 @@
  {
   "id": "206E84",
   "jp": "人とエディルレイドでは\n年をとるはやさがちがって\nエディルレイドが後に残され…",
-  "en": null,
+  "en": "Humans and Edel Raids age at different speeds, so the Edel Raid gets left behind...",
   "slots": [
    "5EEDEC"
   ]
@@ -1394,7 +1394,7 @@
  {
   "id": "206E38",
   "jp": "でも、残されたかなしみを\nのりこえられるだけの\n時間も、想い出もあるわ。",
-  "en": null,
+  "en": "But there's enough time, and enough memories, to get over the sadness of being left behind.",
   "slots": [
    "5EEE10"
   ]
@@ -1402,7 +1402,7 @@
  {
   "id": "206E24",
   "jp": "そうなんだろうね…",
-  "en": null,
+  "en": "I suppose so...",
   "slots": [
    "5EEE58"
   ]
@@ -1410,7 +1410,7 @@
  {
   "id": "206DD4",
   "jp": "関係ない人間が、プレジャーと\nエディルレイドを引きはなして\nいいはずがない。",
-  "en": null,
+  "en": "People who have nothing to do with them have no right to tear Pledgers and Edel Raids apart.",
   "slots": [
    "5EEE7C"
   ]
@@ -1418,7 +1418,7 @@
  {
   "id": "206DA0",
   "jp": "黒集団については、もっと\nいろいろしらべてみよう。",
-  "en": null,
+  "en": "Let's look into the Black Group some more.",
   "slots": [
    "5EEEA0",
    "5EF050"
@@ -1427,7 +1427,7 @@
  {
   "id": "206D84",
   "jp": "ヴォルクスのこともあるし…",
-  "en": null,
+  "en": "There's Volks to think about, too...",
   "slots": [
    "5EEEC4"
   ]
@@ -1435,7 +1435,7 @@
  {
   "id": "206D40",
   "jp": "プレジャーをつかまえて\n謳であやつって\n集団に入れるため…とか？",
-  "en": null,
+  "en": "To catch Pledgers, control 'em with a song, and make 'em join the group... maybe?",
   "slots": [
    "5EEEE8"
   ]
@@ -1443,7 +1443,7 @@
  {
   "id": "206D24",
   "jp": "プレジャーだけを…かい？",
-  "en": null,
+  "en": "Only Pledgers...?",
   "slots": [
    "5EEF0C"
   ]
@@ -1451,7 +1451,7 @@
  {
   "id": "206CD8",
   "jp": "黒集団の人数が少なくてさ、\nメンバーを集めるのに\nてっとりばやそうじゃん。",
-  "en": null,
+  "en": "Like, the Black Group's short on people, so it'd be a quick way to get members, right?",
   "slots": [
    "5EEF30"
   ]
@@ -1459,7 +1459,7 @@
  {
   "id": "206C7C",
   "jp": "…てっとりばやいかはともかく\n集団に入れるだけなら、街の人を\nねらえばいいんじゃないかな。",
-  "en": null,
+  "en": "...Quick or not, if they just wanted members, couldn't they go after the townspeople?",
   "slots": [
    "5EEF54"
   ]
@@ -1467,7 +1467,7 @@
  {
   "id": "206C74",
   "jp": "んー",
-  "en": null,
+  "en": "Hmm...",
   "slots": [
    "5EEF78"
   ]
@@ -1475,7 +1475,7 @@
  {
   "id": "206C38",
   "jp": "じゃあ、あやつる謳は\nプレジャーにしか\n使えない、とか？",
-  "en": null,
+  "en": "Then maybe the controlling song only works on Pledgers?",
   "slots": [
    "5EEF9C"
   ]
@@ -1483,7 +1483,7 @@
  {
   "id": "206BF4",
   "jp": "プレジャーじゃない人間と\nエディルレイドには\nきかないってこと？",
-  "en": null,
+  "en": "You mean it doesn't work on people who aren't Pledgers, or on Edel Raids?",
   "slots": [
    "5EEFC0"
   ]
@@ -1491,7 +1491,7 @@
  {
   "id": "206BD8",
   "jp": "…ちょっと考えにくいな…",
-  "en": null,
+  "en": "...That's hard to imagine...",
   "slots": [
    "5EEFE4"
   ]
@@ -1499,7 +1499,7 @@
  {
   "id": "206B90",
   "jp": "誰にでもきく謳だったとして\nプレジャーだけねらう\n理由もわからない。",
-  "en": null,
+  "en": "And even if the song worked on anyone, we still don't know why they'd target only Pledgers.",
   "slots": [
    "5EF008"
   ]
@@ -1507,7 +1507,7 @@
  {
   "id": "206B38",
   "jp": "プレジャーをあやつったからって\nエディルレイドとリアクト\nできないんじゃ、イミがない…",
-  "en": null,
+  "en": "Controlling a Pledger is pointless if they can't React with their Edel Raid...",
   "slots": [
    "5EF02C"
   ]
@@ -1515,7 +1515,7 @@
  {
   "id": "206B08",
   "jp": "行方不明のプレジャーと\nそのエディルレイドか。",
-  "en": null,
+  "en": "The missing Pledger and their Edel Raid, huh.",
   "slots": [
    "5EF074"
   ]
@@ -1523,7 +1523,7 @@
  {
   "id": "206ACC",
   "jp": "闘技場のファイターとして\n最近この街に来たって話だった。",
-  "en": null,
+  "en": "I heard they came to this town recently as fighters for the arena.",
   "slots": [
    "5EF098"
   ]
@@ -1531,7 +1531,7 @@
  {
   "id": "206A74",
   "jp": "昨日の夕食までは、たしかに\nいたらしく、今朝になって\nいないことにまわりが気づいた。",
-  "en": null,
+  "en": "Apparently they were definitely around until dinner last night, and this morning people noticed they were gone.",
   "slots": [
    "5EF0BC"
   ]
@@ -1539,7 +1539,7 @@
  {
   "id": "206A24",
   "jp": "港からか、街の入り口から\nこの街を出た可能性はあるけど…\n本当にそうなのかな？",
-  "en": null,
+  "en": "They might have left town from the harbor or the town entrance... but did they really?",
   "slots": [
    "5EF0E0"
   ]
@@ -1547,7 +1547,7 @@
  {
   "id": "206A14",
   "jp": "出てないと思う",
-  "en": null,
+  "en": "They stayed",
   "slots": [
    "5EF104"
   ]
@@ -1555,7 +1555,7 @@
  {
   "id": "206A08",
   "jp": "出たと思う",
-  "en": null,
+  "en": "They left",
   "slots": [
    "5EF128"
   ]
@@ -1563,7 +1563,7 @@
  {
   "id": "2069EC",
   "jp": "俺、気になってんだけどさ。",
-  "en": null,
+  "en": "There's somethin' bugging me, though.",
   "slots": [
    "5EF170"
   ]
@@ -1571,7 +1571,7 @@
  {
   "id": "2069B0",
   "jp": "そもそもその人たちって\n闘技場がある島から\n出たのかな？",
-  "en": null,
+  "en": "Did those people even leave the island the arena's on?",
   "slots": [
    "5EF194"
   ]
@@ -1579,7 +1579,7 @@
  {
   "id": "206998",
   "jp": "それはどういうこと？",
-  "en": null,
+  "en": "What do you mean?",
   "slots": [
    "5EF1B8"
   ]
@@ -1587,7 +1587,7 @@
  {
   "id": "206964",
   "jp": "ん～、だからさ\n港のじーさんが\n言ってたんだけど…",
-  "en": null,
+  "en": "Mmm~, see, Gramps at the harbor was sayin'...",
   "slots": [
    "5EF1DC"
   ]
@@ -1595,7 +1595,7 @@
  {
   "id": "206918",
   "jp": "『はね橋は昼にちらっと\n　おりただけ。それくらい\n　船が多かった』って。",
-  "en": null,
+  "en": "\"The drawbridge only came down for a bit around noon. That's how many ships there were.\"",
   "slots": [
    "5EF200",
    "5EF38C"
@@ -1604,7 +1604,7 @@
  {
   "id": "2068CC",
   "jp": "それって昨日の昼から、\n今朝まで、島からは\n出られなかったってことだよな。",
-  "en": null,
+  "en": "That means from noon yesterday till this morning, nobody could get off the island, right?",
   "slots": [
    "5EF224"
   ]

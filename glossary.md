@@ -71,10 +71,25 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 忘却の謳 | song of oblivion | | | |
 | ラグウルス | Raguurus | | forest creature | |
 | おかみさん | landlady | | the innkeeper | |
+| ノトスコード | Notos Code | | | |
+| ライトシップ | light ship | | | |
+| サテイ | performance review | | | |
+| 商人さん | Mister Merchant | | | |
+| おばーちゃん | Granny | | Coud ばーちゃん, Kea おばーちゃん, Cisqua おばーちゃま all "Granny" | |
+| じーさん | Gramps | | Coud; Cisqua's おじーさん = "Grandpa"; landlady/Ren = "the old man" | |
+| 宿のご主人 | Mister Innkeeper | | Cisqua's name for the fisherman | |
+| ちっさなさくらんぼう | Little Cherries | | "The Little Cherries of Porto Galeon" (the twin sisters) | |
+| 神父 | priest | | 神父さま / 神父さん as address = "Father" | |
+| 教会 | church | | | |
+| 街の入り口 | Town Gate | | label | |
+| はね橋の入り口 | Drawbridge Gate | | label | |
+| いどう | Move | | menu label | |
 
 ## Decisions from earlier batches
 - wave 1: シスカ先輩 -> "Cisqua-senpai" (lowercase when attached; "Senpai" alone as address).
 - wave 1: Ren's React chant and song lyrics are TRANSLATED, not romanised: あかかるこころ かぜをまといて ちぎりこん ->
   "Bright heart, wrapped in wind, let us pledge."
 - wave 1: choice options in sentence case; menu commands / place names in title case.
+- wave 1 review: React がとける / とかれる = "comes undone" / "gets undone" (not "broken").
+- wave 1 review: 港 alone = "harbor"; 港街 = "port town". "All right", never "Alright".
 - wave 1: お前 from Coud to Chiruru stays "you" (she objects to it later).

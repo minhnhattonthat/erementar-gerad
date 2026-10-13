@@ -2,7 +2,7 @@
  {
   "id": "1FA038",
   "jp": "エディルレイドプレジャーが\nそれ目当てに、この街へ\n来ることがある。",
-  "en": "Edel Raid Pledgers sometimes come to this town for that.",
+  "en": "Edel Raids and Pledgers sometimes come to this town for that.",
   "slots": [
    "5E0EC0"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "1FA000",
   "jp": "エディルレイド…プレジャー…。",
-  "en": "Edel Raid... Pledgers...",
+  "en": "Edel Raids... and Pledgers...",
   "slots": [
    "5E0F08"
   ]

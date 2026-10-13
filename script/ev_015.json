@@ -2,7 +2,7 @@
  {
   "id": "211F3C",
   "jp": "じゃ、行ってきます！",
-  "en": null,
+  "en": "Okay, we're off!",
   "slots": [
    "5FB1D0"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "211F34",
   "jp": "クー。",
-  "en": null,
+  "en": "Cou.",
   "slots": [
    "5FB23C",
    "5FB6E0"
@@ -19,7 +19,7 @@
  {
   "id": "211F24",
   "jp": "あれ？　レン？",
-  "en": null,
+  "en": "Huh? Ren?",
   "slots": [
    "5FB260",
    "5FB704"
@@ -28,7 +28,7 @@
  {
   "id": "211F08",
   "jp": "ちょーっと待って下さい！！",
-  "en": null,
+  "en": "Juuust a moment, please!!",
   "slots": [
    "5FB284"
   ]
@@ -36,7 +36,7 @@
  {
   "id": "211EF8",
   "jp": "？　シスカ？？",
-  "en": null,
+  "en": "Huh? Cisqua??",
   "slots": [
    "5FB2A8"
   ]
@@ -44,7 +44,7 @@
  {
   "id": "211ED8",
   "jp": "シャワーをあびてたはずでは？",
-  "en": null,
+  "en": "Weren't you supposed to be taking a shower?",
   "slots": [
    "5FB2CC"
   ]
@@ -52,7 +52,7 @@
  {
   "id": "211EC0",
   "jp": "まあ、そうなんですが…",
-  "en": null,
+  "en": "Well, yes, but...",
   "slots": [
    "5FB2F0"
   ]
@@ -60,7 +60,7 @@
  {
   "id": "211EA8",
   "jp": "あわてて出てきました。",
-  "en": null,
+  "en": "I rushed out.",
   "slots": [
    "5FB314"
   ]
@@ -68,7 +68,7 @@
  {
   "id": "211E7C",
   "jp": "レンさんが、先に行くと\nおっしゃったので…",
-  "en": null,
+  "en": "Since Ren-san said she was going on ahead...",
   "slots": [
    "5FB338"
   ]
@@ -76,7 +76,7 @@
  {
   "id": "211E40",
   "jp": "あたしはささっと\nあびるだけだったから\nぜんぜんよゆ～ヨ。",
-  "en": null,
+  "en": "I was just gonna take a quick rinse, so I had plenty of time~",
   "slots": [
    "5FB35C"
   ]
@@ -84,7 +84,7 @@
  {
   "id": "211E34",
   "jp": "そっか。",
-  "en": null,
+  "en": "I see.",
   "slots": [
    "5FB380"
   ]
@@ -92,7 +92,7 @@
  {
   "id": "211E18",
   "jp": "じゃ、とりあえず行くか。",
-  "en": null,
+  "en": "Well, let's get going for now.",
   "slots": [
    "5FB3A4"
   ]
@@ -100,7 +100,7 @@
  {
   "id": "211E10",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "5FB3EC",
    "5FB7DC",
@@ -148,7 +148,7 @@
  {
   "id": "211DF8",
   "jp": "ここで待ってよっか。",
-  "en": null,
+  "en": "Let's wait here.",
   "slots": [
    "5FB47C"
   ]
@@ -156,7 +156,7 @@
  {
   "id": "211DE8",
   "jp": "天気もいいし。",
-  "en": null,
+  "en": "The weather's nice, too.",
   "slots": [
    "5FB4A0"
   ]
@@ -164,7 +164,7 @@
  {
   "id": "211DE0",
   "jp": "ああ。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "5FB4C4",
    "5FC850"
@@ -173,7 +173,7 @@
  {
   "id": "211DD0",
   "jp": "そうしよう。",
-  "en": null,
+  "en": "Let's do that.",
   "slots": [
    "5FB4E8"
   ]
@@ -181,7 +181,7 @@
  {
   "id": "211DC4",
   "jp": "ダーッ！",
-  "en": null,
+  "en": "Gaaah!",
   "slots": [
    "5FB5E4"
   ]
@@ -189,7 +189,7 @@
  {
   "id": "211DB4",
   "jp": "おっせぇ～！！",
-  "en": null,
+  "en": "They're so slooow!!",
   "slots": [
    "5FB608"
   ]
@@ -197,7 +197,7 @@
  {
   "id": "211DAC",
   "jp": "はは。",
-  "en": null,
+  "en": "Ha ha.",
   "slots": [
    "5FB62C",
    "601290"
@@ -206,7 +206,7 @@
  {
   "id": "211D88",
   "jp": "先に行ったほうが\nよかったかな…？",
-  "en": null,
+  "en": "Maybe we should've gone on ahead...?",
   "slots": [
    "5FB650"
   ]
@@ -214,7 +214,7 @@
  {
   "id": "211D50",
   "jp": "でも、キーアが\n『待ってて～』とか\n言ったからなぁ。",
-  "en": null,
+  "en": "But Kea went and said \"Wait for me~\" and all.",
   "slots": [
    "5FB674"
   ]
@@ -222,7 +222,7 @@
  {
   "id": "211D3C",
   "jp": "うん。そうだね。",
-  "en": null,
+  "en": "Yeah. That's true.",
   "slots": [
    "5FB698"
   ]
@@ -230,7 +230,7 @@
  {
   "id": "211D18",
   "jp": "じゃあ、もう少し待って\nみようか。",
-  "en": null,
+  "en": "Then let's try waiting a little longer.",
   "slots": [
    "5FB6BC"
   ]
@@ -238,7 +238,7 @@
  {
   "id": "211D0C",
   "jp": "おわった？",
-  "en": null,
+  "en": "You done?",
   "slots": [
    "5FB728"
   ]
@@ -246,7 +246,7 @@
  {
   "id": "211D04",
   "jp": "うん。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "5FB74C"
   ]
@@ -254,7 +254,7 @@
  {
   "id": "211CE8",
   "jp": "ふぅ～、お待たせしました。",
-  "en": null,
+  "en": "Whew, sorry to keep you waiting~",
   "slots": [
    "5FB770"
   ]
@@ -262,7 +262,7 @@
  {
   "id": "211CC0",
   "jp": "さ、ちゃちゃっと\n行きましょうかね！",
-  "en": null,
+  "en": "Now, let's get a move on, shall we!",
   "slots": [
    "5FB794"
   ]
@@ -270,7 +270,7 @@
  {
   "id": "211CB8",
   "jp": "なあ。",
-  "en": null,
+  "en": "Hey.",
   "slots": [
    "5FB86C"
   ]
@@ -278,7 +278,7 @@
  {
   "id": "211C98",
   "jp": "ちょっとのぞきに行かねーか？",
-  "en": null,
+  "en": "Wanna go sneak a peek?",
   "slots": [
    "5FB890"
   ]
@@ -286,7 +286,7 @@
  {
   "id": "211C90",
   "jp": "へ！？",
-  "en": null,
+  "en": "Wha?!",
   "slots": [
    "5FB8B4"
   ]
@@ -294,7 +294,7 @@
  {
   "id": "211C6C",
   "jp": "何を言ってるんだい…\nのぞきって…",
-  "en": null,
+  "en": "What are you saying... A peek...?",
   "slots": [
    "5FB8D8"
   ]
@@ -302,7 +302,7 @@
  {
   "id": "211C48",
   "jp": "先輩たちの\n入ってるシャワーを！？",
-  "en": null,
+  "en": "At Senpai and the others in the shower?!",
   "slots": [
    "5FB8FC"
   ]
@@ -310,7 +310,7 @@
  {
   "id": "211C3C",
   "jp": "しーっ！！",
-  "en": null,
+  "en": "Shhh!!",
   "slots": [
    "5FB920"
   ]
@@ -318,7 +318,7 @@
  {
   "id": "211C2C",
   "jp": "声が大きい。",
-  "en": null,
+  "en": "You're too loud.",
   "slots": [
    "5FB944"
   ]
@@ -326,7 +326,7 @@
  {
   "id": "211C18",
   "jp": "それじゃ、行くぜ。",
-  "en": null,
+  "en": "Okay, let's go.",
   "slots": [
    "5FB968"
   ]
@@ -334,7 +334,7 @@
  {
   "id": "211C04",
   "jp": "…知らないよ…？",
-  "en": null,
+  "en": "...Don't blame me...",
   "slots": [
    "5FB98C"
   ]
@@ -342,7 +342,7 @@
  {
   "id": "211BEC",
   "jp": "お、入ってる入ってる…",
-  "en": null,
+  "en": "Oh, they're in there, they're in there...",
   "slots": [
    "5FB9F8"
   ]
@@ -350,7 +350,7 @@
  {
   "id": "211BE4",
   "jp": "クー…",
-  "en": null,
+  "en": "Cou...",
   "slots": [
    "5FBA1C"
   ]
@@ -358,7 +358,7 @@
  {
   "id": "211BCC",
   "jp": "あ～、さっぱりする～。",
-  "en": null,
+  "en": "Ahh~, this feels so refreshing~",
   "slots": [
    "5FBA40"
   ]
@@ -366,7 +366,7 @@
  {
   "id": "211BB8",
   "jp": "おわ、キーアだ…",
-  "en": null,
+  "en": "Whoa, it's Kea...",
   "slots": [
    "5FBA64"
   ]
@@ -374,7 +374,7 @@
  {
   "id": "211BA4",
   "jp": "レンはどこだ…？",
-  "en": null,
+  "en": "Where's Ren...?",
   "slots": [
    "5FBA88"
   ]
@@ -382,7 +382,7 @@
  {
   "id": "211B8C",
   "jp": "レンちゃんは、どう？",
-  "en": null,
+  "en": "How's it feel, Ren-chan?",
   "slots": [
    "5FBAAC"
   ]
@@ -390,7 +390,7 @@
  {
   "id": "211B80",
   "jp": "…うん…",
-  "en": null,
+  "en": "...Mm...",
   "slots": [
    "5FBAD0"
   ]
@@ -398,7 +398,7 @@
  {
   "id": "211B74",
   "jp": "うひひひ…",
-  "en": null,
+  "en": "Hee hee hee...",
   "slots": [
    "5FBAF4"
   ]
@@ -406,7 +406,7 @@
  {
   "id": "211B5C",
   "jp": "やっぱ、ダメだって…",
-  "en": null,
+  "en": "I'm telling you, we shouldn't...",
   "slots": [
    "5FBB18"
   ]
@@ -414,7 +414,7 @@
  {
   "id": "211B4C",
   "jp": "行こう、クー。",
-  "en": null,
+  "en": "Let's go, Cou.",
   "slots": [
    "5FBB3C"
   ]
@@ -422,7 +422,7 @@
  {
   "id": "211B34",
   "jp": "気持ちいいですよね～。",
-  "en": null,
+  "en": "Feels so good, doesn't it~",
   "slots": [
    "5FBB60"
   ]
@@ -430,7 +430,7 @@
  {
   "id": "211B20",
   "jp": "るるんる、るん～。",
-  "en": null,
+  "en": "La-la-la, la-la~",
   "slots": [
    "5FBB84"
   ]
@@ -438,7 +438,7 @@
  {
   "id": "211B10",
   "jp": "わ、シスカだ…",
-  "en": null,
+  "en": "Whoa, it's Cisqua...",
   "slots": [
    "5FBBA8"
   ]
@@ -446,7 +446,7 @@
  {
   "id": "211B04",
   "jp": "って………",
-  "en": null,
+  "en": "Hold on.........",
   "slots": [
    "5FBBCC"
   ]
@@ -454,7 +454,7 @@
  {
   "id": "211AEC",
   "jp": "ぼうし…かぶったまま？",
-  "en": null,
+  "en": "She's still... wearing her hat?",
   "slots": [
    "5FBBF0"
   ]
@@ -462,7 +462,7 @@
  {
   "id": "211AC8",
   "jp": "二人とも、\n何やってんですかっ！",
-  "en": null,
+  "en": "What do you two think you're doing?!",
   "slots": [
    "5FBC5C"
   ]
@@ -470,7 +470,7 @@
  {
   "id": "211AB8",
   "jp": "せ、先輩！？",
-  "en": null,
+  "en": "S-Senpai?!",
   "slots": [
    "5FBC80"
   ]
@@ -478,7 +478,7 @@
  {
   "id": "211A8C",
   "jp": "シャワー、あびてたんじゃ\nなかったのかよ…",
-  "en": null,
+  "en": "Weren't you taking a shower...?",
   "slots": [
    "5FBCA4"
   ]
@@ -486,7 +486,7 @@
  {
   "id": "211A60",
   "jp": "あなたたちを\nためさせていただきました。",
-  "en": null,
+  "en": "I took the liberty of testing you two.",
   "slots": [
    "5FBCC8"
   ]
@@ -494,7 +494,7 @@
  {
   "id": "211A34",
   "jp": "こんなことになるだろうと\n思ってましたよ！",
-  "en": null,
+  "en": "I figured something like this would happen!",
   "slots": [
    "5FBCEC"
   ]
@@ -502,7 +502,7 @@
  {
   "id": "211A28",
   "jp": "まったく。",
-  "en": null,
+  "en": "Honestly.",
   "slots": [
    "5FBD10"
   ]
@@ -510,7 +510,7 @@
  {
   "id": "2119F8",
   "jp": "あ、でも、あたしは\nちゃーんとあびてたわよ。",
-  "en": null,
+  "en": "Oh, but I really did take a shower, you know.",
   "slots": [
    "5FBD34"
   ]
@@ -518,7 +518,7 @@
  {
   "id": "2119E8",
   "jp": "じゃ、レンは？",
-  "en": null,
+  "en": "Then what about Ren?",
   "slots": [
    "5FBD7C"
   ]
@@ -526,7 +526,7 @@
  {
   "id": "2119D8",
   "jp": "いってェッ！！",
-  "en": null,
+  "en": "OWWW!!",
   "slots": [
    "5FBDE8"
   ]
@@ -534,7 +534,7 @@
  {
   "id": "2119C4",
   "jp": "ハンセイなさいっ！",
-  "en": null,
+  "en": "Now reflect on your behavior!",
   "slots": [
    "5FBE0C"
   ]
@@ -542,7 +542,7 @@
  {
   "id": "2119B0",
   "jp": "ブレイブスアルカ…",
-  "en": null,
+  "en": "Braves Arca...",
   "slots": [
    "5FBF08"
   ]
@@ -550,7 +550,7 @@
  {
   "id": "21197C",
   "jp": "われわれアークエイルとは\n話が合わなさそうですね。",
-  "en": null,
+  "en": "I doubt they'd see eye to eye with us of Arc Aile.",
   "slots": [
    "5FBF2C"
   ]
@@ -558,7 +558,7 @@
  {
   "id": "211974",
   "jp": "あれ。",
-  "en": null,
+  "en": "Huh.",
   "slots": [
    "5FC004"
   ]
@@ -566,7 +566,7 @@
  {
   "id": "211950",
   "jp": "今日はあのガキ、\nいねーんだな。",
-  "en": null,
+  "en": "That brat isn't here today, huh.",
   "slots": [
    "5FC028"
   ]
@@ -574,7 +574,7 @@
  {
   "id": "211914",
   "jp": "クーさん。\n商人さんのこと、ガキガキ\n言わないで下さい。",
-  "en": null,
+  "en": "Cou-san. Please stop calling Mister Merchant \"brat\" this and \"brat\" that.",
   "slots": [
    "5FC04C"
   ]
@@ -582,7 +582,7 @@
  {
   "id": "2118CC",
   "jp": "商人さんのお店で\n物が買えなくなったら\nこまるのはわれわれなんですよ。",
-  "en": null,
+  "en": "If we can't buy things at Mister Merchant's shop anymore, we're the ones in trouble.",
   "slots": [
    "5FC070"
   ]
@@ -590,7 +590,7 @@
  {
   "id": "211890",
   "jp": "アタシのしらべでは\nショウニンさんは\n闘技場にいるのヨ。",
-  "en": null,
+  "en": "According to my investigation, Mister Merchant is at the arena, you know.",
   "slots": [
    "5FC094"
   ]
@@ -598,7 +598,7 @@
  {
   "id": "211878",
   "jp": "まちがいなくってヨ。",
-  "en": null,
+  "en": "I'm positive!",
   "slots": [
    "5FC0B8"
   ]
@@ -606,7 +606,7 @@
  {
   "id": "21183C",
   "jp": "そっか。んじゃあ\n何かあったら闘技場へ\n行けばいいんだな。",
-  "en": null,
+  "en": "Gotcha. So if anything comes up, we just head to the arena.",
   "slots": [
    "5FC0DC"
   ]
@@ -614,7 +614,7 @@
  {
   "id": "211814",
   "jp": "まあ、せっかくバザーへ\n来たんですし",
-  "en": null,
+  "en": "Well, since we went to all the trouble of coming to the bazaar,",
   "slots": [
    "5FC100"
   ]
@@ -622,7 +622,7 @@
  {
   "id": "2117F8",
   "jp": "少し自由行動にしませんか？",
-  "en": null,
+  "en": "why don't we take a little free time?",
   "slots": [
    "5FC124"
   ]
@@ -630,7 +630,7 @@
  {
   "id": "2117CC",
   "jp": "じゃあ、何か食べ物\n探しに行ってくるわ～。",
-  "en": null,
+  "en": "Then I'm gonna go look for something to eat~",
   "slots": [
    "5FC148"
   ]
@@ -638,7 +638,7 @@
  {
   "id": "2117C0",
   "jp": "はやっ！",
-  "en": null,
+  "en": "That was fast!",
   "slots": [
    "5FC190"
   ]
@@ -646,7 +646,7 @@
  {
   "id": "2117A8",
   "jp": "私も負けてられません…",
-  "en": null,
+  "en": "I can't lose to her...",
   "slots": [
    "5FC1B4"
   ]
@@ -654,7 +654,7 @@
  {
   "id": "211780",
   "jp": "それじゃ、すぐに\nもどりますからね～。",
-  "en": null,
+  "en": "Well then, I'll be right back~",
   "slots": [
    "5FC1D8"
   ]
@@ -662,7 +662,7 @@
  {
   "id": "21176C",
   "jp": "おい、ちょっと！",
-  "en": null,
+  "en": "Hey, wait!",
   "slots": [
    "5FC220"
   ]
@@ -670,7 +670,7 @@
  {
   "id": "21175C",
   "jp": "まいったなぁ。",
-  "en": null,
+  "en": "Jeez, what a pain.",
   "slots": [
    "5FC268"
   ]
@@ -678,7 +678,7 @@
  {
   "id": "21171C",
   "jp": "先輩、じつは買い物がしたくて\nしかたなかったんじゃ\nないかな…",
-  "en": null,
+  "en": "I bet Senpai was actually dying to go shopping...",
   "slots": [
    "5FC28C"
   ]
@@ -686,7 +686,7 @@
  {
   "id": "21170C",
   "jp": "なるほどね。",
-  "en": null,
+  "en": "Makes sense.",
   "slots": [
    "5FC2B0"
   ]
@@ -694,7 +694,7 @@
  {
   "id": "211700",
   "jp": "どうする？",
-  "en": null,
+  "en": "What do you want to do?",
   "slots": [
    "5FC2D4"
   ]
@@ -702,7 +702,7 @@
  {
   "id": "2116C8",
   "jp": "僕がここで待ってるから\n二人も何か見に行ってもいいよ。",
-  "en": null,
+  "en": "I'll wait here, so you two can go look around too.",
   "slots": [
    "5FC2F8"
   ]
@@ -710,7 +710,7 @@
  {
   "id": "2116BC",
   "jp": "いいや。",
-  "en": null,
+  "en": "Nah.",
   "slots": [
    "5FC31C"
   ]
@@ -718,7 +718,7 @@
  {
   "id": "211678",
   "jp": "シスカがもどったときに\nいなかったら何言われるか\nわかんねーし。",
-  "en": null,
+  "en": "Who knows what Cisqua'd say if we weren't here when she got back.",
   "slots": [
    "5FC340"
   ]
@@ -734,7 +734,7 @@
  {
   "id": "211664",
   "jp": "どうした？",
-  "en": null,
+  "en": "What's wrong?",
   "slots": [
    "5FC388"
   ]
@@ -742,7 +742,7 @@
  {
   "id": "211650",
   "jp": "あ、このあいだの…",
-  "en": null,
+  "en": "Oh, you're from the other day...",
   "slots": [
    "5FC3AC"
   ]
@@ -750,7 +750,7 @@
  {
   "id": "211630",
   "jp": "オレンジ、おとさないように。",
-  "en": null,
+  "en": "Careful not to drop your oranges.",
   "slots": [
    "5FC3D0"
   ]
@@ -758,7 +758,7 @@
  {
   "id": "211628",
   "jp": "あら。",
-  "en": null,
+  "en": "Oh my.",
   "slots": [
    "5FC3F4"
   ]
@@ -766,7 +766,7 @@
  {
   "id": "211608",
   "jp": "はい。ありがとうございます。",
-  "en": null,
+  "en": "Yes. Thank you very much.",
   "slots": [
    "5FC418"
   ]
@@ -774,7 +774,7 @@
  {
   "id": "2115D0",
   "jp": "あのときのお礼を言おうと\n思って…探していたんですよ。",
-  "en": null,
+  "en": "I wanted to thank you for that time... I've been looking for you.",
   "slots": [
    "5FC43C"
   ]
@@ -782,7 +782,7 @@
  {
   "id": "2115C8",
   "jp": "お礼？",
-  "en": null,
+  "en": "Thank us?",
   "slots": [
    "5FC460"
   ]
@@ -790,7 +790,7 @@
  {
   "id": "2115B4",
   "jp": "クー、この人は？",
-  "en": null,
+  "en": "Cou, who's this?",
   "slots": [
    "5FC484"
   ]
@@ -798,7 +798,7 @@
  {
   "id": "211594",
   "jp": "ああ、前にバザーで会ったんだ。",
-  "en": null,
+  "en": "Oh, I met her at the bazaar before.",
   "slots": [
    "5FC4A8"
   ]
@@ -806,7 +806,7 @@
  {
   "id": "211558",
   "jp": "オレンジおっことしちゃって\nひろったりしてあげたんだけど…",
-  "en": null,
+  "en": "She dropped her oranges, so we helped pick 'em up and stuff...",
   "slots": [
    "5FC4CC"
   ]
@@ -814,7 +814,7 @@
  {
   "id": "211544",
   "jp": "えっと、名前は…",
-  "en": null,
+  "en": "Um, her name was...",
   "slots": [
    "5FC4F0"
   ]
@@ -822,7 +822,7 @@
  {
   "id": "211528",
   "jp": "私、エンダともうします。",
-  "en": null,
+  "en": "My name is Enda.",
   "slots": [
    "5FC514"
   ]
@@ -830,7 +830,7 @@
  {
   "id": "21150C",
   "jp": "そうなんだ。\n俺はクー。",
-  "en": null,
+  "en": "Right. I'm Cou.",
   "slots": [
    "5FC538"
   ]
@@ -838,7 +838,7 @@
  {
   "id": "2114FC",
   "jp": "それとレンに…",
-  "en": null,
+  "en": "And this is Ren...",
   "slots": [
    "5FC55C"
   ]
@@ -846,7 +846,7 @@
  {
   "id": "2114EC",
   "jp": "ローウェン。",
-  "en": null,
+  "en": "...and Rowen.",
   "slots": [
    "5FC580"
   ]
@@ -854,7 +854,7 @@
  {
   "id": "2114DC",
   "jp": "はじめまして。",
-  "en": null,
+  "en": "Nice to meet you.",
   "slots": [
    "5FC5A4",
    "60114C"
@@ -863,7 +863,7 @@
  {
   "id": "2114A0",
   "jp": "クーさんとレンさんには、\nドジなところを見せてしまって…",
-  "en": null,
+  "en": "I showed Cou-san and Ren-san how clumsy I can be...",
   "slots": [
    "5FC5C8"
   ]
@@ -871,7 +871,7 @@
  {
   "id": "21144C",
   "jp": "一つ一つ、気をつけて動けば\n大丈夫だってことを、レンさんに\n教えていただきました。",
-  "en": null,
+  "en": "Ren-san taught me that if I move carefully, one thing at a time, I'll be fine.",
   "slots": [
    "5FC5EC"
   ]
@@ -879,7 +879,7 @@
  {
   "id": "211438",
   "jp": "そうだったかしら。",
-  "en": null,
+  "en": "Did I?",
   "slots": [
    "5FC610"
   ]
@@ -887,7 +887,7 @@
  {
   "id": "211430",
   "jp": "はい。",
-  "en": null,
+  "en": "Yes.",
   "slots": [
    "5FC634",
    "5FE620",
@@ -897,7 +897,7 @@
  {
   "id": "211414",
   "jp": "それで、今日もオレンジを？",
-  "en": null,
+  "en": "So, oranges again today?",
   "slots": [
    "5FC658"
   ]
@@ -905,7 +905,7 @@
  {
   "id": "21140C",
   "jp": "ええ。",
-  "en": null,
+  "en": "Mm-hm.",
   "slots": [
    "5FC67C",
    "5FC8BC",
@@ -917,7 +917,7 @@
  {
   "id": "2113F0",
   "jp": "オレンジが好きな人がいて…",
-  "en": null,
+  "en": "There's someone who loves oranges...",
   "slots": [
    "5FC6A0"
   ]
@@ -925,7 +925,7 @@
  {
   "id": "2113D0",
   "jp": "食べさせてあげようと思って。",
-  "en": null,
+  "en": "...and I wanted to give them some.",
   "slots": [
    "5FC6C4"
   ]
@@ -933,7 +933,7 @@
  {
   "id": "2113C8",
   "jp": "へぇ…",
-  "en": null,
+  "en": "Huh...",
   "slots": [
    "5FC6E8",
    "5FD87C",
@@ -943,7 +943,7 @@
  {
   "id": "2113B0",
   "jp": "それってカレシとか？",
-  "en": null,
+  "en": "Like, a boyfriend?",
   "slots": [
    "5FC70C"
   ]
@@ -951,7 +951,7 @@
  {
   "id": "2113A8",
   "jp": "クー！",
-  "en": null,
+  "en": "Cou!",
   "slots": [
    "5FC730"
   ]
@@ -959,7 +959,7 @@
  {
   "id": "211398",
   "jp": "そ、そんな…",
-  "en": null,
+  "en": "Oh, n-no...",
   "slots": [
    "5FC754"
   ]
@@ -967,7 +967,7 @@
  {
   "id": "211370",
   "jp": "…そんなこと…ないんです。\n私には……",
-  "en": null,
+  "en": "...It's nothing like that. Not for me......",
   "slots": [
    "5FC79C"
   ]
@@ -975,7 +975,7 @@
  {
   "id": "21135C",
   "jp": "あッ……ゴメンッ！",
-  "en": null,
+  "en": "Ah... Sorry!",
   "slots": [
    "5FC7C0"
   ]
@@ -983,7 +983,7 @@
  {
   "id": "211340",
   "jp": "俺、悪いこと言っちまった？",
-  "en": null,
+  "en": "Did I say something bad?",
   "slots": [
    "5FC7E4"
   ]
@@ -991,7 +991,7 @@
  {
   "id": "211328",
   "jp": "いいえ。大丈夫です。",
-  "en": null,
+  "en": "No. It's all right.",
   "slots": [
    "5FC808"
   ]
@@ -999,7 +999,7 @@
  {
   "id": "2112F8",
   "jp": "みなさん、この街には\n観光にいらしたんですか？",
-  "en": null,
+  "en": "Did you all come to this town for sightseeing?",
   "slots": [
    "5FC82C"
   ]
@@ -1007,7 +1007,7 @@
  {
   "id": "2112CC",
   "jp": "ちっさいけど、何かいいカンジの\n街だよな。",
-  "en": null,
+  "en": "It's small, but it's a pretty nice town, huh.",
   "slots": [
    "5FC874"
   ]
@@ -1015,7 +1015,7 @@
  {
   "id": "2112B4",
   "jp": "エンダはずっとここに？",
-  "en": null,
+  "en": "Have you always lived here, Enda?",
   "slots": [
    "5FC898"
   ]
@@ -1023,7 +1023,7 @@
  {
   "id": "211268",
   "jp": "だから、街を気に入ってもらえて\nとてもうれしいです。\n自分のことみたい。",
-  "en": null,
+  "en": "That's why I'm so glad you like the town. It's as if you were talking about me.",
   "slots": [
    "5FC8E0"
   ]
@@ -1031,7 +1031,7 @@
  {
   "id": "21125C",
   "jp": "そっかー。",
-  "en": null,
+  "en": "I see~",
   "slots": [
    "5FC904"
   ]
@@ -1039,7 +1039,7 @@
  {
   "id": "211230",
   "jp": "オレンジ、\n早く持って行かなくて\nいいの？",
-  "en": null,
+  "en": "Shouldn't you hurry and take the oranges?",
   "slots": [
    "5FC928"
   ]
@@ -1047,7 +1047,7 @@
  {
   "id": "21121C",
   "jp": "あっ…そうです。",
-  "en": null,
+  "en": "Oh... You're right.",
   "slots": [
    "5FC94C"
   ]
@@ -1055,7 +1055,7 @@
  {
   "id": "2111FC",
   "jp": "私ったら、話しこんでしまって。",
-  "en": null,
+  "en": "Silly me, I got so caught up talking.",
   "slots": [
    "5FC970"
   ]
@@ -1063,7 +1063,7 @@
  {
   "id": "2111E0",
   "jp": "また、お会いしましょう。",
-  "en": null,
+  "en": "Let's meet again.",
   "slots": [
    "5FC994"
   ]
@@ -1071,7 +1071,7 @@
  {
   "id": "2111D4",
   "jp": "またなー。",
-  "en": null,
+  "en": "See ya!",
   "slots": [
    "5FC9DC"
   ]
@@ -1079,7 +1079,7 @@
  {
   "id": "2111BC",
   "jp": "エンダさん…ですか…",
-  "en": null,
+  "en": "Enda-san, huh...",
   "slots": [
    "5FCA00"
   ]
@@ -1087,7 +1087,7 @@
  {
   "id": "2111A0",
   "jp": "ちょっとちょっとちょっと！",
-  "en": null,
+  "en": "Hey, hey, hey, hold on!",
   "slots": [
    "5FCA48"
   ]
@@ -1095,7 +1095,7 @@
  {
   "id": "211190",
   "jp": "うわ、シスカ！",
-  "en": null,
+  "en": "Whoa, Cisqua!",
   "slots": [
    "5FCA6C"
   ]
@@ -1103,7 +1103,7 @@
  {
   "id": "21117C",
   "jp": "今の女の人は誰！？",
-  "en": null,
+  "en": "Who was that woman just now?!",
   "slots": [
    "5FCA90"
   ]
@@ -1111,7 +1111,7 @@
  {
   "id": "211170",
   "jp": "誰って…",
-  "en": null,
+  "en": "Who...?",
   "slots": [
    "5FCAB4"
   ]
@@ -1119,7 +1119,7 @@
  {
   "id": "21115C",
   "jp": "エンダっていう…",
-  "en": null,
+  "en": "Her name's Enda...",
   "slots": [
    "5FCAD8"
   ]
@@ -1127,7 +1127,7 @@
  {
   "id": "211128",
   "jp": "オレンジを買って行く人？\nこの街の人みたいだけど。",
-  "en": null,
+  "en": "A lady who buys oranges? She seems to be from this town.",
   "slots": [
    "5FCB20"
   ]
@@ -1135,7 +1135,7 @@
  {
   "id": "211118",
   "jp": "『エンダ』……",
-  "en": null,
+  "en": "\"Enda\"......",
   "slots": [
    "5FCB44"
   ]
@@ -1143,7 +1143,7 @@
  {
   "id": "2110C8",
   "jp": "『エンダちゃん』ですか！？\nあの…宿のおかみさんが言ってた\nエディルレイドの…",
-  "en": null,
+  "en": "\"Enda-chan\"?! The Edel Raid the landlady at the inn mentioned...",
   "slots": [
    "5FCB68"
   ]
@@ -1151,7 +1151,7 @@
  {
   "id": "2110B4",
   "jp": "そうか、彼女が…",
-  "en": null,
+  "en": "I see, so she's...",
   "slots": [
    "5FCB8C"
   ]
@@ -1159,7 +1159,7 @@
  {
   "id": "211098",
   "jp": "そうか、じゃないですよ！",
-  "en": null,
+  "en": "This is no time for \"I see\"!",
   "slots": [
    "5FCBB0"
   ]
@@ -1167,7 +1167,7 @@
  {
   "id": "211074",
   "jp": "うれしそうに、ハナの下\nのばして…",
-  "en": null,
+  "en": "Grinning away, all starry-eyed over her...",
   "slots": [
    "5FCBD4"
   ]
@@ -1175,7 +1175,7 @@
  {
   "id": "211040",
   "jp": "彼女も保護しないと\n危険かもしれないんですよ！？",
-  "en": null,
+  "en": "She might be in danger too unless we protect her!",
   "slots": [
    "5FCBF8"
   ]
@@ -1183,7 +1183,7 @@
  {
   "id": "211034",
   "jp": "えッ！？",
-  "en": null,
+  "en": "What?!",
   "slots": [
    "5FCC1C"
   ]
@@ -1191,7 +1191,7 @@
  {
   "id": "21101C",
   "jp": "エンダさんが危険！？",
-  "en": null,
+  "en": "Enda-san's in danger?!",
   "slots": [
    "5FCC40"
   ]
@@ -1199,7 +1199,7 @@
  {
   "id": "211008",
   "jp": "おいかけましょう。",
-  "en": null,
+  "en": "Let's go after her.",
   "slots": [
    "5FCC64"
   ]
@@ -1207,7 +1207,7 @@
  {
   "id": "210FD8",
   "jp": "おいかけるって、もう\nどっか行っちまったぜ？",
-  "en": null,
+  "en": "Go after her? She's already gone off somewhere.",
   "slots": [
    "5FCC88"
   ]
@@ -1215,7 +1215,7 @@
  {
   "id": "210FCC",
   "jp": "んもうっ！",
-  "en": null,
+  "en": "Oh, come on!",
   "slots": [
    "5FCCAC"
   ]
@@ -1223,7 +1223,7 @@
  {
   "id": "210FA4",
   "jp": "つぎはちゃんと、つかまえて\n下さいよ！",
-  "en": null,
+  "en": "Next time, make sure you catch her!",
   "slots": [
    "5FCCD0"
   ]
@@ -1231,7 +1231,7 @@
  {
   "id": "210F90",
   "jp": "つかまえるって…",
-  "en": null,
+  "en": "Catch her...?",
   "slots": [
    "5FCCF4"
   ]
@@ -1239,7 +1239,7 @@
  {
   "id": "210F74",
   "jp": "エンダさん、大丈夫かな…",
-  "en": null,
+  "en": "I hope Enda-san's okay...",
   "slots": [
    "5FCD18"
   ]
@@ -1255,7 +1255,7 @@
  {
   "id": "210F38",
   "jp": "これは、オイシャサマでも\nナオセナイ！　なのかもヨ…",
-  "en": null,
+  "en": "Maybe this is a sickness even a doctor can't cure, you know...",
   "slots": [
    "5FCD60"
   ]
@@ -1263,7 +1263,7 @@
  {
   "id": "210F24",
   "jp": "オイシャサマも…？",
-  "en": null,
+  "en": "Not even a doctor...?",
   "slots": [
    "5FCD84"
   ]
@@ -1271,7 +1271,7 @@
  {
   "id": "210EF8",
   "jp": "女心はフクザツで\n男心はタンジュンなのヨ。",
-  "en": null,
+  "en": "A woman's heart is complicated, and a man's heart is simple, you know.",
   "slots": [
    "5FCDA8"
   ]
@@ -1279,7 +1279,7 @@
  {
   "id": "210EEC",
   "jp": "そうなの…",
-  "en": null,
+  "en": "Is that so...",
   "slots": [
    "5FCDCC"
   ]
@@ -1287,7 +1287,7 @@
  {
   "id": "210EDC",
   "jp": "たっだいま～。",
-  "en": null,
+  "en": "I'm ba~ck.",
   "slots": [
    "5FCDF0"
   ]
@@ -1295,7 +1295,7 @@
  {
   "id": "210ED4",
   "jp": "あれ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "5FCE14",
    "6009B4"
@@ -1304,7 +1304,7 @@
  {
   "id": "210EB4",
   "jp": "どうしたの？\n何かあったの？",
-  "en": null,
+  "en": "What's wrong? Did something happen?",
   "slots": [
    "5FCE38"
   ]
@@ -1312,7 +1312,7 @@
  {
   "id": "210EAC",
   "jp": "はなす",
-  "en": null,
+  "en": "Talk",
   "slots": [
    "5FCE80"
   ]
@@ -1320,7 +1320,7 @@
  {
   "id": "210EA0",
   "jp": "しらべる",
-  "en": null,
+  "en": "Check",
   "slots": [
    "5FCEA4"
   ]
@@ -1328,7 +1328,7 @@
  {
   "id": "210E98",
   "jp": "レン",
-  "en": null,
+  "en": "Ren",
   "slots": [
    "5FCF10"
   ]
@@ -1336,7 +1336,7 @@
  {
   "id": "210E90",
   "jp": "シスカ",
-  "en": null,
+  "en": "Cisqua",
   "slots": [
    "5FCF34"
   ]
@@ -1344,7 +1344,7 @@
  {
   "id": "210E88",
   "jp": "キーア",
-  "en": null,
+  "en": "Kea",
   "slots": [
    "5FCF58"
   ]
@@ -1352,7 +1352,7 @@
  {
   "id": "210E7C",
   "jp": "ローウェン",
-  "en": null,
+  "en": "Rowen",
   "slots": [
    "5FCF7C"
   ]
@@ -1360,7 +1360,7 @@
  {
   "id": "210E6C",
   "jp": "バザーのようす",
-  "en": null,
+  "en": "Bazaar Scene",
   "slots": [
    "5FCFA0"
   ]
@@ -1368,7 +1368,7 @@
  {
   "id": "210E5C",
   "jp": "ねぇ、クー。",
-  "en": null,
+  "en": "Hey, Cou.",
   "slots": [
    "5FD030"
   ]
@@ -1376,7 +1376,7 @@
  {
   "id": "210E34",
   "jp": "オイシャサマでもナオセナイ\nって、何？",
-  "en": null,
+  "en": "What does \"even a doctor can't cure it\" mean?",
   "slots": [
    "5FD054"
   ]
@@ -1384,7 +1384,7 @@
  {
   "id": "210E14",
   "jp": "オイシャサマでもナオセナイ…",
-  "en": null,
+  "en": "\"Even a doctor can't cure it\"...",
   "slots": [
    "5FD078"
   ]
@@ -1392,7 +1392,7 @@
  {
   "id": "210E0C",
   "jp": "ん～。",
-  "en": null,
+  "en": "Hmm...",
   "slots": [
    "5FD09C"
   ]
@@ -1400,7 +1400,7 @@
  {
   "id": "210DF8",
   "jp": "シスカのいびき？",
-  "en": null,
+  "en": "Cisqua's snoring?",
   "slots": [
    "5FD0C0"
   ]
@@ -1408,7 +1408,7 @@
  {
   "id": "210DDC",
   "jp": "私はいびきなどかきません！",
-  "en": null,
+  "en": "I do not snore!",
   "slots": [
    "5FD12C"
   ]
@@ -1416,7 +1416,7 @@
  {
   "id": "210DBC",
   "jp": "アークエイルへ行きましょう。",
-  "en": null,
+  "en": "Let's go to Arc Aile.",
   "slots": [
    "5FD174"
   ]
@@ -1424,7 +1424,7 @@
  {
   "id": "210D8C",
   "jp": "エンダさんのこと、何か\nわかるかもしれません。",
-  "en": null,
+  "en": "We may learn something about Enda-san.",
   "slots": [
    "5FD198"
   ]
@@ -1432,7 +1432,7 @@
  {
   "id": "210D80",
   "jp": "何ナニ？",
-  "en": null,
+  "en": "What, what?",
   "slots": [
    "5FD1BC"
   ]
@@ -1440,7 +1440,7 @@
  {
   "id": "210D58",
   "jp": "何かおもしろいことでも\nあったの！？",
-  "en": null,
+  "en": "Did something fun happen?!",
   "slots": [
    "5FD1E0"
   ]
@@ -1448,7 +1448,7 @@
  {
   "id": "210D48",
   "jp": "ヒミツなのヨ！",
-  "en": null,
+  "en": "It's a secret, you know!",
   "slots": [
    "5FD204"
   ]
@@ -1456,7 +1456,7 @@
  {
   "id": "210D2C",
   "jp": "何よ、それ。\nケチねぇ…",
-  "en": null,
+  "en": "What's that supposed to mean? How stingy...",
   "slots": [
    "5FD228"
   ]
@@ -1464,7 +1464,7 @@
  {
   "id": "210D20",
   "jp": "え？何？",
-  "en": null,
+  "en": "Huh? What?",
   "slots": [
    "5FD270"
   ]
@@ -1472,7 +1472,7 @@
  {
   "id": "210CEC",
   "jp": "いつも商人がとってる場所が\nぽっかりあいてるな。",
-  "en": null,
+  "en": "The spot the merchant always takes is wide open.",
   "slots": [
    "5FD294"
   ]
@@ -1480,7 +1480,7 @@
  {
   "id": "210CD4",
   "jp": "今日はどうしたんだろ。",
-  "en": null,
+  "en": "Wonder what's up today.",
   "slots": [
    "5FD2B8"
   ]
@@ -1488,7 +1488,7 @@
  {
   "id": "210C9C",
   "jp": "せっかくだけど、バザーを\n見てまわるヒマはないなぁ。",
-  "en": null,
+  "en": "Too bad, but I don't have time to look around the bazaar.",
   "slots": [
    "5FD2DC"
   ]
@@ -1496,7 +1496,7 @@
  {
   "id": "210C80",
   "jp": "森の向こうにある教会か…",
-  "en": null,
+  "en": "The church past the forest, huh...",
   "slots": [
    "5FD3B4"
   ]
@@ -1504,7 +1504,7 @@
  {
   "id": "210C74",
   "jp": "クーさん？",
-  "en": null,
+  "en": "Cou-san?",
   "slots": [
    "5FD3D8"
   ]
@@ -1512,7 +1512,7 @@
  {
   "id": "210C44",
   "jp": "ちょっと行ってみようかなって\n思ったんだけど…",
-  "en": null,
+  "en": "I was thinking I might go take a look, but...",
   "slots": [
    "5FD3FC"
   ]
@@ -1520,7 +1520,7 @@
  {
   "id": "210C38",
   "jp": "ダメかな？",
-  "en": null,
+  "en": "No good?",
   "slots": [
    "5FD420"
   ]
@@ -1528,7 +1528,7 @@
  {
   "id": "210BF4",
   "jp": "かまいませんけど、\n先にほかのことをすませて\nからにしましょう。",
-  "en": null,
+  "en": "I don't mind, but let's take care of our other business first.",
   "slots": [
    "5FD444"
   ]
@@ -1536,7 +1536,7 @@
  {
   "id": "210BE0",
   "jp": "オウ。わかった。",
-  "en": null,
+  "en": "Yeah. Got it.",
   "slots": [
    "5FD468"
   ]
@@ -1544,7 +1544,7 @@
  {
   "id": "210BB4",
   "jp": "後で森を通って、教会まで\n行ってみるか。",
-  "en": null,
+  "en": "Guess I'll go through the forest to the church later.",
   "slots": [
    "5FD540"
   ]
@@ -1552,7 +1552,7 @@
  {
   "id": "210B9C",
   "jp": "おっと、ばーちゃんだ。",
-  "en": null,
+  "en": "Whoa, it's Granny.",
   "slots": [
    "5FD618"
   ]
@@ -1560,7 +1560,7 @@
  {
   "id": "210B84",
   "jp": "おーい、ばーちゃーん！",
-  "en": null,
+  "en": "Hey, Granny!",
   "slots": [
    "5FD63C"
   ]
@@ -1568,7 +1568,7 @@
  {
   "id": "210B58",
   "jp": "おやおや。こんにちは。\n今日も元気だねェ。",
-  "en": null,
+  "en": "My, my. Hello. Full of energy again today, aren't you?",
   "slots": [
    "5FD660"
   ]
@@ -1576,7 +1576,7 @@
  {
   "id": "210B2C",
   "jp": "クーさんには元気しか\nないですからねェ。",
-  "en": null,
+  "en": "Energy is all Cou-san has, after all.",
   "slots": [
    "5FD684"
   ]
@@ -1584,7 +1584,7 @@
  {
   "id": "210B1C",
   "jp": "何だよソレ。",
-  "en": null,
+  "en": "What's that supposed to mean?",
   "slots": [
    "5FD6A8"
   ]
@@ -1592,7 +1592,7 @@
  {
   "id": "210B0C",
   "jp": "まぁいいや。",
-  "en": null,
+  "en": "Whatever.",
   "slots": [
    "5FD6CC"
   ]
@@ -1600,7 +1600,7 @@
  {
   "id": "210AD4",
   "jp": "ばーちゃん、昨日はありがとな。\n話きかせてもらって。",
-  "en": null,
+  "en": "Granny, thanks for yesterday. For telling me that story.",
   "slots": [
    "5FD6F0"
   ]
@@ -1608,7 +1608,7 @@
  {
   "id": "210A9C",
   "jp": "何かの役に立ったのなら\nええんだけどね。\nフフフフ。",
-  "en": null,
+  "en": "If it was any help, then I'm glad. Hee hee hee.",
   "slots": [
    "5FD714"
   ]
@@ -1616,7 +1616,7 @@
  {
   "id": "210A50",
   "jp": "そう言えば、ばーちゃんも\n森の向こうにある教会へ\n行ったことがあるのか？",
-  "en": null,
+  "en": "Come to think of it, Granny, have you ever been to the church past the forest?",
   "slots": [
    "5FD738"
   ]
@@ -1624,7 +1624,7 @@
  {
   "id": "210A40",
   "jp": "ああ、あるよ。",
-  "en": null,
+  "en": "Oh, yes, I have.",
   "slots": [
    "5FD75C"
   ]
@@ -1632,7 +1632,7 @@
  {
   "id": "210A08",
   "jp": "みんなで集まって話をしたり\nするのが楽しかったねぇ。",
-  "en": null,
+  "en": "We all used to get together and talk. It was such fun.",
   "slots": [
    "5FD780"
   ]
@@ -1640,7 +1640,7 @@
  {
   "id": "2109DC",
   "jp": "あの危険な森を通らなきゃ\n行けないのに？",
-  "en": null,
+  "en": "Even though you have to go through that dangerous forest?",
   "slots": [
    "5FD7A4"
   ]
@@ -1648,7 +1648,7 @@
  {
   "id": "2109D0",
   "jp": "危険な…",
-  "en": null,
+  "en": "Dangerous...",
   "slots": [
    "5FD7C8"
   ]

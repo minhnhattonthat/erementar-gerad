@@ -1253,7 +1253,7 @@
  {
   "id": "1FF11C",
   "jp": "小さくはげます",
-  "en": "Cheer Softly",
+  "en": "Cheer softly",
   "slots": [
    "5E52F4"
   ]
@@ -1261,7 +1261,7 @@
  {
   "id": "1FF110",
   "jp": "見てるだけ",
-  "en": "Just Watch",
+  "en": "Just watch",
   "slots": [
    "5E5318"
   ]
@@ -1269,7 +1269,7 @@
  {
   "id": "1FF104",
   "jp": "手をつなぐ",
-  "en": "Hold Hands",
+  "en": "Hold hands",
   "slots": [
    "5E533C"
   ]
@@ -1398,7 +1398,7 @@
  {
   "id": "1FEF1C",
   "jp": "キンチョウさせる",
-  "en": "Make Her Tense",
+  "en": "Make her tense",
   "slots": [
    "5E569C"
   ]
@@ -1406,7 +1406,7 @@
  {
   "id": "1FEF08",
   "jp": "リラックスさせる",
-  "en": "Help Her Relax",
+  "en": "Help her relax",
   "slots": [
    "5E56C0"
   ]

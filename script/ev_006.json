@@ -10,7 +10,7 @@
  {
   "id": "1FEBC4",
   "jp": "ダッシュで逃げる",
-  "en": "Run for It",
+  "en": "Run for it",
   "slots": [
    "5E5AB0"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "1FEBB0",
   "jp": "つよく手をにぎる",
-  "en": "Squeeze Her Hand",
+  "en": "Squeeze her hand",
   "slots": [
    "5E5AD4"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "1FEBA0",
   "jp": "大きくはげます",
-  "en": "Cheer Loudly",
+  "en": "Cheer loudly",
   "slots": [
    "5E5AF8"
   ]
@@ -211,7 +211,7 @@
  {
   "id": "1FE8EC",
   "jp": "楽しくはげます",
-  "en": "Cheer Playfully",
+  "en": "Cheer playfully",
   "slots": [
    "5E5EC4"
   ]
@@ -219,7 +219,7 @@
  {
   "id": "1FE8DC",
   "jp": "こわい話をする",
-  "en": "Tell Spooky Tale",
+  "en": "Tell a scary tale",
   "slots": [
    "5E5EE8"
   ]
@@ -227,7 +227,7 @@
  {
   "id": "1FE8C8",
   "jp": "手のひらを合わす",
-  "en": "Press Palms",
+  "en": "Press palms",
   "slots": [
    "5E5F0C"
   ]
@@ -380,7 +380,7 @@
  {
   "id": "1FE630",
   "jp": "だまって見ている",
-  "en": "Watch Quietly",
+  "en": "Watch quietly",
   "slots": [
    "5E61DC"
   ]
@@ -388,7 +388,7 @@
  {
   "id": "1FE624",
   "jp": "だきしめる",
-  "en": "Hug Her",
+  "en": "Hug her",
   "slots": [
    "5E6200"
   ]
@@ -396,7 +396,7 @@
  {
   "id": "1FE618",
   "jp": "寝てしまう",
-  "en": "Fall Asleep",
+  "en": "Fall asleep",
   "slots": [
    "5E6224"
   ]
@@ -758,7 +758,7 @@
  {
   "id": "1FF7C8",
   "jp": "行かなくていい",
-  "en": "No Need to Go",
+  "en": "No need to go",
   "slots": [
    "5E69BC"
   ]
@@ -798,7 +798,7 @@
  {
   "id": "1FF6F4",
   "jp": "同じようにリアクトが\nとかれたとして、もう一度\nその場でリアクトできるか…",
-  "en": "If our React got broken the same way, could we React again right there on the spot...",
+  "en": "If our React came undone the same way, could we React again right there on the spot...",
   "slots": [
    "5E6A94"
   ]
@@ -902,7 +902,7 @@
  {
   "id": "1FF520",
   "jp": "今度は僕とキーアもいるけど\n謳をきいて、僕たちもリアクトが\nとかれてしまったら",
-  "en": "This time Kea and I are here too, but if we hear the song and our React gets broken too,",
+  "en": "This time Kea and I are here too, but if we hear the song and our React gets undone too,",
   "slots": [
    "5E6C8C"
   ]

@@ -49,6 +49,13 @@ impossible, keep the meaning and report it as `LONG: id`.
 - Terms that drifted in wave 1 and are now fixed in the glossary: 黒集団 = "the Black Group", ヴォルクス = "Volks",
   ヴォル君 = "Vol-kun", ナスカム = "Nascam". The check tool rejects the old variants.
 - A sentence split across two boxes: keep the split, make box 1 end naturally mid-sentence (comma/"and").
+- Choice options: sentence case ("Hold hands", "Run for it"), short and parallel.
+- React がとける/とかれる = "comes undone" (not "broken"). 港 alone = "harbor". "All right", never "Alright".
+- Chiruru's のヨ tic -> "you know" at most once per box, and not every box.
+- Japanese puns: keep the joke working (reviewers flagged a lost ふとっぱら "fat belly" pun and a マクラ/イクラ swap
+  mistranslated as "bedding/herring"); get the literal items right first, then adapt.
+- Lines repeated word-for-word from an earlier scene (flashbacks, other branches): reuse that English if you can
+  find it with grep in script/*.json ("en" fields).
 
 ## Consistency
 Never edit `glossary.md` or any file except your own `work/tl/<batch>.out.tsv`. For a recurring name or term not in

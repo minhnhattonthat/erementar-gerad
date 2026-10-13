@@ -410,7 +410,7 @@
  {
   "id": "1FB4D4",
   "jp": "ここが港か。",
-  "en": "So this is the port.",
+  "en": "So this is the harbor.",
   "slots": [
    "5DEBBC"
   ]
@@ -458,7 +458,7 @@
  {
   "id": "1FB3E4",
   "jp": "ああ。わしゃ、この港の\n船の出入りを見てるんじゃが\nその間ヒマじゃて…",
-  "en": "Yep. I keep watch on the ships coming in and out of this port, but I've got time to kill meanwhile...",
+  "en": "Yep. I keep watch on the ships coming in and out of this harbor, but I've got time to kill meanwhile...",
   "slots": [
    "5DEC94"
   ]
@@ -900,7 +900,7 @@
  {
   "id": "1FAD20",
   "jp": "え？　マクラはないけど\nイクラはある！？\nくだものの店なのに！？？",
-  "en": "What? No bedding, but they've got herring?! At a fruit stall?!",
+  "en": "What? No pillows, but they've got salmon roe?! At a fruit stall?!",
   "slots": [
    "5DF7F8"
   ]
