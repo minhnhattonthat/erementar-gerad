@@ -8,7 +8,7 @@ The pair glyphs actually used are rendered into ROM and asm/pairs.asm is assembl
 """
 import argparse, json, struct, subprocess, sys
 from pathlib import Path
-import romlib, vwf
+import fit, romlib, vwf
 
 FREE_LO, FREE_HI = 0x640000, 0x800000
 OUT = romlib.ROOT / 'build' / 'eg_en.gba'
@@ -63,11 +63,19 @@ def build(out, marker=False, qa=None, identity=False):
     qa = qa or {}
     d = bytearray(romlib.load())
     font = vwf.Font()
-    texts = {}
+    texts, errors = {}, []
     for e in load_entries():
         en = qa.get(e['id']) or (marker_text(e) if marker else e['jp'] if identity else e.get('en'))
-        if en is not None:
-            texts[e['id']] = (en, e['slots'])
+        if en is None:
+            continue
+        if not (marker or identity):
+            lines, err = fit.layout(e, en)
+            if err:
+                errors.append(f"{e['id']}: {err}")
+            en = '\n'.join(lines)
+        texts[e['id']] = (en, e['slots'])
+    if errors:
+        raise SystemExit(f'{len(errors)} strings do not fit:\n' + '\n'.join(errors[:30]))
     enc = {i: encode(t) for i, (t, _) in texts.items()}
 
     free = Free(d, FREE_LO, FREE_HI)

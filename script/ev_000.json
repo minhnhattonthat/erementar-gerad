@@ -19,7 +19,7 @@
  {
   "id": "1F2060",
   "jp": "Ａ：再生",
-  "en": null,
+  "en": "A: Play",
   "slots": [
    "5D85CC"
   ]
@@ -27,7 +27,7 @@
  {
   "id": "1F2054",
   "jp": "Ａ：停止",
-  "en": null,
+  "en": "A: Stop",
   "slots": [
    "5D85D0"
   ]
@@ -35,7 +35,7 @@
  {
   "id": "1F2048",
   "jp": "Ｂ：いどう",
-  "en": null,
+  "en": "B: Move",
   "slots": [
    "5D85D4"
   ]
@@ -43,7 +43,7 @@
  {
   "id": "1F2204",
   "jp": "メインテーマ",
-  "en": null,
+  "en": "Main Theme",
   "slots": [
    "5D85DC"
   ]
@@ -79,7 +79,7 @@
  {
   "id": "1F21FC",
   "jp": "風",
-  "en": null,
+  "en": "Wind",
   "slots": [
    "5D85EC"
   ]
@@ -87,7 +87,7 @@
  {
   "id": "1F21EC",
   "jp": "エンディング",
-  "en": null,
+  "en": "Ending",
   "slots": [
    "5D85FC"
   ]
@@ -95,7 +95,7 @@
  {
   "id": "1F21E8",
   "jp": "森",
-  "en": null,
+  "en": "Forest",
   "slots": [
    "5D860C"
   ]
@@ -103,7 +103,7 @@
  {
   "id": "1F21D8",
   "jp": "ポルトガレオン",
-  "en": null,
+  "en": "Porto Galeon",
   "slots": [
    "5D861C"
   ]
@@ -111,7 +111,7 @@
  {
   "id": "1F21D0",
   "jp": "宿屋",
-  "en": null,
+  "en": "The Inn",
   "slots": [
    "5D862C"
   ]
@@ -119,7 +119,7 @@
  {
   "id": "1F21BC",
   "jp": "ブレイブスアルカ",
-  "en": null,
+  "en": "Braves Arca",
   "slots": [
    "5D863C"
   ]
@@ -127,7 +127,7 @@
  {
   "id": "1F21AC",
   "jp": "アークエイル",
-  "en": null,
+  "en": "Arc Aile",
   "slots": [
    "5D864C"
   ]
@@ -135,7 +135,7 @@
  {
   "id": "1F21A4",
   "jp": "教会",
-  "en": null,
+  "en": "Church",
   "slots": [
    "5D865C"
   ]
@@ -143,7 +143,7 @@
  {
   "id": "1F2194",
   "jp": "チルルのテーマ",
-  "en": null,
+  "en": "Chiruru's Theme",
   "slots": [
    "5D866C"
   ]
@@ -151,7 +151,7 @@
  {
   "id": "1F2180",
   "jp": "やさしいメロディ",
-  "en": null,
+  "en": "Gentle Melody",
   "slots": [
    "5D867C"
   ]
@@ -159,7 +159,7 @@
  {
   "id": "1F2174",
   "jp": "せまる危険",
-  "en": null,
+  "en": "Looming Danger",
   "slots": [
    "5D868C"
   ]
@@ -167,7 +167,7 @@
  {
   "id": "1F2168",
   "jp": "広がる世界",
-  "en": null,
+  "en": "A Widening World",
   "slots": [
    "5D869C"
   ]
@@ -175,7 +175,7 @@
  {
   "id": "1F2158",
   "jp": "目的地への道",
-  "en": null,
+  "en": "Road to the Goal",
   "slots": [
    "5D86AC"
   ]
@@ -183,7 +183,7 @@
  {
   "id": "1F2150",
   "jp": "バトル",
-  "en": null,
+  "en": "Battle",
   "slots": [
    "5D86BC"
   ]
@@ -191,7 +191,7 @@
  {
   "id": "1F2140",
   "jp": "イベントバトル",
-  "en": null,
+  "en": "Event Battle",
   "slots": [
    "5D86CC"
   ]
@@ -199,7 +199,7 @@
  {
   "id": "1F2130",
   "jp": "ラストバトル",
-  "en": null,
+  "en": "Last Battle",
   "slots": [
    "5D86DC"
   ]
@@ -207,7 +207,7 @@
  {
   "id": "1F2124",
   "jp": "商人のお店",
-  "en": null,
+  "en": "Merchant's Shop",
   "slots": [
    "5D86EC"
   ]
@@ -215,7 +215,7 @@
  {
   "id": "1F2114",
   "jp": "闘技場バトル",
-  "en": null,
+  "en": "Arena Battle",
   "slots": [
    "5D86FC"
   ]
@@ -223,7 +223,7 @@
  {
   "id": "1F2108",
   "jp": "勝った！",
-  "en": null,
+  "en": "I won!",
   "slots": [
    "5D870C"
   ]
@@ -231,7 +231,7 @@
  {
   "id": "1F20FC",
   "jp": "音の鳴る箱",
-  "en": null,
+  "en": "Music Box",
   "slots": [
    "5D871C"
   ]
@@ -239,7 +239,7 @@
  {
   "id": "1F20F4",
   "jp": "クー",
-  "en": null,
+  "en": "Cou",
   "slots": [
    "5D872C",
    "5D873C",
@@ -362,7 +362,7 @@
  {
   "id": "1F20A4",
   "jp": "レン",
-  "en": null,
+  "en": "Ren",
   "slots": [
    "5D87BC",
    "5D87CC",
@@ -388,7 +388,7 @@
  {
   "id": "1F2094",
   "jp": "シスカ",
-  "en": null,
+  "en": "Cisqua",
   "slots": [
    "5D885C",
    "5D886C",
@@ -432,7 +432,7 @@
  {
   "id": "1F2074",
   "jp": "ロー",
-  "en": null,
+  "en": "Ro",
   "slots": [
    "5D892C",
    "5D893C",
@@ -447,7 +447,7 @@
  {
   "id": "1F206C",
   "jp": "キーア",
-  "en": null,
+  "en": "Kea",
   "slots": [
    "5D89AC",
    "5D89BC",
@@ -893,7 +893,7 @@
  {
   "id": "1F36E4",
   "jp": "なし",
-  "en": null,
+  "en": "None",
   "slots": [
    "5D9894"
   ]
@@ -901,7 +901,7 @@
  {
   "id": "1F36D4",
   "jp": "森の中１　ひる",
-  "en": null,
+  "en": "Forest 1 (Day)",
   "slots": [
    "5D9898"
   ]
@@ -909,7 +909,7 @@
  {
   "id": "1F36C4",
   "jp": "森の中１　夜",
-  "en": null,
+  "en": "Forest 1 (Night)",
   "slots": [
    "5D989C"
   ]
@@ -917,7 +917,7 @@
  {
   "id": "1F36B4",
   "jp": "森の中２　ひる",
-  "en": null,
+  "en": "Forest 2 (Day)",
   "slots": [
    "5D98A0"
   ]
@@ -925,7 +925,7 @@
  {
   "id": "1F36A4",
   "jp": "森の中２　夜",
-  "en": null,
+  "en": "Forest 2 (Night)",
   "slots": [
    "5D98A4"
   ]
@@ -933,7 +933,7 @@
  {
   "id": "1F3690",
   "jp": "街の入り口　ひる",
-  "en": null,
+  "en": "Town Gate (Day)",
   "slots": [
    "5D98A8"
   ]
@@ -941,7 +941,7 @@
  {
   "id": "1F3680",
   "jp": "街の入り口　夜",
-  "en": null,
+  "en": "Town Gate (Night)",
   "slots": [
    "5D98AC"
   ]
@@ -949,7 +949,7 @@
  {
   "id": "1F3670",
   "jp": "街の中　ひる",
-  "en": null,
+  "en": "In Town (Day)",
   "slots": [
    "5D98B0"
   ]
@@ -957,7 +957,7 @@
  {
   "id": "1F3664",
   "jp": "街の中　夜",
-  "en": null,
+  "en": "In Town (Night)",
   "slots": [
    "5D98B4"
   ]
@@ -965,7 +965,7 @@
  {
   "id": "1F3658",
   "jp": "広場　ひる",
-  "en": null,
+  "en": "Plaza (Day)",
   "slots": [
    "5D98B8"
   ]
@@ -973,7 +973,7 @@
  {
   "id": "1F364C",
   "jp": "広場　夜",
-  "en": null,
+  "en": "Plaza (Night)",
   "slots": [
    "5D98BC"
   ]
@@ -981,7 +981,7 @@
  {
   "id": "1F363C",
   "jp": "バザー　ひる",
-  "en": null,
+  "en": "Bazaar (Day)",
   "slots": [
    "5D98C0"
   ]
@@ -989,7 +989,7 @@
  {
   "id": "1F3630",
   "jp": "バザー　夜",
-  "en": null,
+  "en": "Bazaar (Night)",
   "slots": [
    "5D98C4"
   ]
@@ -997,7 +997,7 @@
  {
   "id": "1F3618",
   "jp": "はね橋の入り口１　ひる",
-  "en": null,
+  "en": "Drawbridge Entrance 1 (Day)",
   "slots": [
    "5D98C8"
   ]
@@ -1005,7 +1005,7 @@
  {
   "id": "1F3600",
   "jp": "はね橋の入り口１　夜",
-  "en": null,
+  "en": "Drawbridge Entrance 1 (Night)",
   "slots": [
    "5D98CC"
   ]
@@ -1013,7 +1013,7 @@
  {
   "id": "1F35E8",
   "jp": "はね橋の入り口２　ひる",
-  "en": null,
+  "en": "Drawbridge Entrance 2 (Day)",
   "slots": [
    "5D98D0"
   ]
@@ -1021,7 +1021,7 @@
  {
   "id": "1F35D0",
   "jp": "はね橋の入り口２　夜",
-  "en": null,
+  "en": "Drawbridge Entrance 2 (Night)",
   "slots": [
    "5D98D4"
   ]
@@ -1029,7 +1029,7 @@
  {
   "id": "1F35C4",
   "jp": "港　ひる",
-  "en": null,
+  "en": "Harbor (Day)",
   "slots": [
    "5D98D8"
   ]
@@ -1037,7 +1037,7 @@
  {
   "id": "1F35BC",
   "jp": "港　夜",
-  "en": null,
+  "en": "Harbor (Night)",
   "slots": [
    "5D98DC"
   ]
@@ -1045,7 +1045,7 @@
  {
   "id": "1F35A4",
   "jp": "アークエイル前　ひる",
-  "en": null,
+  "en": "Outside Arc Aile (Day)",
   "slots": [
    "5D98E0"
   ]
@@ -1053,7 +1053,7 @@
  {
   "id": "1F3590",
   "jp": "アークエイル前　夜",
-  "en": null,
+  "en": "Outside Arc Aile (Night)",
   "slots": [
    "5D98E4"
   ]
@@ -1061,7 +1061,7 @@
  {
   "id": "1F3580",
   "jp": "アークエイル中",
-  "en": null,
+  "en": "Inside Arc Aile",
   "slots": [
    "5D98E8"
   ]
@@ -1069,7 +1069,7 @@
  {
   "id": "1F356C",
   "jp": "宿屋の中１　ひる",
-  "en": null,
+  "en": "Inn Interior 1 (Day)",
   "slots": [
    "5D98EC"
   ]
@@ -1077,7 +1077,7 @@
  {
   "id": "1F355C",
   "jp": "宿屋の中１　夜",
-  "en": null,
+  "en": "Inn Interior 1 (Night)",
   "slots": [
    "5D98F0"
   ]
@@ -1085,7 +1085,7 @@
  {
   "id": "1F3548",
   "jp": "宿屋の中２　ひる",
-  "en": null,
+  "en": "Inn Interior 2 (Day)",
   "slots": [
    "5D98F4"
   ]
@@ -1093,7 +1093,7 @@
  {
   "id": "1F3538",
   "jp": "宿屋の中２　夜",
-  "en": null,
+  "en": "Inn Interior 2 (Night)",
   "slots": [
    "5D98F8"
   ]
@@ -1101,7 +1101,7 @@
  {
   "id": "1F3528",
   "jp": "宿屋前　ひる",
-  "en": null,
+  "en": "Outside the Inn (Day)",
   "slots": [
    "5D98FC"
   ]
@@ -1109,7 +1109,7 @@
  {
   "id": "1F351C",
   "jp": "宿屋前　夜",
-  "en": null,
+  "en": "Outside the Inn (Night)",
   "slots": [
    "5D9900"
   ]
@@ -1117,7 +1117,7 @@
  {
   "id": "1F350C",
   "jp": "闘技場前　ひる",
-  "en": null,
+  "en": "Outside the Arena (Day)",
   "slots": [
    "5D9904"
   ]
@@ -1125,7 +1125,7 @@
  {
   "id": "1F34FC",
   "jp": "闘技場前　夜",
-  "en": null,
+  "en": "Outside the Arena (Night)",
   "slots": [
    "5D9908"
   ]
@@ -1133,7 +1133,7 @@
  {
   "id": "1F34F0",
   "jp": "闘技場中",
-  "en": null,
+  "en": "Inside the Arena",
   "slots": [
    "5D990C"
   ]
@@ -1141,7 +1141,7 @@
  {
   "id": "1F34DC",
   "jp": "ブレイブスアルカ１",
-  "en": null,
+  "en": "Braves Arca 1",
   "slots": [
    "5D9910"
   ]
@@ -1149,7 +1149,7 @@
  {
   "id": "1F34C0",
   "jp": "ブレイブスアルカ２　ひる",
-  "en": null,
+  "en": "Braves Arca 2 (Day)",
   "slots": [
    "5D9914"
   ]
@@ -1157,7 +1157,7 @@
  {
   "id": "1F34A8",
   "jp": "ブレイブスアルカ２　夜",
-  "en": null,
+  "en": "Braves Arca 2 (Night)",
   "slots": [
    "5D9918"
   ]
@@ -1165,7 +1165,7 @@
  {
   "id": "1F3490",
   "jp": "カールセンのいえ　ひる",
-  "en": null,
+  "en": "Carlsen's House (Day)",
   "slots": [
    "5D991C"
   ]
@@ -1173,7 +1173,7 @@
  {
   "id": "1F3478",
   "jp": "カールセンのいえ　夜",
-  "en": null,
+  "en": "Carlsen's House (Night)",
   "slots": [
    "5D9920"
   ]
@@ -1181,7 +1181,7 @@
  {
   "id": "1F3468",
   "jp": "教会の前　ひる",
-  "en": null,
+  "en": "Outside the Church (Day)",
   "slots": [
    "5D9924"
   ]
@@ -1189,7 +1189,7 @@
  {
   "id": "1F3458",
   "jp": "教会の前　夜",
-  "en": null,
+  "en": "Outside the Church (Night)",
   "slots": [
    "5D9928"
   ]
@@ -1197,7 +1197,7 @@
  {
   "id": "1F3448",
   "jp": "教会の中　ひる",
-  "en": null,
+  "en": "Inside the Church (Day)",
   "slots": [
    "5D992C"
   ]
@@ -1205,7 +1205,7 @@
  {
   "id": "1F3438",
   "jp": "教会の中　夜",
-  "en": null,
+  "en": "Inside the Church (Night)",
   "slots": [
    "5D9930"
   ]
@@ -1213,7 +1213,7 @@
  {
   "id": "1F3420",
   "jp": "森から出た場所　ひる",
-  "en": null,
+  "en": "Forest Edge (Day)",
   "slots": [
    "5D9934"
   ]
@@ -1221,7 +1221,7 @@
  {
   "id": "1F340C",
   "jp": "森から出た場所　夜",
-  "en": null,
+  "en": "Forest Edge (Night)",
   "slots": [
    "5D9938"
   ]
@@ -1229,7 +1229,7 @@
  {
   "id": "1F3408",
   "jp": "黒",
-  "en": null,
+  "en": "Black",
   "slots": [
    "5D993C"
   ]
@@ -1237,7 +1237,7 @@
  {
   "id": "1F3404",
   "jp": "白",
-  "en": null,
+  "en": "White",
   "slots": [
    "5D9940"
   ]
@@ -1245,7 +1245,7 @@
  {
   "id": "1F33FC",
   "jp": "きいろ",
-  "en": null,
+  "en": "Yellow",
   "slots": [
    "5D9944"
   ]
@@ -1253,7 +1253,7 @@
  {
   "id": "1F33F4",
   "jp": "みどり",
-  "en": null,
+  "en": "Green",
   "slots": [
    "5D9948"
   ]
@@ -1261,7 +1261,7 @@
  {
   "id": "1F33E8",
   "jp": "オレンジ",
-  "en": null,
+  "en": "Orange",
   "slots": [
    "5D994C"
   ]
@@ -1269,7 +1269,7 @@
  {
   "id": "1F33E0",
   "jp": "ピンク",
-  "en": null,
+  "en": "Pink",
   "slots": [
    "5D9950"
   ]
@@ -1277,7 +1277,7 @@
  {
   "id": "1F33D4",
   "jp": "みずいろ",
-  "en": null,
+  "en": "Light Blue",
   "slots": [
    "5D9954"
   ]
@@ -1285,7 +1285,7 @@
  {
   "id": "1F33CC",
   "jp": "あお",
-  "en": null,
+  "en": "Blue",
   "slots": [
    "5D9958"
   ]
@@ -1293,7 +1293,7 @@
  {
   "id": "1F33C4",
   "jp": "よこく",
-  "en": null,
+  "en": "Preview",
   "slots": [
    "5D995C"
   ]
@@ -1301,7 +1301,7 @@
  {
   "id": "1F4E58",
   "jp": "港街　ポルトガレオン",
-  "en": null,
+  "en": "Port Town Porto Galeon",
   "slots": [
    "5D9A98"
   ]
@@ -1309,7 +1309,7 @@
  {
   "id": "1F4E3C",
   "jp": "もう一度、リアクトだ！！",
-  "en": null,
+  "en": "Let's React again!!",
   "slots": [
    "5D9ABC"
   ]
@@ -1317,7 +1317,7 @@
  {
   "id": "1F4DEC",
   "jp": "このままやられてたまるか！\nリアクトがとかれれば\nもう一度リアクトするだけだ！",
-  "en": null,
+  "en": "I'm not going down like this! If our React gets broken, we'll just React all over again!",
   "slots": [
    "5D9AE0"
   ]
@@ -1333,7 +1333,7 @@
  {
   "id": "1F4DD4",
   "jp": "どうした？",
-  "en": null,
+  "en": "What's wrong?",
   "slots": [
    "5D9B28"
   ]
@@ -1341,7 +1341,7 @@
  {
   "id": "1F4DB4",
   "jp": "…うたが…\n謳がうたえない…",
-  "en": null,
+  "en": "...My song... I can't sing my song...",
   "slots": [
    "5D9B4C"
   ]
@@ -1349,7 +1349,7 @@
  {
   "id": "1F4DA4",
   "jp": "何だとッ！？",
-  "en": null,
+  "en": "What?!",
   "slots": [
    "5D9B70"
   ]
@@ -1357,7 +1357,7 @@
  {
   "id": "1F4D70",
   "jp": "どうしよう…アタシ\nうたえなくなっちゃったのヨ！",
-  "en": null,
+  "en": "What do I do... I can't sing anymore, you know!",
   "slots": [
    "5D9B94"
   ]
@@ -1365,7 +1365,7 @@
  {
   "id": "1F4F88",
   "jp": "はるかかなた←→",
-  "en": null,
+  "en": "Far, far away--",
   "slots": [
    "5D9BDC"
   ]
@@ -1373,7 +1373,7 @@
  {
   "id": "1F4F4C",
   "jp": "天空に浮かぶと言われる\nまぼろしの都市\nエディルガーデン",
-  "en": null,
+  "en": "There is said to be a phantom city floating high in the heavens: Edel Garden.",
   "slots": [
    "5D9C00"
   ]
@@ -1381,7 +1381,7 @@
  {
   "id": "1F4EFC",
   "jp": "自由に空をとびまわることが\nできるようになってからも\nなお、その存在はとおく",
-  "en": null,
+  "en": "Even now that people can fly freely through the skies, it remains far out of reach.",
   "slots": [
    "5D9C24"
   ]
@@ -1389,7 +1389,7 @@
  {
   "id": "1F4ED0",
   "jp": "クード・ヴァン・ジルエットと\nその一行は",
-  "en": null,
+  "en": "Coud Van Giruet and his companions",
   "slots": [
    "5D9C48"
   ]
@@ -1397,7 +1397,7 @@
  {
   "id": "1F4EA4",
   "jp": "エディルガーデンをめざし\n旅を続けていた",
-  "en": null,
+  "en": "were traveling in search of Edel Garden.",
   "slots": [
    "5D9C6C"
   ]
@@ -1405,7 +1405,7 @@
  {
   "id": "1F4E70",
   "jp": "今は、そのとちゅう\n港街にほど近い、森の中にいる",
-  "en": null,
+  "en": "Their journey has brought them to a forest not far from a port town.",
   "slots": [
    "5D9C90"
   ]
@@ -1413,7 +1413,7 @@
  {
   "id": "1F562C",
   "jp": "…こまりました…",
-  "en": null,
+  "en": "...This is a problem...",
   "slots": [
    "5D9CD8"
   ]
@@ -1421,7 +1421,7 @@
  {
   "id": "1F5618",
   "jp": "どうした、シスカ？",
-  "en": null,
+  "en": "What's wrong, Cisqua?",
   "slots": [
    "5D9CFC"
   ]
@@ -1429,7 +1429,7 @@
  {
   "id": "1F55C8",
   "jp": "どうしたもこうしたも…\n私たち、こうしてつぎの街を\nめざして歩いていますけど。",
-  "en": null,
+  "en": "\"What's wrong,\" he says... Here we are, walking along on our way to the next town...",
   "slots": [
    "5D9D20"
   ]
@@ -1437,7 +1437,7 @@
  {
   "id": "1F55AC",
   "jp": "何か…問題でもあるのか？",
-  "en": null,
+  "en": "Is there... some kind of problem?",
   "slots": [
    "5D9D44"
   ]
@@ -1445,7 +1445,7 @@
  {
   "id": "1F5560",
   "jp": "あります。大ありデス！\n先ほど気になっておサイフの中を\n確認しましたら…",
-  "en": null,
+  "en": "There is. A huge one! I was worried, so I just checked our wallet, and...",
   "slots": [
    "5D9D68"
   ]
@@ -1453,7 +1453,7 @@
  {
   "id": "1F5540",
   "jp": "５２７ガネーしか無いんですよ！",
-  "en": null,
+  "en": "We only have 527 Ganee left!",
   "slots": [
    "5D9D8C"
   ]
@@ -1461,7 +1461,7 @@
  {
   "id": "1F54E4",
   "jp": "ああ…たとえアレがあるとしても\nこれでは宿代どころか、キーアの\nおやつ分にも足りません…",
-  "en": null,
+  "en": "Oh... Even with \"that\" to fall back on, this won't cover an inn, or even Kea's snacks...",
   "slots": [
    "5D9DB0"
   ]
@@ -1469,7 +1469,7 @@
  {
   "id": "1F54BC",
   "jp": "ウソ！\nそんなコトきいたらおなかが…",
-  "en": null,
+  "en": "No way! Now that I've heard that, my stomach...",
   "slots": [
    "5D9DD4"
   ]
@@ -1492,7 +1492,7 @@
  {
   "id": "1F54A4",
   "jp": "あああああああ…",
-  "en": null,
+  "en": "Ohhhhhhhhh...",
   "slots": [
    "5D9E1C"
   ]
@@ -1500,7 +1500,7 @@
  {
   "id": "1F5498",
   "jp": "キーア…",
-  "en": null,
+  "en": "Kea...",
   "slots": [
    "5D9E64"
   ]
@@ -1508,7 +1508,7 @@
  {
   "id": "1F546C",
   "jp": "でも、お金がないなんて…\nこまりましたね。",
-  "en": null,
+  "en": "But having no money... That really is a problem.",
   "slots": [
    "5D9E88"
   ]
@@ -1525,7 +1525,7 @@
  {
   "id": "1F5454",
   "jp": "…先輩？",
-  "en": null,
+  "en": "...Senpai?",
   "slots": [
    "5D9ED0"
   ]
@@ -1533,7 +1533,7 @@
  {
   "id": "1F5448",
   "jp": "シスカ…？",
-  "en": null,
+  "en": "Cisqua...?",
   "slots": [
    "5D9F18"
   ]
@@ -1541,7 +1541,7 @@
  {
   "id": "1F5434",
   "jp": "…ようじんぼう…",
-  "en": null,
+  "en": "...Bodyguards...",
   "slots": [
    "5D9F3C"
   ]
@@ -1549,7 +1549,7 @@
  {
   "id": "1F542C",
   "jp": "はぁ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "5D9F60"
   ]
@@ -1557,7 +1557,7 @@
  {
   "id": "1F53E0",
   "jp": "そうです、その手です！\nわれわれのセールスポイントと\n言えば、戦えること！",
-  "en": null,
+  "en": "Yes, that's it! If we have one selling point, it's that we can fight!",
   "slots": [
    "5D9F84"
   ]
@@ -1565,7 +1565,7 @@
  {
   "id": "1F5394",
   "jp": "悪におそわれている、\n通りすがりの人を助けたら\n何とそれは大金持ちだった！",
-  "en": null,
+  "en": "We save some passerby being attacked by villains, and what do you know, they turn out to be filthy rich!",
   "slots": [
    "5D9FA8"
   ]
@@ -1573,7 +1573,7 @@
  {
   "id": "1F5340",
   "jp": "われわれは大金持ちサンの\n『ヨウジンボウ』として\nお礼をがっぽりいただくのです。",
-  "en": null,
+  "en": "We become the rich person's \"bodyguards,\" and rake in a hefty reward.",
   "slots": [
    "5D9FCC"
   ]
@@ -1581,7 +1581,7 @@
  {
   "id": "1F5328",
   "jp": "悪って何よ、アクって。",
-  "en": null,
+  "en": "\"Villains\"? What villains?",
   "slots": [
    "5D9FF0"
   ]
@@ -1589,7 +1589,7 @@
  {
   "id": "1F52FC",
   "jp": "そうですよ、先輩。\nよく考えてみて下さい。",
-  "en": null,
+  "en": "Come on, Senpai. Think about it for a second.",
   "slots": [
    "5DA014"
   ]
@@ -1597,7 +1597,7 @@
  {
   "id": "1F52A8",
   "jp": "たしかに、この森にはサンゾクや\n人にキバをむく危険な野生生物が\nたくさんいますけど",
-  "en": null,
+  "en": "Sure, this forest is full of bandits and dangerous wild animals that bare their fangs at people,",
   "slots": [
    "5DA038"
   ]
@@ -1605,7 +1605,7 @@
  {
   "id": "1F5278",
   "jp": "その分、この森が危険だと\nみんな知っています。",
-  "en": null,
+  "en": "but that means everyone knows how dangerous this forest is.",
   "slots": [
    "5DA05C"
   ]
@@ -1613,7 +1613,7 @@
  {
   "id": "1F5224",
   "jp": "わざわざおそわれるために\n何も準備しないで、通りすがる\n大金持ちなんていませんよ。",
-  "en": null,
+  "en": "No rich person is going to stroll through here unprepared, just asking to be attacked.",
   "slots": [
    "5DA080"
   ]
@@ -1621,7 +1621,7 @@
  {
   "id": "1F5218",
   "jp": "むむむ…",
-  "en": null,
+  "en": "Mmmm...",
   "slots": [
    "5DA0A4"
   ]
@@ -1629,7 +1629,7 @@
  {
   "id": "1F520C",
   "jp": "あれは…",
-  "en": null,
+  "en": "Is that...",
   "slots": [
    "5DA0EC"
   ]
@@ -1637,7 +1637,7 @@
  {
   "id": "1F51E0",
   "jp": "馬車が…こっちへ向かって\n走って来ますね…",
-  "en": null,
+  "en": "A carriage... It's racing this way...",
   "slots": [
    "5DA110"
   ]
@@ -1645,7 +1645,7 @@
  {
   "id": "1F51C0",
   "jp": "大変だ！\n馬車がおそわれてる！",
-  "en": null,
+  "en": "Oh no! The carriage is under attack!",
   "slots": [
    "5DA134"
   ]
@@ -1653,7 +1653,7 @@
  {
   "id": "1F51AC",
   "jp": "たッ、た、たすけ…",
-  "en": null,
+  "en": "H-h-help...",
   "slots": [
    "5DA158"
   ]
@@ -1661,7 +1661,7 @@
  {
   "id": "1F5188",
   "jp": "来ましたワ！\n私たちついてます！",
-  "en": null,
+  "en": "Here it comes! We're in luck!",
   "slots": [
    "5DA17C"
   ]
@@ -1669,7 +1669,7 @@
  {
   "id": "1F5140",
   "jp": "サンゾクにおそわれている\n馬車にのったお金持ち…\n私たちついてますよ！",
-  "en": null,
+  "en": "A rich person in a carriage being attacked by bandits... We really are in luck!",
   "slots": [
    "5DA1A0"
   ]
@@ -1677,7 +1677,7 @@
  {
   "id": "1F5110",
   "jp": "ちょっと…シスカ？\n『オカネモチ』って何だ！？",
-  "en": null,
+  "en": "Wait... Cisqua? What do you mean, \"rich person\"?!",
   "slots": [
    "5DA1C4"
   ]
@@ -1685,7 +1685,7 @@
  {
   "id": "1F5100",
   "jp": "いいですか？",
-  "en": null,
+  "en": "Listen up, okay?",
   "slots": [
    "5DA1E8"
   ]
@@ -1693,7 +1693,7 @@
  {
   "id": "1F50B0",
   "jp": "あわてないで、いつも通り\nレンさんとリアクトして\nサンゾクをやっつけるんです。",
-  "en": null,
+  "en": "Stay calm, React with Ren-san like you always do, and beat those bandits.",
   "slots": [
    "5DA20C"
   ]
@@ -1701,7 +1701,7 @@
  {
   "id": "1F5064",
   "jp": "このチャンスを逃がすわけには\nいかないんですから…\n気合を入れて下さいね？",
-  "en": null,
+  "en": "We can't let this chance slip away... So put your back into it, all right?",
   "slots": [
    "5DA230"
   ]
@@ -1709,7 +1709,7 @@
  {
   "id": "1F5038",
   "jp": "逃がすわけには\nいかないって言われても…",
-  "en": null,
+  "en": "Even if you say we can't let it slip away...",
   "slots": [
    "5DA254"
   ]
@@ -1717,7 +1717,7 @@
  {
   "id": "1F5030",
   "jp": "クー。",
-  "en": null,
+  "en": "Cou.",
   "slots": [
    "5DA278",
    "5DC0D8"
@@ -1726,7 +1726,7 @@
  {
   "id": "1F4FE0",
   "jp": "ここは先輩の言う通り\nリアクトして切りぬけよう。\n僕もキーアと参戦するから。",
-  "en": null,
+  "en": "Let's do what Senpai says and React our way out of this. Kea and I will join the fight too.",
   "slots": [
    "5DA29C"
   ]
@@ -1734,7 +1734,7 @@
  {
   "id": "1F4FD8",
   "jp": "クー…",
-  "en": null,
+  "en": "Cou...",
   "slots": [
    "5DA2C0",
    "5DACE0",
@@ -1744,7 +1744,7 @@
  {
   "id": "1F4FC4",
   "jp": "しよう、リアクト。",
-  "en": null,
+  "en": "Let's React.",
   "slots": [
    "5DA2E4"
   ]
@@ -1752,7 +1752,7 @@
  {
   "id": "1F4F9C",
   "jp": "わかった。\nいっちょやってやろうぜ！！",
-  "en": null,
+  "en": "Got it. Let's show 'em what we've got!!",
   "slots": [
    "5DA308"
   ]
@@ -1760,7 +1760,7 @@
  {
   "id": "1F6248",
   "jp": "大丈夫でしたかッ！？",
-  "en": null,
+  "en": "Are you all right?!",
   "slots": [
    "5DA398"
   ]

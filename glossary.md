@@ -24,18 +24,28 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ローウェン | Rowen | | | Rowan, Lowen |
 | ロー | Ro | | Rowen's nickname | |
 | キーア | Kea | | Edel Raid | Kiia, Kia |
+| チルル | Chiruru | | | |
+| カールセン | Carlsen | | | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | アークエイル | Arc Aile | | | Ark Ail |
-| エディルガーデン | Edil Garden | | floating city | |
+| エディルガーデン | Edel Garden | | floating city; same エディル as Edel Raid | Edil Garden |
+| ポルトガレオン | Porto Galeon | | port town | Portogaleon |
+| ブレイブスアルカ | Braves Arca | | | |
+| 闘技場 | arena | | | colosseum |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
 |---|---|---|---|---|
 | エディルレイド | Edel Raid | | | Edil Raid |
 | 謳 | song | | Ren's power-song (uta) | |
+| リアクト | React | | Pledger + Edel Raid fusion; verb and noun ("Let's React", "our React") | Reakt |
+| プレジャー | Pledger | | human partner of an Edel Raid | Pleasure, Pleger |
+| ガネー | Ganee | | currency: "527 Ganee" | Gane |
+| 先輩 | Senpai | | Rowen -> Cisqua; capitalised as a form of address | |
+| サンゾク | bandits | | | |
 
 ## Decisions from earlier batches
 - (none yet)
