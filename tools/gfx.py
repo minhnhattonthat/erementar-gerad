@@ -146,34 +146,61 @@ def label_region(key):
     return (4, 78) if key.startswith('I') else (1, LABEL_W)
 
 
-def draw_label(font, text, key='C'):
-    """English label -> 0x300 bytes: three 32x16 OBJ, fill = index 2, 1 px outline = index 1, centered."""
-    lo, room = label_region(key)
-    w = label_width(font, text)
-    if w > room:
-        raise ValueError(f'label {key} {text!r} is {w} px > {room}')
+def outlined(font, text, w, h, lo, room, y0=1, tight=False, fill=2, edge=1, center=None):
+    """Pixel grid (h rows of w) with text centred in [lo, lo+room) (or on x=center, clamped): fill colour +
+    1 px outline. tight: letters share the outline pixel between them (advance - 1)."""
+    tw = font.text_width(text) - (len(text) - 1 if tight else 0) + 1
+    if tw > room:
+        raise ValueError(f'{text!r} is {tw} px > {room}')
     ink = set()
-    x = lo + (room - w) // 2
+    x = lo + (room - tw) // 2 if center is None else max(lo, min(lo + room - tw, center - tw // 2))
     for ch in text:
         for (gx, gy) in font.px[ord(ch)]:
-            ink.add((x + gx, gy + 1))
-        x += font.w[ord(ch)]
-    px = [[0] * 96 for _ in range(16)]
+            ink.add((x + gx, gy + y0))
+        x += font.w[ord(ch)] - (1 if tight else 0)
+    px = [[0] * w for _ in range(h)]
     for (ix, iy) in ink:
         for dx in (-1, 0, 1):
             for dy in (-1, 0, 1):
-                if 0 <= ix + dx < 96 and 0 <= iy + dy < 16:
-                    px[iy + dy][ix + dx] = 1
+                if 0 <= ix + dx < w and 0 <= iy + dy < h:
+                    px[iy + dy][ix + dx] = edge
     for (ix, iy) in ink:
-        px[iy][ix] = 2
+        px[iy][ix] = fill
+    return px
+
+
+def pack_obj(px, sprite_w, sprite_h):
+    """Pixel grid -> 4bpp bytes for consecutive OBJ sprites laid left to right (1D mapping, row-major tiles)."""
     out = bytearray()
-    for s in range(3):
-        for t in range(8):
-            ty, tx = (t // 4) * 8, s * 32 + (t % 4) * 8
+    for s in range(len(px[0]) // sprite_w):
+        for t in range((sprite_w // 8) * (sprite_h // 8)):
+            ty, tx = (t // (sprite_w // 8)) * 8, s * sprite_w + (t % (sprite_w // 8)) * 8
             for y in range(8):
                 for x in range(0, 8, 2):
                     out.append(px[ty + y][tx + x] | px[ty + y][tx + x + 1] << 4)
     return bytes(out)
+
+
+def draw_label(font, text, key='C'):
+    """English label -> 0x300 bytes: three 32x16 OBJ, fill = index 2, 1 px outline = index 1, centered."""
+    lo, room = label_region(key)
+    try:
+        px = outlined(font, text, 96, 16, lo, room)
+    except ValueError as e:
+        raise ValueError(f'label {key}: {e}')
+    return pack_obj(px, 32, 16)
+
+
+TABS_AT = 0x08DBDC                 # menu character tabs: 5 OBJ 32x16 (0x100 each), fill 2 / outline 1
+TAB_NAMES = ['Cou', 'Ren', 'Cisqua', 'Rowen', 'Kea']
+
+
+def tab_patches():
+    import vwf
+    font = vwf.Font()
+    # the sprite sits ~6 px right of the tab frame's centre: centre the name on x=11 like the Japanese
+    return [(TABS_AT + 0x100 * i, pack_obj(outlined(font, n, 32, 16, 0, 32, y0=2, tight=True, center=11), 32, 16))
+            for i, n in enumerate(TAB_NAMES)]
 
 
 def read_labels():

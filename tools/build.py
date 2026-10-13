@@ -98,7 +98,7 @@ def build(out, marker=False, qa=None, identity=False):
             struct.pack_into('<I', d, int(s, 16), romlib.BASE + a)
     if not identity:
         # name tags, skill/attack/item labels (font/labels.tsv): redrawn in place, same size
-        for a, b in gfx.tag_patches(d) + gfx.label_patches(d):
+        for a, b in gfx.tag_patches(d) + gfx.label_patches(d) + gfx.tab_patches():
             d[a:a + len(b)] = b
     Path(out).parent.mkdir(exist_ok=True)
     Path(out).write_bytes(d)
