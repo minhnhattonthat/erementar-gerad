@@ -2,7 +2,7 @@
  {
   "id": "1F855C",
   "jp": "食べることだけじゃなくて\n宿の手配とか、アークエイル支部\nへ行くとかあるじゃないですか！",
-  "en": null,
+  "en": "It's not just about eating! We need to book an inn and go to the Arc Aile branch, remember?!",
   "slots": [
    "5DC360"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "1F8554",
   "jp": "うぐ…",
-  "en": null,
+  "en": "Urgh...",
   "slots": [
    "5DC384"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "1F8540",
   "jp": "…そ、そうですね…",
-  "en": null,
+  "en": "...Y-you're right...",
   "slots": [
    "5DC3A8"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "1F8508",
   "jp": "では、用事を早く\nすませるために\n別行動しましょう。",
-  "en": null,
+  "en": "Then, to get our errands done quickly, let's split up.",
   "slots": [
    "5DC3CC"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "1F84C0",
   "jp": "ごはんのおいしい宿の手配\nそれとアークエイル支部へ\n行くこととわけて…",
-  "en": null,
+  "en": "One group books an inn with good food, the other goes to the Arc Aile branch...",
   "slots": [
    "5DC3F0"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "1F8494",
   "jp": "街のまんなかにある\n広場に集合すること。",
-  "en": null,
+  "en": "and then we all meet at the plaza in the middle of town.",
   "slots": [
    "5DC414"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "1F8478",
   "jp": "そんな感じでどうでしょう？",
-  "en": null,
+  "en": "How does that sound?",
   "slots": [
    "5DC438"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "1F8460",
   "jp": "アタシッ！　宿の手配！",
-  "en": null,
+  "en": "Me! I'll book the inn!",
   "slots": [
    "5DC45C"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "1F8438",
   "jp": "そのついでに食べるって\nことですか…",
-  "en": null,
+  "en": "So you can eat while you're at it...",
   "slots": [
    "5DC480"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "1F83E8",
   "jp": "すみません、先輩。\nキーアをこのままにしておくと\nどうなるかわからないので…",
-  "en": null,
+  "en": "Sorry, Senpai. There's no telling what Kea will do if we leave her like this...",
   "slots": [
    "5DC4A4"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "1F83B8",
   "jp": "僕とキーアが宿の手配で\n問題ないでしょうか？",
-  "en": null,
+  "en": "Would it be all right if Kea and I handle the inn?",
   "slots": [
    "5DC4C8"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "1F8390",
   "jp": "わ…ワタクシにもおいしい\nスイーツを…",
-  "en": null,
+  "en": "B-but I want delicious sweets too...",
   "slots": [
    "5DC4EC"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "1F8374",
   "jp": "とは言ってられませんね。",
-  "en": null,
+  "en": "...is what I'd like to say, but I can't.",
   "slots": [
    "5DC510"
   ]
@@ -106,7 +106,7 @@
  {
   "id": "1F831C",
   "jp": "では私がアークエイル支部に。\nエディルレイドのウワサ話\nなんかがきけるかもしれません。",
-  "en": null,
+  "en": "Then I'll go to the Arc Aile branch. I might hear some rumors about Edel Raids there.",
   "slots": [
    "5DC534"
   ]
@@ -114,7 +114,7 @@
  {
   "id": "1F8314",
   "jp": "あの…",
-  "en": null,
+  "en": "Um...",
   "slots": [
    "5DC558"
   ]
@@ -122,7 +122,7 @@
  {
   "id": "1F8304",
   "jp": "俺とレンは？",
-  "en": null,
+  "en": "What about me and Ren?",
   "slots": [
    "5DC57C"
   ]
@@ -130,7 +130,7 @@
  {
   "id": "1F82E4",
   "jp": "クーさんとレンさん、ですか…？",
-  "en": null,
+  "en": "Cou-san and Ren-san, you say...?",
   "slots": [
    "5DC5A0"
   ]
@@ -138,7 +138,7 @@
  {
   "id": "1F82D4",
   "jp": "そうですねぇ…",
-  "en": null,
+  "en": "Let me see...",
   "slots": [
    "5DC5C4",
    "5DCE58"
@@ -147,7 +147,7 @@
  {
   "id": "1F8298",
   "jp": "ヘタに街を歩かれると\n迷子になってしまいそう\nですから…",
-  "en": null,
+  "en": "If you wander around town carelessly, you'll probably get lost, so...",
   "slots": [
    "5DC5E8"
   ]
@@ -155,7 +155,7 @@
  {
   "id": "1F8260",
   "jp": "ローウェンたちといっしょに\n宿の手配へ行って下さい。",
-  "en": null,
+  "en": "Please go with Rowen and the others to book the inn.",
   "slots": [
    "5DC60C"
   ]
@@ -171,7 +171,7 @@
  {
   "id": "1F8250",
   "jp": "マイゴ？",
-  "en": null,
+  "en": "Lost?",
   "slots": [
    "5DC654"
   ]
@@ -179,7 +179,7 @@
  {
   "id": "1F823C",
   "jp": "ばッ、バカヤロ…",
-  "en": null,
+  "en": "Y-you idiot...",
   "slots": [
    "5DC678"
   ]
@@ -187,7 +187,7 @@
  {
   "id": "1F8214",
   "jp": "方向オンチとかッ！\nそういうことは…",
-  "en": null,
+  "en": "Like I've got no sense of direction?! That kind of thing...",
   "slots": [
    "5DC69C"
   ]
@@ -195,7 +195,7 @@
  {
   "id": "1F8200",
   "jp": "じゃあ、何ですか？",
-  "en": null,
+  "en": "Then what is it?",
   "slots": [
    "5DC6C0"
   ]
@@ -203,7 +203,7 @@
  {
   "id": "1F81C8",
   "jp": "クーさんはどこか\n行きたい場所が\nおありなんですか？",
-  "en": null,
+  "en": "Is there somewhere you'd like to go, Cou-san?",
   "slots": [
    "5DC6E4"
   ]
@@ -211,7 +211,7 @@
  {
   "id": "1F81B8",
   "jp": "レンと二人きり",
-  "en": null,
+  "en": "Alone with Ren",
   "slots": [
    "5DC708"
   ]
@@ -219,7 +219,7 @@
  {
   "id": "1F81A8",
   "jp": "シスカと行く",
-  "en": null,
+  "en": "With Cisqua",
   "slots": [
    "5DC72C"
   ]
@@ -227,7 +227,7 @@
  {
   "id": "1F8194",
   "jp": "ローたちと宿屋へ",
-  "en": null,
+  "en": "With Ro to the inn",
   "slots": [
    "5DC750"
   ]
@@ -235,7 +235,7 @@
  {
   "id": "1F8184",
   "jp": "なぁ、レン。",
-  "en": null,
+  "en": "Hey, Ren.",
   "slots": [
    "5DC774",
    "5DDBFC",
@@ -245,7 +245,7 @@
  {
   "id": "1F816C",
   "jp": "何かほしい物とか無い？",
-  "en": null,
+  "en": "Isn't there anything you want?",
   "slots": [
    "5DC798"
   ]
@@ -253,7 +253,7 @@
  {
   "id": "1F815C",
   "jp": "ほしい…モノ？",
-  "en": null,
+  "en": "Something... I want?",
   "slots": [
    "5DC7BC"
   ]
@@ -261,7 +261,7 @@
  {
   "id": "1F8110",
   "jp": "街ん中、店とかありそうだし\nこれから旅も長いしさ…\nほりだし物もあるかも！",
-  "en": null,
+  "en": "Looks like there are shops in town, and we've got a long trip ahead... We might find a real bargain!",
   "slots": [
    "5DC7E0"
   ]
@@ -269,7 +269,7 @@
  {
   "id": "1F8100",
   "jp": "ほしいモノ…",
-  "en": null,
+  "en": "Something I want...",
   "slots": [
    "5DC804",
    "5DF234"
@@ -278,7 +278,7 @@
  {
   "id": "1F80D0",
   "jp": "クーさん、ショッピング\nなさるおつもりですか？",
-  "en": null,
+  "en": "Cou-san, are you planning to go shopping?",
   "slots": [
    "5DC828"
   ]
@@ -286,7 +286,7 @@
  {
   "id": "1F809C",
   "jp": "ああ。さっき、お礼にって\nいくらかもらったじゃん。",
-  "en": null,
+  "en": "Yeah. We got some money as thanks earlier, right?",
   "slots": [
    "5DC84C"
   ]
@@ -294,7 +294,7 @@
  {
   "id": "1F8068",
   "jp": "あれで何かレンに買って\nやりたいんだ。いいだろ？",
-  "en": null,
+  "en": "I want to buy Ren something with it. That's okay, right?",
   "slots": [
    "5DC870"
   ]
@@ -302,7 +302,7 @@
  {
   "id": "1F8040",
   "jp": "たしかにいくらか\n入りましたけど………",
-  "en": null,
+  "en": "We did take some in, but.........",
   "slots": [
    "5DC894"
   ]
@@ -310,7 +310,7 @@
  {
   "id": "1F8030",
   "jp": "そうですねェ…",
-  "en": null,
+  "en": "Let me see...",
   "slots": [
    "5DC8B8"
   ]
@@ -318,7 +318,7 @@
  {
   "id": "1F7FE8",
   "jp": "いいんじゃないの？\nレンちゃんがんばってたし\nそのごほうびってことで。",
-  "en": null,
+  "en": "Why not? Ren-chan worked hard, so think of it as her reward.",
   "slots": [
    "5DC8DC"
   ]
@@ -326,7 +326,7 @@
  {
   "id": "1F7FBC",
   "jp": "あたしもその分、ごちそうを\nいただくわ。",
-  "en": null,
+  "en": "And I'll help myself to a feast for my share, too.",
   "slots": [
    "5DC900"
   ]
@@ -334,7 +334,7 @@
  {
   "id": "1F7F9C",
   "jp": "よッ！\nシスカ、ふとっぱら～。",
-  "en": null,
+  "en": "Way to go! Cisqua, you're so big-hearted~.",
   "slots": [
    "5DC924"
   ]
@@ -342,7 +342,7 @@
  {
   "id": "1F7F7C",
   "jp": "誰のおなかが太いですって！？",
-  "en": null,
+  "en": "Who are you calling big?!",
   "slots": [
    "5DC948"
   ]
@@ -350,7 +350,7 @@
  {
   "id": "1F7F64",
   "jp": "…そういうイミでは…",
-  "en": null,
+  "en": "...That's not what I meant...",
   "slots": [
    "5DC96C"
   ]
@@ -358,7 +358,7 @@
  {
   "id": "1F7F54",
   "jp": "わかりました。",
-  "en": null,
+  "en": "Very well.",
   "slots": [
    "5DC990"
   ]
@@ -366,7 +366,7 @@
  {
   "id": "1F7F10",
   "jp": "たーだーし、あまりムダな\n買い物はしないで下さい。\nいいですね？",
-  "en": null,
+  "en": "Bu-ut, please don't make too many wasteful purchases. Understood?",
   "slots": [
    "5DC9B4"
   ]
@@ -374,7 +374,7 @@
  {
   "id": "1F7EF8",
   "jp": "おう。わかってるって。",
-  "en": null,
+  "en": "Yeah. I got it.",
   "slots": [
    "5DC9D8"
   ]
@@ -382,7 +382,7 @@
  {
   "id": "1F7ED8",
   "jp": "それと、お買い物をするときは",
-  "en": null,
+  "en": "Also, when you go shopping,",
   "slots": [
    "5DC9FC"
   ]
@@ -522,7 +522,7 @@
  {
   "id": "1F7E8C",
   "jp": "お金のかわりに、この\n『アークエイルゴールドカード』\nを使って下さい。",
-  "en": null,
+  "en": "please use this \"Arc Aile Gold Card\" instead of money.",
   "slots": [
    "5DCA44"
   ]
@@ -530,7 +530,7 @@
  {
   "id": "1F7E48",
   "jp": "お金を持ち歩かなくても\nお買い物ができる\nスグレモノアイテムです。",
-  "en": null,
+  "en": "It's a marvelous item that lets you shop without carrying any money around.",
   "slots": [
    "5DCA68",
    "5DD050",
@@ -540,7 +540,7 @@
  {
   "id": "1F7DFC",
   "jp": "アークエイルの支部がある街で\n使えるカードですが\nお金がいらないのではなく",
-  "en": null,
+  "en": "You can use it in any town with an Arc Aile branch, but it's not that you don't need money:",
   "slots": [
    "5DCA8C",
    "5DD074"
@@ -549,7 +549,7 @@
  {
   "id": "1F7DB0",
   "jp": "後でまとめてはらうだけなので\nつい使いすぎてしまうと\n後がコワイですよ？",
-  "en": null,
+  "en": "you just pay it all later, so if you get carried away and overuse it, the aftermath will be scary, okay?",
   "slots": [
    "5DCAB0"
   ]
@@ -557,7 +557,7 @@
  {
   "id": "1F7D98",
   "jp": "へぇ、かわってんなぁ。",
-  "en": null,
+  "en": "Huh, that's weird.",
   "slots": [
    "5DCAD4"
   ]
@@ -565,7 +565,7 @@
  {
   "id": "1F7D6C",
   "jp": "マジ、サンキュー！\nほんじゃ行ってくる！！",
-  "en": null,
+  "en": "Seriously, thanks! Okay, we're off!!",
   "slots": [
    "5DCAF8"
   ]
@@ -573,7 +573,7 @@
  {
   "id": "1F7D5C",
   "jp": "行ってきます。",
-  "en": null,
+  "en": "We'll be going.",
   "slots": [
    "5DCB1C"
   ]
@@ -581,7 +581,7 @@
  {
   "id": "1F7D18",
   "jp": "買い物がおわったら\n広場に集合ですよ。\n夜までにもどって下さいね？",
-  "en": null,
+  "en": "Once you're done shopping, meet at the plaza. Be back before nightfall, okay?",
   "slots": [
    "5DCB40"
   ]
@@ -589,7 +589,7 @@
  {
   "id": "1F7D08",
   "jp": "りょうかいッ。",
-  "en": null,
+  "en": "Roger.",
   "slots": [
    "5DCB64"
   ]
@@ -597,7 +597,7 @@
  {
   "id": "1F7CC0",
   "jp": "んじゃあ、俺は\n迷子にならないように\nシスカについて行くことにする。",
-  "en": null,
+  "en": "Then I'll tag along with Cisqua, so I don't get lost.",
   "slots": [
    "5DCB88"
   ]
@@ -605,7 +605,7 @@
  {
   "id": "1F7CB8",
   "jp": "私に？",
-  "en": null,
+  "en": "With me?",
   "slots": [
    "5DCBAC"
   ]
@@ -613,7 +613,7 @@
  {
   "id": "1F7C84",
   "jp": "私は先ほど言いました通り\nアークエイルに行くと…",
-  "en": null,
+  "en": "As I said earlier, I'm going to Arc Aile...",
   "slots": [
    "5DCBD0"
   ]
@@ -621,7 +621,7 @@
  {
   "id": "1F7C58",
   "jp": "別に中まで入らなかったら\n問題ないだろ？",
-  "en": null,
+  "en": "It's no problem as long as I don't go inside, right?",
   "slots": [
    "5DCBF4"
   ]
@@ -629,7 +629,7 @@
  {
   "id": "1F7C18",
   "jp": "『ここで待ってろ』って\n言われたら、ちゃんと\n待ってるって。",
-  "en": null,
+  "en": "If you tell me \"Wait here,\" I'll wait like a good boy.",
   "slots": [
    "5DCC18"
   ]
@@ -637,7 +637,7 @@
  {
   "id": "1F7BC4",
   "jp": "クーさんはそれでいいかも\nしれませんが、レンさんまで\n同じようにお待たせするのは…",
-  "en": null,
+  "en": "That may be fine for you, Cou-san, but making Ren-san wait the same way...",
   "slots": [
    "5DCC3C"
   ]
@@ -645,7 +645,7 @@
  {
   "id": "1F7BB0",
   "jp": "レンもいいよな？",
-  "en": null,
+  "en": "That's okay with you, Ren?",
   "slots": [
    "5DCC60"
   ]
@@ -653,7 +653,7 @@
  {
   "id": "1F7BA8",
   "jp": "うん。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "5DCC84",
    "5DD38C",
@@ -668,7 +668,7 @@
  {
   "id": "1F7B90",
   "jp": "クーといっしょなら。",
-  "en": null,
+  "en": "As long as I'm with Cou.",
   "slots": [
    "5DCCA8"
   ]
@@ -676,7 +676,7 @@
  {
   "id": "1F7B88",
   "jp": "ほれ。",
-  "en": null,
+  "en": "See?",
   "slots": [
    "5DCCCC"
   ]
@@ -684,7 +684,7 @@
  {
   "id": "1F7B68",
   "jp": "『ほれ』…じゃありませんよ！",
-  "en": null,
+  "en": "\"See\" nothing!",
   "slots": [
    "5DCCF0"
   ]
@@ -692,7 +692,7 @@
  {
   "id": "1F7B30",
   "jp": "もう～ッ！\nローウェンたちと\n宿屋へ行って下さい！！",
-  "en": null,
+  "en": "Honestly~! Go to the inn with Rowen and the others!!",
   "slots": [
    "5DCD14"
   ]
@@ -700,7 +700,7 @@
  {
   "id": "1F7B18",
   "jp": "何で～？　いいじゃん。",
-  "en": null,
+  "en": "Why~? Come on, it's fine.",
   "slots": [
    "5DCD38"
   ]
@@ -708,7 +708,7 @@
  {
   "id": "1F7ACC",
   "jp": "アークエイルへ行くったって\n一人じゃ、気がおもかったり\nするんじゃねーの？",
-  "en": null,
+  "en": "Even if you say you're going to Arc Aile, don't you feel kinda down going alone?",
   "slots": [
    "5DCD5C"
   ]
@@ -716,7 +716,7 @@
  {
   "id": "1F7AC0",
   "jp": "ギクッ。",
-  "en": null,
+  "en": "Eep.",
   "slots": [
    "5DCD80"
   ]
@@ -724,7 +724,7 @@
  {
   "id": "1F7A8C",
   "jp": "支部の前までくらいなら\nつきあって行ってやるって。",
-  "en": null,
+  "en": "I'll go with you as far as the front of the branch.",
   "slots": [
    "5DCDA4"
   ]
@@ -732,7 +732,7 @@
  {
   "id": "1F7A84",
   "jp": "うう…",
-  "en": null,
+  "en": "Ugh...",
   "slots": [
    "5DCDC8"
   ]
@@ -740,7 +740,7 @@
  {
   "id": "1F7A5C",
   "jp": "まあ、気がおもいのは\nたしかですけど…",
-  "en": null,
+  "en": "Well, it's true that I'm dreading it...",
   "slots": [
    "5DCDEC"
   ]
@@ -748,7 +748,7 @@
  {
   "id": "1F7A44",
   "jp": "いいんじゃないですか？",
-  "en": null,
+  "en": "Why not?",
   "slots": [
    "5DCE10"
   ]
@@ -756,7 +756,7 @@
  {
   "id": "1F7A08",
   "jp": "アークエイルの用事をすませて\n三人で街を歩いて観光しても。",
-  "en": null,
+  "en": "You can finish the Arc Aile business, then the three of you can walk around town and sightsee.",
   "slots": [
    "5DCE34"
   ]
@@ -764,7 +764,7 @@
  {
   "id": "1F79C0",
   "jp": "わかりました。\nでは、クーさんとレンさんは\n私といっしょに来て下さい。",
-  "en": null,
+  "en": "Very well. Then, Cou-san and Ren-san, please come with me.",
   "slots": [
    "5DCE7C"
   ]
@@ -772,7 +772,7 @@
  {
   "id": "1F799C",
   "jp": "ローウェン、\n宿はまかせましたよ？",
-  "en": null,
+  "en": "Rowen, I'm leaving the inn to you, all right?",
   "slots": [
    "5DCEA0"
   ]
@@ -780,7 +780,7 @@
  {
   "id": "1F7978",
   "jp": "わかりました。\nいってらっしゃい。",
-  "en": null,
+  "en": "Understood. Take care.",
   "slots": [
    "5DCEC4"
   ]
@@ -788,7 +788,7 @@
  {
   "id": "1F7940",
   "jp": "おいしい食べ物の宿、探すから\n楽しみにしててね～ん。",
-  "en": null,
+  "en": "I'll find an inn with yummy food, so look forward to it~!",
   "slots": [
    "5DCEE8"
   ]
@@ -796,7 +796,7 @@
  {
   "id": "1F7914",
   "jp": "んじゃあ、ローたちと\n宿屋へ行こっかな。",
-  "en": null,
+  "en": "Okay then, I guess I'll go to the inn with Ro and the others.",
   "slots": [
    "5DCF0C"
   ]
@@ -804,7 +804,7 @@
  {
   "id": "1F78E0",
   "jp": "アークエイルへついて行くと\nシスカがうるさいし。",
-  "en": null,
+  "en": "If I tag along to Arc Aile, Cisqua'll just nag me.",
   "slots": [
    "5DCF30"
   ]
@@ -812,7 +812,7 @@
  {
   "id": "1F78B4",
   "jp": "はいはい。\nそうして下さると助かります。",
-  "en": null,
+  "en": "Yes, yes. That would be a big help.",
   "slots": [
    "5DCF54"
   ]
@@ -820,7 +820,7 @@
  {
   "id": "1F7868",
   "jp": "では、こちらのカードをわたして\nおきますので\n宿代はこれではらって下さい。",
-  "en": null,
+  "en": "Then I'll leave this card with you, so please pay for the inn with it.",
   "slots": [
    "5DCF78"
   ]
@@ -828,7 +828,7 @@
  {
   "id": "1F7850",
   "jp": "何だ、この板っきれ。",
-  "en": null,
+  "en": "What's this, some flimsy little board?",
   "slots": [
    "5DCFC0"
   ]
@@ -836,7 +836,7 @@
  {
   "id": "1F7844",
   "jp": "フ………",
-  "en": null,
+  "en": "Hmph......",
   "slots": [
    "5DCFE4"
   ]
@@ -844,7 +844,7 @@
  {
   "id": "1F7800",
   "jp": "いなかそだちのクーさんは\nごぞんじなくても\nしかたありませんよね。",
-  "en": null,
+  "en": "I suppose a country boy like Cou-san can't be expected to know.",
   "slots": [
    "5DD008"
   ]
@@ -852,7 +852,7 @@
  {
   "id": "1F77C4",
   "jp": "これはですね。\n『アークエイルゴールドカード』\nといって",
-  "en": null,
+  "en": "This, you see, is called the \"Arc Aile Gold Card,\" and",
   "slots": [
    "5DD02C"
   ]
@@ -860,7 +860,7 @@
  {
   "id": "1F776C",
   "jp": "後でまとめてはらうだけなので\n使いすぎにだけ気をつければ\nとてもベンリなアイテムです。",
-  "en": null,
+  "en": "you just pay for everything later in one go, so as long as you don't overuse it, it's a very handy item.",
   "slots": [
    "5DD098"
   ]
@@ -868,7 +868,7 @@
  {
   "id": "1F7760",
   "jp": "へぇー。",
-  "en": null,
+  "en": "Huh~",
   "slots": [
    "5DD0BC"
   ]
@@ -876,7 +876,7 @@
  {
   "id": "1F774C",
   "jp": "これがお金なの？",
-  "en": null,
+  "en": "This is money?",
   "slots": [
    "5DD0E0"
   ]
@@ -884,7 +884,7 @@
  {
   "id": "1F773C",
   "jp": "うふふふふ。",
-  "en": null,
+  "en": "Hehehehe.",
   "slots": [
    "5DD128"
   ]
@@ -892,7 +892,7 @@
  {
   "id": "1F7710",
   "jp": "レンさんにもむずかしいかも\nしれませんね。",
-  "en": null,
+  "en": "It might be a bit difficult for you too, Ren-san.",
   "slots": [
    "5DD14C"
   ]
@@ -900,7 +900,7 @@
  {
   "id": "1F76C8",
   "jp": "このカードの中にデータが\n入っていて、お店の人が\n持ってるリーダーで",
-  "en": null,
+  "en": "This card has data stored inside it, and when the shopkeeper's reader",
   "slots": [
    "5DD170"
   ]
@@ -908,7 +908,7 @@
  {
   "id": "1F767C",
   "jp": "そのデータを読みこむと\nアークエイルメインバンクへ\nリンクするんですよ。",
-  "en": null,
+  "en": "reads that data, it links up to the Arc Aile Main Bank.",
   "slots": [
    "5DD194"
   ]
@@ -916,7 +916,7 @@
  {
   "id": "1F7654",
   "jp": "でーた………めいん……\n……りんく？",
-  "en": null,
+  "en": "Da-ta...... main...... ......link?",
   "slots": [
    "5DD1B8"
   ]
@@ -924,7 +924,7 @@
  {
   "id": "1F760C",
   "jp": "とりあえず、ローウェンに\nあずけておきますね。\n私は今は使いませんし。",
-  "en": null,
+  "en": "For now, I'll leave it with Rowen. I won't be using it at the moment anyway.",
   "slots": [
    "5DD1DC"
   ]
@@ -932,7 +932,7 @@
  {
   "id": "1F75EC",
   "jp": "わかりました。\nあずかります。",
-  "en": null,
+  "en": "Understood. I'll hold on to it.",
   "slots": [
    "5DD200"
   ]
@@ -940,7 +940,7 @@
  {
   "id": "1F75C4",
   "jp": "もう行っていい？\nおなかすいたわよー。",
-  "en": null,
+  "en": "Can we go now? I'm starviiing.",
   "slots": [
    "5DD224"
   ]
@@ -948,7 +948,7 @@
  {
   "id": "1F75B8",
   "jp": "はいはい。",
-  "en": null,
+  "en": "Yes, yes.",
   "slots": [
    "5DD248"
   ]
@@ -956,7 +956,7 @@
  {
   "id": "1F7578",
   "jp": "では、用事がすんだら\n日がくれるまでに\n広場へ集まって下さい。",
-  "en": null,
+  "en": "Then once you've finished your errands, gather at the plaza before sundown.",
   "slots": [
    "5DD26C"
   ]
@@ -964,7 +964,7 @@
  {
   "id": "1F7564",
   "jp": "おくれないように。",
-  "en": null,
+  "en": "Don't be late.",
   "slots": [
    "5DD290"
   ]
@@ -972,7 +972,7 @@
  {
   "id": "1F7558",
   "jp": "はぁ～い。",
-  "en": null,
+  "en": "Oka~y.",
   "slots": [
    "5DD2B4"
   ]
@@ -980,7 +980,7 @@
  {
   "id": "1F8CBC",
   "jp": "ここが待ち合わせ場所の\n広場か。",
-  "en": null,
+  "en": "So this is the plaza where we're meeting.",
   "slots": [
    "5DD320"
   ]
@@ -988,7 +988,7 @@
  {
   "id": "1F8CAC",
   "jp": "屋台が出てる…",
-  "en": null,
+  "en": "There are food stalls out...",
   "slots": [
    "5DD344"
   ]
@@ -996,7 +996,7 @@
  {
   "id": "1F8C74",
   "jp": "おやつが売ってるみたいだな。\nレン、ちょっと待ってて。",
-  "en": null,
+  "en": "Looks like they're selling snacks. Ren, wait here a sec.",
   "slots": [
    "5DD368"
   ]
@@ -1004,7 +1004,7 @@
  {
   "id": "1F8C58",
   "jp": "さ～って、何を買おっかな。",
-  "en": null,
+  "en": "Now then~ What should I buy?",
   "slots": [
    "5DD3B0"
   ]
@@ -1012,7 +1012,7 @@
  {
   "id": "1F8C48",
   "jp": "イチゴクレープ",
-  "en": null,
+  "en": "Strawberry Crepe",
   "slots": [
    "5DD3D4"
   ]
@@ -1020,7 +1020,7 @@
  {
   "id": "1F8C34",
   "jp": "みどりのジュース",
-  "en": null,
+  "en": "Green Juice",
   "slots": [
    "5DD3F8"
   ]
@@ -1028,7 +1028,7 @@
  {
   "id": "1F8C20",
   "jp": "やきトウモロコシ",
-  "en": null,
+  "en": "Grilled Corn",
   "slots": [
    "5DD41C"
   ]
@@ -1036,7 +1036,7 @@
  {
   "id": "1F8BCC",
   "jp": "イチゴにホイップ生クリーム、\nカスタードもそえてあって\nやっぱ女の子はこれっしょ！",
-  "en": null,
+  "en": "Strawberries and whipped cream, with custard on the side. This is what girls go for, no question!",
   "slots": [
    "5DD440"
   ]
@@ -1044,7 +1044,7 @@
  {
   "id": "1F8BBC",
   "jp": "お待たせ～。",
-  "en": null,
+  "en": "Sorry for the wait~",
   "slots": [
    "5DD464",
    "5DD6EC",
@@ -1054,7 +1054,7 @@
  {
   "id": "1F8B9C",
   "jp": "レン、これ食べてみてくれよ。",
-  "en": null,
+  "en": "Ren, give this a try.",
   "slots": [
    "5DD488",
    "5DD9E0"
@@ -1063,7 +1063,7 @@
  {
   "id": "1F8B80",
   "jp": "きっと気にいると思うぜ。",
-  "en": null,
+  "en": "I bet you'll like it.",
   "slots": [
    "5DD4AC",
    "5DD734",
@@ -1073,7 +1073,7 @@
  {
   "id": "1F8B70",
   "jp": "いただきます。",
-  "en": null,
+  "en": "Thank you. I'll have some.",
   "slots": [
    "5DD4D0",
    "5DD758",
@@ -1106,7 +1106,7 @@
  {
   "id": "1F8B5C",
   "jp": "う………",
-  "en": null,
+  "en": "Ugh......",
   "slots": [
    "5DD518"
   ]
@@ -1114,7 +1114,7 @@
  {
   "id": "1F8B4C",
   "jp": "なに、コレ……",
-  "en": null,
+  "en": "What... is this......",
   "slots": [
    "5DD53C"
   ]
@@ -1122,7 +1122,7 @@
  {
   "id": "1F8B40",
   "jp": "あま……",
-  "en": null,
+  "en": "So sweet......",
   "slots": [
    "5DD560"
   ]
@@ -1130,7 +1130,7 @@
  {
   "id": "1F8B34",
   "jp": "あ、あれ？",
-  "en": null,
+  "en": "Wh-what?",
   "slots": [
    "5DD584"
   ]
@@ -1138,7 +1138,7 @@
  {
   "id": "1F8B18",
   "jp": "おいしく…なかった、とか？",
-  "en": null,
+  "en": "You didn't... like it, or something?",
   "slots": [
    "5DD5A8"
   ]
@@ -1146,7 +1146,7 @@
  {
   "id": "1F8B0C",
   "jp": "…うん…",
-  "en": null,
+  "en": "...Yeah...",
   "slots": [
    "5DD5CC",
    "5E12B0",
@@ -1156,7 +1156,7 @@
  {
   "id": "1F8AFC",
   "jp": "ご、ごめん！",
-  "en": null,
+  "en": "S-sorry!",
   "slots": [
    "5DD5F0"
   ]
@@ -1164,7 +1164,7 @@
  {
   "id": "1F8ADC",
   "jp": "すぐちがうの買ってくるから！",
-  "en": null,
+  "en": "I'll go buy something else right away!",
   "slots": [
    "5DD614"
   ]
@@ -1172,7 +1172,7 @@
  {
   "id": "1F8AD0",
   "jp": "イラナイ…",
-  "en": null,
+  "en": "Don't want it...",
   "slots": [
    "5DD638"
   ]
@@ -1180,7 +1180,7 @@
  {
   "id": "1F8AC8",
   "jp": "レン…",
-  "en": null,
+  "en": "Ren...",
   "slots": [
    "5DD65C"
   ]
@@ -1188,7 +1188,7 @@
  {
   "id": "1F8AAC",
   "jp": "女のコって、むずかしい…",
-  "en": null,
+  "en": "Girls are complicated...",
   "slots": [
    "5DD680"
   ]
@@ -1196,7 +1196,7 @@
  {
   "id": "1F8A68",
   "jp": "けんこうブームってヤツ？\n体によさそうだし、\nこれにしようっと。",
-  "en": null,
+  "en": "That health craze thing? It looks good for you, so I'll go with this.",
   "slots": [
    "5DD6C8"
   ]
@@ -1204,7 +1204,7 @@
  {
   "id": "1F8A48",
   "jp": "レン、これのんでみてくれよ。",
-  "en": null,
+  "en": "Ren, try drinking this.",
   "slots": [
    "5DD710"
   ]
@@ -1212,7 +1212,7 @@
  {
   "id": "1F8A40",
   "jp": "うん…",
-  "en": null,
+  "en": "Okay...",
   "slots": [
    "5DD7A0",
    "5E1070"
@@ -1221,7 +1221,7 @@
  {
   "id": "1F8A28",
   "jp": "いける？　ダメそう？",
-  "en": null,
+  "en": "Can you handle it? No good?",
   "slots": [
    "5DD7C4"
   ]
@@ -1229,7 +1229,7 @@
  {
   "id": "1F8A14",
   "jp": "少し…でも平気…",
-  "en": null,
+  "en": "A little... but I'm fine...",
   "slots": [
    "5DD7E8"
   ]
@@ -1237,7 +1237,7 @@
  {
   "id": "1F8A08",
   "jp": "のめる。",
-  "en": null,
+  "en": "I can drink it.",
   "slots": [
    "5DD80C"
   ]
@@ -1245,7 +1245,7 @@
  {
   "id": "1F89F4",
   "jp": "…クーも…のんで…",
-  "en": null,
+  "en": "...Cou... you drink some too...",
   "slots": [
    "5DD830"
   ]
@@ -1253,7 +1253,7 @@
  {
   "id": "1F89EC",
   "jp": "おう。",
-  "en": null,
+  "en": "Sure.",
   "slots": [
    "5DD854"
   ]
@@ -1261,7 +1261,7 @@
  {
   "id": "1F89E0",
   "jp": "にがっ…",
-  "en": null,
+  "en": "Bitter...",
   "slots": [
    "5DD89C"
   ]
@@ -1269,7 +1269,7 @@
  {
   "id": "1F89B8",
   "jp": "何だよコレ…\nすっげぇニガイじゃん！",
-  "en": null,
+  "en": "What the heck is this... It's super bitter!",
   "slots": [
    "5DD8C0"
   ]
@@ -1277,7 +1277,7 @@
  {
   "id": "1F8980",
   "jp": "うわぁ～ッ\nニガッニガッニガッ！\nぐうううううううぅ…",
-  "en": null,
+  "en": "Waaugh~! Bitter, bitter, bitter! Ngggggghhh...",
   "slots": [
    "5DD8E4"
   ]
@@ -1285,7 +1285,7 @@
  {
   "id": "1F8970",
   "jp": "ダイジョウブ？",
-  "en": null,
+  "en": "Are you okay?",
   "slots": [
    "5DD908"
   ]
@@ -1293,7 +1293,7 @@
  {
   "id": "1F8948",
   "jp": "な、なんとか…\nレン、よくのんだな。",
-  "en": null,
+  "en": "I-I'll live... Ren, I can't believe you drank that.",
   "slots": [
    "5DD92C"
   ]
@@ -1301,7 +1301,7 @@
  {
   "id": "1F893C",
   "jp": "そうね…",
-  "en": null,
+  "en": "I guess...",
   "slots": [
    "5DD950"
   ]
@@ -1309,7 +1309,7 @@
  {
   "id": "1F8908",
   "jp": "こうばしいニオイが\nたまんねーぜ。\nこれにキマリ！",
-  "en": null,
+  "en": "That toasty smell is too good to resist. This one it is!",
   "slots": [
    "5DD998"
   ]
@@ -1317,7 +1317,7 @@
  {
   "id": "1F88FC",
   "jp": "おいしい。",
-  "en": null,
+  "en": "It's good.",
   "slots": [
    "5DDA70"
   ]
@@ -1325,7 +1325,7 @@
  {
   "id": "1F88F0",
   "jp": "だろ！？",
-  "en": null,
+  "en": "Right?!",
   "slots": [
    "5DDA94"
   ]
@@ -1333,7 +1333,7 @@
  {
   "id": "1F88C0",
   "jp": "やっぱうまいよな～。\n俺にもちょっとくれよ。",
-  "en": null,
+  "en": "Yep, it's tasty~ Gimme a little too.",
   "slots": [
    "5DDAB8"
   ]
@@ -1341,7 +1341,7 @@
  {
   "id": "1F88B8",
   "jp": "やだ。",
-  "en": null,
+  "en": "No.",
   "slots": [
    "5DDADC"
   ]
@@ -1349,7 +1349,7 @@
  {
   "id": "1F88B0",
   "jp": "へ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "5DDB00"
   ]
@@ -1357,7 +1357,7 @@
  {
   "id": "1F88A8",
   "jp": "ウソ。",
-  "en": null,
+  "en": "Kidding.",
   "slots": [
    "5DDB24"
   ]
@@ -1365,7 +1365,7 @@
  {
   "id": "1F8894",
   "jp": "はい、めしあがれ。",
-  "en": null,
+  "en": "Here, enjoy.",
   "slots": [
    "5DDB48"
   ]
@@ -1373,7 +1373,7 @@
  {
   "id": "1F887C",
   "jp": "いっただっきま～す。",
-  "en": null,
+  "en": "Don't mind if I do~",
   "slots": [
    "5DDB6C"
   ]
@@ -1381,7 +1381,7 @@
  {
   "id": "1F8870",
   "jp": "ンまいッ！",
-  "en": null,
+  "en": "Mmm, tasty!",
   "slots": [
    "5DDB90"
   ]
@@ -1389,7 +1389,7 @@
  {
   "id": "1F8858",
   "jp": "ほかも行ってみよっか？",
-  "en": null,
+  "en": "Wanna check out some other places?",
   "slots": [
    "5DDC20"
   ]
@@ -1397,7 +1397,7 @@
  {
   "id": "1F8824",
   "jp": "行ってもいいけど…\nここにいたほうが\nよくない？",
-  "en": null,
+  "en": "We can go, but... wouldn't it be better to stay here?",
   "slots": [
    "5DDC44"
   ]
@@ -1405,7 +1405,7 @@
  {
   "id": "1F87E8",
   "jp": "大丈夫だって。\nまだ約束まで時間あるし。\nな？　行こう？",
-  "en": null,
+  "en": "It's fine. We've still got time before the meetup. Right? Let's go?",
   "slots": [
    "5DDC68"
   ]
@@ -1413,7 +1413,7 @@
  {
   "id": "1F93F4",
   "jp": "ここがアークエイル\nポルトガレオン支部の\nようですね。",
-  "en": null,
+  "en": "This seems to be the Arc Aile Porto Galeon branch.",
   "slots": [
    "5DDCD4"
   ]
@@ -1421,7 +1421,7 @@
  {
   "id": "1F93AC",
   "jp": "私はこれから支部の人に会って\nエディルレイドの話などを\nきいてきます。",
-  "en": null,
+  "en": "I'm going to meet the people at the branch now and ask about Edel Raids and such.",
   "slots": [
    "5DDCF8"
   ]
@@ -1429,7 +1429,7 @@
  {
   "id": "1F9394",
   "jp": "いいですかクーさん。",
-  "en": null,
+  "en": "Now listen, Cou-san.",
   "slots": [
    "5DDD1C"
   ]
@@ -1437,7 +1437,7 @@
  {
   "id": "1F9388",
   "jp": "は、はい？",
-  "en": null,
+  "en": "Y-yes?",
   "slots": [
    "5DDD40"
   ]
@@ -1445,7 +1445,7 @@
  {
   "id": "1F9340",
   "jp": "レンさんがエディルレイドだと\nいうことは、けっして\n口にしないように。",
-  "en": null,
+  "en": "Never, ever mention that Ren-san is an Edel Raid.",
   "slots": [
    "5DDD64"
   ]
@@ -1453,7 +1453,7 @@
  {
   "id": "1F9330",
   "jp": "いいですね？",
-  "en": null,
+  "en": "Understood?",
   "slots": [
    "5DDD88"
   ]
@@ -1461,7 +1461,7 @@
  {
   "id": "1F9318",
   "jp": "おう…まかせとけって。",
-  "en": null,
+  "en": "Yeah... leave it to me.",
   "slots": [
    "5DDDAC"
   ]
@@ -1469,7 +1469,7 @@
  {
   "id": "1F92F0",
   "jp": "なぁ～んか、\nたよりないんですよね～。",
-  "en": null,
+  "en": "Somehow you just don't seem very reliable~",
   "slots": [
    "5DDDD0"
   ]
@@ -1477,7 +1477,7 @@
  {
   "id": "1F92E0",
   "jp": "まあいいです。",
-  "en": null,
+  "en": "Oh well.",
   "slots": [
    "5DDDF4"
   ]
@@ -1485,7 +1485,7 @@
  {
   "id": "1F92D4",
   "jp": "それと…",
-  "en": null,
+  "en": "And also...",
   "slots": [
    "5DDE18"
   ]
@@ -1493,7 +1493,7 @@
  {
   "id": "1F92B8",
   "jp": "これをわたしておきます。",
-  "en": null,
+  "en": "I'll give you this.",
   "slots": [
    "5DDE3C"
   ]
@@ -1501,7 +1501,7 @@
  {
   "id": "1F92A0",
   "jp": "何だよ、この板きれ。",
-  "en": null,
+  "en": "What's this, some scrap of board?",
   "slots": [
    "5DDE60"
   ]
@@ -1509,7 +1509,7 @@
  {
   "id": "1F9258",
   "jp": "これは先日アークエイルから\nすぐれた保護協会員にだけ\nわたされたもので",
-  "en": null,
+  "en": "Arc Aile recently handed these out only to outstanding members of the Protection Association,",
   "slots": [
    "5DDE84"
   ]
@@ -1517,7 +1517,7 @@
  {
   "id": "1F9228",
   "jp": "『アークエイルゴールドカード』\nと言います。",
-  "en": null,
+  "en": "and it's called the \"Arc Aile Gold Card.\"",
   "slots": [
    "5DDEA8"
   ]
@@ -1525,7 +1525,7 @@
  {
   "id": "1F91F0",
   "jp": "アークエイルの支部がある\nこの街では使えるでしょう。",
-  "en": null,
+  "en": "It should work in this town, since Arc Aile has a branch here.",
   "slots": [
    "5DDEF0"
   ]
@@ -1533,7 +1533,7 @@
  {
   "id": "1F91D4",
   "jp": "へぇ～こんなもんでねぇ。",
-  "en": null,
+  "en": "Huh~ With a thing like this?",
   "slots": [
    "5DDF14"
   ]
@@ -1541,7 +1541,7 @@
  {
   "id": "1F9198",
   "jp": "これで買い物をして\nお金は後でまとめて\nはらうんですよ。",
-  "en": null,
+  "en": "You shop with it, and pay all the money later in one go.",
   "slots": [
    "5DDF38"
   ]
@@ -1549,7 +1549,7 @@
  {
   "id": "1F917C",
   "jp": "何だ、お金はいるんじゃん。",
-  "en": null,
+  "en": "What, so you still need money.",
   "slots": [
    "5DDF5C"
   ]
@@ -1557,7 +1557,7 @@
  {
   "id": "1F9144",
   "jp": "お金を持ち歩かなくてよいという\nメリットがあるんです！",
-  "en": null,
+  "en": "The advantage is that you don't have to carry money around!",
   "slots": [
    "5DDF80"
   ]
@@ -1565,7 +1565,7 @@
  {
   "id": "1F9110",
   "jp": "もう…クーさんにおわたしするの\nやめようかしら…",
-  "en": null,
+  "en": "Honestly... maybe I shouldn't give it to you after all, Cou-san...",
   "slots": [
    "5DDFA4"
   ]
@@ -1573,7 +1573,7 @@
  {
   "id": "1F90CC",
   "jp": "俺は持ってなくていいぜ。\nシスカが持ってりゃ\nいいんじゃねーの？",
-  "en": null,
+  "en": "I don't need to hold it. Isn't it fine if you keep it, Cisqua?",
   "slots": [
    "5DDFC8"
   ]
@@ -1581,7 +1581,7 @@
  {
   "id": "1F90BC",
   "jp": "は、ハイッ！？",
-  "en": null,
+  "en": "Wh-what?!",
   "slots": [
    "5DDFEC"
   ]
@@ -1589,7 +1589,7 @@
  {
   "id": "1F9068",
   "jp": "あとでバザーにでもよって\nレンさんに何かプレゼントを\n買われてはいかがかしらーって",
-  "en": null,
+  "en": "I was thinking you might stop by the bazaar later and buy Ren-san a present or something~",
   "slots": [
    "5DE010"
   ]
@@ -1597,7 +1597,7 @@
  {
   "id": "1F903C",
   "jp": "思ったんですけどね。\nいりませんでしたか。",
-  "en": null,
+  "en": "That was my idea, anyway. I guess you didn't need it.",
   "slots": [
    "5DE034"
   ]
@@ -1605,7 +1605,7 @@
  {
   "id": "1F9034",
   "jp": "何で。",
-  "en": null,
+  "en": "Why's that?",
   "slots": [
    "5DE058"
   ]
@@ -1613,7 +1613,7 @@
  {
   "id": "1F9018",
   "jp": "『レン、何か買ってやるよ』",
-  "en": null,
+  "en": "\"Ren, I'll buy you something.\"",
   "slots": [
    "5DE07C"
   ]
@@ -1621,7 +1621,7 @@
  {
   "id": "1F9000",
   "jp": "『ありがとう、クー』",
-  "en": null,
+  "en": "\"Thank you, Cou.\"",
   "slots": [
    "5DE0A0"
   ]
@@ -1629,7 +1629,7 @@
  {
   "id": "1F8FE0",
   "jp": "とかいう話もできるでしょ！？",
-  "en": null,
+  "en": "You two could have a moment like that, you know?!",
   "slots": [
    "5DE0C4"
   ]
@@ -1637,7 +1637,7 @@
  {
   "id": "1F8FAC",
   "jp": "そういうものにトキメクんですよ\nオンナノコは！！",
-  "en": null,
+  "en": "Girls get all fluttery over that kind of thing!!",
   "slots": [
    "5DE0E8"
   ]
@@ -1645,7 +1645,7 @@
  {
   "id": "1F8F94",
   "jp": "やけに力はいってるな…",
-  "en": null,
+  "en": "She's awfully worked up...",
   "slots": [
    "5DE10C"
   ]
@@ -1653,7 +1653,7 @@
  {
   "id": "1F8F7C",
   "jp": "じゃあ、えんりょなく。",
-  "en": null,
+  "en": "Then I'll take it, no holding back.",
   "slots": [
    "5DE130"
   ]
@@ -1661,7 +1661,7 @@
  {
   "id": "1F8F34",
   "jp": "ことわっておきますが\nあまり使いすぎないよう\nよろしくお願いしますね。",
-  "en": null,
+  "en": "Just so you know, please be careful not to use it too much.",
   "slots": [
    "5DE154"
   ]
@@ -1669,7 +1669,7 @@
  {
   "id": "1F8F20",
   "jp": "オッケーオッケー。",
-  "en": null,
+  "en": "Okay, okay.",
   "slots": [
    "5DE178"
   ]
@@ -1677,7 +1677,7 @@
  {
   "id": "1F8F04",
   "jp": "へぇ、ゴールドカードねぇ。",
-  "en": null,
+  "en": "Heh, a Gold Card, huh.",
   "slots": [
    "5DE19C"
   ]
@@ -1685,7 +1685,7 @@
  {
   "id": "1F8EF4",
   "jp": "どうしたの？",
-  "en": null,
+  "en": "What's wrong?",
   "slots": [
    "5DE1C0",
    "5DF6D8"
@@ -1694,7 +1694,7 @@
  {
   "id": "1F8ED4",
   "jp": "ん？　別に何でもないよ、レン。",
-  "en": null,
+  "en": "Hm? Nothing at all, Ren.",
   "slots": [
    "5DE1E4"
   ]
@@ -1702,7 +1702,7 @@
  {
   "id": "1F8E98",
   "jp": "シスカ、後のことは\n心配しなくていいから。\n早く行けって。",
-  "en": null,
+  "en": "Cisqua, you don't have to worry about the rest. Just go already.",
   "slots": [
    "5DE208"
   ]
@@ -1710,7 +1710,7 @@
  {
   "id": "1F8E84",
   "jp": "わかってますよ。",
-  "en": null,
+  "en": "I know, I know.",
   "slots": [
    "5DE22C"
   ]
@@ -1718,7 +1718,7 @@
  {
   "id": "1F8E3C",
   "jp": "じゃあ、レンさん、クーさん。\n私がもどるまで\nここで待ってて下さいね。",
-  "en": null,
+  "en": "Well then, Ren-san, Cou-san. Please wait here until I get back.",
   "slots": [
    "5DE250"
   ]
@@ -1726,7 +1726,7 @@
  {
   "id": "1F8E2C",
   "jp": "わかったわ。",
-  "en": null,
+  "en": "All right.",
   "slots": [
    "5DE274"
   ]
@@ -1734,7 +1734,7 @@
  {
   "id": "1F8E14",
   "jp": "いってらっしゃーい。",
-  "en": null,
+  "en": "See ya~",
   "slots": [
    "5DE298"
   ]
@@ -1742,7 +1742,7 @@
  {
   "id": "1F8DF4",
   "jp": "さて、と。\nじゃあ行こうか。",
-  "en": null,
+  "en": "Well then. Shall we go?",
   "slots": [
    "5DE304"
   ]
@@ -1750,7 +1750,7 @@
  {
   "id": "1F8DE4",
   "jp": "行く…って？",
-  "en": null,
+  "en": "Go... where?",
   "slots": [
    "5DE328"
   ]
@@ -1758,7 +1758,7 @@
  {
   "id": "1F8DB8",
   "jp": "決まってんじゃん。\n街を見てまわるんだよ。",
-  "en": null,
+  "en": "Isn't it obvious? We're gonna look around town.",
   "slots": [
    "5DE34C"
   ]

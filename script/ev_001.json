@@ -911,7 +911,7 @@
  {
   "id": "1F7108",
   "jp": "彼なりにがんばってるんじゃ\nないかな。",
-  "en": null,
+  "en": "I think he's doing his best, in his own way.",
   "slots": [
    "5DB52C"
   ]
@@ -919,7 +919,7 @@
  {
   "id": "1F70DC",
   "jp": "それより、\nエディルレイドのことですけど…",
-  "en": null,
+  "en": "More importantly, about Edel Raids...",
   "slots": [
    "5DB550"
   ]
@@ -927,7 +927,7 @@
  {
   "id": "1F708C",
   "jp": "ポルトガレオンの人が\nエディルレイドに悪いイメージ\nでも持ってるんでしょうか…",
-  "en": null,
+  "en": "Do the people of Porto Galeon have a bad image of Edel Raids or something...?",
   "slots": [
    "5DB574"
   ]
@@ -935,7 +935,7 @@
  {
   "id": "1F7044",
   "jp": "そもそもエディルレイドを\n知ってるってだけでも\nめずらしいんですが…",
-  "en": null,
+  "en": "Then again, it's rare enough that they even know what an Edel Raid is...",
   "slots": [
    "5DB598"
   ]
@@ -943,7 +943,7 @@
  {
   "id": "1F7004",
   "jp": "まァ、ポルトガレオンには\nアークエイルの支部も\nあることですし",
-  "en": null,
+  "en": "Well, Porto Galeon does have an Arc Aile branch,",
   "slots": [
    "5DB5BC"
   ]
@@ -951,7 +951,7 @@
  {
   "id": "1F6FD0",
   "jp": "何か情報が無いか、きくために\nよってみましょう。",
-  "en": null,
+  "en": "so let's stop by and ask if they have any information.",
   "slots": [
    "5DB5E0"
   ]
@@ -959,7 +959,7 @@
  {
   "id": "1F6FB8",
   "jp": "げ、アークエイル！？",
-  "en": null,
+  "en": "Ugh, Arc Aile?!",
   "slots": [
    "5DB604"
   ]
@@ -967,7 +967,7 @@
  {
   "id": "1F6FA8",
   "jp": "大丈夫だよ。",
-  "en": null,
+  "en": "It's all right.",
   "slots": [
    "5DB628"
   ]
@@ -975,7 +975,7 @@
  {
   "id": "1F6F64",
   "jp": "アークエイルにレンちゃんを\n引きわたしたりしないから。\n約束する。",
-  "en": null,
+  "en": "We won't hand Ren-chan over to Arc Aile. I promise.",
   "slots": [
    "5DB64C"
   ]
@@ -983,7 +983,7 @@
  {
   "id": "1F6F58",
   "jp": "うう～ん…",
-  "en": null,
+  "en": "Hmm~...",
   "slots": [
    "5DB670"
   ]
@@ -991,7 +991,7 @@
  {
   "id": "1F6F4C",
   "jp": "信じるよ",
-  "en": null,
+  "en": "I trust you",
   "slots": [
    "5DB694"
   ]
@@ -999,7 +999,7 @@
  {
   "id": "1F6F3C",
   "jp": "ちょっと不安",
-  "en": null,
+  "en": "Kinda uneasy",
   "slots": [
    "5DB6B8"
   ]
@@ -1007,7 +1007,7 @@
  {
   "id": "1F6F0C",
   "jp": "うん。\nそうだよな。\nローとシスカなら大丈夫…",
-  "en": null,
+  "en": "Yeah. You're right. With Ro and Cisqua, she'll be fine...",
   "slots": [
    "5DB700"
   ]
@@ -1015,7 +1015,7 @@
  {
   "id": "1F6EC8",
   "jp": "って、二人を信じたとしても\nほかのヤツラまで信じろって\n言うのか？",
-  "en": null,
+  "en": "I mean, even if I trust you two, you want me to trust the rest of 'em too?",
   "slots": [
    "5DB724"
   ]
@@ -1023,7 +1023,7 @@
  {
   "id": "1F6EB4",
   "jp": "まかせて下さい。",
-  "en": null,
+  "en": "Leave it to me.",
   "slots": [
    "5DB748"
   ]
@@ -1031,7 +1031,7 @@
  {
   "id": "1F6E60",
   "jp": "アークエイルのほかの方々には\nレンさんに手を出さないよう\nキツく注意しておきます。",
-  "en": null,
+  "en": "I'll give the other members of Arc Aile a stern warning not to lay a hand on Ren-san.",
   "slots": [
    "5DB76C"
   ]
@@ -1039,7 +1039,7 @@
  {
   "id": "1F6E14",
   "jp": "アークエイルが保護するのは\n人間の自分勝手な行動で\n不幸な目にあっていたり",
-  "en": null,
+  "en": "The only Edel Raids Arc Aile takes into protection are those made miserable by selfish humans,",
   "slots": [
    "5DB790"
   ]
@@ -1047,7 +1047,7 @@
  {
   "id": "1F6DE4",
   "jp": "力が強すぎて危険な\nエディルレイドだけです。",
-  "en": null,
+  "en": "or those whose power is dangerously strong.",
   "slots": [
    "5DB7B4"
   ]
@@ -1055,7 +1055,7 @@
  {
   "id": "1F6D9C",
   "jp": "それでもレンさんをどうこう\nしよう、なんて人がいたら\n私がこの手で…",
-  "en": null,
+  "en": "And if anyone still tried to do something to Ren-san, I would personally...",
   "slots": [
    "5DB7D8"
   ]
@@ -1063,7 +1063,7 @@
  {
   "id": "1F6D74",
   "jp": "先輩！\nストップ！　ストップですよ！！",
-  "en": null,
+  "en": "Senpai! Stop! Stop right there!!",
   "slots": [
    "5DB7FC"
   ]
@@ -1071,7 +1071,7 @@
  {
   "id": "1F6D34",
   "jp": "先輩が手を出さなくても\n話をすればわかってくれると\n思います。",
-  "en": null,
+  "en": "You don't have to lift a finger, Senpai. I think they'll understand if you just talk to them.",
   "slots": [
    "5DB820"
   ]
@@ -1079,7 +1079,7 @@
  {
   "id": "1F6CEC",
   "jp": "エディルレイドの話どころか\n給料へらされちゃっても\n知りませんからね…",
-  "en": null,
+  "en": "Never mind the Edel Raids, don't blame me if they dock your pay...",
   "slots": [
    "5DB844"
   ]
@@ -1087,7 +1087,7 @@
  {
   "id": "1F6CC8",
   "jp": "あら………\nそ、それもそうですね。",
-  "en": null,
+  "en": "Oh......... W-well, that's true.",
   "slots": [
    "5DB868"
   ]
@@ -1095,7 +1095,7 @@
  {
   "id": "1F6C80",
   "jp": "ワタクシとしたことが\nつい、力にモノ言わせて\nあばれるところでした。",
-  "en": null,
+  "en": "How unlike me. I nearly went on a rampage and let my strength do the talking.",
   "slots": [
    "5DB88C"
   ]
@@ -1103,7 +1103,7 @@
  {
   "id": "1F6C40",
   "jp": "とにかくクーさん。\n何度も言いますが、\n私たちを信じて下さい。",
-  "en": null,
+  "en": "Anyway, Cou-san. I'll say it as many times as it takes: please trust us.",
   "slots": [
    "5DB8B0"
   ]
@@ -1111,7 +1111,7 @@
  {
   "id": "1F6C2C",
   "jp": "…別のイミで心配…",
-  "en": null,
+  "en": "...Now I'm worried for a different reason...",
   "slots": [
    "5DB8D4"
   ]
@@ -1119,7 +1119,7 @@
  {
   "id": "1F6BF4",
   "jp": "え？　なぜです？\n私の説明、伝わりません\nでしたか…？",
-  "en": null,
+  "en": "Huh? Why? Did my explanation not get through...?",
   "slots": [
    "5DB8F8"
   ]
@@ -1127,7 +1127,7 @@
  {
   "id": "1F6BAC",
   "jp": "シスカは、すぐに武器取り出して\nうったりするんじゃないかって\n心配よ。",
-  "en": null,
+  "en": "He's worried you'll whip out your weapons and start shooting at the drop of a hat.",
   "slots": [
    "5DB91C"
   ]
@@ -1135,7 +1135,7 @@
  {
   "id": "1F6B5C",
   "jp": "や…イヤですよ…\nそんなことするワケないでしょ？\nお、おほ、オホホホホホッ。",
-  "en": null,
+  "en": "Oh... d-don't be silly... As if I'd ever do such a thing, right? Oh, oho, ohohohohoho!",
   "slots": [
    "5DB940"
   ]
@@ -1143,7 +1143,7 @@
  {
   "id": "1F6B50",
   "jp": "コワイ。",
-  "en": null,
+  "en": "Scary.",
   "slots": [
    "5DB964"
   ]
@@ -1151,7 +1151,7 @@
  {
   "id": "1F6B40",
   "jp": "レンさんまで…",
-  "en": null,
+  "en": "Even you, Ren-san...",
   "slots": [
    "5DB988"
   ]
@@ -1159,7 +1159,7 @@
  {
   "id": "1F6AFC",
   "jp": "大丈夫って言っても…\nアークエイルはレンを\nつかまえたいんだろ？",
-  "en": null,
+  "en": "Even if you say it's fine... Arc Aile wants to catch Ren, right?",
   "slots": [
    "5DB9AC"
   ]
@@ -1167,7 +1167,7 @@
  {
   "id": "1F6AB4",
   "jp": "本当のことを言いますと\nレンさんにとって、\n何が安全でイチバンなのか…",
-  "en": null,
+  "en": "To tell you the truth, what would be safest and best for Ren-san...",
   "slots": [
    "5DB9F4"
   ]
@@ -1175,7 +1175,7 @@
  {
   "id": "1F6A9C",
   "jp": "考えなくはないんです。",
-  "en": null,
+  "en": "It's not as if I haven't thought about it.",
   "slots": [
    "5DBA18"
   ]
@@ -1183,7 +1183,7 @@
  {
   "id": "1F6A58",
   "jp": "レンさんが『七煌宝樹』という\n特別なエディルレイドだと\nいうこと。",
-  "en": null,
+  "en": "Ren-san is a special Edel Raid, one of the \"Seven Glittering Jewels.\"",
   "slots": [
    "5DBA3C"
   ]
@@ -1191,7 +1191,7 @@
  {
   "id": "1F6A10",
   "jp": "それをねらって、レンさんを\n手に入れようとする人間は\n後をたちません。",
-  "en": null,
+  "en": "There's no end to the people who are after that, trying to get their hands on Ren-san.",
   "slots": [
    "5DBA60"
   ]
@@ -1199,7 +1199,7 @@
  {
   "id": "1F69CC",
   "jp": "それでも私は、レンさんを\nエディルガーデンへ\nお連れしたいんです。",
-  "en": null,
+  "en": "Even so, I want to take Ren-san to Edel Garden.",
   "slots": [
    "5DBA84"
   ]
@@ -1207,7 +1207,7 @@
  {
   "id": "1F69C0",
   "jp": "シスカ…",
-  "en": null,
+  "en": "Cisqua...",
   "slots": [
    "5DBAA8",
    "5DBCA0"
@@ -1216,7 +1216,7 @@
  {
   "id": "1F6974",
   "jp": "まあ、シスカやローたちが\nどうがんばったって\nアークエイルの上の人たちが",
-  "en": null,
+  "en": "Well, no matter how hard Cisqua and Ro try, if the higher-ups at Arc Aile",
   "slots": [
    "5DBACC"
   ]
@@ -1224,7 +1224,7 @@
  {
   "id": "1F6920",
   "jp": "レンちゃんをつかまえろって\n言ったら、ほかの保護官は\nこぞってつかまえに来るわね。",
-  "en": null,
+  "en": "order Ren-chan's capture, the other protection officers will all come after her at once.",
   "slots": [
    "5DBAF0"
   ]
@@ -1232,7 +1232,7 @@
  {
   "id": "1F690C",
   "jp": "そうじゃないんだ。",
-  "en": null,
+  "en": "That's not it.",
   "slots": [
    "5DBB14"
   ]
@@ -1240,7 +1240,7 @@
  {
   "id": "1F68DC",
   "jp": "そういうことを言いたいんじゃ\nないんだけど…",
-  "en": null,
+  "en": "That's not what I'm trying to say, but...",
   "slots": [
    "5DBB38"
   ]
@@ -1248,7 +1248,7 @@
  {
   "id": "1F68A8",
   "jp": "私がいるから、クーやみんなに\n迷惑かけちゃうね。",
-  "en": null,
+  "en": "Because I'm here, I'm causing trouble for you and everyone, Cou.",
   "slots": [
    "5DBB80"
   ]
@@ -1256,7 +1256,7 @@
  {
   "id": "1F6874",
   "jp": "えッ！？　何言ってるんだよ。\nゼンゼンちがうって。",
-  "en": null,
+  "en": "Huh?! What are you saying? That's not it at all.",
   "slots": [
    "5DBBA4"
   ]
@@ -1264,7 +1264,7 @@
  {
   "id": "1F6860",
   "jp": "約束したから、さ…",
-  "en": null,
+  "en": "It's 'cause I made a promise...",
   "slots": [
    "5DBBC8"
   ]
@@ -1272,7 +1272,7 @@
  {
   "id": "1F6818",
   "jp": "エディルガーデンへ連れてって\nやれなかったらって\n考えると不安なんだ。",
-  "en": null,
+  "en": "I get uneasy thinking I might not be able to take you to Edel Garden.",
   "slots": [
    "5DBC10"
   ]
@@ -1280,7 +1280,7 @@
  {
   "id": "1F67C0",
   "jp": "どんなヤツラがおそってきても\nレンのこと、ちゃんと守れるか\n悩むんだ。おかしいだろ。",
-  "en": null,
+  "en": "No matter who comes after us, I worry if I can really protect you, Ren. Pretty silly, huh?",
   "slots": [
    "5DBC34"
   ]
@@ -1288,7 +1288,7 @@
  {
   "id": "1F6788",
   "jp": "おかしいですッ！\nちゃんちゃらおかしいです\nクーさん！",
-  "en": null,
+  "en": "It IS silly! Utterly ridiculous, Cou-san!",
   "slots": [
    "5DBC7C"
   ]
@@ -1296,7 +1296,7 @@
  {
   "id": "1F6740",
   "jp": "クーさんがレンさんを守る？\nそんなのできるわけ\nないじゃないですか。",
-  "en": null,
+  "en": "You, protect Ren-san? There's no way you could do that.",
   "slots": [
    "5DBCC4"
   ]
@@ -1304,7 +1304,7 @@
  {
   "id": "1F66FC",
   "jp": "いいですか、クーさん。\nあなたはラッキーボーイな\nだけなんです。",
-  "en": null,
+  "en": "Listen, Cou-san. You're nothing but a lucky boy.",
   "slots": [
    "5DBCE8"
   ]
@@ -1312,7 +1312,7 @@
  {
   "id": "1F66C4",
   "jp": "レンさんと知り合えただけでも\nラッキーなんですよ！？",
-  "en": null,
+  "en": "Just getting to know Ren-san makes you lucky, you know?!",
   "slots": [
    "5DBD0C"
   ]
@@ -1320,7 +1320,7 @@
  {
   "id": "1F6694",
   "jp": "さぁ。\n両手をあげてよろこんで\n見せて下さい。",
-  "en": null,
+  "en": "Now then. Hands up, and show me how happy you are.",
   "slots": [
    "5DBD30"
   ]
@@ -1328,7 +1328,7 @@
  {
   "id": "1F6678",
   "jp": "先輩、武器はいけません…",
-  "en": null,
+  "en": "Senpai, no weapons...",
   "slots": [
    "5DBD54"
   ]
@@ -1336,7 +1336,7 @@
  {
   "id": "1F662C",
   "jp": "そしてレンさんのそばに\nいてあげて下さい。\nレンさんはあなただけじゃない…",
-  "en": null,
+  "en": "And stay by Ren-san's side. Ren-san doesn't just have you...",
   "slots": [
    "5DBD9C"
   ]
@@ -1344,7 +1344,7 @@
  {
   "id": "1F65FC",
   "jp": "ローウェンとキーア、\nそれから私が守ります。",
-  "en": null,
+  "en": "Rowen, Kea and I will protect her too.",
   "slots": [
    "5DBDC0"
   ]
@@ -1352,7 +1352,7 @@
  {
   "id": "1F65D0",
   "jp": "必ず行きましょう。\nエディルガーデンへ。",
-  "en": null,
+  "en": "We'll make it there, no matter what. To Edel Garden.",
   "slots": [
    "5DBDE4"
   ]
@@ -1360,7 +1360,7 @@
  {
   "id": "1F65C4",
   "jp": "…シスカ…",
-  "en": null,
+  "en": "...Cisqua...",
   "slots": [
    "5DBE08"
   ]
@@ -1368,7 +1368,7 @@
  {
   "id": "1F65A4",
   "jp": "そうだよな。\nみんなで行こう…",
-  "en": null,
+  "en": "Yeah, you're right. Let's all go together...",
   "slots": [
    "5DBE2C"
   ]
@@ -1376,7 +1376,7 @@
  {
   "id": "1F658C",
   "jp": "エディルガーデンへ。",
-  "en": null,
+  "en": "To Edel Garden.",
   "slots": [
    "5DBE50"
   ]
@@ -1384,7 +1384,7 @@
  {
   "id": "1F6570",
   "jp": "アークエイルはこわくない？",
-  "en": null,
+  "en": "Aren't you scared of Arc Aile?",
   "slots": [
    "5DBE98"
   ]
@@ -1392,7 +1392,7 @@
  {
   "id": "1F6564",
   "jp": "どうして？",
-  "en": null,
+  "en": "Why?",
   "slots": [
    "5DBEE0"
   ]
@@ -1400,7 +1400,7 @@
  {
   "id": "1F651C",
   "jp": "だってねらわれるのは\nレン本人じゃんか。\n本人にきくのがイチバンって…",
-  "en": null,
+  "en": "Well, you're the one they're after, Ren. I figured asking you was the best way...",
   "slots": [
    "5DBF04"
   ]
@@ -1408,7 +1408,7 @@
  {
   "id": "1F650C",
   "jp": "ねぇ、クー。",
-  "en": null,
+  "en": "Hey, Cou.",
   "slots": [
    "5DBF4C"
   ]
@@ -1416,7 +1416,7 @@
  {
   "id": "1F6504",
   "jp": "何？",
-  "en": null,
+  "en": "What?",
   "slots": [
    "5DBF70"
   ]
@@ -1424,7 +1424,7 @@
  {
   "id": "1F64D0",
   "jp": "クーは本当にシスカやローを\n信じたことがないの？",
-  "en": null,
+  "en": "Have you really never trusted Cisqua and Ro?",
   "slots": [
    "5DBF94"
   ]
@@ -1432,7 +1432,7 @@
  {
   "id": "1F64C8",
   "jp": "え…",
-  "en": null,
+  "en": "Huh...",
   "slots": [
    "5DBFB8"
   ]
@@ -1440,7 +1440,7 @@
  {
   "id": "1F647C",
   "jp": "私はシスカやロー、キーアが\n私とクーのために\nいろいろしてくれたと思う。",
-  "en": null,
+  "en": "I think Cisqua, Ro and Kea have done a lot for you and me.",
   "slots": [
    "5DBFDC"
   ]
@@ -1448,7 +1448,7 @@
  {
   "id": "1F6448",
   "jp": "こうやって、今いっしょに\nいるのだって心強いし。",
-  "en": null,
+  "en": "Being together with them like this is reassuring, too.",
   "slots": [
    "5DC000"
   ]
@@ -1456,7 +1456,7 @@
  {
   "id": "1F6418",
   "jp": "私たち二人だけじゃ\nできないこともきっとある。",
-  "en": null,
+  "en": "There must be things the two of us can't do alone.",
   "slots": [
    "5DC024"
   ]
@@ -1464,7 +1464,7 @@
  {
   "id": "1F640C",
   "jp": "だから…",
-  "en": null,
+  "en": "So...",
   "slots": [
    "5DC048"
   ]
@@ -1472,7 +1472,7 @@
  {
   "id": "1F6400",
   "jp": "レンさん…",
-  "en": null,
+  "en": "Ren-san...",
   "slots": [
    "5DC06C"
   ]
@@ -1480,7 +1480,7 @@
  {
   "id": "1F63B8",
   "jp": "そうだよな…\nヘンなこときいてごめんな。\nシスカも、ローも、キーアも。",
-  "en": null,
+  "en": "Yeah, you're right... Sorry for asking something weird. Cisqua, Ro, Kea, all of you.",
   "slots": [
    "5DC0B4"
   ]
@@ -1488,7 +1488,7 @@
  {
   "id": "1F638C",
   "jp": "問題なしだよ。\nみんなでがんばっていこう。",
-  "en": null,
+  "en": "No problem at all. Let's all do our best together.",
   "slots": [
    "5DC0FC"
   ]
@@ -1496,7 +1496,7 @@
  {
   "id": "1F6358",
   "jp": "もォ、おなかがすいてんだから\n早く行きましょうよ！",
-  "en": null,
+  "en": "Geez, I'm starving, so let's hurry up and go!",
   "slots": [
    "5DC120"
   ]
@@ -1504,7 +1504,7 @@
  {
   "id": "1F6328",
   "jp": "ポルトガレオンは、もう目の前\nなんだからね！",
-  "en": null,
+  "en": "Porto Galeon is right in front of us!",
   "slots": [
    "5DC144"
   ]
@@ -1512,7 +1512,7 @@
  {
   "id": "1F6320",
   "jp": "ああ。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "5DC168"
   ]
@@ -1520,7 +1520,7 @@
  {
   "id": "1F87A8",
   "jp": "それにしても…\nちっさい街にしちゃあ\n人がたくさんいそうだな。",
-  "en": null,
+  "en": "Still... for such a tiny town, it looks like there's a ton of people.",
   "slots": [
    "5DC1B0"
   ]
@@ -1528,7 +1528,7 @@
  {
   "id": "1F8764",
   "jp": "港があるから物が集まって\n物が集まるから人が\n集まるんだろうね。",
-  "en": null,
+  "en": "The port brings in goods, and the goods bring in people, I guess.",
   "slots": [
    "5DC1D4"
   ]
@@ -1536,7 +1536,7 @@
  {
   "id": "1F875C",
   "jp": "海…",
-  "en": null,
+  "en": "The sea...",
   "slots": [
    "5DC1F8"
   ]
@@ -1544,7 +1544,7 @@
  {
   "id": "1F8750",
   "jp": "ひろい…",
-  "en": null,
+  "en": "So big...",
   "slots": [
    "5DC21C"
   ]
@@ -1552,7 +1552,7 @@
  {
   "id": "1F872C",
   "jp": "さぁって、\n食べ物はどこかしら～？",
-  "en": null,
+  "en": "Now then, where's the food~?",
   "slots": [
    "5DC240"
   ]
@@ -1560,7 +1560,7 @@
  {
   "id": "1F8704",
   "jp": "キーアはホント\n食べることばっかだな。",
-  "en": null,
+  "en": "Kea, all you ever think about is eating.",
   "slots": [
    "5DC264"
   ]
@@ -1568,7 +1568,7 @@
  {
   "id": "1F86EC",
   "jp": "何をおっしゃいます。",
-  "en": null,
+  "en": "Whatever do you mean?",
   "slots": [
    "5DC288"
   ]
@@ -1576,7 +1576,7 @@
  {
   "id": "1F86B8",
   "jp": "食べ物が気になるのは\nキーアだけではないですよ。",
-  "en": null,
+  "en": "Kea isn't the only one who's curious about the food.",
   "slots": [
    "5DC2AC"
   ]
@@ -1584,7 +1584,7 @@
  {
   "id": "1F8670",
   "jp": "はじめて来た場所で\nいったい何がおいしいのか。\nそれが観光の楽しみッ！",
-  "en": null,
+  "en": "Finding out what's delicious in a place you've never been before. That's the joy of sightseeing!",
   "slots": [
    "5DC2D0"
   ]
@@ -1592,7 +1592,7 @@
  {
   "id": "1F8630",
   "jp": "あッ！　あそこおいしそうな\n煙が出てる！！\n早く食べた～い！",
-  "en": null,
+  "en": "Ah! Over there, tasty-looking smoke!! I wanna eat, quick~!",
   "slots": [
    "5DC2F4"
   ]
@@ -1600,7 +1600,7 @@
  {
   "id": "1F85DC",
   "jp": "どこ、どこですかッ！？\nああ～私、がまんできません…\nスイーツを！　スイーツを！！",
-  "en": null,
+  "en": "Where, where?! Oh~ I can't hold back... Sweets! Give me sweets!!",
   "slots": [
    "5DC318"
   ]
@@ -1608,7 +1608,7 @@
  {
   "id": "1F85B8",
   "jp": "待って下さい、先輩！\nキーアも！",
-  "en": null,
+  "en": "Wait, Senpai! You too, Kea!",
   "slots": [
    "5DC33C"
   ]

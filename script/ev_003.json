@@ -2,7 +2,7 @@
  {
   "id": "1F8D90",
   "jp": "だってシスカが\nここで待ってろ、って。",
-  "en": null,
+  "en": "But Cisqua said to wait here.",
   "slots": [
    "5DE370"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "1F8D48",
   "jp": "そんなのマジメに守って\nおとなしくしてるなんて\nシスカも思ってないさ。",
-  "en": null,
+  "en": "Even Cisqua doesn't think we'll actually obey that and sit tight.",
   "slots": [
    "5DE394"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "1F8D18",
   "jp": "だからあんなカードを\n俺にわたしたんだろうし…",
-  "en": null,
+  "en": "That's probably why she gave me that card, anyway...",
   "slots": [
    "5DE3B8"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "1F8D0C",
   "jp": "カード？",
-  "en": null,
+  "en": "Card?",
   "slots": [
    "5DE3DC"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "1F8CEC",
   "jp": "ううん。\nな、何でもないって。",
-  "en": null,
+  "en": "Nah. N-nothing, really.",
   "slots": [
    "5DE400"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "1F8CE0",
   "jp": "行こう！",
-  "en": null,
+  "en": "Let's go!",
   "slots": [
    "5DE424"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "1F9AFC",
   "jp": "宿って…どこにすりゃいいんだ？\nどこでもいいの？",
-  "en": null,
+  "en": "An inn... Where should we stay? Does anywhere work?",
   "slots": [
    "5DE4B4"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "1F9AB8",
   "jp": "そうだね、できれば安くて\n料理がおいしいところが\nいいんだけど…",
-  "en": null,
+  "en": "Well, ideally somewhere cheap with good food...",
   "slots": [
    "5DE4D8"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "1F9A88",
   "jp": "どこもきれいな建物で\n見た目ではわからないな。",
-  "en": null,
+  "en": "All the buildings are so nice, you can't tell by looking.",
   "slots": [
    "5DE4FC"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "1F9A5C",
   "jp": "じゃーん。\nここであたしの出番なわけよね。",
-  "en": null,
+  "en": "Ta-da! This is where I come in.",
   "slots": [
    "5DE520"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "1F9A2C",
   "jp": "キーア様にだまってまかせば\nピタリと当たる。",
-  "en": null,
+  "en": "Just leave it to Kea-sama, and she'll hit the mark.",
   "slots": [
    "5DE544"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "1F99F0",
   "jp": "おいしい料理のにおいを\nみごと、かぎ当てて\nみせましょう。",
-  "en": null,
+  "en": "I shall brilliantly sniff out the smell of delicious food!",
   "slots": [
    "5DE568"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "1F99DC",
   "jp": "クンクンクンクン…",
-  "en": null,
+  "en": "Sniff sniff sniff sniff...",
   "slots": [
    "5DE58C"
   ]
@@ -106,7 +106,7 @@
  {
   "id": "1F99D0",
   "jp": "キーア！？",
-  "en": null,
+  "en": "Kea?!",
   "slots": [
    "5DE5D4"
   ]
@@ -114,7 +114,7 @@
  {
   "id": "1F99B8",
   "jp": "って…大丈夫なのか？",
-  "en": null,
+  "en": "Uh... is she gonna be okay?",
   "slots": [
    "5DE5F8"
   ]
@@ -122,7 +122,7 @@
  {
   "id": "1F9970",
   "jp": "まあ、どうせ迷ってるなら\n決めてもらったほうが\nいいんじゃないかな。",
-  "en": null,
+  "en": "Well, since we can't decide anyway, it's probably better to let her choose.",
   "slots": [
    "5DE61C"
   ]
@@ -130,7 +130,7 @@
  {
   "id": "1F9938",
   "jp": "それに、食べ物のことになったら\nキーアはすごいからね。",
-  "en": null,
+  "en": "Besides, when it comes to food, Kea is amazing.",
   "slots": [
    "5DE640"
   ]
@@ -138,7 +138,7 @@
  {
   "id": "1F9928",
   "jp": "ココーッ！！",
-  "en": null,
+  "en": "This one!!",
   "slots": [
    "5DE664"
   ]
@@ -146,7 +146,7 @@
  {
   "id": "1F9910",
   "jp": "あら、いらっしゃい。",
-  "en": null,
+  "en": "Oh my, welcome.",
   "slots": [
    "5DE6D0"
   ]
@@ -154,7 +154,7 @@
  {
   "id": "1F98F8",
   "jp": "おいしそーなにおい～。",
-  "en": null,
+  "en": "Smells yummy~",
   "slots": [
    "5DE6F4"
   ]
@@ -162,7 +162,7 @@
  {
   "id": "1F98E4",
   "jp": "フフ。ありがとね。",
-  "en": null,
+  "en": "Heh. Thank you, dear.",
   "slots": [
    "5DE718"
   ]
@@ -170,7 +170,7 @@
  {
   "id": "1F98B0",
   "jp": "お客さんたちは今日の宿は\nもう決まってるのかね？",
-  "en": null,
+  "en": "Have you folks already settled on a place to stay tonight?",
   "slots": [
    "5DE73C"
   ]
@@ -178,7 +178,7 @@
  {
   "id": "1F9890",
   "jp": "今探しているところなんです。",
-  "en": null,
+  "en": "We're looking for one right now.",
   "slots": [
    "5DE760"
   ]
@@ -186,7 +186,7 @@
  {
   "id": "1F9868",
   "jp": "おいしい料理のトコが\nイイわァ～！！",
-  "en": null,
+  "en": "Somewhere with yummy food would be grea~t!!",
   "slots": [
    "5DE784"
   ]
@@ -194,7 +194,7 @@
  {
   "id": "1F981C",
   "jp": "そうかいそうかい。\nじゃ、とりあえずウチの料理も\n食べてみてもらおうかね？",
-  "en": null,
+  "en": "I see, I see. Well then, why don't you try our cooking first?",
   "slots": [
    "5DE7A8"
   ]
@@ -202,7 +202,7 @@
  {
   "id": "1F9800",
   "jp": "うわお。\nだってさ、ロー。",
-  "en": null,
+  "en": "Wow. You hear that, Ro?",
   "slots": [
    "5DE7CC"
   ]
@@ -210,7 +210,7 @@
  {
   "id": "1F97D8",
   "jp": "それじゃ、先にごはんだけ\nもらおっか。",
-  "en": null,
+  "en": "Then let's just get a meal first.",
   "slots": [
    "5DE7F0"
   ]
@@ -218,7 +218,7 @@
  {
   "id": "1F97B0",
   "jp": "えーっと、あなたは\nこちらの宿の…？",
-  "en": null,
+  "en": "Um, and you are... with this inn...?",
   "slots": [
    "5DE814"
   ]
@@ -226,7 +226,7 @@
  {
   "id": "1F9798",
   "jp": "おかみをやってます。",
-  "en": null,
+  "en": "I'm the landlady here.",
   "slots": [
    "5DE838"
   ]
@@ -234,7 +234,7 @@
  {
   "id": "1F9788",
   "jp": "おかみさん…",
-  "en": null,
+  "en": "The landlady...",
   "slots": [
    "5DE85C"
   ]
@@ -242,7 +242,7 @@
  {
   "id": "1F9758",
   "jp": "おばーちゃん、おすすめ！\nおすすめ料理出して！",
-  "en": null,
+  "en": "Granny, what's good? Bring us your best dish!",
   "slots": [
    "5DE880"
   ]
@@ -250,7 +250,7 @@
  {
   "id": "1F9744",
   "jp": "こら、キーアッ！",
-  "en": null,
+  "en": "Hey, Kea!",
   "slots": [
    "5DE8A4"
   ]
@@ -258,7 +258,7 @@
  {
   "id": "1F96F4",
   "jp": "フフフ。気にしないでおくれ。\nみんな好きに呼んでくれれば\nアタシもうれしいよ。",
-  "en": null,
+  "en": "Heh heh. Don't you worry. Folks can call me whatever they like; it makes me happy.",
   "slots": [
    "5DE8C8"
   ]
@@ -266,7 +266,7 @@
  {
   "id": "1F96E4",
   "jp": "すみません…",
-  "en": null,
+  "en": "I'm sorry...",
   "slots": [
    "5DE8EC"
   ]
@@ -274,7 +274,7 @@
  {
   "id": "1F96A0",
   "jp": "じゃ、とりあえず料理を\nもらうことにするとして\n二人も食べるかい？",
-  "en": null,
+  "en": "So, I'll be getting some food for now. Are you two eating too?",
   "slots": [
    "5DE910"
   ]
@@ -282,7 +282,7 @@
  {
   "id": "1F9670",
   "jp": "うーん、まだそんな\nハラへってないんだよな。",
-  "en": null,
+  "en": "Hmm, I'm not that hungry yet.",
   "slots": [
    "5DE934"
   ]
@@ -290,7 +290,7 @@
  {
   "id": "1F9650",
   "jp": "それよか街の中歩きたいかも。",
-  "en": null,
+  "en": "I'd kinda rather walk around town.",
   "slots": [
    "5DE958"
   ]
@@ -298,7 +298,7 @@
  {
   "id": "1F9640",
   "jp": "レンちゃんは？",
-  "en": null,
+  "en": "What about you, Ren-chan?",
   "slots": [
    "5DE97C"
   ]
@@ -306,7 +306,7 @@
  {
   "id": "1F9624",
   "jp": "私も、おなかはすいてない。",
-  "en": null,
+  "en": "I'm not hungry either.",
   "slots": [
    "5DE9A0"
   ]
@@ -314,7 +314,7 @@
  {
   "id": "1F95DC",
   "jp": "それじゃ、このカード\n二人にわたしておくから\nあそびに行っておいで。",
-  "en": null,
+  "en": "Then I'll give this card to you two. Go have some fun.",
   "slots": [
    "5DE9C4"
   ]
@@ -322,7 +322,7 @@
  {
   "id": "1F95A4",
   "jp": "ええっ！？\nだってこれがなかったら\nここのお金とか…",
-  "en": null,
+  "en": "Whoa?! But without this, how will you pay for stuff here...",
   "slots": [
    "5DEA0C"
   ]
@@ -330,7 +330,7 @@
  {
   "id": "1F9588",
   "jp": "じつは僕も持ってるんだ。",
-  "en": null,
+  "en": "Actually, I have one too.",
   "slots": [
    "5DEA30"
   ]
@@ -338,7 +338,7 @@
  {
   "id": "1F9560",
   "jp": "でも、シスカ先輩には\nないしょだよ？",
-  "en": null,
+  "en": "But keep it a secret from Cisqua-senpai, okay?",
   "slots": [
    "5DEA54"
   ]
@@ -346,7 +346,7 @@
  {
   "id": "1F9524",
   "jp": "先輩にハナを持たせるために\nもらったって言ってないんだ。",
-  "en": null,
+  "en": "I haven't told her I got one, so she can have the credit.",
   "slots": [
    "5DEA78"
   ]
@@ -354,7 +354,7 @@
  {
   "id": "1F94D0",
   "jp": "とりあえずの食事代なら\nさっきのお金があるし、後は\nシスカ先輩にたよるつもりだよ。",
-  "en": null,
+  "en": "The money from earlier will cover meals for now, and after that I plan to rely on Cisqua-senpai.",
   "slots": [
    "5DEA9C"
   ]
@@ -362,7 +362,7 @@
  {
   "id": "1F94B4",
   "jp": "そっかー。たいへんだな。",
-  "en": null,
+  "en": "I see. Tough life, huh.",
   "slots": [
    "5DEAC0"
   ]
@@ -370,7 +370,7 @@
  {
   "id": "1F949C",
   "jp": "んじゃ、かりてくゼ。",
-  "en": null,
+  "en": "Well then, I'll borrow it!",
   "slots": [
    "5DEAE4"
   ]
@@ -378,7 +378,7 @@
  {
   "id": "1F9470",
   "jp": "うん。待ち合わせには\nおくれないようにね。",
-  "en": null,
+  "en": "Sure. Don't be late for the meetup.",
   "slots": [
    "5DEB08"
   ]
@@ -386,7 +386,7 @@
  {
   "id": "1F945C",
   "jp": "わかってるって。",
-  "en": null,
+  "en": "I know, I know.",
   "slots": [
    "5DEB2C"
   ]
@@ -394,7 +394,7 @@
  {
   "id": "1F9444",
   "jp": "いってらっしゃ～い。",
-  "en": null,
+  "en": "See ya~",
   "slots": [
    "5DEB50"
   ]
@@ -402,7 +402,7 @@
  {
   "id": "1F942C",
   "jp": "これ、おいしい～ッ！",
-  "en": null,
+  "en": "This is yummy~!",
   "slots": [
    "5DEB74"
   ]
@@ -410,7 +410,7 @@
  {
   "id": "1FB4D4",
   "jp": "ここが港か。",
-  "en": null,
+  "en": "So this is the port.",
   "slots": [
    "5DEBBC"
   ]
@@ -418,7 +418,7 @@
  {
   "id": "1FB4C4",
   "jp": "船もあるぜ。",
-  "en": null,
+  "en": "There are ships too.",
   "slots": [
    "5DEBE0"
   ]
@@ -426,7 +426,7 @@
  {
   "id": "1FB484",
   "jp": "海に向かってすわってる人も\nいるけど…\nありゃ何してんだろ。",
-  "en": null,
+  "en": "There are people sitting facing the sea, too... What are they doing?",
   "slots": [
    "5DEC04"
   ]
@@ -434,7 +434,7 @@
  {
   "id": "1FB460",
   "jp": "こんちは～。\n何やってんですか？",
-  "en": null,
+  "en": "Hiya~ Whatcha doing?",
   "slots": [
    "5DEC28"
   ]
@@ -442,7 +442,7 @@
  {
   "id": "1FB434",
   "jp": "ん？　何って…お前さん\nつりじゃよ。つり。",
-  "en": null,
+  "en": "Hm? What am I doing...? Why, fishing, sonny. Fishing.",
   "slots": [
    "5DEC4C"
   ]
@@ -450,7 +450,7 @@
  {
   "id": "1FB42C",
   "jp": "ツリ？",
-  "en": null,
+  "en": "Fishing?",
   "slots": [
    "5DEC70"
   ]
@@ -458,7 +458,7 @@
  {
   "id": "1FB3E4",
   "jp": "ああ。わしゃ、この港の\n船の出入りを見てるんじゃが\nその間ヒマじゃて…",
-  "en": null,
+  "en": "Yep. I keep watch on the ships coming in and out of this port, but I've got time to kill meanwhile...",
   "slots": [
    "5DEC94"
   ]
@@ -466,7 +466,7 @@
  {
   "id": "1FB3B0",
   "jp": "こうして糸をたらして\n魚がくんのを待っとるのよ。",
-  "en": null,
+  "en": "So I drop a line like this and wait for the fish to come along.",
   "slots": [
    "5DECB8"
   ]
@@ -474,7 +474,7 @@
  {
   "id": "1FB380",
   "jp": "へぇ。\nつれた魚はバザーで\n売ったりするの？",
-  "en": null,
+  "en": "Huh. Do you sell the fish you catch at the bazaar?",
   "slots": [
    "5DECDC"
   ]
@@ -482,7 +482,7 @@
  {
   "id": "1FB330",
   "jp": "いいや。うちのばーさんが\n宿のおかみをやっとってな。\nそこの料理に使っとるよ。",
-  "en": null,
+  "en": "Nope. My old lady's the landlady at an inn. She uses 'em in the cooking there.",
   "slots": [
    "5DED00"
   ]
@@ -490,7 +490,7 @@
  {
   "id": "1FB2F4",
   "jp": "うわ、どこの宿屋？\n俺たちがとまるとこだったら\nスゲーな。",
-  "en": null,
+  "en": "Whoa, which inn? If it's the one we're staying at, that'd be awesome.",
   "slots": [
    "5DED24"
   ]
@@ -498,7 +498,7 @@
  {
   "id": "1FB2D0",
   "jp": "うまいのたくさん\nつってくれよ！！",
-  "en": null,
+  "en": "Catch lots of tasty ones!!",
   "slots": [
    "5DED48"
   ]
@@ -506,7 +506,7 @@
  {
   "id": "1FB2B8",
   "jp": "まかしときぃ。ほほほ。",
-  "en": null,
+  "en": "Leave it to me. Ho ho ho.",
   "slots": [
    "5DED6C"
   ]
@@ -514,7 +514,7 @@
  {
   "id": "1FB2B0",
   "jp": "はなす",
-  "en": null,
+  "en": "Talk",
   "slots": [
    "5DEDB4",
    "5DF0A8",
@@ -527,7 +527,7 @@
  {
   "id": "1FB2A4",
   "jp": "しらべる",
-  "en": null,
+  "en": "Check",
   "slots": [
    "5DEDD8",
    "5DF408",
@@ -539,7 +539,7 @@
  {
   "id": "1FB29C",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "5DEDFC",
    "5DF0CC",
@@ -566,7 +566,7 @@
  {
   "id": "1FB294",
   "jp": "レン",
-  "en": null,
+  "en": "Ren",
   "slots": [
    "5DEE44",
    "5DF138",
@@ -579,7 +579,7 @@
  {
   "id": "1FB284",
   "jp": "船にのせる荷物",
-  "en": null,
+  "en": "Ship Cargo",
   "slots": [
    "5DEED4"
   ]
@@ -587,7 +587,7 @@
  {
   "id": "1FB268",
   "jp": "あそこにつんであるのは何？",
-  "en": null,
+  "en": "What's that stuff piled up over there?",
   "slots": [
    "5DEF64"
   ]
@@ -595,7 +595,7 @@
  {
   "id": "1FB23C",
   "jp": "あれは…今から船にのせる\n荷物みたいだな。",
-  "en": null,
+  "en": "That's... cargo they're about to load onto a ship, looks like.",
   "slots": [
    "5DEF88"
   ]
@@ -603,7 +603,7 @@
  {
   "id": "1FB220",
   "jp": "そう。たくさん入るのね。",
-  "en": null,
+  "en": "I see. A lot fits in there.",
   "slots": [
    "5DEFAC"
   ]
@@ -611,7 +611,7 @@
  {
   "id": "1FB200",
   "jp": "何か書いてあるな。\nなになに…",
-  "en": null,
+  "en": "Something's written on it. Let's see...",
   "slots": [
    "5DEFD0"
   ]
@@ -619,7 +619,7 @@
  {
   "id": "1FB1DC",
   "jp": "う～ん、よごれてて\nわかんねーな…",
-  "en": null,
+  "en": "Hmm, it's too dirty. I can't make it out...",
   "slots": [
    "5DEFF4"
   ]
@@ -627,7 +627,7 @@
  {
   "id": "1FB1A8",
   "jp": "コップみたいな絵がかいて\nあるから…コップ…か？",
-  "en": null,
+  "en": "There's a picture of something like a cup... so, cups...?",
   "slots": [
    "5DF018"
   ]
@@ -635,7 +635,7 @@
  {
   "id": "1FB18C",
   "jp": "みんないそがしそうだな。",
-  "en": null,
+  "en": "Everyone looks busy.",
   "slots": [
    "5DF03C"
   ]
@@ -643,7 +643,7 @@
  {
   "id": "1FB150",
   "jp": "船って荷物だけじゃなくて\n人ものせんのか。\nなるほどね。",
-  "en": null,
+  "en": "So ships carry people too, not just cargo. Makes sense.",
   "slots": [
    "5DF060"
   ]
@@ -651,7 +651,7 @@
  {
   "id": "1FB134",
   "jp": "ほかのところに行きたいな。",
-  "en": null,
+  "en": "I want to go somewhere else.",
   "slots": [
    "5DF1C8"
   ]
@@ -659,7 +659,7 @@
  {
   "id": "1FB110",
   "jp": "うひゃ～\nたくさん店が出てるなァ。",
-  "en": null,
+  "en": "Whoa~ Tons of stalls out here!",
   "slots": [
    "5DF1EC"
   ]
@@ -667,7 +667,7 @@
  {
   "id": "1FB0F4",
   "jp": "レン、何かほしい物ある？",
-  "en": null,
+  "en": "Ren, is there anything you want?",
   "slots": [
    "5DF210"
   ]
@@ -675,7 +675,7 @@
  {
   "id": "1FB0C4",
   "jp": "寝るときに、かかえられる\n何かがほしい…かな。",
-  "en": null,
+  "en": "Something I can hug when I sleep... maybe.",
   "slots": [
    "5DF27C"
   ]
@@ -683,7 +683,7 @@
  {
   "id": "1FB0A4",
   "jp": "『寝るときに、かかえられる』？",
-  "en": null,
+  "en": "\"Something you can hug when you sleep\"?",
   "slots": [
    "5DF2A0"
   ]
@@ -691,7 +691,7 @@
  {
   "id": "1FB06C",
   "jp": "私、つかれると、どこでも\n寝ちゃうから持っていたいの。",
-  "en": null,
+  "en": "When I get tired, I fall asleep anywhere, so I want to have one with me.",
   "slots": [
    "5DF2E8"
   ]
@@ -699,7 +699,7 @@
  {
   "id": "1FB05C",
   "jp": "なるほどねぇ。",
-  "en": null,
+  "en": "I see.",
   "slots": [
    "5DF30C"
   ]
@@ -707,7 +707,7 @@
  {
   "id": "1FB03C",
   "jp": "よし、そんじゃ探してみよう！",
-  "en": null,
+  "en": "All right, let's go look for one!",
   "slots": [
    "5DF330"
   ]
@@ -715,7 +715,7 @@
  {
   "id": "1FAFFC",
   "jp": "店がいっぱいありすぎて\nわかんねぇな。\nかたっぱしから探すか。",
-  "en": null,
+  "en": "There are way too many shops, I can't tell. Guess I'll try 'em one by one.",
   "slots": [
    "5DF378"
   ]
@@ -723,7 +723,7 @@
  {
   "id": "1FAFE8",
   "jp": "どうしようかな…",
-  "en": null,
+  "en": "What should I do...",
   "slots": [
    "5DF3C0"
   ]
@@ -731,7 +731,7 @@
  {
   "id": "1FAFD4",
   "jp": "くだものの店の人",
-  "en": null,
+  "en": "Fruit Seller",
   "slots": [
    "5DF498"
   ]
@@ -739,7 +739,7 @@
  {
   "id": "1FAFC4",
   "jp": "ぬのの店の人",
-  "en": null,
+  "en": "Cloth Seller",
   "slots": [
    "5DF4BC"
   ]
@@ -747,7 +747,7 @@
  {
   "id": "1FAFB8",
   "jp": "本の店の人",
-  "en": null,
+  "en": "Bookseller",
   "slots": [
    "5DF4E0"
   ]
@@ -755,7 +755,7 @@
  {
   "id": "1FAFA8",
   "jp": "くだものの店",
-  "en": null,
+  "en": "Fruit Stall",
   "slots": [
    "5DF504"
   ]
@@ -763,7 +763,7 @@
  {
   "id": "1FAF9C",
   "jp": "ぬのの店",
-  "en": null,
+  "en": "Cloth Stall",
   "slots": [
    "5DF528"
   ]
@@ -771,7 +771,7 @@
  {
   "id": "1FAF94",
   "jp": "本の店",
-  "en": null,
+  "en": "Book Stall",
   "slots": [
    "5DF54C"
   ]
@@ -779,7 +779,7 @@
  {
   "id": "1FAF78",
   "jp": "ほかの場所行ってみようぜ！",
-  "en": null,
+  "en": "Let's go check out somewhere else!",
   "slots": [
    "5DF594"
   ]
@@ -787,7 +787,7 @@
  {
   "id": "1FAF64",
   "jp": "何も買わないの？",
-  "en": null,
+  "en": "Aren't you buying anything?",
   "slots": [
    "5DF5DC"
   ]
@@ -795,7 +795,7 @@
  {
   "id": "1FAF3C",
   "jp": "あ…オウ、探す探す。\n待っててくれよ。",
-  "en": null,
+  "en": "Oh... r-right, I'm looking, I'm looking. Hang on.",
   "slots": [
    "5DF600"
   ]
@@ -803,7 +803,7 @@
  {
   "id": "1FAF08",
   "jp": "かかえるって言っても…\nレンはどんな物がほしい？",
-  "en": null,
+  "en": "Even if you say \"hug\"... what kind of thing do you want, Ren?",
   "slots": [
    "5DF624"
   ]
@@ -811,7 +811,7 @@
  {
   "id": "1FAEF0",
   "jp": "たとえばマクラとか？",
-  "en": null,
+  "en": "Like a pillow, for example?",
   "slots": [
    "5DF648"
   ]
@@ -819,7 +819,7 @@
  {
   "id": "1FAEE4",
   "jp": "そうね……",
-  "en": null,
+  "en": "Let me see......",
   "slots": [
    "5DF66C"
   ]
@@ -827,7 +827,7 @@
  {
   "id": "1FAEB4",
   "jp": "ふかふかしてるのがいいわ。\nここちよさそう。",
-  "en": null,
+  "en": "Something fluffy would be nice. It'd feel comfy.",
   "slots": [
    "5DF690"
   ]
@@ -835,7 +835,7 @@
  {
   "id": "1FAE74",
   "jp": "そっか。\nふかふかのやつかぁ～。\nイイの、見つかるといいな！",
-  "en": null,
+  "en": "Got it. A fluffy one, huh~ Hope we find a good one!",
   "slots": [
    "5DF6B4"
   ]
@@ -843,7 +843,7 @@
  {
   "id": "1FAE44",
   "jp": "ううん。何でもない。\nもうちょっと待ってて。",
-  "en": null,
+  "en": "Nah. It's nothing. Wait a little longer.",
   "slots": [
    "5DF6FC"
   ]
@@ -851,7 +851,7 @@
  {
   "id": "1FAE1C",
   "jp": "たくさんくだものが\nならんでんなぁ～。",
-  "en": null,
+  "en": "Lotsa fruit lined up here~",
   "slots": [
    "5DF720"
   ]
@@ -859,7 +859,7 @@
  {
   "id": "1FADF0",
   "jp": "リンゴ、バナナ、ミカン、\nサクランボウ……",
-  "en": null,
+  "en": "Apples, bananas, oranges, cherries......",
   "slots": [
    "5DF744"
   ]
@@ -867,7 +867,7 @@
  {
   "id": "1FADC4",
   "jp": "でも、かかえて寝れそうな物は\n無いなァ。",
-  "en": null,
+  "en": "But there's nothing I could hug and sleep with.",
   "slots": [
    "5DF768"
   ]
@@ -875,7 +875,7 @@
  {
   "id": "1FADA4",
   "jp": "店の人に\n話をきいてみよう。",
-  "en": null,
+  "en": "Let's ask the shopkeeper.",
   "slots": [
    "5DF78C"
   ]
@@ -883,7 +883,7 @@
  {
   "id": "1FAD94",
   "jp": "すんませ～ん。",
-  "en": null,
+  "en": "'Scuse me~",
   "slots": [
    "5DF7B0",
    "5DFE94"
@@ -892,7 +892,7 @@
  {
   "id": "1FAD64",
   "jp": "かかえて寝れるような物って\n売ってないッスか？",
-  "en": null,
+  "en": "You got anything I could hug while I sleep?",
   "slots": [
    "5DF7D4"
   ]
@@ -900,7 +900,7 @@
  {
   "id": "1FAD20",
   "jp": "え？　マクラはないけど\nイクラはある！？\nくだものの店なのに！？？",
-  "en": null,
+  "en": "What? No bedding, but they've got herring?! At a fruit stall?!",
   "slots": [
    "5DF7F8"
   ]
@@ -908,7 +908,7 @@
  {
   "id": "1FAD08",
   "jp": "そ、そんなバナナッ！",
-  "en": null,
+  "en": "N-no way, that's bananas!",
   "slots": [
    "5DF81C"
   ]
@@ -916,7 +916,7 @@
  {
   "id": "1FACB8",
   "jp": "いろんなデザインのぬのが\nカベからぶらさがってるけど…\nここに売ってるかなぁ。",
-  "en": null,
+  "en": "There's cloth in all kinds of designs hanging from the walls... I wonder if they sell it here.",
   "slots": [
    "5DF888"
   ]
@@ -924,7 +924,7 @@
  {
   "id": "1FACA4",
   "jp": "向こうに何かある。",
-  "en": null,
+  "en": "There's something over there.",
   "slots": [
    "5DF8AC"
   ]
@@ -932,7 +932,7 @@
  {
   "id": "1FAC6C",
   "jp": "へぇ～。\nぬので作ったカバンとか\n服もおいてるんだ。",
-  "en": null,
+  "en": "Huh~. They've got bags and clothes made of cloth, too.",
   "slots": [
    "5DF8D0"
   ]
@@ -940,7 +940,7 @@
  {
   "id": "1FAC40",
   "jp": "それっぽいのが売ってるか\nきいてみよう。",
-  "en": null,
+  "en": "Let's ask if they sell anything like that.",
   "slots": [
    "5DF8F4"
   ]
@@ -948,7 +948,7 @@
  {
   "id": "1FABF8",
   "jp": "すんませーん。\nこの店、かかえて寝れそうな物\nっておいてないッスか？",
-  "en": null,
+  "en": "'Scuse me! Does this shop have anything you could hug while you sleep?",
   "slots": [
    "5DF918"
   ]
@@ -956,7 +956,7 @@
  {
   "id": "1FABEC",
   "jp": "…ある？",
-  "en": null,
+  "en": "...You do?",
   "slots": [
    "5DF93C"
   ]
@@ -964,7 +964,7 @@
  {
   "id": "1FABBC",
   "jp": "レン、あるって！\nどれがイイかえらんでくれよ。",
-  "en": null,
+  "en": "Ren, they've got some! Pick whichever one you like.",
   "slots": [
    "5DF960"
   ]
@@ -972,7 +972,7 @@
  {
   "id": "1FABAC",
   "jp": "どうだった？",
-  "en": null,
+  "en": "So, how'd it go?",
   "slots": [
    "5DF9CC"
   ]
@@ -980,7 +980,7 @@
  {
   "id": "1FAB90",
   "jp": "どれにしようか迷ったの。",
-  "en": null,
+  "en": "I couldn't decide which one.",
   "slots": [
    "5DF9F0"
   ]
@@ -988,7 +988,7 @@
  {
   "id": "1FAB74",
   "jp": "クーはどれがいいと思う？",
-  "en": null,
+  "en": "Which one do you think is good, Cou?",
   "slots": [
    "5DFA14"
   ]
@@ -996,7 +996,7 @@
  {
   "id": "1FAB64",
   "jp": "そうだなぁ…",
-  "en": null,
+  "en": "Let's see...",
   "slots": [
    "5DFA38"
   ]
@@ -1004,7 +1004,7 @@
  {
   "id": "1FAB4C",
   "jp": "『ふかふかマクラ』と…",
-  "en": null,
+  "en": "There's the \"Fluffy Pillow\"...",
   "slots": [
    "5DFA5C"
   ]
@@ -1012,7 +1012,7 @@
  {
   "id": "1FAB34",
   "jp": "『だきマクラＳＰ』と…",
-  "en": null,
+  "en": "The \"Hug Pillow SP\"...",
   "slots": [
    "5DFA80"
   ]
@@ -1020,7 +1020,7 @@
  {
   "id": "1FAB18",
   "jp": "『クマのぬいぐるみ』か。",
-  "en": null,
+  "en": "And the \"Teddy Bear,\" huh.",
   "slots": [
    "5DFAA4"
   ]
@@ -1028,7 +1028,7 @@
  {
   "id": "1FAB04",
   "jp": "どれがいいかなぁ…",
-  "en": null,
+  "en": "Which one would be best...",
   "slots": [
    "5DFAC8"
   ]
@@ -1036,7 +1036,7 @@
  {
   "id": "1FAAF4",
   "jp": "ふかふかマクラ",
-  "en": null,
+  "en": "Fluffy Pillow",
   "slots": [
    "5DFAEC"
   ]
@@ -1044,7 +1044,7 @@
  {
   "id": "1FAAE4",
   "jp": "だきマクラＳＰ",
-  "en": null,
+  "en": "Hug Pillow SP",
   "slots": [
    "5DFB10"
   ]
@@ -1052,7 +1052,7 @@
  {
   "id": "1FAAD0",
   "jp": "クマのぬいぐるみ",
-  "en": null,
+  "en": "Teddy Bear",
   "slots": [
    "5DFB34"
   ]
@@ -1060,7 +1060,7 @@
  {
   "id": "1FAA90",
   "jp": "これにしよう！\nふかふかしてて、ぜったい\n寝ごこちイイって！！",
-  "en": null,
+  "en": "Let's go with this one! It's so fluffy, it's gotta be super comfy to sleep on!!",
   "slots": [
    "5DFB58"
   ]
@@ -1068,7 +1068,7 @@
  {
   "id": "1FAA88",
   "jp": "なッ？",
-  "en": null,
+  "en": "Right?",
   "slots": [
    "5DFB7C"
   ]
@@ -1076,7 +1076,7 @@
  {
   "id": "1FAA78",
   "jp": "うん。\nこれ。",
-  "en": null,
+  "en": "Mm. This one.",
   "slots": [
    "5DFBC4"
   ]
@@ -1084,7 +1084,7 @@
  {
   "id": "1FAA68",
   "jp": "これにする。",
-  "en": null,
+  "en": "I'll take this one.",
   "slots": [
    "5DFBE8"
   ]
@@ -1092,7 +1092,7 @@
  {
   "id": "1FAA24",
   "jp": "これ、おもしろそうだな。\n『ＳＰ』って何のイミか\nわかんねぇけど…",
-  "en": null,
+  "en": "This one looks fun. I dunno what the \"SP\" means, though...",
   "slots": [
    "5DFC0C"
   ]
@@ -1100,7 +1100,7 @@
  {
   "id": "1FAA1C",
   "jp": "どう？",
-  "en": null,
+  "en": "How about it?",
   "slots": [
    "5DFC30"
   ]
@@ -1108,7 +1108,7 @@
  {
   "id": "1FAA04",
   "jp": "じゃあ、それにする。",
-  "en": null,
+  "en": "Then I'll take that one.",
   "slots": [
    "5DFC54"
   ]
@@ -1116,7 +1116,7 @@
  {
   "id": "1FA9D4",
   "jp": "でも『ＳＰ』って何の\nイミがあるんだろうな？",
-  "en": null,
+  "en": "But what's the \"SP\" supposed to mean, anyway?",
   "slots": [
    "5DFC78"
   ]
@@ -1124,7 +1124,7 @@
  {
   "id": "1FA9C8",
   "jp": "『スープ』",
-  "en": null,
+  "en": "\"Soup\"",
   "slots": [
    "5DFCC0"
   ]
@@ -1132,7 +1132,7 @@
  {
   "id": "1FA9B8",
   "jp": "『スープ』！？",
-  "en": null,
+  "en": "\"Soup\"?!",
   "slots": [
    "5DFCE4"
   ]
@@ -1140,7 +1140,7 @@
  {
   "id": "1FA974",
   "jp": "やっぱ女の子だったら\nぬいぐるみといっしょに\n寝ててほしいな～。",
-  "en": null,
+  "en": "A girl oughta sleep cuddling a stuffed animal, y'know~.",
   "slots": [
    "5DFD2C"
   ]
@@ -1148,7 +1148,7 @@
  {
   "id": "1FA964",
   "jp": "ぜったいコレ！",
-  "en": null,
+  "en": "This one, for sure!",
   "slots": [
    "5DFD50"
   ]
@@ -1156,7 +1156,7 @@
  {
   "id": "1FA930",
   "jp": "メルヘンな感じで…こう…\n幸せなユメが見れるハズ！",
-  "en": null,
+  "en": "It's all fairy-tale-like... kinda... You're bound to have happy dreams!",
   "slots": [
    "5DFD74"
   ]
@@ -1164,7 +1164,7 @@
  {
   "id": "1FA918",
   "jp": "じゃあ、これにする。",
-  "en": null,
+  "en": "Then I'll take this one.",
   "slots": [
    "5DFD98"
   ]
@@ -1172,7 +1172,7 @@
  {
   "id": "1FA900",
   "jp": "うひゃ～本がいっぱい…",
-  "en": null,
+  "en": "Whoa~ So many books...",
   "slots": [
    "5DFDBC"
   ]
@@ -1180,7 +1180,7 @@
  {
   "id": "1FA8A8",
   "jp": "俺、本とかってニガテなんだよ。\n寝ころんで本読もうとすると\nすーぐ寝ちまうんだよな。",
-  "en": null,
+  "en": "I'm no good with books. Whenever I lie down to read one, I fall right asleep.",
   "slots": [
    "5DFDE0"
   ]
@@ -1188,7 +1188,7 @@
  {
   "id": "1FA88C",
   "jp": "本でもいいんじゃないかな？",
-  "en": null,
+  "en": "Maybe a book would work?",
   "slots": [
    "5DFE04"
   ]
@@ -1196,7 +1196,7 @@
  {
   "id": "1FA87C",
   "jp": "本はいらない。",
-  "en": null,
+  "en": "I don't need a book.",
   "slots": [
    "5DFE28"
   ]
@@ -1204,7 +1204,7 @@
  {
   "id": "1FA84C",
   "jp": "そうか？　けっこう\nいいと思うんだけどな～。",
-  "en": null,
+  "en": "No? I think it's pretty good, though~.",
   "slots": [
    "5DFE4C"
   ]
@@ -1212,7 +1212,7 @@
  {
   "id": "1FA824",
   "jp": "とりあえず\n店の人に話をきいてみよう。",
-  "en": null,
+  "en": "Anyway, let's go ask the shopkeeper.",
   "slots": [
    "5DFE70"
   ]
@@ -1220,7 +1220,7 @@
  {
   "id": "1FA7E8",
   "jp": "寝るときに、かかえて寝れそうな\n物って売ってないッスか？",
-  "en": null,
+  "en": "Do you sell anything you could hug when you go to sleep?",
   "slots": [
    "5DFEB8"
   ]
@@ -1228,7 +1228,7 @@
  {
   "id": "1FA7A0",
   "jp": "寝るんだったら、本がイチバン？\nムズカシイ本なら、すぐ\n眠れるって…？",
-  "en": null,
+  "en": "If it's for sleeping, books are the best? A hard book will put you right to sleep...?",
   "slots": [
    "5DFEDC"
   ]
@@ -1236,7 +1236,7 @@
  {
   "id": "1FA780",
   "jp": "俺と同じこと言ってら。\nへへ。",
-  "en": null,
+  "en": "He's saying the same thing I did. Heh.",
   "slots": [
    "5DFF00"
   ]
@@ -1244,7 +1244,7 @@
  {
   "id": "1FA768",
   "jp": "悪ィ！\nほか行くわ。",
-  "en": null,
+  "en": "Sorry! We'll try somewhere else.",
   "slots": [
    "5DFF24"
   ]
@@ -1252,7 +1252,7 @@
  {
   "id": "1FA748",
   "jp": "ほかに何かほしい物あるかな？",
-  "en": null,
+  "en": "Is there anything else you want?",
   "slots": [
    "5E008C"
   ]
@@ -1260,7 +1260,7 @@
  {
   "id": "1FA720",
   "jp": "買い物より、ほかの場所へ\n行きたい…",
-  "en": null,
+  "en": "Rather than shopping, I want to go somewhere else...",
   "slots": [
    "5E00B0"
   ]
@@ -1268,7 +1268,7 @@
  {
   "id": "1FA6F0",
   "jp": "こんだけにぎやかだと\n楽しくなっちゃうよな～。",
-  "en": null,
+  "en": "With all this hustle and bustle, you can't help having fun~!",
   "slots": [
    "5E00D4"
   ]
@@ -1276,7 +1276,7 @@
  {
   "id": "1FA6E0",
   "jp": "バザーのようす",
-  "en": null,
+  "en": "Bazaar Scene",
   "slots": [
    "5E01AC"
   ]
@@ -1284,7 +1284,7 @@
  {
   "id": "1FA6C0",
   "jp": "誰だでっかい声でさけんでんの。",
-  "en": null,
+  "en": "Who's yelling so loud?",
   "slots": [
    "5E023C"
   ]
@@ -1292,7 +1292,7 @@
  {
   "id": "1FA670",
   "jp": "お客を呼びこんでんだろうけど\nもうちょっと、ちっさい声でも\nいいんじゃねェ？",
-  "en": null,
+  "en": "I guess they're calling in customers, but couldn't they be a little quieter?",
   "slots": [
    "5E0260"
   ]
@@ -1300,7 +1300,7 @@
  {
   "id": "1FA648",
   "jp": "でもこの声。\nきいたことあるような…",
-  "en": null,
+  "en": "But that voice... I feel like I've heard it before...",
   "slots": [
    "5E0284"
   ]
@@ -1308,7 +1308,7 @@
  {
   "id": "1FA630",
   "jp": "そりゃ気のせいだって。",
-  "en": null,
+  "en": "Nah, it's just your imagination.",
   "slots": [
    "5E02A8"
   ]
@@ -1316,7 +1316,7 @@
  {
   "id": "1FA600",
   "jp": "ここでシスカたちと\n待ち合わせするんだよな。",
-  "en": null,
+  "en": "This is where we're meeting up with Cisqua and the others, right?",
   "slots": [
    "5E02F0",
    "5E0314"
@@ -1325,7 +1325,7 @@
  {
   "id": "1FA5E4",
   "jp": "レン、ちょっと休もうぜ。",
-  "en": null,
+  "en": "Ren, let's take a little break.",
   "slots": [
    "5E0338"
   ]
@@ -1333,7 +1333,7 @@
  {
   "id": "1FA5AC",
   "jp": "ほかの場所も見てまわりたい。\nここはその後でもいい。",
-  "en": null,
+  "en": "I want to look around other places, too. We can come here after.",
   "slots": [
    "5E035C"
   ]
@@ -1341,7 +1341,7 @@
  {
   "id": "1FA59C",
   "jp": "ほかの場所？",
-  "en": null,
+  "en": "Other places?",
   "slots": [
    "5E0380"
   ]
@@ -1349,7 +1349,7 @@
  {
   "id": "1FA570",
   "jp": "せっかくだもの。\n全部見てまわりましょう？",
-  "en": null,
+  "en": "We came all this way. Let's see everything, okay?",
   "slots": [
    "5E03A4"
   ]
@@ -1357,7 +1357,7 @@
  {
   "id": "1FA560",
   "jp": "そうだな～。",
-  "en": null,
+  "en": "Good point~.",
   "slots": [
    "5E03C8"
   ]
@@ -1365,7 +1365,7 @@
  {
   "id": "1FA538",
   "jp": "せっかくだし、\nもっと歩きまわるか！",
-  "en": null,
+  "en": "Since we're here anyway, let's walk around some more!",
   "slots": [
    "5E03EC"
   ]
@@ -1373,7 +1373,7 @@
  {
   "id": "1FA518",
   "jp": "そろそろ待ち合わせの時間かな。",
-  "en": null,
+  "en": "It's about time to meet up, huh.",
   "slots": [
    "5E0410"
   ]
@@ -1381,7 +1381,7 @@
  {
   "id": "1FA50C",
   "jp": "きゃッ。",
-  "en": null,
+  "en": "Eek.",
   "slots": [
    "5E0458"
   ]
@@ -1389,7 +1389,7 @@
  {
   "id": "1FA4F8",
   "jp": "レン、大丈夫か！？",
-  "en": null,
+  "en": "Ren, you okay?!",
   "slots": [
    "5E047C"
   ]
@@ -1397,7 +1397,7 @@
  {
   "id": "1FA4B4",
   "jp": "おい、ちょっとソコの！\nぶつかっといて\nあやまんねぇつもりか！！",
-  "en": null,
+  "en": "Hey, you there! You bump into someone and you're not even gonna apologize?!",
   "slots": [
    "5E04A0"
   ]
@@ -1405,7 +1405,7 @@
  {
   "id": "1FA498",
   "jp": "お、おたがいサマなのヨ…",
-  "en": null,
+  "en": "W-we're both to blame, you know...",
   "slots": [
    "5E04C4"
   ]
@@ -1413,7 +1413,7 @@
  {
   "id": "1FA484",
   "jp": "あれ？　お前は…",
-  "en": null,
+  "en": "Huh? You're...",
   "slots": [
    "5E04E8"
   ]
@@ -1421,7 +1421,7 @@
  {
   "id": "1FA468",
   "jp": "あッ…\n何でもないのヨ！！",
-  "en": null,
+  "en": "Ah... N-never mind, you know!!",
   "slots": [
    "5E050C"
   ]
@@ -1429,7 +1429,7 @@
  {
   "id": "1FA45C",
   "jp": "待てッ！",
-  "en": null,
+  "en": "Wait!",
   "slots": [
    "5E0554"
   ]
@@ -1437,7 +1437,7 @@
  {
   "id": "1FA440",
   "jp": "あれ…\nどこ行った……？",
-  "en": null,
+  "en": "Huh... Where'd she go...?",
   "slots": [
    "5E059C"
   ]
@@ -1445,7 +1445,7 @@
  {
   "id": "1FA424",
   "jp": "人が少ない方へ行ったわ。",
-  "en": null,
+  "en": "She went where there are fewer people.",
   "slots": [
    "5E05C0"
   ]
@@ -1453,7 +1453,7 @@
  {
   "id": "1FA414",
   "jp": "人が少ない方？",
-  "en": null,
+  "en": "Fewer people?",
   "slots": [
    "5E05E4"
   ]
@@ -1461,7 +1461,7 @@
  {
   "id": "1FA3EC",
   "jp": "ぜったい見つけて\nつかまえてやるッ！",
-  "en": null,
+  "en": "I'm gonna find her and catch her, no matter what!",
   "slots": [
    "5E0608"
   ]
@@ -1469,7 +1469,7 @@
  {
   "id": "1FA3C0",
   "jp": "人もいないし、\nここは見なくてもいっか。",
-  "en": null,
+  "en": "There's nobody around, so I guess we don't need to look here.",
   "slots": [
    "5E0650"
   ]
@@ -1477,7 +1477,7 @@
  {
   "id": "1FA3B4",
   "jp": "森の方向",
-  "en": null,
+  "en": "To Forest",
   "slots": [
    "5E07B8"
   ]
@@ -1485,7 +1485,7 @@
  {
   "id": "1FA39C",
   "jp": "レン、つかれてない？",
-  "en": null,
+  "en": "Ren, you tired?",
   "slots": [
    "5E0848"
   ]
@@ -1493,7 +1493,7 @@
  {
   "id": "1FA384",
   "jp": "うん、平気。\nクーは？",
-  "en": null,
+  "en": "No, I'm fine. And you, Cou?",
   "slots": [
    "5E086C"
   ]
@@ -1501,7 +1501,7 @@
  {
   "id": "1FA360",
   "jp": "俺も大丈夫。\nじゃ、ほか行こっか。",
-  "en": null,
+  "en": "I'm fine, too. Well, let's go somewhere else.",
   "slots": [
    "5E0890"
   ]
@@ -1509,7 +1509,7 @@
  {
   "id": "1FA314",
   "jp": "あの森…サンゾクだけじゃなく\nラグウルスみたいな生き物もいて\n危ないよな。",
-  "en": null,
+  "en": "That forest... It's not just bandits; there are creatures like Raguurus, too. It's dangerous.",
   "slots": [
    "5E08B4"
   ]
@@ -1517,7 +1517,7 @@
  {
   "id": "1FA2F4",
   "jp": "街の人たちはどうしてるんだろ。",
-  "en": null,
+  "en": "I wonder what the townspeople do about it.",
   "slots": [
    "5E08D8"
   ]
@@ -1525,7 +1525,7 @@
  {
   "id": "1FA2C4",
   "jp": "あいかわらず人がいなくて\nさみしい感じだなぁ…",
-  "en": null,
+  "en": "Still nobody around... Feels kinda lonely...",
   "slots": [
    "5E08FC"
   ]
@@ -1533,7 +1533,7 @@
  {
   "id": "1FA2AC",
   "jp": "ほかの場所に行くか。",
-  "en": null,
+  "en": "Let's go somewhere else.",
   "slots": [
    "5E0920"
   ]
@@ -1541,7 +1541,7 @@
  {
   "id": "1FA28C",
   "jp": "シスカはまだここにいるのかな。",
-  "en": null,
+  "en": "I wonder if Cisqua's still here.",
   "slots": [
    "5E09F8",
    "5E0AD0"
@@ -1550,7 +1550,7 @@
  {
   "id": "1FA244",
   "jp": "ああ～、早くうまいメシとか\nやわらかいベットとか\nあじわってみたいぜ…",
-  "en": null,
+  "en": "Aaah~ I can't wait to enjoy some tasty food and a soft bed...",
   "slots": [
    "5E0BA8",
    "5E0C80"
@@ -1559,7 +1559,7 @@
  {
   "id": "1FA224",
   "jp": "ここ、はね橋になってんだな…",
-  "en": null,
+  "en": "So this is a drawbridge...",
   "slots": [
    "5E0D58"
   ]
@@ -1567,7 +1567,7 @@
  {
   "id": "1FA21C",
   "jp": "何？",
-  "en": null,
+  "en": "What?",
   "slots": [
    "5E0D7C"
   ]
@@ -1575,7 +1575,7 @@
  {
   "id": "1FA20C",
   "jp": "はね橋だよ。",
-  "en": null,
+  "en": "A drawbridge.",
   "slots": [
    "5E0DA0"
   ]
@@ -1583,7 +1583,7 @@
  {
   "id": "1FA1BC",
   "jp": "港に入ってくる船のじゃまに\nならないように、ああやって\n橋をあげてるんだぜ。",
-  "en": null,
+  "en": "They raise the bridge like that so it doesn't get in the way of ships coming into the port.",
   "slots": [
    "5E0DC4"
   ]
@@ -1591,7 +1591,7 @@
  {
   "id": "1FA168",
   "jp": "で、船が通らなくなったら\n橋をおろして、上を人とかが\nわたれるようになってるんだ。",
-  "en": null,
+  "en": "And when no ships are passing, they lower the bridge so people and stuff can cross over it.",
   "slots": [
    "5E0DE8"
   ]
@@ -1599,7 +1599,7 @@
  {
   "id": "1FA154",
   "jp": "はしを…おろす…",
-  "en": null,
+  "en": "Lower... the bridge...",
   "slots": [
    "5E0E0C"
   ]
@@ -1607,7 +1607,7 @@
  {
   "id": "1FA104",
   "jp": "今は橋があがってるから、\nわたれないみたいだけど\n向こうに何があるんだろう？",
-  "en": null,
+  "en": "The bridge is up right now, so it looks like we can't cross. I wonder what's over there?",
   "slots": [
    "5E0E30"
   ]
@@ -1615,7 +1615,7 @@
  {
   "id": "1FA0E8",
   "jp": "この先には闘技場がある。",
-  "en": null,
+  "en": "The arena lies beyond here.",
   "slots": [
    "5E0E54"
   ]
@@ -1623,7 +1623,7 @@
  {
   "id": "1FA0D4",
   "jp": "とうぎ…じょう…？",
-  "en": null,
+  "en": "A-re...na...?",
   "slots": [
    "5E0E78"
   ]
@@ -1631,7 +1631,7 @@
  {
   "id": "1FA080",
   "jp": "この街のシンボルだよ。\n腕に自信のあるファイターが\n戦ってガネーを勝ちとるんだ。",
-  "en": null,
+  "en": "It's this town's symbol. Fighters confident in their skill battle there to win Ganee.",
   "slots": [
    "5E0E9C"
   ]

@@ -2,7 +2,7 @@
  {
   "id": "1FEBD8",
   "jp": "つぎはしっかり、ささえていて\nほしい。お願いね。",
-  "en": null,
+  "en": "This time, hold me up firmly. Please.",
   "slots": [
    "5E5A8C"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "1FEBC4",
   "jp": "ダッシュで逃げる",
-  "en": null,
+  "en": "Run for It",
   "slots": [
    "5E5AB0"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "1FEBB0",
   "jp": "つよく手をにぎる",
-  "en": null,
+  "en": "Squeeze Her Hand",
   "slots": [
    "5E5AD4"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "1FEBA0",
   "jp": "大きくはげます",
-  "en": null,
+  "en": "Cheer Loudly",
   "slots": [
    "5E5AF8"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "1FEB6C",
   "jp": "大丈夫だ！　レンならやれる！\nかならずできる！！",
-  "en": null,
+  "en": "It's okay! You can do it, Ren! I know you can!!",
   "slots": [
    "5E5B1C"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "1FEB5C",
   "jp": "信じてるから…",
-  "en": null,
+  "en": "I believe in you...",
   "slots": [
    "5E5B40"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "1FEB1C",
   "jp": "『そまどろつつむ　いしあかし\n　われといましと　いきのをに』",
-  "en": null,
+  "en": "\"Wrapped in slumber, a stone aglow; you and I, bound for all our lives.\"",
   "slots": [
    "5E5B64",
    "5E5BF4"
@@ -59,7 +59,7 @@
  {
   "id": "1FEB14",
   "jp": "レン。",
-  "en": null,
+  "en": "Ren.",
   "slots": [
    "5E5B88"
   ]
@@ -67,7 +67,7 @@
  {
   "id": "1FEAD0",
   "jp": "手をしっかりにぎっとくから\nレンも俺の手をにぎってて。\nガンバレ。",
-  "en": null,
+  "en": "I'll hold your hand tight, so you hold mine too, Ren. Hang in there.",
   "slots": [
    "5E5BAC"
   ]
@@ -75,7 +75,7 @@
  {
   "id": "1FEAC8",
   "jp": "うん…",
-  "en": null,
+  "en": "Mm...",
   "slots": [
    "5E5BD0"
   ]
@@ -83,7 +83,7 @@
  {
   "id": "1FEA9C",
   "jp": "ダッシュだ～ッ！！\nどりぃああああァァー！",
-  "en": null,
+  "en": "Dash~!! Dorryaaaaaah!",
   "slots": [
    "5E5C18"
   ]
@@ -91,7 +91,7 @@
  {
   "id": "1FEA8C",
   "jp": "『そまどろ…』",
-  "en": null,
+  "en": "\"Wrapped in slumber...\"",
   "slots": [
    "5E5C60"
   ]
@@ -99,7 +99,7 @@
  {
   "id": "1FEA80",
   "jp": "クー！？",
-  "en": null,
+  "en": "Cou?!",
   "slots": [
    "5E5C84"
   ]
@@ -107,7 +107,7 @@
  {
   "id": "1FEA64",
   "jp": "クー！　どこへ行く気だ！？",
-  "en": null,
+  "en": "Cou! Where do you think you're going?!",
   "slots": [
    "5E5CCC"
   ]
@@ -115,7 +115,7 @@
  {
   "id": "1FEA54",
   "jp": "え？　あれ？",
-  "en": null,
+  "en": "Huh? What?",
   "slots": [
    "5E5CF0"
   ]
@@ -123,7 +123,7 @@
  {
   "id": "1FEA28",
   "jp": "君はマジメに特訓をする気が\nあるのかい？",
-  "en": null,
+  "en": "Are you even serious about this training?",
   "slots": [
    "5E5D14"
   ]
@@ -131,7 +131,7 @@
  {
   "id": "1FEA10",
   "jp": "逃げてどうするんだよ…",
-  "en": null,
+  "en": "What good does running away do...",
   "slots": [
    "5E5D38"
   ]
@@ -139,7 +139,7 @@
  {
   "id": "1FE9E0",
   "jp": "何か、俺のほうが\nキンチョーしちゃったみたい。",
-  "en": null,
+  "en": "Guess I'm the one who got nervous.",
   "slots": [
    "5E5D5C"
   ]
@@ -147,7 +147,7 @@
  {
   "id": "1FE9D4",
   "jp": "アハハハ。",
-  "en": null,
+  "en": "Ahahaha.",
   "slots": [
    "5E5D80"
   ]
@@ -155,7 +155,7 @@
  {
   "id": "1FE990",
   "jp": "気持ちはわからなくないけど\nレンちゃんがたいへんな\nときなんだから",
-  "en": null,
+  "en": "I kind of understand how you feel, but Ren-chan is going through a hard time right now,",
   "slots": [
    "5E5DA4"
   ]
@@ -163,7 +163,7 @@
  {
   "id": "1FE958",
   "jp": "プレジャーである君が\n逃げたりなんかしちゃ\nダメだよ。",
-  "en": null,
+  "en": "so you, her Pledger, can't go running away.",
   "slots": [
    "5E5DC8"
   ]
@@ -171,7 +171,7 @@
  {
   "id": "1FE944",
   "jp": "さ、もう一回だ。",
-  "en": null,
+  "en": "Come on, one more time.",
   "slots": [
    "5E5DEC"
   ]
@@ -179,7 +179,7 @@
  {
   "id": "1FE930",
   "jp": "レン、ごめんな。",
-  "en": null,
+  "en": "Sorry, Ren.",
   "slots": [
    "5E5E34"
   ]
@@ -187,7 +187,7 @@
  {
   "id": "1FE91C",
   "jp": "ううん。がんばろ？",
-  "en": null,
+  "en": "It's okay. Let's do our best?",
   "slots": [
    "5E5E58"
   ]
@@ -195,7 +195,7 @@
  {
   "id": "1FE914",
   "jp": "オウ！",
-  "en": null,
+  "en": "Yeah!",
   "slots": [
    "5E5E7C"
   ]
@@ -203,7 +203,7 @@
  {
   "id": "1FE8FC",
   "jp": "楽しいのが、いいな。",
-  "en": null,
+  "en": "Something fun would be nice.",
   "slots": [
    "5E5EA0"
   ]
@@ -211,7 +211,7 @@
  {
   "id": "1FE8EC",
   "jp": "楽しくはげます",
-  "en": null,
+  "en": "Cheer Playfully",
   "slots": [
    "5E5EC4"
   ]
@@ -219,7 +219,7 @@
  {
   "id": "1FE8DC",
   "jp": "こわい話をする",
-  "en": null,
+  "en": "Tell Spooky Tale",
   "slots": [
    "5E5EE8"
   ]
@@ -227,7 +227,7 @@
  {
   "id": "1FE8C8",
   "jp": "手のひらを合わす",
-  "en": null,
+  "en": "Press Palms",
   "slots": [
    "5E5F0C"
   ]
@@ -235,7 +235,7 @@
  {
   "id": "1FE8A4",
   "jp": "ガ・ン・バ・レ！\nエイエイオー！",
-  "en": null,
+  "en": "Do! Your! Best! Hip, hip, hooray!",
   "slots": [
    "5E5F30"
   ]
@@ -243,7 +243,7 @@
  {
   "id": "1FE87C",
   "jp": "って…さすがに…ちょっと\nてれるな。",
-  "en": null,
+  "en": "Okay... that's... kinda embarrassing.",
   "slots": [
    "5E5F54"
   ]
@@ -251,7 +251,7 @@
  {
   "id": "1FE868",
   "jp": "そんなこと、ない。",
-  "en": null,
+  "en": "It's not.",
   "slots": [
    "5E5F78"
   ]
@@ -259,7 +259,7 @@
  {
   "id": "1FE824",
   "jp": "『あいおうしょうの　ちぎりこん\n　あからしまかぜを\n　まといたり』",
-  "en": null,
+  "en": "\"A pledge of hearts that answer; clad in the raging wind.\"",
   "slots": [
    "5E5F9C",
    "5E602C"
@@ -268,7 +268,7 @@
  {
   "id": "1FE810",
   "jp": "レン、手ェかして…",
-  "en": null,
+  "en": "Ren, gimme your hand...",
   "slots": [
    "5E5FC0"
   ]
@@ -276,7 +276,7 @@
  {
   "id": "1FE7C8",
   "jp": "手と手を合わせたら\nおちつけると思うんだ。\n楽しいのとはちがうけどさ…",
-  "en": null,
+  "en": "I figure pressing our hands together will calm you down. It's not exactly fun, though...",
   "slots": [
    "5E5FE4"
   ]
@@ -284,7 +284,7 @@
  {
   "id": "1FE7BC",
   "jp": "ううん…",
-  "en": null,
+  "en": "It's okay...",
   "slots": [
    "5E6008"
   ]
@@ -292,7 +292,7 @@
  {
   "id": "1FE770",
   "jp": "俺がまだオヤカタにひろわれて\nすぐのころ………\n夜、一人で目がさめちまって",
-  "en": null,
+  "en": "Back when the Boss had just taken me in... one night I woke up all alone,",
   "slots": [
    "5E6050"
   ]
@@ -300,7 +300,7 @@
  {
   "id": "1FE72C",
   "jp": "トイレに行こうとしたら、\nまっ黒なろうかを\nヒタ、ヒタ、ヒタ…って",
-  "en": null,
+  "en": "and when I headed for the bathroom, down the pitch-black hallway... pat, pat, pat...",
   "slots": [
    "5E6074"
   ]
@@ -308,7 +308,7 @@
  {
   "id": "1FE71C",
   "jp": "ギャーっ！！",
-  "en": null,
+  "en": "Eeeek!!",
   "slots": [
    "5E6098"
   ]
@@ -316,7 +316,7 @@
  {
   "id": "1FE70C",
   "jp": "ええーっ！？",
-  "en": null,
+  "en": "Whaaat?!",
   "slots": [
    "5E60BC"
   ]
@@ -324,7 +324,7 @@
  {
   "id": "1FE6D0",
   "jp": "何でそんなコワイ話すんのよー！\nきいてらんないじゃないっ！",
-  "en": null,
+  "en": "Why are you telling such a scary story?! I can't stand listening to it!",
   "slots": [
    "5E60E0"
   ]
@@ -332,7 +332,7 @@
  {
   "id": "1FE6C4",
   "jp": "そうかな…",
-  "en": null,
+  "en": "You think so...",
   "slots": [
    "5E6104"
   ]
@@ -340,7 +340,7 @@
  {
   "id": "1FE6AC",
   "jp": "ぜんぜん楽しくない。",
-  "en": null,
+  "en": "That's not fun at all.",
   "slots": [
    "5E6128"
   ]
@@ -348,7 +348,7 @@
  {
   "id": "1FE6A0",
   "jp": "ウソ！？",
-  "en": null,
+  "en": "No way?!",
   "slots": [
    "5E614C"
   ]
@@ -356,7 +356,7 @@
  {
   "id": "1FE694",
   "jp": "ホントウ。",
-  "en": null,
+  "en": "Really.",
   "slots": [
    "5E6170"
   ]
@@ -364,7 +364,7 @@
  {
   "id": "1FE674",
   "jp": "とりあえず、やりなおしましょ！",
-  "en": null,
+  "en": "For now, let's start over!",
   "slots": [
    "5E6194"
   ]
@@ -372,7 +372,7 @@
  {
   "id": "1FE644",
   "jp": "最後はがんばってみる。\nだから見ててほしいの…",
-  "en": null,
+  "en": "I'll try hard for the last one. So I want you to watch me...",
   "slots": [
    "5E61B8"
   ]
@@ -380,7 +380,7 @@
  {
   "id": "1FE630",
   "jp": "だまって見ている",
-  "en": null,
+  "en": "Watch Quietly",
   "slots": [
    "5E61DC"
   ]
@@ -388,7 +388,7 @@
  {
   "id": "1FE624",
   "jp": "だきしめる",
-  "en": null,
+  "en": "Hug Her",
   "slots": [
    "5E6200"
   ]
@@ -396,7 +396,7 @@
  {
   "id": "1FE618",
   "jp": "寝てしまう",
-  "en": null,
+  "en": "Fall Asleep",
   "slots": [
    "5E6224"
   ]
@@ -404,7 +404,7 @@
  {
   "id": "1FE5F0",
   "jp": "『あまないあいぐす\n　うきかわさん』",
-  "en": null,
+  "en": "\"In harmony entwined, let us rise as one.\"",
   "slots": [
    "5E626C",
    "5E6320"
@@ -422,7 +422,7 @@
  {
   "id": "1FE5A4",
   "jp": "さすがにそれはやりすぎです！\nクーさんはおとなしく\n見てるだけ！",
-  "en": null,
+  "en": "That's going way too far! Cou-san, you just behave and watch!",
   "slots": [
    "5E62D8"
   ]
@@ -430,7 +430,7 @@
  {
   "id": "1FE594",
   "jp": "エエーッ！？",
-  "en": null,
+  "en": "Whaaat?!",
   "slots": [
    "5E62FC"
   ]
@@ -438,7 +438,7 @@
  {
   "id": "1FE588",
   "jp": "………ん？",
-  "en": null,
+  "en": "......Hm?",
   "slots": [
    "5E638C"
   ]
@@ -446,7 +446,7 @@
  {
   "id": "1FE570",
   "jp": "おー、起きた起きた。",
-  "en": null,
+  "en": "Oh, he's up, he's up.",
   "slots": [
    "5E63D4"
   ]
@@ -454,7 +454,7 @@
  {
   "id": "1FE530",
   "jp": "クーが寝ちゃうから\nリアクトできなかったよ。\n眠かったのかい？",
-  "en": null,
+  "en": "You fell asleep, Cou, so we couldn't React. Were you sleepy?",
   "slots": [
    "5E63F8"
   ]
@@ -462,7 +462,7 @@
  {
   "id": "1FE504",
   "jp": "でも、おしかったね。\nあと少しだったのに。",
-  "en": null,
+  "en": "Still, that was close. You were almost there.",
   "slots": [
    "5E641C"
   ]
@@ -470,7 +470,7 @@
  {
   "id": "1FE4E8",
   "jp": "さすがに寝ちゃうのはねぇ。",
-  "en": null,
+  "en": "Falling asleep is a bit much, though.",
   "slots": [
    "5E6440"
   ]
@@ -478,7 +478,7 @@
  {
   "id": "1FE4C0",
   "jp": "はじめからやらないと\nダメじゃない？",
-  "en": null,
+  "en": "Don't we have to start over from the beginning?",
   "slots": [
    "5E6464"
   ]
@@ -486,7 +486,7 @@
  {
   "id": "1FE4B4",
   "jp": "そうだね。",
-  "en": null,
+  "en": "I guess so.",
   "slots": [
    "5E6488"
   ]
@@ -494,7 +494,7 @@
  {
   "id": "1FE498",
   "jp": "レンちゃんは？\nできそう？",
-  "en": null,
+  "en": "Ren-chan? Think you can do it?",
   "slots": [
    "5E64AC"
   ]
@@ -502,7 +502,7 @@
  {
   "id": "1FE488",
   "jp": "ええ。大丈夫。",
-  "en": null,
+  "en": "Yes. I'm fine.",
   "slots": [
    "5E64D0"
   ]
@@ -510,7 +510,7 @@
  {
   "id": "1FE474",
   "jp": "何？　もう一回？",
-  "en": null,
+  "en": "What? Again?",
   "slots": [
    "5E64F4"
   ]
@@ -518,7 +518,7 @@
  {
   "id": "1FE464",
   "jp": "はじめから！？",
-  "en": null,
+  "en": "From the beginning?!",
   "slots": [
    "5E6518"
   ]
@@ -526,7 +526,7 @@
  {
   "id": "1FE44C",
   "jp": "クーが寝ちゃうからよ。",
-  "en": null,
+  "en": "'Cause you fell asleep, Cou.",
   "slots": [
    "5E653C"
   ]
@@ -534,7 +534,7 @@
  {
   "id": "1FE440",
   "jp": "…うへぇ…",
-  "en": null,
+  "en": "...Ugh...",
   "slots": [
    "5E6560"
   ]
@@ -542,7 +542,7 @@
  {
   "id": "1FE428",
   "jp": "クー、もう眠くない？",
-  "en": null,
+  "en": "Cou, are you still sleepy?",
   "slots": [
    "5E6584"
   ]
@@ -550,7 +550,7 @@
  {
   "id": "1FE3EC",
   "jp": "ごめん…レン。\nつぎはしっかりやるから。\nがんばろうぜ。",
-  "en": null,
+  "en": "Sorry... Ren. I'll do it right next time. Let's give it our all.",
   "slots": [
    "5E65A8"
   ]
@@ -558,7 +558,7 @@
  {
   "id": "1FE3D8",
   "jp": "うん、がんばろう。",
-  "en": null,
+  "en": "Yeah, let's do our best.",
   "slots": [
    "5E65CC"
   ]
@@ -566,7 +566,7 @@
  {
   "id": "1FFBC4",
   "jp": "レンの謳が…",
-  "en": null,
+  "en": "Ren's song is...",
   "slots": [
    "5E6614"
   ]
@@ -574,7 +574,7 @@
  {
   "id": "1FFBA8",
   "jp": "俺の中にながれこんでくる…",
-  "en": null,
+  "en": "...flowing into me...",
   "slots": [
    "5E6638"
   ]
@@ -582,7 +582,7 @@
  {
   "id": "1FFB70",
   "jp": "やった…\nリアクトできたじゃん！\nやったな、レン！！",
-  "en": null,
+  "en": "We did it... We can React! We did it, Ren!!",
   "slots": [
    "5E665C"
   ]
@@ -590,7 +590,7 @@
  {
   "id": "1FFB54",
   "jp": "うん。\nありがとう、クー。",
-  "en": null,
+  "en": "Yeah. Thank you, Cou.",
   "slots": [
    "5E6680"
   ]
@@ -598,7 +598,7 @@
  {
   "id": "1FFB14",
   "jp": "よかったぁ。\nどうなるかと思ったけど\n何とかうまくいったね。",
-  "en": null,
+  "en": "Thank goodness. I wasn't sure how it would go, but it somehow worked out.",
   "slots": [
    "5E66A4"
   ]
@@ -606,7 +606,7 @@
  {
   "id": "1FFB00",
   "jp": "まかせとけって。",
-  "en": null,
+  "en": "Leave it to me.",
   "slots": [
    "5E66C8"
   ]
@@ -614,7 +614,7 @@
  {
   "id": "1FFACC",
   "jp": "あんまり大きなこと言ってると\nイタイ目みるわよ？",
-  "en": null,
+  "en": "Talk too big and you'll get burned, y'know?",
   "slots": [
    "5E66EC"
   ]
@@ -622,7 +622,7 @@
  {
   "id": "1FFA84",
   "jp": "そうですよ。クーさんは\nここからがダメなんです。\n気をつけて下さい。",
-  "en": null,
+  "en": "That's right. From here on is where you always slip up, Cou-san. Please be careful.",
   "slots": [
    "5E6710"
   ]
@@ -638,7 +638,7 @@
  {
   "id": "1FFA64",
   "jp": "何ですか？\n今の音は。",
-  "en": null,
+  "en": "What was that? That sound just now.",
   "slots": [
    "5E677C"
   ]
@@ -646,7 +646,7 @@
  {
   "id": "1FFA34",
   "jp": "下からきこえてきましたね。\n僕が見てきます。",
-  "en": null,
+  "en": "It came from downstairs. I'll go take a look.",
   "slots": [
    "5E67A0"
   ]
@@ -654,7 +654,7 @@
  {
   "id": "1FFA24",
   "jp": "たいへんです。",
-  "en": null,
+  "en": "We've got trouble.",
   "slots": [
    "5E67E8"
   ]
@@ -662,7 +662,7 @@
  {
   "id": "1FF9CC",
   "jp": "暗くて、数はわかりませんが\n宿のまわりを、とりかこむように\nさっきの黒集団がいます。",
-  "en": null,
+  "en": "It's dark, so I can't tell how many, but the Black Group from before has the inn surrounded.",
   "slots": [
    "5E680C"
   ]
@@ -670,7 +670,7 @@
  {
   "id": "1FF9B8",
   "jp": "どうしましょう。",
-  "en": null,
+  "en": "What should we do?",
   "slots": [
    "5E6830"
   ]
@@ -678,7 +678,7 @@
  {
   "id": "1FF998",
   "jp": "宿の中まで入ってきそうなの？",
-  "en": null,
+  "en": "Do you think they'll come inside the inn?",
   "slots": [
    "5E6854"
   ]
@@ -686,7 +686,7 @@
  {
   "id": "1FF964",
   "jp": "そんな無礼な人たちじゃないって\n願いたいんだけど…",
-  "en": null,
+  "en": "I'd like to hope they're not that rude...",
   "slots": [
    "5E6878"
   ]
@@ -694,7 +694,7 @@
  {
   "id": "1FF928",
   "jp": "このまま中にいて、\nおいつめられるわけには\nいきません。",
-  "en": null,
+  "en": "We can't stay in here and let ourselves get cornered.",
   "slots": [
    "5E689C"
   ]
@@ -702,7 +702,7 @@
  {
   "id": "1FF8DC",
   "jp": "外に出ましょう。\n宿をこわされては、おかみさんに\nもうしわけが立ちません。",
-  "en": null,
+  "en": "Let's go outside. If the inn gets wrecked, I won't be able to face the landlady.",
   "slots": [
    "5E68C0"
   ]
@@ -710,7 +710,7 @@
  {
   "id": "1FF8D4",
   "jp": "先輩？",
-  "en": null,
+  "en": "Senpai?",
   "slots": [
    "5E68E4"
   ]
@@ -718,7 +718,7 @@
  {
   "id": "1FF8A8",
   "jp": "アークエイルまで、\nおびきよせましょう。",
-  "en": null,
+  "en": "Let's lure them to Arc Aile.",
   "slots": [
    "5E6908"
   ]
@@ -726,7 +726,7 @@
  {
   "id": "1FF864",
   "jp": "相手が何者かわからない今、\n私たちだけで立ち向かうのは\n危険です。",
-  "en": null,
+  "en": "We don't know who they are yet, so taking them on by ourselves is dangerous.",
   "slots": [
    "5E692C"
   ]
@@ -734,7 +734,7 @@
  {
   "id": "1FF80C",
   "jp": "何とかここから出て、たどり\nつければ、きっとアークエイルが\n黒集団をとらえてくれます。",
-  "en": null,
+  "en": "If we can somehow get out of here and make it there, Arc Aile is sure to capture the Black Group.",
   "slots": [
    "5E6950"
   ]
@@ -742,7 +742,7 @@
  {
   "id": "1FF7E8",
   "jp": "問題ありませんよね？\nクーさん。",
-  "en": null,
+  "en": "That's no problem, right, Cou-san?",
   "slots": [
    "5E6974"
   ]
@@ -750,7 +750,7 @@
  {
   "id": "1FF7D8",
   "jp": "よし、行こう！",
-  "en": null,
+  "en": "Alright, let's go!",
   "slots": [
    "5E6998"
   ]
@@ -758,7 +758,7 @@
  {
   "id": "1FF7C8",
   "jp": "行かなくていい",
-  "en": null,
+  "en": "No Need to Go",
   "slots": [
    "5E69BC"
   ]
@@ -766,7 +766,7 @@
  {
   "id": "1FF7B8",
   "jp": "ああ、行こう。",
-  "en": null,
+  "en": "Yeah, let's go.",
   "slots": [
    "5E6A04"
   ]
@@ -774,7 +774,7 @@
  {
   "id": "1FF79C",
   "jp": "シスカたちを信じてるから。",
-  "en": null,
+  "en": "'Cause I believe in you guys, Cisqua.",
   "slots": [
    "5E6A28"
   ]
@@ -782,7 +782,7 @@
  {
   "id": "1FF790",
   "jp": "クーさん…",
-  "en": null,
+  "en": "Cou-san...",
   "slots": [
    "5E6A4C"
   ]
@@ -790,7 +790,7 @@
  {
   "id": "1FF740",
   "jp": "『謳をうたえなくなる謳』を\n僕とキーアがきいたら\nどうなるのか気になります。",
-  "en": null,
+  "en": "I'm curious what would happen if Kea and I heard the \"song that stops you singing songs.\"",
   "slots": [
    "5E6A70"
   ]
@@ -798,7 +798,7 @@
  {
   "id": "1FF6F4",
   "jp": "同じようにリアクトが\nとかれたとして、もう一度\nその場でリアクトできるか…",
-  "en": null,
+  "en": "If our React got broken the same way, could we React again right there on the spot...",
   "slots": [
    "5E6A94"
   ]
@@ -806,7 +806,7 @@
  {
   "id": "1FF6D0",
   "jp": "ローなら大丈夫よ。\n信じてるわ。",
-  "en": null,
+  "en": "You'll be fine, Ro. I believe in you.",
   "slots": [
    "5E6AB8"
   ]
@@ -814,7 +814,7 @@
  {
   "id": "1FF6C4",
   "jp": "それに…",
-  "en": null,
+  "en": "Besides...",
   "slots": [
    "5E6ADC"
   ]
@@ -822,7 +822,7 @@
  {
   "id": "1FF67C",
   "jp": "リアクトできなくなったら\nそいつら、かぶりついてやる！\nガルルルル。",
-  "en": null,
+  "en": "If we can't React, I'll just sink my teeth into 'em! Grrrrr.",
   "slots": [
    "5E6B00"
   ]
@@ -830,7 +830,7 @@
  {
   "id": "1FF66C",
   "jp": "ありがとう。",
-  "en": null,
+  "en": "Thanks.",
   "slots": [
    "5E6B24"
   ]
@@ -838,7 +838,7 @@
  {
   "id": "1FF654",
   "jp": "さあ、行きましょう！",
-  "en": null,
+  "en": "Now, let's go!",
   "slots": [
    "5E6B48"
   ]
@@ -846,7 +846,7 @@
  {
   "id": "1FF630",
   "jp": "リアクトできるように\nなったんだ。",
-  "en": null,
+  "en": "We can React now.",
   "slots": [
    "5E6B6C"
   ]
@@ -854,7 +854,7 @@
  {
   "id": "1FF60C",
   "jp": "俺たちだけで\n何とでもできるって！",
-  "en": null,
+  "en": "We can handle anything on our own!",
   "slots": [
    "5E6B90"
   ]
@@ -862,7 +862,7 @@
  {
   "id": "1FF5F4",
   "jp": "またそんなこと言って…",
-  "en": null,
+  "en": "There you go again...",
   "slots": [
    "5E6BB4"
   ]
@@ -870,7 +870,7 @@
  {
   "id": "1FF5D8",
   "jp": "行こう、アークエイルに。",
-  "en": null,
+  "en": "Let's go to Arc Aile.",
   "slots": [
    "5E6BD8"
   ]
@@ -878,7 +878,7 @@
  {
   "id": "1FF5A0",
   "jp": "またあの謳をきいて、リアクト\nできなくなっちゃったら…",
-  "en": null,
+  "en": "If I hear that song again and can't React anymore...",
   "slots": [
    "5E6C20"
   ]
@@ -886,7 +886,7 @@
  {
   "id": "1FF590",
   "jp": "『また』…？",
-  "en": null,
+  "en": "\"Again\"...?",
   "slots": [
    "5E6C44"
   ]
@@ -894,7 +894,7 @@
  {
   "id": "1FF570",
   "jp": "可能性は無いとは言いきれない。",
-  "en": null,
+  "en": "We can't say it won't happen.",
   "slots": [
    "5E6C68"
   ]
@@ -902,7 +902,7 @@
  {
   "id": "1FF520",
   "jp": "今度は僕とキーアもいるけど\n謳をきいて、僕たちもリアクトが\nとかれてしまったら",
-  "en": null,
+  "en": "This time Kea and I are here too, but if we hear the song and our React gets broken too,",
   "slots": [
    "5E6C8C"
   ]
@@ -910,7 +910,7 @@
  {
   "id": "1FF4F4",
   "jp": "まともに戦えるのは\nシスカ先輩だけになる。",
-  "en": null,
+  "en": "Cisqua-senpai will be the only one who can really fight.",
   "slots": [
    "5E6CB0"
   ]
@@ -918,7 +918,7 @@
  {
   "id": "1FF4C4",
   "jp": "レンちゃんとキーアを守るには\n戦力がたりない…",
-  "en": null,
+  "en": "We don't have the strength to protect Ren-chan and Kea...",
   "slots": [
    "5E6CD4"
   ]
@@ -926,7 +926,7 @@
  {
   "id": "1FF4B8",
   "jp": "そう…か…",
-  "en": null,
+  "en": "I... see...",
   "slots": [
    "5E6CF8"
   ]
@@ -934,7 +934,7 @@
  {
   "id": "1FF498",
   "jp": "ゴメン。\n何か一人うかれてて…",
-  "en": null,
+  "en": "Sorry. I got kinda carried away all by myself...",
   "slots": [
    "5E6D1C"
   ]
@@ -942,7 +942,7 @@
  {
   "id": "1FF45C",
   "jp": "でも今は、レンちゃんとクーの\nリアクトはバッチリだからネ。",
-  "en": null,
+  "en": "But right now, Ren-chan and Cou's React is spot-on, y'know.",
   "slots": [
    "5E6D40"
   ]
@@ -950,7 +950,7 @@
  {
   "id": "1FF430",
   "jp": "さあ、外に出ますよ！\n心して下さいね！？",
-  "en": null,
+  "en": "Now, we're heading out! Be on your guard, all right?!",
   "slots": [
    "5E6D64"
   ]
@@ -958,7 +958,7 @@
  {
   "id": "2000B0",
   "jp": "とにかくアークエイルへ\n行くぜ！！",
-  "en": null,
+  "en": "Anyway, we're headin' to Arc Aile!!",
   "slots": [
    "5E6DAC"
   ]
@@ -966,7 +966,7 @@
  {
   "id": "200098",
   "jp": "あれ…シスカたちは？",
-  "en": null,
+  "en": "Huh... where'd Cisqua and the others go?",
   "slots": [
    "5E6E84"
   ]
@@ -974,7 +974,7 @@
  {
   "id": "200070",
   "jp": "はぐれちゃったみたい。\nどうしよう？",
-  "en": null,
+  "en": "Looks like we got separated. What should we do?",
   "slots": [
    "5E6EA8"
   ]
@@ -982,7 +982,7 @@
  {
   "id": "200058",
   "jp": "どうしようっつっても…",
-  "en": null,
+  "en": "Even if you ask what to do...",
   "slots": [
    "5E6ECC"
   ]
@@ -990,7 +990,7 @@
  {
   "id": "200048",
   "jp": "そうだなー。",
-  "en": null,
+  "en": "Let's see...",
   "slots": [
    "5E6EF0"
   ]
@@ -998,7 +998,7 @@
  {
   "id": "1FFFF4",
   "jp": "とにかくアークエイルへ行こう。\nそうすれば、シスカたちとも\n会えるんじゃないかな。",
-  "en": null,
+  "en": "Anyway, let's head to Arc Aile. I bet we can meet up with Cisqua and the others there.",
   "slots": [
    "5E6F14"
   ]
@@ -1006,7 +1006,7 @@
  {
   "id": "1FFFA0",
   "jp": "こうやって、俺たちがバラバラに\nなってるせいで、やつらも\nオタオタしてるはずだ。",
-  "en": null,
+  "en": "With us all split up like this, those guys must be running around in a panic too.",
   "slots": [
    "5E6F38"
   ]
@@ -1014,7 +1014,7 @@
  {
   "id": "1FFF94",
   "jp": "行くぜ！",
-  "en": null,
+  "en": "Let's go!",
   "slots": [
    "5E6F5C"
   ]
@@ -1022,7 +1022,7 @@
  {
   "id": "1FFF8C",
   "jp": "ええ。",
-  "en": null,
+  "en": "Yes.",
   "slots": [
    "5E6F80"
   ]
@@ -1030,7 +1030,7 @@
  {
   "id": "1FFF50",
   "jp": "店はしまってるけど\n明日の準備とかで\nまだ人がいそうだ。",
-  "en": null,
+  "en": "The shops are closed, but it looks like people are still around getting ready for tomorrow.",
   "slots": [
    "5E7058"
   ]
@@ -1038,7 +1038,7 @@
  {
   "id": "1FFF2C",
   "jp": "夜も船の出入りが\nあるんだなぁ。",
-  "en": null,
+  "en": "So ships come and go even at night, huh.",
   "slots": [
    "5E7154"
   ]
@@ -1046,7 +1046,7 @@
  {
   "id": "1FFF0C",
   "jp": "昼にくらべると、しずかだな。",
-  "en": null,
+  "en": "It's quiet compared to daytime.",
   "slots": [
    "5E7178"
   ]
@@ -1054,7 +1054,7 @@
  {
   "id": "1FFEC0",
   "jp": "街の外なんかへ行ったら\nあいつらの思うツボだ。\n早くアークエイルへ行こう。",
-  "en": null,
+  "en": "Going outside town is just what they want. Let's hurry to Arc Aile.",
   "slots": [
    "5E7250"
   ]
@@ -1062,7 +1062,7 @@
  {
   "id": "1FFEA8",
   "jp": "夜になるとしずかだな…",
-  "en": null,
+  "en": "It sure gets quiet at night...",
   "slots": [
    "5E7328"
   ]
@@ -1070,7 +1070,7 @@
  {
   "id": "1FFE94",
   "jp": "おっと、いけねッ！",
-  "en": null,
+  "en": "Whoa, better not!",
   "slots": [
    "5E734C"
   ]
@@ -1078,7 +1078,7 @@
  {
   "id": "1FFE50",
   "jp": "ヤツらもしつけーな…\n本当にアークエイルまで\nついて来る気か…？",
-  "en": null,
+  "en": "Those guys sure are persistent... Are they really gonna follow us all the way to Arc Aile...?",
   "slots": [
    "5E7448"
   ]
@@ -1086,7 +1086,7 @@
  {
   "id": "1FFE3C",
   "jp": "行くっきゃないな…",
-  "en": null,
+  "en": "Guess there's nothing to do but go...",
   "slots": [
    "5E746C"
   ]
@@ -1094,7 +1094,7 @@
  {
   "id": "1FFE2C",
   "jp": "待って、クー。",
-  "en": null,
+  "en": "Wait, Cou.",
   "slots": [
    "5E7490"
   ]
@@ -1102,7 +1102,7 @@
  {
   "id": "1FFE24",
   "jp": "ヘ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "5E74B4"
   ]
@@ -1110,7 +1110,7 @@
  {
   "id": "1FFE10",
   "jp": "っ………たたッ！",
-  "en": null,
+  "en": "Ow... owww!",
   "slots": [
    "5E7520"
   ]
@@ -1118,7 +1118,7 @@
  {
   "id": "1FFE04",
   "jp": "クー！！",
-  "en": null,
+  "en": "Cou!!",
   "slots": [
    "5E7544"
   ]
@@ -1126,7 +1126,7 @@
  {
   "id": "1FFDE8",
   "jp": "何だ、なんだ？\nイテテテ…",
-  "en": null,
+  "en": "What, what was that? Ow-ow-ow...",
   "slots": [
    "5E7568"
   ]
@@ -1134,7 +1134,7 @@
  {
   "id": "1FFDC4",
   "jp": "誰かぶつかったのか？\n大丈夫か？",
-  "en": null,
+  "en": "Did somebody bump into me? You okay?",
   "slots": [
    "5E758C"
   ]
@@ -1142,7 +1142,7 @@
  {
   "id": "1FFDA0",
   "jp": "大丈夫じゃないのヨ！\nいたいのヨ…",
-  "en": null,
+  "en": "I'm not okay at all, you know! That hurt...",
   "slots": [
    "5E75B0"
   ]
@@ -1150,7 +1150,7 @@
  {
   "id": "1FFD84",
   "jp": "チルル！？\nお前、何で…",
-  "en": null,
+  "en": "Chiruru?! Why are you...",
   "slots": [
    "5E75D4"
   ]
@@ -1158,7 +1158,7 @@
  {
   "id": "1FFD7C",
   "jp": "エ……",
-  "en": null,
+  "en": "Eh...",
   "slots": [
    "5E75F8"
   ]
@@ -1166,7 +1166,7 @@
  {
   "id": "1FFD38",
   "jp": "気にしないでなのヨ！\nそれよりしっかり前見とかなきゃ\nヴォルく…",
-  "en": null,
+  "en": "Never mind that, you know! Anyway, you gotta keep your eyes in front of you, Vol-ku...",
   "slots": [
    "5E761C"
   ]
@@ -1174,7 +1174,7 @@
  {
   "id": "1FFD1C",
   "jp": "ううん、何でもないのヨ。",
-  "en": null,
+  "en": "Nope, it's nothing, you know.",
   "slots": [
    "5E7640"
   ]
@@ -1182,7 +1182,7 @@
  {
   "id": "1FFD0C",
   "jp": "行っちゃった…",
-  "en": null,
+  "en": "She's gone...",
   "slots": [
    "5E7688"
   ]
@@ -1190,7 +1190,7 @@
  {
   "id": "1FFCF4",
   "jp": "くっそ、何なんだよ！",
-  "en": null,
+  "en": "Dammit, what was that about?!",
   "slots": [
    "5E76AC"
   ]
@@ -1198,7 +1198,7 @@
  {
   "id": "1FFCD8",
   "jp": "もたもたしてらんないな…",
-  "en": null,
+  "en": "Can't dawdle around here...",
   "slots": [
    "5E77A8"
   ]
@@ -1206,7 +1206,7 @@
  {
   "id": "1FFCC4",
   "jp": "早く行かねぇと。",
-  "en": null,
+  "en": "Gotta hurry.",
   "slots": [
    "5E77CC"
   ]
@@ -1214,7 +1214,7 @@
  {
   "id": "1FFC94",
   "jp": "クーとレンちゃんは…！？\nまだ来てないのか？",
-  "en": null,
+  "en": "Cou and Ren-chan...?! They're not here yet?",
   "slots": [
    "5E78A4"
   ]
@@ -1222,7 +1222,7 @@
  {
   "id": "1FFC6C",
   "jp": "と、とりあえず\nここまで来れば、もう…",
-  "en": null,
+  "en": "W-well, now that we've made it this far, we should be...",
   "slots": [
    "5E78C8"
   ]
@@ -1230,7 +1230,7 @@
  {
   "id": "1FFC60",
   "jp": "キーア！！",
-  "en": null,
+  "en": "Kea!!",
   "slots": [
    "5E78EC"
   ]
@@ -1238,7 +1238,7 @@
  {
   "id": "1FFC54",
   "jp": "逃がすか！",
-  "en": null,
+  "en": "You won't get away!",
   "slots": [
    "5E7958"
   ]
@@ -1246,7 +1246,7 @@
  {
   "id": "1FFC4C",
   "jp": "待て！",
-  "en": null,
+  "en": "Hold it!",
   "slots": [
    "5E79A0"
   ]
@@ -1254,7 +1254,7 @@
  {
   "id": "1FFC40",
   "jp": "クーッ！?",
-  "en": null,
+  "en": "Cou?!",
   "slots": [
    "5E79C4"
   ]
@@ -1262,7 +1262,7 @@
  {
   "id": "1FFC28",
   "jp": "おっそいじゃないッ！",
-  "en": null,
+  "en": "You're late!",
   "slots": [
    "5E79E8"
   ]
@@ -1270,7 +1270,7 @@
  {
   "id": "1FFC00",
   "jp": "わりぃわりぃ。\n道に迷っちまってサ。",
-  "en": null,
+  "en": "Sorry, sorry. Got myself lost, y'know.",
   "slots": [
    "5E7A0C"
   ]
@@ -1278,7 +1278,7 @@
  {
   "id": "1FFBE8",
   "jp": "ヤツらをおさえろっ！",
-  "en": null,
+  "en": "Restrain them!",
   "slots": [
    "5E7A30"
   ]
@@ -1286,7 +1286,7 @@
  {
   "id": "1FFBD4",
   "jp": "行くぜ、レン！！",
-  "en": null,
+  "en": "Let's go, Ren!!",
   "slots": [
    "5E7A54"
   ]
@@ -1294,7 +1294,7 @@
  {
   "id": "200344",
   "jp": "ヴォル君！！",
-  "en": null,
+  "en": "Vol-kun!!",
   "slots": [
    "5E7AC0"
   ]
@@ -1302,7 +1302,7 @@
  {
   "id": "200324",
   "jp": "何だキサマは。\n…はなせ！！",
-  "en": null,
+  "en": "Who the hell are you? ...Let go!!",
   "slots": [
    "5E7AE4"
   ]
@@ -1310,7 +1310,7 @@
  {
   "id": "200318",
   "jp": "イヤッ！",
-  "en": null,
+  "en": "No!",
   "slots": [
    "5E7B08"
   ]
@@ -1318,7 +1318,7 @@
  {
   "id": "2002DC",
   "jp": "いやヨ。アタシは\nヴォル君とずっといっしょ\nなんだからッ！",
-  "en": null,
+  "en": "No way, you know. I'm staying with Vol-kun forever!",
   "slots": [
    "5E7B2C"
   ]
@@ -1326,7 +1326,7 @@
  {
   "id": "2002B8",
   "jp": "キサマのようなガキに\n用は無い！",
-  "en": null,
+  "en": "I've got no business with a brat like you!",
   "slots": [
    "5E7B50"
   ]
@@ -1334,7 +1334,7 @@
  {
   "id": "2002AC",
   "jp": "どけぃ！！",
-  "en": null,
+  "en": "Out of my way!!",
   "slots": [
    "5E7B74"
   ]
@@ -1342,7 +1342,7 @@
  {
   "id": "2002A0",
   "jp": "きゃあ！",
-  "en": null,
+  "en": "Eek!",
   "slots": [
    "5E7B98"
   ]
@@ -1350,7 +1350,7 @@
  {
   "id": "200270",
   "jp": "そこまでです。\nこれ以上好き勝手させません。",
-  "en": null,
+  "en": "That's far enough. We won't let you do as you please any longer.",
   "slots": [
    "5E7BBC"
   ]
@@ -1358,7 +1358,7 @@
  {
   "id": "20023C",
   "jp": "チッ…\nアークエイルのおでましか。\nやっかいだな…",
-  "en": null,
+  "en": "Tch... So Arc Aile shows up. What a nuisance...",
   "slots": [
    "5E7BE0"
   ]
@@ -1366,7 +1366,7 @@
  {
   "id": "20022C",
   "jp": "ここは引くぞ。",
-  "en": null,
+  "en": "Fall back.",
   "slots": [
    "5E7C04"
   ]
@@ -1374,7 +1374,7 @@
  {
   "id": "2001FC",
   "jp": "コラーッ！\nすたこら逃げるんじゃ\nないわよ～！",
-  "en": null,
+  "en": "Hey! Don't you go scurrying off~!",
   "slots": [
    "5E7C4C"
   ]
@@ -1382,7 +1382,7 @@
  {
   "id": "2001BC",
   "jp": "全員とっつかまえて\nけちょんけちょんにして\nやるんだからァ！",
-  "en": null,
+  "en": "I'm gonna catch every last one of you and beat you to a pulp!",
   "slots": [
    "5E7C70"
   ]
@@ -1390,7 +1390,7 @@
  {
   "id": "200194",
   "jp": "彼らの事はわれわれに\nまかせて下さい。",
-  "en": null,
+  "en": "Please leave them to us.",
   "slots": [
    "5E7C94"
   ]
@@ -1398,7 +1398,7 @@
  {
   "id": "20017C",
   "jp": "よろしくお願いします。",
-  "en": null,
+  "en": "We're counting on you.",
   "slots": [
    "5E7CB8"
   ]
@@ -1406,7 +1406,7 @@
  {
   "id": "200160",
   "jp": "どかーんとやっちゃって！",
-  "en": null,
+  "en": "Blow 'em away!",
   "slots": [
    "5E7CDC"
   ]
@@ -1414,7 +1414,7 @@
  {
   "id": "200150",
   "jp": "ダイジョウブ？",
-  "en": null,
+  "en": "You okay?",
   "slots": [
    "5E7D24"
   ]
@@ -1422,7 +1422,7 @@
  {
   "id": "200148",
   "jp": "う…",
-  "en": null,
+  "en": "Ugh...",
   "slots": [
    "5E7D48"
   ]
@@ -1430,7 +1430,7 @@
  {
   "id": "200134",
   "jp": "……大丈夫よ……",
-  "en": null,
+  "en": "...It's alright...",
   "slots": [
    "5E7D6C"
   ]
@@ -1438,7 +1438,7 @@
  {
   "id": "200108",
   "jp": "あの人は、きっと\n何もかわっていないわ。",
-  "en": null,
+  "en": "That person... I'm sure he hasn't changed at all.",
   "slots": [
    "5E7D90"
   ]
@@ -1446,7 +1446,7 @@
  {
   "id": "2000F8",
   "jp": "う、ウウッ……",
-  "en": null,
+  "en": "U-uuugh...",
   "slots": [
    "5E7DB4"
   ]
@@ -1454,7 +1454,7 @@
  {
   "id": "2000D4",
   "jp": "うわあぁああぁぁん\nヴォルくーん…",
-  "en": null,
+  "en": "Waaaaah! Vol-kuuun...",
   "slots": [
    "5E7DD8"
   ]
@@ -1462,7 +1462,7 @@
  {
   "id": "2026A8",
   "jp": "あーあ。\nけっきょく朝に\nなっちまった…",
-  "en": null,
+  "en": "Aw, man. Ended up being morning after all...",
   "slots": [
    "5E7E20"
   ]
@@ -1470,7 +1470,7 @@
  {
   "id": "202694",
   "jp": "レン、大丈夫か？",
-  "en": null,
+  "en": "Ren, you okay?",
   "slots": [
    "5E7E44"
   ]
@@ -1497,7 +1497,7 @@
  {
   "id": "202670",
   "jp": "………ん？\nなぁに……？",
-  "en": null,
+  "en": "...Hm? What is it...?",
   "slots": [
    "5E7E8C"
   ]
@@ -1505,7 +1505,7 @@
  {
   "id": "20261C",
   "jp": "宿にもどれなかったから\nベッドで眠れなかったけど\nどっか、いたかったりしないか？",
-  "en": null,
+  "en": "We couldn't get back to the inn, so you didn't get to sleep in a bed. Does anything hurt?",
   "slots": [
    "5E7EB0"
   ]
@@ -1513,7 +1513,7 @@
  {
   "id": "202614",
   "jp": "平気。",
-  "en": null,
+  "en": "I'm fine.",
   "slots": [
    "5E7ED4"
   ]
@@ -1521,7 +1521,7 @@
  {
   "id": "2025F4",
   "jp": "それより、もう少し寝たいわ。",
-  "en": null,
+  "en": "More importantly, I want to sleep a little longer.",
   "slots": [
    "5E7F1C"
   ]
@@ -1529,7 +1529,7 @@
  {
   "id": "2025E4",
   "jp": "あ、ゴメン。",
-  "en": null,
+  "en": "Oh, sorry.",
   "slots": [
    "5E7F40"
   ]
@@ -1537,7 +1537,7 @@
  {
   "id": "2025D0",
   "jp": "じゃあ、また後で。",
-  "en": null,
+  "en": "See you later, then.",
   "slots": [
    "5E7F64"
   ]
@@ -1699,7 +1699,7 @@
  {
   "id": "2025B0",
   "jp": "っと、どうすっかなぁ～。",
-  "en": null,
+  "en": "Now then, what should I do~?",
   "slots": [
    "5E7FAC"
   ]
@@ -1707,7 +1707,7 @@
  {
   "id": "202580",
   "jp": "クーさん、おめざめですか。\nちょうどよかった。",
-  "en": null,
+  "en": "Cou-san, you're awake. Perfect timing.",
   "slots": [
    "5E7FD0"
   ]
@@ -1715,7 +1715,7 @@
  {
   "id": "202544",
   "jp": "アークエイルからの報告が\nありましたのでお知らせします。",
-  "en": null,
+  "en": "Arc Aile has sent a report, so let me fill you in.",
   "slots": [
    "5E7FF4"
   ]
@@ -1723,7 +1723,7 @@
  {
   "id": "202504",
   "jp": "昨夜、われわれをおって\nアークエイル前まで来た\n黒集団ですが",
-  "en": null,
+  "en": "About the Black Group that chased us all the way to Arc Aile last night...",
   "slots": [
    "5E8018"
   ]
@@ -1731,7 +1731,7 @@
  {
   "id": "2024D8",
   "jp": "残念ながら取り逃がして\nしまったようです。",
-  "en": null,
+  "en": "Unfortunately, it seems they got away.",
   "slots": [
    "5E803C"
   ]
@@ -1739,7 +1739,7 @@
  {
   "id": "2024C0",
   "jp": "逃がした？　そんな…",
-  "en": null,
+  "en": "Got away? No way...",
   "slots": [
    "5E8060"
   ]
@@ -1747,7 +1747,7 @@
  {
   "id": "20246C",
   "jp": "何で、あんな大人数でおいかけて\n逃がしちゃうのよ…ンモーッ！\nなさけない話よね！",
-  "en": null,
+  "en": "How do you chase them with that many people and still let them get away... Ugh! How pathetic!",
   "slots": [
    "5E8084"
   ]
@@ -1755,7 +1755,7 @@
  {
   "id": "202440",
   "jp": "やあ、クー。\nおはよう。よく眠れたかい？",
-  "en": null,
+  "en": "Hey, Cou. Morning. Sleep well?",
   "slots": [
    "5E80A8"
   ]

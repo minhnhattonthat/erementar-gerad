@@ -13,12 +13,12 @@ import fit, lint, romlib
 
 TL = romlib.ROOT / 'work' / 'tl'
 # Speaker id = byte +8 of a dialogue record (string pointer at +0x10, byte +0xC = 0xFF). Names from context.
+# Names for 1-15 come from the dialogue name-tag graphics (tools/gfx.py tags); 16+ from context. Unreliable for
+# choice menus (tagged with the previous speaker).
 SPEAKERS = {0: 'narration/none', 1: 'Coud', 2: 'Ren', 3: 'Rowen', 4: 'Kea', 5: 'Cisqua',
-            6: '??? (spiky-haired Pledger, prologue silhouette)', 7: "??? (his Edel Raid, ends lines '-no yo')",
-            8: 'travelling merchant (Kansai dialect)', 9: 'timid girl (Chiruru?)', 10: 'arena official',
-            11: 'Arc Aile Porto Galeon branch member', 12: 'townsman', 13: "shop lady (innkeeper's twin sister)",
-            14: 'old fisherman', 15: 'priest', 16: 'thug leader', 17: "??? (Edel Raid, '-no yo')",
-            18: 'grieving woman', 19: 'innkeeper (okami)', 20: 'Arc Aile officer'}
+            6: 'Volks', 7: 'Chiruru', 8: 'Merchant (Kansai dialect)', 9: 'Enda (timid girl)', 10: 'Carlsen',
+            11: 'Arc Aile member', 12: 'Masked Man', 13: 'Old Lady', 14: 'Old Man (fisherman)', 15: 'Priest',
+            16: 'thug leader', 17: 'Chiruru', 18: 'grieving woman', 19: 'innkeeper (landlady)', 20: 'Arc Aile officer'}
 
 
 def speaker(d, e):
@@ -147,6 +147,27 @@ def merge(names):
         print(f'{name}: merged {len(out)}')
 
 
+def pairs(name):
+    """work/tl/<name>.pairs.txt for the reviewer: '>> id | speaker' / JP / EN, with +-2 context lines."""
+    ids = [line.split('\t')[0] for line in (TL / f'{name}.tsv').read_text('utf-8').splitlines() if line]
+    order = [e for _, e in all_entries()]
+    pos = {e['id']: i for i, e in enumerate(order)}
+    d = romlib.load()
+    want = set(ids)
+    out = []
+    for i in ids:
+        k = pos[i]
+        for j in range(max(0, k - 2), min(len(order), k + 3)):
+            e = order[j]
+            if e['id'] == i:
+                out.append(f">> {i} | {speaker(d, e)}\nJP: {e['jp'].replace(chr(10), ' / ')}\nEN: {e.get('en')}")
+            elif e['id'] not in want:
+                out.append(f"   (context) JP: {e['jp'].replace(chr(10), ' / ')} | EN: {e.get('en')}")
+        out.append('')
+    (TL / f'{name}.pairs.txt').write_text('\n'.join(out) + '\n', 'utf-8', newline='\n')
+    print(TL / f'{name}.pairs.txt')
+
+
 def status():
     es = [e for _, e in all_entries() if fit.form(e) != 'keep']
     print(f'{sum(e.get("en") is not None for e in es)}/{len(es)} translated')
@@ -165,5 +186,8 @@ if __name__ == '__main__':
         merge(sys.argv[2:])
     elif cmd == 'terms':
         refresh_terms()
+    elif cmd == 'pairs':
+        for n in sys.argv[2:]:
+            pairs(n)
     else:
         status()

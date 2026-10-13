@@ -11,7 +11,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 - Specs/plans pre-approved: keep going through checkpoints, report at milestones.
 
 ## Style rules
-- Punctuation map: 「」 -> "...", 『』 -> '...', ・・・ / … -> ..., ！？ -> ?!, ～ at line end -> ~ or drop.
+- Punctuation map: 「」 -> "...", 『』 -> "...", ・・・ / … -> ..., ！？ -> ?!, ～ at line end -> ~ or drop.
 - Kansai-dialect shopkeeper (やな/やで/わ): casual folksy English, not phonetic dialect spelling.
 
 ## Characters
@@ -24,8 +24,16 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ローウェン | Rowen | | | Rowan, Lowen |
 | ロー | Ro | | Rowen's nickname | |
 | キーア | Kea | | Edel Raid | Kiia, Kia |
-| チルル | Chiruru | | | |
+| チルル | Chiruru | | Edel Raid; verbal tic のヨ -> "you know" (not every line) | |
 | カールセン | Carlsen | | | |
+| ヴォルクス | Volks | | Chiruru's Pledger, Edel Raid hunter (name tag) | Wolx |
+| ヴォル君 | Vol-kun | | Chiruru's name for Volks | Wol-kun |
+| エンダ | Enda | | | |
+| フィオラ | Fiora | | | |
+| ビーゾン | Bizon | | | |
+| パール | Pearl | | | |
+| オヤカタ | the Boss | | the man who took Coud in | |
+| ショウニンさん | Mister Merchant | | Cisqua's name for the merchant | |
 
 ## Places
 | JP | EN | max | notes | Avoid |
@@ -35,6 +43,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ポルトガレオン | Porto Galeon | | port town | Portogaleon |
 | ブレイブスアルカ | Braves Arca | | | |
 | 闘技場 | arena | | | colosseum |
+| 広場 | plaza | | | |
+| バザー | bazaar | | | |
+| 港 | harbor | | | |
+| はね橋 | drawbridge | | | |
+| 支部 | branch | | "Arc Aile Porto Galeon branch" | |
 
 ## Items / skills / terms
 | JP | EN | max | notes | Avoid |
@@ -46,6 +59,22 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ガネー | Ganee | | currency: "527 Ganee" | Gane |
 | 先輩 | Senpai | | Rowen -> Cisqua; capitalised as a form of address | |
 | サンゾク | bandits | | | |
+| 黒集団 | the Black Group | | capitalised group name | black-clad group, men in black, Black Gang |
+| 七煌宝樹 | Seven Glittering Jewels | | | |
+| 保護官 | protection officer | | title before a name: "Protection Officer Cisqua" | |
+| エディルレイド完全保護協会 | Edel Raid Complete Protection Association | | | Society for the Complete Protection |
+| エディルレイドハンター | Edel Raid hunter | | ハンターさん -> Mister Hunter | |
+| エディルレイドレーダー | Edel Raid Radar | | | |
+| アークエイルゴールドカード | Arc Aile Gold Card | | | |
+| アークエイルメインバンク | Arc Aile Main Bank | | | |
+| ナスカム | Nascam | | ナスカムメモリア Nascam Memoria, ナスカムリバーツ Nascam Rivarts | Nascum |
+| 忘却の謳 | song of oblivion | | | |
+| ラグウルス | Raguurus | | forest creature | |
+| おかみさん | landlady | | the innkeeper | |
 
 ## Decisions from earlier batches
-- (none yet)
+- wave 1: シスカ先輩 -> "Cisqua-senpai" (lowercase when attached; "Senpai" alone as address).
+- wave 1: Ren's React chant and song lyrics are TRANSLATED, not romanised: あかかるこころ かぜをまといて ちぎりこん ->
+  "Bright heart, wrapped in wind, let us pledge."
+- wave 1: choice options in sentence case; menu commands / place names in title case.
+- wave 1: お前 from Coud to Chiruru stays "you" (she objects to it later).

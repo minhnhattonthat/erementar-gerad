@@ -2,7 +2,7 @@
  {
   "id": "1FA038",
   "jp": "エディルレイドプレジャーが\nそれ目当てに、この街へ\n来ることがある。",
-  "en": null,
+  "en": "Edel Raid Pledgers sometimes come to this town for that.",
   "slots": [
    "5E0EC0"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "1FA020",
   "jp": "やつらは強いからな。",
-  "en": null,
+  "en": "They're strong, after all.",
   "slots": [
    "5E0EE4"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "1FA000",
   "jp": "エディルレイド…プレジャー…。",
-  "en": null,
+  "en": "Edel Raid... Pledgers...",
   "slots": [
    "5E0F08"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "1F9FE8",
   "jp": "おや、知ってるのかい？",
-  "en": null,
+  "en": "Oh, you know of them?",
   "slots": [
    "5E0F2C"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "1F9FA8",
   "jp": "エディルレイドというのは\n数が少ないから\nなかなか出会えない。",
-  "en": null,
+  "en": "Edel Raids are few in number, so you rarely meet one.",
   "slots": [
    "5E0F50"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "1F9F4C",
   "jp": "しかし、武器のうつくしさから\n客からはよろこばれている。\nもっと集まってほしいところだ。",
-  "en": null,
+  "en": "But the crowds love the beauty of their weapons. We'd like more of them to gather here.",
   "slots": [
    "5E0F74"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "1F9F24",
   "jp": "ちょっと待った！\nその…この街では…",
-  "en": null,
+  "en": "Hold on! Um... in this town...",
   "slots": [
    "5E0F98"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "1F9EDC",
   "jp": "エディルレイドだってことを\nかくさないと危ないって\nきいたんだけど？",
-  "en": null,
+  "en": "I heard it's dangerous if you don't hide that you're an Edel Raid?",
   "slots": [
    "5E0FBC"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "1F9ED4",
   "jp": "ほう…",
-  "en": null,
+  "en": "Hmm...",
   "slots": [
    "5E0FE0"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "1F9EB4",
   "jp": "そんな話、きいたことがないな。",
-  "en": null,
+  "en": "I've never heard any such thing.",
   "slots": [
    "5E1004"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "1F9E6C",
   "jp": "…じゃあ…あいつが言ったのは\n何だったんだ？\n何で俺たちにそんなこと…",
-  "en": null,
+  "en": "...Then... what was that guy talking about? Why would he tell us that...",
   "slots": [
    "5E1028"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "1F9E30",
   "jp": "『エディルレイドだってことを\n　かくしたほうがいい』と？",
-  "en": null,
+  "en": "\"You'd better hide that you're an Edel Raid,\" he said?",
   "slots": [
    "5E104C"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "1F9DE4",
   "jp": "レンのこと気にして\n言ってくれたんだと思ったけど\n別に何でもないのかもな。",
-  "en": null,
+  "en": "I thought he said it 'cause he was worried about Ren, but maybe it was nothing.",
   "slots": [
    "5E1094"
   ]
@@ -114,7 +114,7 @@
  {
   "id": "1F9DB0",
   "jp": "そうか、彼女はエディルレイド\nなんだね。",
-  "en": null,
+  "en": "I see, so she's an Edel Raid.",
   "slots": [
    "5E1100"
   ]
@@ -122,7 +122,7 @@
  {
   "id": "1F9D70",
   "jp": "それでは君たちも\n闘技場に参加するために\nこの街へ来たのかな？",
-  "en": null,
+  "en": "Then did you two come to this town to take part in the arena, too?",
   "slots": [
    "5E1124"
   ]
@@ -130,7 +130,7 @@
  {
   "id": "1F9D60",
   "jp": "いや…その…",
-  "en": null,
+  "en": "No... well...",
   "slots": [
    "5E1148"
   ]
@@ -138,7 +138,7 @@
  {
   "id": "1F9D40",
   "jp": "ちがいます。\nクー、行こう。",
-  "en": null,
+  "en": "No, we didn't. Cou, let's go.",
   "slots": [
    "5E116C"
   ]
@@ -146,7 +146,7 @@
  {
   "id": "1F9CFC",
   "jp": "いやいや、かまわないよ。\n私がほかへ行こう。\n仲よくするといい。",
-  "en": null,
+  "en": "No, no, it's quite all right. I'll go elsewhere. You two get along, now.",
   "slots": [
    "5E1190"
   ]
@@ -154,7 +154,7 @@
  {
   "id": "1F9CF0",
   "jp": "…今のは…",
-  "en": null,
+  "en": "...What was that just now...",
   "slots": [
    "5E11D8"
   ]
@@ -162,7 +162,7 @@
  {
   "id": "1F9CE0",
   "jp": "レン…ごめん。",
-  "en": null,
+  "en": "Ren... sorry.",
   "slots": [
    "5E1220"
   ]
@@ -170,7 +170,7 @@
  {
   "id": "1F9CB8",
   "jp": "俺、レンのこと\nエディルレイドだって…",
-  "en": null,
+  "en": "I went and told him you're an Edel Raid...",
   "slots": [
    "5E1244"
   ]
@@ -178,7 +178,7 @@
  {
   "id": "1F9CA0",
   "jp": "ううん。気にしないで。",
-  "en": null,
+  "en": "No. Don't worry about it.",
   "slots": [
    "5E1268"
   ]
@@ -186,7 +186,7 @@
  {
   "id": "1F9C7C",
   "jp": "たぶん、大丈夫よ。\n心配ないわ。",
-  "en": null,
+  "en": "It'll probably be fine. Don't worry.",
   "slots": [
    "5E128C"
   ]
@@ -194,7 +194,7 @@
  {
   "id": "1F9C74",
   "jp": "はね橋",
-  "en": null,
+  "en": "Drawbridge",
   "slots": [
    "5E1418"
   ]
@@ -202,7 +202,7 @@
  {
   "id": "1F9C60",
   "jp": "レン…ごめんな。",
-  "en": null,
+  "en": "Ren... I'm sorry.",
   "slots": [
    "5E14A8"
   ]
@@ -210,7 +210,7 @@
  {
   "id": "1F9C1C",
   "jp": "エディルレイドだってこと\n言ったらダメだって\n言われてたのにな。",
-  "en": null,
+  "en": "And after we were told not to say you're an Edel Raid...",
   "slots": [
    "5E14CC"
   ]
@@ -218,7 +218,7 @@
  {
   "id": "1F9BE8",
   "jp": "大丈夫よ。\nあまり考えないで。\nクーらしくないわ。",
-  "en": null,
+  "en": "It's okay. Don't think about it too much. It's not like you, Cou.",
   "slots": [
    "5E1514"
   ]
@@ -226,7 +226,7 @@
  {
   "id": "1F9BCC",
   "jp": "さあ、ほかへ行きましょう。",
-  "en": null,
+  "en": "Come on, let's go somewhere else.",
   "slots": [
    "5E155C"
   ]
@@ -234,7 +234,7 @@
  {
   "id": "1F9BA4",
   "jp": "船が通れるように\n橋があがってんだな。",
-  "en": null,
+  "en": "The bridge is raised so ships can get through, huh.",
   "slots": [
    "5E1580"
   ]
@@ -242,7 +242,7 @@
  {
   "id": "1F9B64",
   "jp": "橋があがってたら\n向こうにわたれないじゃん。\nつまんねーな。",
-  "en": null,
+  "en": "If the bridge is up, we can't get across. Boring.",
   "slots": [
    "5E15A4"
   ]
@@ -250,7 +250,7 @@
  {
   "id": "1F9B30",
   "jp": "橋があがったまんまだ。\n向こうにわたれねーじゃん。",
-  "en": null,
+  "en": "The bridge is still up. We can't get across.",
   "slots": [
    "5E15C8"
   ]
@@ -258,7 +258,7 @@
  {
   "id": "1FBEF4",
   "jp": "ここには…いないか。",
-  "en": null,
+  "en": "She's not... here, huh.",
   "slots": [
    "5E16C4"
   ]
@@ -266,7 +266,7 @@
  {
   "id": "1FBEDC",
   "jp": "どこへ行ったのかしら。",
-  "en": null,
+  "en": "I wonder where she went.",
   "slots": [
    "5E16E8"
   ]
@@ -274,7 +274,7 @@
  {
   "id": "1FBED0",
   "jp": "どこだ…？",
-  "en": null,
+  "en": "Where is she...?",
   "slots": [
    "5E17C0"
   ]
@@ -282,7 +282,7 @@
  {
   "id": "1FBEA0",
   "jp": "ここじゃないみたい。\nほかをあたりましょう。",
-  "en": null,
+  "en": "Doesn't seem to be here. Let's try somewhere else.",
   "slots": [
    "5E17E4",
    "5E1E80"
@@ -291,7 +291,7 @@
  {
   "id": "1FBE98",
   "jp": "ああ。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "5E1808"
   ]
@@ -299,7 +299,7 @@
  {
   "id": "1FBE84",
   "jp": "って、うわぁッ！",
-  "en": null,
+  "en": "Wait, whoa!",
   "slots": [
    "5E182C"
   ]
@@ -307,7 +307,7 @@
  {
   "id": "1FBE78",
   "jp": "きゃあっ！",
-  "en": null,
+  "en": "Eeek!",
   "slots": [
    "5E1874"
   ]
@@ -315,7 +315,7 @@
  {
   "id": "1FBE64",
   "jp": "大丈夫ですかっ！？",
-  "en": null,
+  "en": "Are you all right?!",
   "slots": [
    "5E1898"
   ]
@@ -323,7 +323,7 @@
  {
   "id": "1FBE5C",
   "jp": "はい…",
-  "en": null,
+  "en": "Yes...",
   "slots": [
    "5E18BC",
    "5E1B8C",
@@ -334,7 +334,7 @@
  {
   "id": "1FBE28",
   "jp": "あ、いけない！\nオレンジをおとして\nしまいました。",
-  "en": null,
+  "en": "Oh no! I dropped my oranges.",
   "slots": [
    "5E18E0"
   ]
@@ -342,7 +342,7 @@
  {
   "id": "1FBE04",
   "jp": "ひろうの手伝うよ。\nよいしょっと。",
-  "en": null,
+  "en": "I'll help you pick 'em up. There we go.",
   "slots": [
    "5E1904"
   ]
@@ -350,7 +350,7 @@
  {
   "id": "1FBDF4",
   "jp": "これで最後。",
-  "en": null,
+  "en": "That's the last one.",
   "slots": [
    "5E194C"
   ]
@@ -358,7 +358,7 @@
  {
   "id": "1FBDCC",
   "jp": "ありがとうございます。\n助かりました。",
-  "en": null,
+  "en": "Thank you very much. You've been a great help.",
   "slots": [
    "5E1970"
   ]
@@ -366,7 +366,7 @@
  {
   "id": "1FBDA4",
   "jp": "俺もあわてててさ\nぶつかっちまったし。",
-  "en": null,
+  "en": "I was in a hurry too, and I bumped right into you.",
   "slots": [
    "5E1994"
   ]
@@ -374,7 +374,7 @@
  {
   "id": "1FBD70",
   "jp": "いいえ。私がぼーっと\nしてたのがいけないんです。",
-  "en": null,
+  "en": "No. It's my fault for spacing out.",
   "slots": [
    "5E19B8"
   ]
@@ -382,7 +382,7 @@
  {
   "id": "1FBD54",
   "jp": "いーや、俺が悪いんだって。",
-  "en": null,
+  "en": "Nah, it was my fault, really.",
   "slots": [
    "5E19DC"
   ]
@@ -390,7 +390,7 @@
  {
   "id": "1FBD30",
   "jp": "ちがいます…\n私がダメなんです。",
-  "en": null,
+  "en": "No... I'm the hopeless one.",
   "slots": [
    "5E1A00"
   ]
@@ -398,7 +398,7 @@
  {
   "id": "1FBD10",
   "jp": "存在から…ダメだったんです…",
-  "en": null,
+  "en": "My very existence... has been hopeless from the start...",
   "slots": [
    "5E1A24"
   ]
@@ -406,7 +406,7 @@
  {
   "id": "1FBD04",
   "jp": "何でッ！？",
-  "en": null,
+  "en": "Why?!",
   "slots": [
    "5E1A48"
   ]
@@ -414,7 +414,7 @@
  {
   "id": "1FBCF4",
   "jp": "『何で』って…",
-  "en": null,
+  "en": "\"Why,\" you say...",
   "slots": [
    "5E1A6C"
   ]
@@ -422,7 +422,7 @@
  {
   "id": "1FBCAC",
   "jp": "私…何をしても、うまく\nできなくて…\nうまくできる気がしないんです。",
-  "en": null,
+  "en": "I... I can't do anything right... I don't feel like I ever could.",
   "slots": [
    "5E1AB4"
   ]
@@ -430,7 +430,7 @@
  {
   "id": "1FBC90",
   "jp": "自分に、自信がないのね。",
-  "en": null,
+  "en": "You don't have any confidence in yourself.",
   "slots": [
    "5E1AD8"
   ]
@@ -438,7 +438,7 @@
  {
   "id": "1FBC7C",
   "jp": "…そう…なんです。",
-  "en": null,
+  "en": "...Yes... that's right.",
   "slots": [
    "5E1AFC"
   ]
@@ -446,7 +446,7 @@
  {
   "id": "1FBC40",
   "jp": "何をしても失敗して\nまわりの人をこまらせて\nしまうんです。",
-  "en": null,
+  "en": "Whatever I do, I fail, and I end up causing trouble for everyone around me.",
   "slots": [
    "5E1B20"
   ]
@@ -454,7 +454,7 @@
  {
   "id": "1FBC00",
   "jp": "今だってそう。\n私がしっかり前を見て\nオレンジを持っていれば。",
-  "en": null,
+  "en": "Just now, too. If only I'd been looking ahead properly and holding the oranges tight.",
   "slots": [
    "5E1B44"
   ]
@@ -462,7 +462,7 @@
  {
   "id": "1FBBB8",
   "jp": "そうね、ぶつかられても\nおとさないくらい\nしっかり持っているといいわ。",
-  "en": null,
+  "en": "That's right. You should hold them tight enough that you won't drop them even if someone bumps into you.",
   "slots": [
    "5E1B68"
   ]
@@ -470,7 +470,7 @@
  {
   "id": "1FBB80",
   "jp": "いきなり歩きだすんじゃなく\n歩く方にまず体をむけて…",
-  "en": null,
+  "en": "Instead of suddenly starting to walk, first turn your body the way you're going...",
   "slots": [
    "5E1BB0"
   ]
@@ -478,7 +478,7 @@
  {
   "id": "1FBB50",
   "jp": "それから見わたして\n誰もいなければ歩きだす。",
-  "en": null,
+  "en": "Then look around, and if no one's there, start walking.",
   "slots": [
    "5E1BF8"
   ]
@@ -486,7 +486,7 @@
  {
   "id": "1FBB40",
   "jp": "行っちゃった。",
-  "en": null,
+  "en": "She left.",
   "slots": [
    "5E1C88"
   ]
@@ -494,7 +494,7 @@
  {
   "id": "1FBB30",
   "jp": "何だったんだ？",
-  "en": null,
+  "en": "What was that about?",
   "slots": [
    "5E1CAC"
   ]
@@ -502,7 +502,7 @@
  {
   "id": "1FBB00",
   "jp": "おっちょこちょいな\n女の人だな…\nへんなの。",
-  "en": null,
+  "en": "What a scatterbrained lady... Weird.",
   "slots": [
    "5E1CD0"
   ]
@@ -510,7 +510,7 @@
  {
   "id": "1FBAEC",
   "jp": "クーに少し似てる。",
-  "en": null,
+  "en": "She's a little like you, Cou.",
   "slots": [
    "5E1CF4"
   ]
@@ -518,7 +518,7 @@
  {
   "id": "1FBADC",
   "jp": "エ…マジ…？",
-  "en": null,
+  "en": "Wh... Seriously...?",
   "slots": [
    "5E1D18"
   ]
@@ -526,7 +526,7 @@
  {
   "id": "1FBABC",
   "jp": "俺、あんなにドジじゃないぜ？",
-  "en": null,
+  "en": "I'm not that clumsy, am I?",
   "slots": [
    "5E1D60"
   ]
@@ -534,7 +534,7 @@
  {
   "id": "1FBA7C",
   "jp": "って、そうだ！\nあのちっさいヤツを\n探してたんだ！　行こう！！",
-  "en": null,
+  "en": "Oh, right! We were looking for that little runt! Let's go!!",
   "slots": [
    "5E1D84"
   ]
@@ -542,7 +542,7 @@
  {
   "id": "1FBA6C",
   "jp": "ど、どこだ…？",
-  "en": null,
+  "en": "Wh-where is she...?",
   "slots": [
    "5E1E5C"
   ]
@@ -550,7 +550,7 @@
  {
   "id": "1FBA50",
   "jp": "すばしっこいヤツだなぁ。",
-  "en": null,
+  "en": "She's a quick one.",
   "slots": [
    "5E1F58"
   ]
@@ -558,7 +558,7 @@
  {
   "id": "1FBA38",
   "jp": "もうあきらめちゃうの？",
-  "en": null,
+  "en": "Giving up already?",
   "slots": [
    "5E1F7C"
   ]
@@ -566,7 +566,7 @@
  {
   "id": "1FBA24",
   "jp": "いーや、まだだ！",
-  "en": null,
+  "en": "No way, not yet!",
   "slots": [
    "5E1FA0"
   ]
@@ -574,7 +574,7 @@
  {
   "id": "1FB9F8",
   "jp": "こっから向こうへは\n行ってないみたいだな。",
-  "en": null,
+  "en": "Looks like she didn't go past here.",
   "slots": [
    "5E2078"
   ]
@@ -582,7 +582,7 @@
  {
   "id": "1FB9EC",
   "jp": "そうね。",
-  "en": null,
+  "en": "Seems so.",
   "slots": [
    "5E209C"
   ]
@@ -590,7 +590,7 @@
  {
   "id": "1FB9DC",
   "jp": "いないなァ…",
-  "en": null,
+  "en": "She's not here...",
   "slots": [
    "5E2174"
   ]
@@ -598,7 +598,7 @@
  {
   "id": "1FB9C0",
   "jp": "まさか中に入ったんじゃ！",
-  "en": null,
+  "en": "Don't tell me she went inside!",
   "slots": [
    "5E2198"
   ]
@@ -606,7 +606,7 @@
  {
   "id": "1FB9A8",
   "jp": "…そんなわけないか。",
-  "en": null,
+  "en": "...Nah, no way.",
   "slots": [
    "5E21BC"
   ]
@@ -614,7 +614,7 @@
  {
   "id": "1FB9A0",
   "jp": "クー？",
-  "en": null,
+  "en": "Cou?",
   "slots": [
    "5E21E0"
   ]
@@ -622,7 +622,7 @@
  {
   "id": "1FB990",
   "jp": "ほか行こう。",
-  "en": null,
+  "en": "Let's go somewhere else.",
   "slots": [
    "5E2204"
   ]
@@ -630,7 +630,7 @@
  {
   "id": "1FB970",
   "jp": "ローとキーアにもたのむかな…",
-  "en": null,
+  "en": "Maybe I should ask Ro and Kea for help, too...",
   "slots": [
    "5E2300"
   ]
@@ -638,7 +638,7 @@
  {
   "id": "1FB950",
   "jp": "いや、とりあえずおっかけよう！",
-  "en": null,
+  "en": "Nah, let's just chase after her for now!",
   "slots": [
    "5E2324"
   ]
@@ -646,7 +646,7 @@
  {
   "id": "1FB934",
   "jp": "よっしゃ！　見つけたぞ！！",
-  "en": null,
+  "en": "All right! Found you!!",
   "slots": [
    "5E23FC"
   ]
@@ -654,7 +654,7 @@
  {
   "id": "1FB8F0",
   "jp": "何なにナニヨ！！\nやめてよ、レディにたいして\n何するのヨ、あんた！",
-  "en": null,
+  "en": "What, what, whaaat?! Stop it! What do you think you're doing to a lady, you?!",
   "slots": [
    "5E2420"
   ]
@@ -662,7 +662,7 @@
  {
   "id": "1FB8DC",
   "jp": "あ、ごめん…って。",
-  "en": null,
+  "en": "Oh, sorry... hey, wait.",
   "slots": [
    "5E2444"
   ]
@@ -670,7 +670,7 @@
  {
   "id": "1FB8A0",
   "jp": "人にぶつかっといて\nあやまれないヤツに\n言われてもなぁ…",
-  "en": null,
+  "en": "That's rich, coming from someone who bumps into people and can't apologize...",
   "slots": [
    "5E2468"
   ]
@@ -678,7 +678,7 @@
  {
   "id": "1FB868",
   "jp": "わ、悪かったのヨ…\nいそいでたんだから\nゆるしてヨ。",
-  "en": null,
+  "en": "I-I'm sorry, you know... I was in a hurry, so forgive me, okay?",
   "slots": [
    "5E248C"
   ]
@@ -686,7 +686,7 @@
  {
   "id": "1FB848",
   "jp": "うーん、どうしよっかなぁ～。",
-  "en": null,
+  "en": "Hmmm, should I~?",
   "slots": [
    "5E24B0"
   ]
@@ -694,7 +694,7 @@
  {
   "id": "1FB82C",
   "jp": "…クー、ゆるしてあげて。",
-  "en": null,
+  "en": "...Cou, forgive her.",
   "slots": [
    "5E24D4"
   ]
@@ -702,7 +702,7 @@
  {
   "id": "1FB7F4",
   "jp": "ほら、カノジョもそう言ってるし\nここは広いココロで…",
-  "en": null,
+  "en": "See, your girlfriend says so, too. So be big-hearted about it...",
   "slots": [
    "5E24F8"
   ]
@@ -710,7 +710,7 @@
  {
   "id": "1FB7E4",
   "jp": "う～ん………",
-  "en": null,
+  "en": "Hmmm.........",
   "slots": [
    "5E251C"
   ]
@@ -718,7 +718,7 @@
  {
   "id": "1FB7D8",
   "jp": "よっと！",
-  "en": null,
+  "en": "Hup!",
   "slots": [
    "5E2540"
   ]
@@ -726,7 +726,7 @@
  {
   "id": "1FB7BC",
   "jp": "きゃッ！　何すんのヨ！！",
-  "en": null,
+  "en": "Eek! What do you think you're doing!!",
   "slots": [
    "5E2564"
   ]
@@ -734,7 +734,7 @@
  {
   "id": "1FB7A4",
   "jp": "あ～！　やっぱお前…",
-  "en": null,
+  "en": "Ah~! I knew it, it's you...",
   "slots": [
    "5E2588"
   ]
@@ -742,7 +742,7 @@
  {
   "id": "1FB754",
   "jp": "『オマエ』とか失礼なのヨ。\nちゃぁ～んと『チルル』って\n名前があるんだからッ！",
-  "en": null,
+  "en": "Don't go calling me \"you,\" that's rude, you know. I've got a perfectly good name, \"Chiruru\"!",
   "slots": [
    "5E25AC"
   ]
@@ -750,7 +750,7 @@
  {
   "id": "1FB71C",
   "jp": "あいかわらず口がへらねぇな。\nこんなトコで何してんだ？",
-  "en": null,
+  "en": "Still got a smart mouth, huh. What're you doing in a place like this?",
   "slots": [
    "5E25D0"
   ]
@@ -758,7 +758,7 @@
  {
   "id": "1FB6E0",
   "jp": "そ、そんなことアタシの\n自由なのヨ！\nカンケイないのヨ。",
-  "en": null,
+  "en": "Th-that's my own business, you know! It's got nothing to do with you!",
   "slots": [
    "5E2618"
   ]
@@ -766,7 +766,7 @@
  {
   "id": "1FB6D4",
   "jp": "ふぅん。",
-  "en": null,
+  "en": "Huh.",
   "slots": [
    "5E263C"
   ]
@@ -774,7 +774,7 @@
  {
   "id": "1FB684",
   "jp": "で、アイツはどこにいるんだ？\nお前のプレジャーで\nエディルレイドハンターの…",
-  "en": null,
+  "en": "So where's he at? You know, your Pledger, the Edel Raid hunter...",
   "slots": [
    "5E2660"
   ]
@@ -782,7 +782,7 @@
  {
   "id": "1FB668",
   "jp": "オマエじゃなくてチルル…",
-  "en": null,
+  "en": "Not \"you\"... Chiruru...",
   "slots": [
    "5E2684"
   ]
@@ -790,7 +790,7 @@
  {
   "id": "1FB614",
   "jp": "そう、その『チルル』の\nプレジャーで、エディルレイド\nハンターの、あのヤローは！？",
-  "en": null,
+  "en": "Right, \"Chiruru.\" Where's her Pledger, that Edel Raid hunter jerk?!",
   "slots": [
    "5E26A8"
   ]
@@ -798,7 +798,7 @@
  {
   "id": "1FB5DC",
   "jp": "まさかレンをねらって\nかくれてるんじゃ\nないだろうな？",
-  "en": null,
+  "en": "Don't tell me he's hiding out, gunning for Ren?",
   "slots": [
    "5E26CC"
   ]
@@ -806,7 +806,7 @@
  {
   "id": "1FB5C8",
   "jp": "ヴォ…ヴォル君は…",
-  "en": null,
+  "en": "V... Vol-kun is...",
   "slots": [
    "5E26F0"
   ]
@@ -814,7 +814,7 @@
  {
   "id": "1FB588",
   "jp": "カンケイないって\n言ってるのヨ！\nどっか行っちゃえなのヨ！！",
-  "en": null,
+  "en": "I said it's got nothing to do with you, you know! Just go away already!!",
   "slots": [
    "5E2738"
   ]
@@ -822,7 +822,7 @@
  {
   "id": "1FB578",
   "jp": "お、オイッ！",
-  "en": null,
+  "en": "H-hey!",
   "slots": [
    "5E2780"
   ]
@@ -830,7 +830,7 @@
  {
   "id": "1FB55C",
   "jp": "あーあ。\n行っちゃった。",
-  "en": null,
+  "en": "Aw, man. She's gone.",
   "slots": [
    "5E27A4"
   ]
@@ -838,7 +838,7 @@
  {
   "id": "1FB538",
   "jp": "チルル、\n何だかさみしそうだった…",
-  "en": null,
+  "en": "Chiruru... She seemed kind of lonely...",
   "slots": [
    "5E27C8"
   ]
@@ -846,7 +846,7 @@
  {
   "id": "1FB530",
   "jp": "ん？",
-  "en": null,
+  "en": "Hm?",
   "slots": [
    "5E27EC"
   ]
@@ -854,7 +854,7 @@
  {
   "id": "1FB4E4",
   "jp": "うん、おかしかったな。\nあのエディルレイドハンターと\n何かあったのかな…",
-  "en": null,
+  "en": "Yeah, she was acting weird. I wonder if something happened with that Edel Raid hunter...",
   "slots": [
    "5E2810"
   ]
@@ -862,7 +862,7 @@
  {
   "id": "1FC048",
   "jp": "ヤベ。夜になっちまった。\n早く待ち合わせ場所に行かないと\nシスカのヤツにおこられる！",
-  "en": null,
+  "en": "Crap, it's already night. If I don't hurry to the meeting spot, Cisqua's gonna chew me out!",
   "slots": [
    "5E2858"
   ]
@@ -870,7 +870,7 @@
  {
   "id": "1FC038",
   "jp": "行こう、レン。",
-  "en": null,
+  "en": "Let's go, Ren.",
   "slots": [
    "5E287C"
   ]
@@ -878,7 +878,7 @@
  {
   "id": "1FC030",
   "jp": "うん。",
-  "en": null,
+  "en": "Okay.",
   "slots": [
    "5E28A0",
    "5E3158",
@@ -890,7 +890,7 @@
  {
   "id": "1FC000",
   "jp": "早く広場へ行かないと\nシスカにどやされちまう。",
-  "en": null,
+  "en": "Gotta hurry to the plaza, or Cisqua'll give me an earful.",
   "slots": [
    "5E28C4"
   ]
@@ -994,7 +994,7 @@
  {
   "id": "1FBFF4",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "5E290C",
    "5E29E4",
@@ -1015,7 +1015,7 @@
  {
   "id": "1FBFD8",
   "jp": "いそがなきゃ、ヤベーッ！",
-  "en": null,
+  "en": "Gotta hurry! This is bad!",
   "slots": [
    "5E299C"
   ]
@@ -1023,7 +1023,7 @@
  {
   "id": "1FBFB0",
   "jp": "えーっと、こっから広場へ\n行くには…",
-  "en": null,
+  "en": "Uh, let's see... To get to the plaza from here...",
   "slots": [
    "5E2A98"
   ]
@@ -1031,7 +1031,7 @@
  {
   "id": "1FBF98",
   "jp": "どこへ行けばいいんだ？",
-  "en": null,
+  "en": "Where am I supposed to go?",
   "slots": [
    "5E2ABC"
   ]
@@ -1039,7 +1039,7 @@
  {
   "id": "1FBF6C",
   "jp": "こんなトコまで来てる\nヒマなんか無いって！",
-  "en": null,
+  "en": "I don't have time to come all the way out here!",
   "slots": [
    "5E2BB8"
   ]
@@ -1047,7 +1047,7 @@
  {
   "id": "1FBF58",
   "jp": "広場に行かねーと。",
-  "en": null,
+  "en": "I gotta get to the plaza.",
   "slots": [
    "5E2BDC"
   ]
@@ -1055,7 +1055,7 @@
  {
   "id": "1FBF3C",
   "jp": "シスカがいるわけねーか。",
-  "en": null,
+  "en": "No way Cisqua'd be here.",
   "slots": [
    "5E2CB4"
   ]
@@ -1063,7 +1063,7 @@
  {
   "id": "1FBF0C",
   "jp": "ローとキーアも、\n先に広場へ行ってんだろうな…",
-  "en": null,
+  "en": "Ro and Kea are probably already at the plaza...",
   "slots": [
    "5E2D8C"
   ]
@@ -1071,7 +1071,7 @@
  {
   "id": "1FCFB8",
   "jp": "あっれ…",
-  "en": null,
+  "en": "Huh...",
   "slots": [
    "5E2E88"
   ]
@@ -1087,7 +1087,7 @@
  {
   "id": "1FCF9C",
   "jp": "どうしたの？　クー。",
-  "en": null,
+  "en": "What's wrong, Cou?",
   "slots": [
    "5E2ED0"
   ]
@@ -1095,7 +1095,7 @@
  {
   "id": "1FCF64",
   "jp": "いや…道はこっちで\nまちがってないと\n思うんだけど…",
-  "en": null,
+  "en": "Well... I'm pretty sure this is the right way, but...",
   "slots": [
    "5E2EF4"
   ]
@@ -1103,7 +1103,7 @@
  {
   "id": "1FCF50",
   "jp": "あは、アハハハハ…",
-  "en": null,
+  "en": "Aha, ahahaha...",
   "slots": [
    "5E2F18"
   ]
@@ -1111,7 +1111,7 @@
  {
   "id": "1FCF20",
   "jp": "おい、そこの女。\nお前はエディルレイドだな。",
-  "en": null,
+  "en": "Hey, you there, girl. You're an Edel Raid, aren't you?",
   "slots": [
    "5E2F3C"
   ]
@@ -1119,7 +1119,7 @@
  {
   "id": "1FCF0C",
   "jp": "レン、俺の後ろに。",
-  "en": null,
+  "en": "Ren, get behind me.",
   "slots": [
    "5E2F60"
   ]
@@ -1127,7 +1127,7 @@
  {
   "id": "1FCF00",
   "jp": "誰だお前！",
-  "en": null,
+  "en": "Who the heck are you!",
   "slots": [
    "5E2F84"
   ]
@@ -1135,7 +1135,7 @@
  {
   "id": "1FCEE4",
   "jp": "エディルレイドを回収する。",
-  "en": null,
+  "en": "We are here to collect the Edel Raid.",
   "slots": [
    "5E2FA8"
   ]
@@ -1143,7 +1143,7 @@
  {
   "id": "1FCEA0",
   "jp": "わけわかんねぇこと\n言ってんじゃねーよ。\n人ちがいじゃないのか！？",
-  "en": null,
+  "en": "Quit talkin' nonsense! You've got the wrong person, haven't you?!",
   "slots": [
    "5E2FCC"
   ]
@@ -1151,7 +1151,7 @@
  {
   "id": "1FCE94",
   "jp": "おろかな。",
-  "en": null,
+  "en": "Foolish.",
   "slots": [
    "5E2FF0"
   ]
@@ -1159,7 +1159,7 @@
  {
   "id": "1FCE60",
   "jp": "かくそうとしても、\nわれわれは、知っているのだよ。",
-  "en": null,
+  "en": "Hide it all you like. We already know.",
   "slots": [
    "5E3014"
   ]
@@ -1167,7 +1167,7 @@
  {
   "id": "1FCE54",
   "jp": "いいかね？",
-  "en": null,
+  "en": "Now, listen.",
   "slots": [
    "5E3038"
   ]
@@ -1175,7 +1175,7 @@
  {
   "id": "1FCE0C",
   "jp": "人とエディルレイドが\n共に生きていられる明日など\nありはしないのだ。",
-  "en": null,
+  "en": "There is no tomorrow in which humans and Edel Raids can live together.",
   "slots": [
    "5E305C"
   ]
@@ -1183,7 +1183,7 @@
  {
   "id": "1FCDE0",
   "jp": "われわれが正しい道へ\nみちびいてやろう。",
-  "en": null,
+  "en": "We shall guide you onto the right path.",
   "slots": [
    "5E3080"
   ]
@@ -1191,7 +1191,7 @@
  {
   "id": "1FCD94",
   "jp": "こいつら何人いるんだ…\nみんなへんなかっこう\nしやがってあやしすぎるぜ。",
-  "en": null,
+  "en": "How many of these guys are there...? They're all dressed so weird. Way too suspicious.",
   "slots": [
    "5E30A4"
   ]
@@ -1199,7 +1199,7 @@
  {
   "id": "1FCD7C",
   "jp": "待てよ、あのかっこう…",
-  "en": null,
+  "en": "Wait, those clothes...",
   "slots": [
    "5E30C8"
   ]
@@ -1207,7 +1207,7 @@
  {
   "id": "1FCD40",
   "jp": "はね橋で声をかけてきたヤツと\n同じじゃねーか。\nまずった！",
-  "en": null,
+  "en": "That's just like the guy who talked to us at the drawbridge. I blew it!",
   "slots": [
    "5E30EC"
   ]
@@ -1215,7 +1215,7 @@
  {
   "id": "1FCD2C",
   "jp": "クー…どうしよう。",
-  "en": null,
+  "en": "Cou... what do we do?",
   "slots": [
    "5E3110"
   ]
@@ -1223,7 +1223,7 @@
  {
   "id": "1FCCF4",
   "jp": "リアクトしてやつらを\nけちらそう。\n俺たちならやれる！",
-  "en": null,
+  "en": "Let's React and scatter 'em. We can do this!",
   "slots": [
    "5E3134"
   ]
@@ -1231,7 +1231,7 @@
  {
   "id": "1FCCE0",
   "jp": "『あかかるこころ",
-  "en": null,
+  "en": "\"Bright heart,",
   "slots": [
    "5E31A0"
   ]
@@ -1239,7 +1239,7 @@
  {
   "id": "1FCCC0",
   "jp": "　かぜをまといて　ちぎりこん』",
-  "en": null,
+  "en": "wrapped in wind, let us pledge.\"",
   "slots": [
    "5E31C4"
   ]
@@ -1247,7 +1247,7 @@
  {
   "id": "1FCC90",
   "jp": "ほらほら！　どっからでも\nかかって来やがれ！",
-  "en": null,
+  "en": "C'mon, c'mon! Come at me from any direction!",
   "slots": [
    "5E31E8"
   ]
@@ -1255,7 +1255,7 @@
  {
   "id": "1FCC5C",
   "jp": "これをきいてもそうやって\nいきがっていられるかな？",
-  "en": null,
+  "en": "Will you still be so cocky after hearing this?",
   "slots": [
    "5E320C"
   ]
@@ -1263,7 +1263,7 @@
  {
   "id": "1FCC38",
   "jp": "忘却の謳…\n『ナスカムメモリア』",
-  "en": null,
+  "en": "The song of oblivion... \"Nascam Memoria.\"",
   "slots": [
    "5E3230"
   ]
@@ -1271,7 +1271,7 @@
  {
   "id": "1FCC04",
   "jp": "謳…？　まさかコイツ\nエディルレイドがいるのか！？",
-  "en": null,
+  "en": "A song...? Don't tell me this guy has an Edel Raid?!",
   "slots": [
    "5E3254"
   ]
@@ -1279,7 +1279,7 @@
  {
   "id": "1FCBC8",
   "jp": "何の謳…かは知らねェけど\nそっちが来ないなら\nこっちから！",
-  "en": null,
+  "en": "I dunno what song that is, but if you won't come at me, I'm comin' at you!",
   "slots": [
    "5E3278"
   ]
@@ -1287,7 +1287,7 @@
  {
   "id": "1FCBB8",
   "jp": "クー、ダメ！！",
-  "en": null,
+  "en": "Cou, no!!",
   "slots": [
    "5E329C"
   ]
@@ -1295,7 +1295,7 @@
  {
   "id": "1FCB98",
   "jp": "何ッ！\nリアクトが…とけた。",
-  "en": null,
+  "en": "What?! Our React... it broke.",
   "slots": [
    "5E32C0"
   ]
@@ -1303,7 +1303,7 @@
  {
   "id": "1FCB7C",
   "jp": "レン。もっかいリアクトだ！",
-  "en": null,
+  "en": "Ren. Let's React again!",
   "slots": [
    "5E32E4"
   ]
@@ -1311,7 +1311,7 @@
  {
   "id": "1FCB60",
   "jp": "『あかかる　こ…こころ…』",
-  "en": null,
+  "en": "\"Bright... h-heart...\"",
   "slots": [
    "5E3308"
   ]
@@ -1319,7 +1319,7 @@
  {
   "id": "1FCB44",
   "jp": "『……か……かぜ…………』",
-  "en": null,
+  "en": "\"...w...wind......\"",
   "slots": [
    "5E332C"
   ]
@@ -1327,7 +1327,7 @@
  {
   "id": "1FCB38",
   "jp": "……あれ？",
-  "en": null,
+  "en": "...Huh?",
   "slots": [
    "5E3350",
    "5E63B0"
@@ -1336,7 +1336,7 @@
  {
   "id": "1FCB30",
   "jp": "レン？",
-  "en": null,
+  "en": "Ren?",
   "slots": [
    "5E3374",
    "5E6BFC"
@@ -1345,7 +1345,7 @@
  {
   "id": "1FCAF4",
   "jp": "どうしよう…\n謳をうたおうとすると\n謳がどっか消えちゃう。",
-  "en": null,
+  "en": "What do I do... When I try to sing my song, it just disappears somewhere.",
   "slots": [
    "5E3398"
   ]
@@ -1353,7 +1353,7 @@
  {
   "id": "1FCAE4",
   "jp": "何だって！？",
-  "en": null,
+  "en": "What?!",
   "slots": [
    "5E33BC"
   ]
@@ -1382,7 +1382,7 @@
  {
   "id": "1FCAB8",
   "jp": "…さっきの…謳のせいか？\nくそッ！",
-  "en": null,
+  "en": "...Was it... that song just now? Damn it!",
   "slots": [
    "5E3404"
   ]
@@ -1390,7 +1390,7 @@
  {
   "id": "1FCA90",
   "jp": "お前たちはリアクト\nできなくなった。",
-  "en": null,
+  "en": "You can no longer React.",
   "slots": [
    "5E3428"
   ]
@@ -1398,7 +1398,7 @@
  {
   "id": "1FCA50",
   "jp": "リアクトできない\nエディルレイドなど\n武器としても使えない。",
-  "en": null,
+  "en": "An Edel Raid that cannot React is useless, even as a weapon.",
   "slots": [
    "5E344C"
   ]
@@ -1406,7 +1406,7 @@
  {
   "id": "1FCA34",
   "jp": "さあ、おとなしくわたせ！",
-  "en": null,
+  "en": "Now, hand her over quietly!",
   "slots": [
    "5E3470"
   ]
@@ -1414,7 +1414,7 @@
  {
   "id": "1FCA20",
   "jp": "そこまでですッ！",
-  "en": null,
+  "en": "That's far enough!",
   "slots": [
    "5E3494"
   ]
@@ -1422,7 +1422,7 @@
  {
   "id": "1FC9E4",
   "jp": "夜のとばりにまぎれて\nかよわきオトメをねらう\nカラス共！",
-  "en": null,
+  "en": "You crows, preying on frail maidens under the veil of night!",
   "slots": [
    "5E34B8"
   ]
@@ -1430,7 +1430,7 @@
  {
   "id": "1FC998",
   "jp": "彼女たちを守れぬ者には\n語ることがゆるされない\nこの名をとくとききなさい！",
-  "en": null,
+  "en": "Those who cannot protect them are not permitted to speak this name! Hear it well!",
   "slots": [
    "5E34DC"
   ]
@@ -1438,7 +1438,7 @@
  {
   "id": "1FC964",
   "jp": "エディルレイド完全保護協会\n『アークエイル』！！",
-  "en": null,
+  "en": "The Edel Raid Complete Protection Association, \"Arc Aile\"!!",
   "slots": [
    "5E3500"
   ]
@@ -1446,7 +1446,7 @@
  {
   "id": "1FC92C",
   "jp": "あなたたちを\nエディルレイドにたいする\n危険人物として",
-  "en": null,
+  "en": "As persons who pose a danger to Edel Raids,",
   "slots": [
    "5E3524"
   ]
@@ -1454,7 +1454,7 @@
  {
   "id": "1FC904",
   "jp": "この場でせいばいして\n差し上げますわ。",
-  "en": null,
+  "en": "you shall be punished right here and now.",
   "slots": [
    "5E3548"
   ]
@@ -1462,7 +1462,7 @@
  {
   "id": "1FC8F8",
   "jp": "シスカ！",
-  "en": null,
+  "en": "Cisqua!",
   "slots": [
    "5E356C"
   ]
@@ -1470,7 +1470,7 @@
  {
   "id": "1FC8C0",
   "jp": "時間を守れないクーさんも\n後でおしおきですからね～。",
-  "en": null,
+  "en": "And Cou-san, you can't keep time, so you'll be punished later too~.",
   "slots": [
    "5E3590"
   ]
@@ -1478,7 +1478,7 @@
  {
   "id": "1FC8A4",
   "jp": "それどころじゃねーんだよ！",
-  "en": null,
+  "en": "This is no time for that!",
   "slots": [
    "5E35B4"
   ]
@@ -1486,7 +1486,7 @@
  {
   "id": "1FC880",
   "jp": "クー！　レンちゃん！\n大丈夫！？",
-  "en": null,
+  "en": "Cou! Ren-chan! Are you okay?!",
   "slots": [
    "5E35D8"
   ]
@@ -1494,7 +1494,7 @@
  {
   "id": "1FC854",
   "jp": "ローウェン、キーアは\nどこにいるんですか？",
-  "en": null,
+  "en": "Rowen, where is Kea?",
   "slots": [
    "5E35FC"
   ]
@@ -1502,7 +1502,7 @@
  {
   "id": "1FC828",
   "jp": "…すみません。\n何かまだ食べたりないって…",
-  "en": null,
+  "en": "...Sorry. She said she still hadn't eaten enough...",
   "slots": [
    "5E3620"
   ]
@@ -1510,7 +1510,7 @@
  {
   "id": "1FC81C",
   "jp": "…キーア…",
-  "en": null,
+  "en": "...Kea...",
   "slots": [
    "5E3644"
   ]
@@ -1518,7 +1518,7 @@
  {
   "id": "1FC7E8",
   "jp": "ここは引きあげましょう。\n次はかならず回収します。",
-  "en": null,
+  "en": "Let us withdraw for now. Next time, we will collect her without fail.",
   "slots": [
    "5E3668"
   ]
@@ -1526,7 +1526,7 @@
  {
   "id": "1FC7E0",
   "jp": "ちッ。",
-  "en": null,
+  "en": "Tch.",
   "slots": [
    "5E368C"
   ]
@@ -1534,7 +1534,7 @@
  {
   "id": "1FC7C8",
   "jp": "お前ら、引きあげるぞ。",
-  "en": null,
+  "en": "You lot, we're pulling out.",
   "slots": [
    "5E36B0"
   ]
@@ -1542,7 +1542,7 @@
  {
   "id": "1FC7A0",
   "jp": "あ。お待ちなさい！\nせいばいするって…",
-  "en": null,
+  "en": "Ah. Wait right there! I said I'd punish you...",
   "slots": [
    "5E36D4"
   ]
@@ -1550,7 +1550,7 @@
  {
   "id": "1FC788",
   "jp": "ちょっと…コラーッ！！",
-  "en": null,
+  "en": "Hey... Get back here!!",
   "slots": [
    "5E36F8"
   ]
@@ -1558,7 +1558,7 @@
  {
   "id": "1FC780",
   "jp": "今の…",
-  "en": null,
+  "en": "Was that...",
   "slots": [
    "5E3764"
   ]
@@ -1566,7 +1566,7 @@
  {
   "id": "1FC754",
   "jp": "クーさん。\nいったい何があったんですか？",
-  "en": null,
+  "en": "Cou-san. What on earth happened?",
   "slots": [
    "5E37AC"
   ]
@@ -1574,7 +1574,7 @@
  {
   "id": "1FC738",
   "jp": "リアクトできなくなったの。",
-  "en": null,
+  "en": "We can't React anymore.",
   "slots": [
    "5E37D0"
   ]
@@ -1582,7 +1582,7 @@
  {
   "id": "1FC730",
   "jp": "はい？",
-  "en": null,
+  "en": "Pardon?",
   "slots": [
    "5E37F4"
   ]
@@ -1590,7 +1590,7 @@
  {
   "id": "1FC708",
   "jp": "謳をうたおうとすると\n忘れてしまうの…",
-  "en": null,
+  "en": "When I try to sing my song, I forget it...",
   "slots": [
    "5E3818"
   ]
@@ -1598,7 +1598,7 @@
  {
   "id": "1FC6D8",
   "jp": "ヤツら、エディルレイドを\n回収するとかって…",
-  "en": null,
+  "en": "Those guys said something about collecting Edel Raids...",
   "slots": [
    "5E383C"
   ]
@@ -1606,7 +1606,7 @@
  {
   "id": "1FC6B8",
   "jp": "キーアを一人にして大丈夫か！？",
-  "en": null,
+  "en": "Is Kea okay on her own?!",
   "slots": [
    "5E3860"
   ]
@@ -1614,7 +1614,7 @@
  {
   "id": "1FC678",
   "jp": "大丈夫…だと思うよ。\nエディルレイドだなんて\n言ってないし。",
-  "en": null,
+  "en": "She should be fine... I think. We haven't told anyone she's an Edel Raid.",
   "slots": [
    "5E3884"
   ]
@@ -1622,7 +1622,7 @@
  {
   "id": "1FC668",
   "jp": "そうでした。",
-  "en": null,
+  "en": "That reminds me.",
   "slots": [
    "5E38A8"
   ]
@@ -1630,7 +1630,7 @@
  {
   "id": "1FC614",
   "jp": "先ほどアークエイルで\nプレジャーとエディルレイドを\nねらった事件の話をききました。",
-  "en": null,
+  "en": "Earlier at Arc Aile, I heard about incidents targeting Pledgers and Edel Raids.",
   "slots": [
    "5E38CC"
   ]
@@ -1638,7 +1638,7 @@
  {
   "id": "1FC5CC",
   "jp": "見た、としか情報がなく\nねらわれた本人たちからの\n情報がないんですが…",
-  "en": null,
+  "en": "All we have are witness sightings. Nothing from the people who were targeted...",
   "slots": [
    "5E38F0"
   ]
@@ -1646,7 +1646,7 @@
  {
   "id": "1FC588",
   "jp": "どうやらその事件に\nクーさんとレンさんは\nまきこまれたようですね。",
-  "en": null,
+  "en": "It seems Cou-san and Ren-san got caught up in those incidents.",
   "slots": [
    "5E3914"
   ]
@@ -1654,7 +1654,7 @@
  {
   "id": "1FC538",
   "jp": "おそいかかってきた敵は、\nレンさんがエディルレイドだと\n知っていたのですか？",
-  "en": null,
+  "en": "Did the enemies who attacked you know that Ren-san is an Edel Raid?",
   "slots": [
    "5E3938"
   ]
@@ -1662,7 +1662,7 @@
  {
   "id": "1FC530",
   "jp": "え……",
-  "en": null,
+  "en": "Er......",
   "slots": [
    "5E395C"
   ]
@@ -1670,7 +1670,7 @@
  {
   "id": "1FC520",
   "jp": "もしかして…",
-  "en": null,
+  "en": "Don't tell me...",
   "slots": [
    "5E3980"
   ]
@@ -1678,7 +1678,7 @@
  {
   "id": "1FC4F0",
   "jp": "誰かにエディルレイドだと\nしゃべった…とか…",
-  "en": null,
+  "en": "You told someone she's an Edel Raid... or something...",
   "slots": [
    "5E39A4"
   ]
@@ -1686,7 +1686,7 @@
  {
   "id": "1FC4C0",
   "jp": "街に入る前にあの子から\n言われてたでしょう？",
-  "en": null,
+  "en": "That girl warned you before we entered town, didn't she?",
   "slots": [
    "5E39C8"
   ]
@@ -1694,7 +1694,7 @@
  {
   "id": "1FC4B0",
   "jp": "そう…だけど…",
-  "en": null,
+  "en": "Well... yeah, but...",
   "slots": [
    "5E39EC"
   ]
@@ -1702,7 +1702,7 @@
  {
   "id": "1FC46C",
   "jp": "はね橋のところで…\n仮面と黒い服を着た人に\n闘技場の話をきいたの。",
-  "en": null,
+  "en": "At the drawbridge... a person in a mask and black clothes told us about the arena.",
   "slots": [
    "5E3A10"
   ]
@@ -1710,7 +1710,7 @@
  {
   "id": "1FC45C",
   "jp": "そのときに…",
-  "en": null,
+  "en": "And then...",
   "slots": [
    "5E3A34"
   ]
@@ -1718,7 +1718,7 @@
  {
   "id": "1FC410",
   "jp": "仮面と黒い服。\n先ほどクーたちをおそっていた\n連中と同じなんでしょうか…？",
-  "en": null,
+  "en": "A mask and black clothes. Could they be the same bunch that attacked Cou and Ren just now...?",
   "slots": [
    "5E3A58"
   ]

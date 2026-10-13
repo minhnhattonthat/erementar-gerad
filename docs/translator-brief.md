@@ -43,6 +43,13 @@ impossible, keep the meaning and report it as `LONG: id`.
 - Character voices: see style-reference (Coud casual/brash, Ren gentle and brief, Cisqua brisk and money-minded,
   Rowen polite, Kea sassy; Kansai-dialect speakers = folksy "ya / ain't / -in'", no phonetic dialect spelling).
 
+## Notes from earlier batches
+- Speaker tags on choice menus are the previous speaker's; options are usually Coud's - judge from context.
+- Song lyrics and React chants are translated (see glossary decisions), never romanised.
+- Terms that drifted in wave 1 and are now fixed in the glossary: 黒集団 = "the Black Group", ヴォルクス = "Volks",
+  ヴォル君 = "Vol-kun", ナスカム = "Nascam". The check tool rejects the old variants.
+- A sentence split across two boxes: keep the split, make box 1 end naturally mid-sentence (comma/"and").
+
 ## Consistency
 Never edit `glossary.md` or any file except your own `work/tl/<batch>.out.tsv`. For a recurring name or term not in
 the glossary, pick a form, use it consistently, and report it.
