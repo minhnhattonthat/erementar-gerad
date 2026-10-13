@@ -13,6 +13,7 @@ import re, sys
 import vwf
 
 DLG_W, DLG_LAST, DLG_LINES = 212, 200, 3
+SYS_W = 184   # menu/system text: item & skill descriptions start at x~50 and clip at the screen edge (measured)
 JP_RE = re.compile('[ぁ-ヿ一-鿿]')
 FONT = vwf.Font()
 
@@ -38,7 +39,8 @@ def limits(e):
     if f == 'sys':
         lines = e['jp'].split('\n')
         w = max(jp_width(l) for l in lines)
-        return DLG_W, DLG_W, len(lines), w
+        lim = DLG_W if 0x03D760 <= int(e['id'], 16) < 0x03DE60 else SYS_W   # staff credits: full width (unmeasured)
+        return lim, lim, len(lines), w
     if f == 'label':
         return DLG_W, DLG_W, 1, max(jp_width(e['jp']), 48)
     return DLG_W, DLG_LAST, DLG_LINES, DLG_W
