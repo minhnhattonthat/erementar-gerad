@@ -70,6 +70,129 @@ def tag_patches(d):
     return out
 
 
+LABEL_SIZE, READING_SIZE = 0x300, 0x180
+COMBO_TABLE, COMBO_STRIDE, COMBO_N = 0x0C1830, 8, 201   # (label 96x16, reading 48x16) pointer pairs
+COMBO_DESC = 0x0B99E0                                     # +0x14*i: combo record, description ptr at +0x10
+ATTACK_TABLE, ATTACK_N = 0x5D6DA8, 56                     # enemy attack labels
+ITEM_TABLE, ITEM_N = 0x0C1760, 10                         # item labels (+0x14*i, ptr at +0x10 of each 0x14 row)
+
+
+def label_sets(d):
+    """[(key, label offset, reading offset or None, context)] for every pre-rendered name label."""
+    import struct
+    u = lambda a: struct.unpack_from('<I', d, a)[0] - romlib.BASE
+    out = []
+    for i in range(COMBO_N):
+        desc = u(COMBO_DESC + 0x14 * i + 0x10)
+        ctx = romlib.decode(romlib.string_at(d, desc)) if romlib.string_at(d, desc) else ''
+        out.append((f'C{i:03d}', u(COMBO_TABLE + COMBO_STRIDE * i), u(COMBO_TABLE + COMBO_STRIDE * i + 4), ctx))
+    for i in range(ATTACK_N):
+        out.append((f'A{i:03d}', u(ATTACK_TABLE + 4 * i), None, 'enemy attack'))
+    for i in range(ITEM_N):
+        out.append((f'I{i:03d}', u(ITEM_TABLE + 0x14 * i), None, 'item'))
+    return out
+
+
+LABEL_PAL = [(0, 0, 0), (90, 90, 120), (255, 255, 255)] + [(255, 0, 255)] * 13   # 1 = outline, 2 = fill
+
+
+def label_img(d, a, w_sprites=3, pal=LABEL_PAL):
+    """96x16 label: three 32x16 OBJ (4x2 tiles each)."""
+    im = Image.new('RGB', (32 * w_sprites, 16))
+    for s in range(w_sprites):
+        im.paste(tiles_to_img(d[a + s * 256:a + s * 256 + 256], 4, 2, pal), (s * 32, 0))
+    return im
+
+
+READ_PAL = [(0, 0, 0)] + [(255, 255, 255)] * 15
+
+
+def reading_img(d, a, pal=READ_PAL):
+    """Reading line under a combo label: 96x8, 12 tiles in one row."""
+    return tiles_to_img(d[a:a + READING_SIZE], 12, 1, pal)
+
+
+def label_sheets(d, outdir, per=34):
+    """Indexed sheets (label x3 + reading x3) for transcription, plus labels.tsv (key, context)."""
+    from PIL import ImageDraw
+    outdir.mkdir(parents=True, exist_ok=True)
+    sets = label_sets(d)
+    rows = []
+    for k in range(0, len(sets), per):
+        chunk = sets[k:k + per]
+        sheet = Image.new('RGB', (630, 52 * len(chunk)), (40, 40, 60))
+        dr = ImageDraw.Draw(sheet)
+        for j, (key, a, r, ctx) in enumerate(chunk):
+            dr.text((4, 52 * j + 18), key, fill=(255, 255, 0))
+            sheet.paste(label_img(d, a).resize((288, 48), Image.NEAREST), (40, 52 * j + 2))
+            if r is not None:
+                sheet.paste(reading_img(d, r).resize((288, 24), Image.NEAREST), (334, 52 * j + 14))
+        sheet.save(outdir / f'sheet_{k // per:02d}.png')
+    (outdir / 'labels.tsv').write_text(''.join(f'{key}\t{ctx.replace(chr(10), " / ")}\n' for key, _, _, ctx in sets),
+                                       'utf-8', newline='\n')
+    return len(sets)
+
+
+LABEL_W = 94     # usable px inside the 96x16 label (1 px outline each side)
+LABELS_TSV = romlib.ROOT / 'font' / 'labels.tsv'   # key<TAB>JP<TAB>reading<TAB>English (translated label names)
+
+
+def label_width(font, text):
+    return font.text_width(text) + 1          # +1: right outline
+
+
+def draw_label(font, text):
+    """English label -> 0x300 bytes: three 32x16 OBJ, fill = index 2, 1 px outline = index 1, centered."""
+    w = label_width(font, text)
+    if w > LABEL_W:
+        raise ValueError(f'label {text!r} is {w} px > {LABEL_W}')
+    ink = set()
+    x = 1 + (LABEL_W - w) // 2
+    for ch in text:
+        for (gx, gy) in font.px[ord(ch)]:
+            ink.add((x + gx, gy + 1))
+        x += font.w[ord(ch)]
+    px = [[0] * 96 for _ in range(16)]
+    for (ix, iy) in ink:
+        for dx in (-1, 0, 1):
+            for dy in (-1, 0, 1):
+                if 0 <= ix + dx < 96 and 0 <= iy + dy < 16:
+                    px[iy + dy][ix + dx] = 1
+    for (ix, iy) in ink:
+        px[iy][ix] = 2
+    out = bytearray()
+    for s in range(3):
+        for t in range(8):
+            ty, tx = (t // 4) * 8, s * 32 + (t % 4) * 8
+            for y in range(8):
+                for x in range(0, 8, 2):
+                    out.append(px[ty + y][tx + x] | px[ty + y][tx + x + 1] << 4)
+    return bytes(out)
+
+
+def read_labels():
+    rows = {}
+    if LABELS_TSV.exists():
+        for line in LABELS_TSV.read_text('utf-8').splitlines():
+            if line and not line.startswith('#'):
+                k, jp, reading, en = line.split('\t')
+                rows[k] = en
+    return rows
+
+
+def label_patches(d):
+    """[(offset, bytes)]: every translated name label redrawn in place; combo reading lines blanked."""
+    import vwf
+    font, en = vwf.Font(), read_labels()
+    out = []
+    for key, a, r, _ in label_sets(d):
+        if key in en:
+            out.append((a, draw_label(font, en[key])))
+            if r is not None:
+                out.append((r, bytes(READING_SIZE)))
+    return out
+
+
 def tiles_to_img(data, w_tiles, h_tiles, pal=None):
     """Row-major 4bpp tiles -> PIL image (palette: list of 16 RGB tuples, default grey ramp)."""
     pal = pal or [(i * 17, i * 17, i * 17) for i in range(16)]
@@ -102,7 +225,45 @@ def bgr555(data):
 
 if __name__ == '__main__':
     d = romlib.load()
-    if sys.argv[1] == 'labels':
+    if sys.argv[1] == 'label-check':
+        # python -X utf8 tools/gfx.py label-check FILE.tsv : every English label fits 94 px and uses known glyphs
+        import vwf
+        font, bad = vwf.Font(), 0
+        keys = {k for k, *_ in label_sets(d)}
+        seen = set()
+        for i, line in enumerate(open(sys.argv[2], encoding='utf-8-sig').read().splitlines()):
+            if not line or line.startswith('#'):
+                continue
+            parts = line.split('\t')
+            if len(parts) != 4 or parts[0] not in keys or parts[0] in seen:
+                print(f'line {i + 1}: need key<TAB>JP<TAB>reading<TAB>English with a known, unique key'); bad += 1
+                continue
+            seen.add(parts[0])
+            en = parts[3]
+            miss = [c for c in en if not (0x20 <= ord(c) < 0x7F)]
+            if miss or not en:
+                print(f'{parts[0]}: empty or non-ASCII {miss}'); bad += 1
+            elif label_width(font, en) > LABEL_W:
+                print(f'{parts[0]}: "{en}" is {label_width(font, en)} px > {LABEL_W}'); bad += 1
+        missing = sorted(keys - seen)
+        if missing:
+            print(f'missing keys: {missing[:20]}{" ..." if len(missing) > 20 else ""}'); bad += 1
+        print('OK' if not bad else f'{bad} errors')
+        sys.exit(1 if bad else 0)
+    elif sys.argv[1] == 'label-preview':
+        pal = LABEL_PAL
+        pats = label_patches(d)
+        labels = [b for a, b in pats if len(b) == LABEL_SIZE]
+        sheet = Image.new('RGB', (100 * 4, 18 * ((len(labels) + 3) // 4)), (40, 40, 60))
+        for k, b in enumerate(labels):
+            im = Image.new('RGB', (96, 16))
+            for s in range(3):
+                im.paste(tiles_to_img(b[s * 256:s * 256 + 256], 4, 2, pal), (s * 32, 0))
+            sheet.paste(im, ((k % 4) * 100, (k // 4) * 18))
+        sheet.resize((sheet.width * 2, sheet.height * 2), Image.NEAREST).save(sys.argv[2])
+    elif sys.argv[1] == 'label-sheets':
+        print(label_sheets(d, romlib.ROOT / 'work' / 'labels'), 'labels')
+    elif sys.argv[1] == 'labels':
         # 96x16 labels = 3 OBJ 32x16 (4x2 tiles each), 0x300 bytes; tables at 0x5D6DA8 (56 ptrs) and 0x0C1760
         import struct
         addrs = [struct.unpack_from('<I', d, 0x5D6DA8 + 4 * i)[0] - romlib.BASE for i in range(56)]

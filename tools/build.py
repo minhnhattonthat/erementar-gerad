@@ -97,10 +97,19 @@ def build(out, marker=False, qa=None, identity=False):
         for s in texts[i][1]:
             struct.pack_into('<I', d, int(s, 16), romlib.BASE + a)
     if not identity:
-        for a, b in gfx.tag_patches(d):   # dialogue name tags, redrawn in place (same size)
+        # name tags, skill/attack/item labels (font/labels.tsv): redrawn in place, same size
+        for a, b in gfx.tag_patches(d) + gfx.label_patches(d):
             d[a:a + len(b)] = b
     Path(out).parent.mkdir(exist_ok=True)
     Path(out).write_bytes(d)
+    # every text pointer slot and where it now points, for jp_left.py --slots (leftover-Japanese gate)
+    with open(Path(out).with_suffix('.slots.txt'), 'w', newline='\n') as f:
+        for e in load_entries():
+            for s in e['slots']:
+                f.write('%s %06X\n' % (s, struct.unpack_from('<I', d, int(s, 16))[0] - romlib.BASE))
+    # Japanese we keep on purpose (debug labels): jp_left.py --known
+    with open(Path(out).with_suffix('.known.txt'), 'w', newline='\n') as f:
+        f.writelines(e['id'] + '\n' for e in load_entries() if fit.form(e) == 'keep')
     assemble(out, {'CODE_AT': romlib.BASE + code_at, 'WIDTHS': romlib.BASE + widths,
                    'PAIR_TAB': romlib.BASE + pair_tab, 'PAIR_GFX': romlib.BASE + pair_gfx})
     print(f'{len(enc)} strings, {len(pairs)} pair glyphs, free space used to {free.pos:06X}; wrote {out}')

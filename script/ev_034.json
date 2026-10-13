@@ -877,7 +877,7 @@
  {
   "id": "233278",
   "jp": "…そう…なります。",
-  "en": null,
+  "en": "...Yes... That's how it'll be.",
   "slots": [
    "62CFDC"
   ]
@@ -885,7 +885,7 @@
  {
   "id": "233224",
   "jp": "はじめから、エディルレイドと\n人間が、いっしょに生きるなんて\n無理だったんです。",
-  "en": null,
+  "en": "From the very start, it was impossible for Edel Raids and humans to live together.",
   "slots": [
    "62D000"
   ]
@@ -893,7 +893,7 @@
  {
   "id": "233214",
   "jp": "エンダさん…",
-  "en": null,
+  "en": "Enda-san...",
   "slots": [
    "62D024"
   ]
@@ -901,7 +901,7 @@
  {
   "id": "233208",
   "jp": "あのさァ…",
-  "en": null,
+  "en": "Listen...",
   "slots": [
    "62D048"
   ]
@@ -909,7 +909,7 @@
  {
   "id": "2331C4",
   "jp": "あたしから言わせてもらえば\nそんなの、言いワケでしか\nないわよ？",
-  "en": null,
+  "en": "If you ask me, that's nothing but an excuse.",
   "slots": [
    "62D06C"
   ]
@@ -917,7 +917,7 @@
  {
   "id": "2331B8",
   "jp": "言いわけ？",
-  "en": null,
+  "en": "An excuse?",
   "slots": [
    "62D090"
   ]
@@ -925,7 +925,7 @@
  {
   "id": "233180",
   "jp": "人間とエディルレイドでは\n生きる時間がちがいすぎる。",
-  "en": null,
+  "en": "Humans and Edel Raids live on time scales that are just too different.",
   "slots": [
    "62D0B4"
   ]
@@ -933,7 +933,7 @@
  {
   "id": "233134",
   "jp": "人間がおじーちゃんになっても\nエディルレイドは、まだまだ\n若いままだしさ。",
-  "en": null,
+  "en": "Even when the human turns into an old man, the Edel Raid is still nice and young.",
   "slots": [
    "62D0D8"
   ]
@@ -941,7 +941,7 @@
  {
   "id": "233128",
   "jp": "でもね～。",
-  "en": null,
+  "en": "But still~.",
   "slots": [
    "62D0FC"
   ]
@@ -949,7 +949,7 @@
  {
   "id": "2330FC",
   "jp": "若いから、年とってるからじゃ\nないでしょ？",
-  "en": null,
+  "en": "It's not about being young or being old, is it?",
   "slots": [
    "62D120"
   ]
@@ -957,7 +957,7 @@
  {
   "id": "2330C4",
   "jp": "愛とか、好きとかって\nそんなもんじゃ、とめられない。",
-  "en": null,
+  "en": "Love, liking someone... that stuff can't be stopped by something like that.",
   "slots": [
    "62D144"
   ]
@@ -965,7 +965,7 @@
  {
   "id": "233078",
   "jp": "あんたは、年くって\nおじーちゃんになった\nカールセンを愛する自信がない。",
-  "en": null,
+  "en": "You're not sure you could love Carlsen once he's gotten old and turned into an old man.",
   "slots": [
    "62D168"
   ]
@@ -973,7 +973,7 @@
  {
   "id": "23306C",
   "jp": "ちがう？",
-  "en": null,
+  "en": "Am I wrong?",
   "slots": [
    "62D18C"
   ]
@@ -981,7 +981,7 @@
  {
   "id": "23305C",
   "jp": "そ…そんな…",
-  "en": null,
+  "en": "Th-that's...",
   "slots": [
    "62D1B0"
   ]
@@ -989,7 +989,7 @@
  {
   "id": "233050",
   "jp": "キーア。",
-  "en": null,
+  "en": "Kea.",
   "slots": [
    "62D1D4"
   ]
@@ -997,7 +997,7 @@
  {
   "id": "233030",
   "jp": "今のエンダさんに、そんなこと…",
-  "en": null,
+  "en": "Saying that to Enda-san right now...",
   "slots": [
    "62D1F8"
   ]
@@ -1005,7 +1005,7 @@
  {
   "id": "233018",
   "jp": "ローはだまって見てる。",
-  "en": null,
+  "en": "Ro, just be quiet and watch.",
   "slots": [
    "62D21C"
   ]
@@ -1013,7 +1013,7 @@
  {
   "id": "232FE0",
   "jp": "あたしだって、そんな話が\n無かったわけじゃないのよ。",
-  "en": null,
+  "en": "It's not like I've never had a story like that myself.",
   "slots": [
    "62D240"
   ]
@@ -1021,7 +1021,7 @@
  {
   "id": "232FB0",
   "jp": "たしかに、あたしにくらべて\nあんたは若いわ。",
-  "en": null,
+  "en": "Sure, compared to me, you're young.",
   "slots": [
    "62D264"
   ]
@@ -1029,7 +1029,7 @@
  {
   "id": "232F78",
   "jp": "カールセンといっしょに\nオトナになったくらいだものね。",
-  "en": null,
+  "en": "You practically grew up right alongside Carlsen, after all.",
   "slots": [
    "62D288"
   ]
@@ -1037,7 +1037,7 @@
  {
   "id": "232F48",
   "jp": "けど、そろそろ気づいても\nいいはずじゃない？",
-  "en": null,
+  "en": "But isn't it about time you realized?",
   "slots": [
    "62D2AC"
   ]
@@ -1045,7 +1045,7 @@
  {
   "id": "232F08",
   "jp": "カールセンは、あんたのこと\n好きだって言って\nくれたんでしょ？",
-  "en": null,
+  "en": "Carlsen told you he loved you, didn't he?",
   "slots": [
    "62D2F4"
   ]
@@ -1061,7 +1061,7 @@
  {
   "id": "232EF4",
   "jp": "…ええ…",
-  "en": null,
+  "en": "...Yes...",
   "slots": [
    "62D33C"
   ]
@@ -1069,7 +1069,7 @@
  {
   "id": "232EC0",
   "jp": "事故の前…リアクトしようと\n謳をはじめたときに…",
-  "en": null,
+  "en": "Before the accident... when I started the song so we could React...",
   "slots": [
    "62D360"
   ]
@@ -1077,7 +1077,7 @@
  {
   "id": "232E88",
   "jp": "その言葉さえ信じていれば、\n後は、あんたの気持ちだけ。",
-  "en": null,
+  "en": "As long as you believe those words, the rest is just how you feel.",
   "slots": [
    "62D384"
   ]
@@ -1085,7 +1085,7 @@
  {
   "id": "232E44",
   "jp": "おじーちゃんになっても\nあんたがかわらなければ\nきっと大丈夫よ。",
-  "en": null,
+  "en": "Even when he's an old man, as long as you don't change, I'm sure it'll be fine.",
   "slots": [
    "62D3A8"
   ]
@@ -1093,7 +1093,7 @@
  {
   "id": "232E2C",
   "jp": "そうかもしれませんね…",
-  "en": null,
+  "en": "Maybe you're right...",
   "slots": [
    "62D3CC"
   ]
@@ -1101,7 +1101,7 @@
  {
   "id": "232DE8",
   "jp": "何にしたって、まずは\nカールセンさんを\n起こさなくてはいけません。",
-  "en": null,
+  "en": "Whatever the case, first we have to wake Carlsen-san up.",
   "slots": [
    "62D3F0"
   ]
@@ -1109,7 +1109,7 @@
  {
   "id": "232DB4",
   "jp": "目ざめの謳じゃない、\nほかの方法はありませんかね…",
-  "en": null,
+  "en": "Isn't there some other way besides the song of awakening...",
   "slots": [
    "62D414"
   ]
@@ -1117,7 +1117,7 @@
  {
   "id": "232D70",
   "jp": "声をかけたり、たたいたり\nいろいろやってみましたが\nダメでした。",
-  "en": null,
+  "en": "I tried calling to him, shaking him, all sorts of things, but nothing worked.",
   "slots": [
    "62D438"
   ]
@@ -1125,7 +1125,7 @@
  {
   "id": "232D60",
   "jp": "…そうですか…",
-  "en": null,
+  "en": "...I see...",
   "slots": [
    "62D45C"
   ]
@@ -1133,7 +1133,7 @@
  {
   "id": "232D44",
   "jp": "うう～ん。どうしたものか…",
-  "en": null,
+  "en": "Hmmm. What to do...",
   "slots": [
    "62D480"
   ]
@@ -1141,7 +1141,7 @@
  {
   "id": "232D14",
   "jp": "もう一回、この日記を\n読みかえすとしますか。",
-  "en": null,
+  "en": "Shall I read through this diary one more time?",
   "slots": [
    "62D4A4"
   ]
@@ -1149,7 +1149,7 @@
  {
   "id": "232D08",
   "jp": "それは…？",
-  "en": null,
+  "en": "What's that...?",
   "slots": [
    "62D4EC"
   ]
@@ -1157,7 +1157,7 @@
  {
   "id": "232CDC",
   "jp": "これですか？\nカールセンさんの日記ですよ。",
-  "en": null,
+  "en": "This? It's Carlsen-san's diary.",
   "slots": [
    "62D510"
   ]
@@ -1165,7 +1165,7 @@
  {
   "id": "232C94",
   "jp": "って、これを見せたときの\nカールセンさんは、\nあなただったんですね。",
-  "en": null,
+  "en": "Wait, so the \"Carlsen-san\" I showed this to was you, wasn't it?",
   "slots": [
    "62D534"
   ]
@@ -1173,7 +1173,7 @@
  {
   "id": "232C74",
   "jp": "そうですか。\nカールの日記…",
-  "en": null,
+  "en": "I see. Carl's diary...",
   "slots": [
    "62D558"
   ]
@@ -1181,7 +1181,7 @@
  {
   "id": "232C48",
   "jp": "私のことも、\n書かれているんでしょうか。",
-  "en": null,
+  "en": "Am I written about in it, too?",
   "slots": [
    "62D57C"
   ]
@@ -1189,7 +1189,7 @@
  {
   "id": "232C14",
   "jp": "そりゃ～もう、名前が出て\n来ない日が無いくらい！！",
-  "en": null,
+  "en": "Oh~, absolutely! There's hardly a day your name doesn't come up!!",
   "slots": [
    "62D5A0"
   ]
@@ -1197,7 +1197,7 @@
  {
   "id": "232BFC",
   "jp": "いっしょに読まれます？",
-  "en": null,
+  "en": "Shall we read it together?",
   "slots": [
    "62D5C4"
   ]
@@ -1205,7 +1205,7 @@
  {
   "id": "232BF0",
   "jp": "えっと…",
-  "en": null,
+  "en": "Um...",
   "slots": [
    "62D5E8"
   ]
@@ -1213,7 +1213,7 @@
  {
   "id": "232BD4",
   "jp": "読みましょ。\n読みましょ。",
-  "en": null,
+  "en": "Let's read it. Let's read it.",
   "slots": [
    "62D654"
   ]
@@ -1221,7 +1221,7 @@
  {
   "id": "232BAC",
   "jp": "あーあ。\n何か目的がかわってねーか？",
-  "en": null,
+  "en": "Man. Haven't we kinda lost track of what we're doing?",
   "slots": [
    "62D69C"
   ]
@@ -1229,7 +1229,7 @@
  {
   "id": "232B80",
   "jp": "ま、エンダが楽しそうなら\nいいんだけどな。",
-  "en": null,
+  "en": "Well, if Enda's having fun, I guess that's fine.",
   "slots": [
    "62D6C0"
   ]
@@ -1237,7 +1237,7 @@
  {
   "id": "232B34",
   "jp": "それで、誰かいいアイデアは\n無いかな？　カールセンを\n起こすための方法。",
-  "en": null,
+  "en": "So, anybody got a good idea? A way to wake Carlsen up.",
   "slots": [
    "62D6E4"
   ]
@@ -1245,7 +1245,7 @@
  {
   "id": "232B20",
   "jp": "むずかしいよね…",
-  "en": null,
+  "en": "It's tough, huh...",
   "slots": [
    "62D708"
   ]
@@ -1253,7 +1253,7 @@
  {
   "id": "232AE0",
   "jp": "思いつくようなことは\n一通りエンダさんが\nためしたみたいだし。",
-  "en": null,
+  "en": "Looks like Enda-san already tried everything we could think of.",
   "slots": [
    "62D72C"
   ]
@@ -1261,7 +1261,7 @@
  {
   "id": "232AD4",
   "jp": "そうねぇ。",
-  "en": null,
+  "en": "Let's see.",
   "slots": [
    "62D750"
   ]
@@ -1269,7 +1269,7 @@
  {
   "id": "232AAC",
   "jp": "フライパンでもたたいて\n起こしてみる？",
-  "en": null,
+  "en": "How about banging a frying pan to wake him up?",
   "slots": [
    "62D774"
   ]
@@ -1277,7 +1277,7 @@
  {
   "id": "232A84",
   "jp": "たぶん、それじゃ\n起きないと思うよ。",
-  "en": null,
+  "en": "I don't think that would wake him, probably.",
   "slots": [
    "62D798"
   ]
@@ -1285,7 +1285,7 @@
  {
   "id": "232A6C",
   "jp": "う～ん…何か無いかな…",
-  "en": null,
+  "en": "Hmmm... Isn't there something...",
   "slots": [
    "62D7BC"
   ]
@@ -1293,7 +1293,7 @@
  {
   "id": "232A5C",
   "jp": "もしかしたら…",
-  "en": null,
+  "en": "Maybe...",
   "slots": [
    "62D7E0"
   ]
@@ -1301,7 +1301,7 @@
  {
   "id": "232A4C",
   "jp": "何？　レン。",
-  "en": null,
+  "en": "What is it, Ren?",
   "slots": [
    "62D804"
   ]
@@ -1309,7 +1309,7 @@
  {
   "id": "232A44",
   "jp": "うん。",
-  "en": null,
+  "en": "Mm.",
   "slots": [
    "62D828",
    "62D900"
@@ -1318,7 +1318,7 @@
  {
   "id": "232A10",
   "jp": "もしかしたら、その\n『目ざめの謳』がうたえるのは…",
-  "en": null,
+  "en": "Maybe the one who can sing that \"song of awakening\" is...",
   "slots": [
    "62D84C"
   ]
@@ -1326,7 +1326,7 @@
  {
   "id": "232A04",
   "jp": "…はい？",
-  "en": null,
+  "en": "...Huh?",
   "slots": [
    "62D894"
   ]
@@ -1334,7 +1334,7 @@
  {
   "id": "2329F4",
   "jp": "え、エンダ！？",
-  "en": null,
+  "en": "E-Enda?!",
   "slots": [
    "62D8B8"
   ]
@@ -1342,7 +1342,7 @@
  {
   "id": "2329C8",
   "jp": "エンダが『目ざめの謳』を\nうたえるって！？",
-  "en": null,
+  "en": "Enda can sing the \"song of awakening\"?!",
   "slots": [
    "62D8DC"
   ]
@@ -1350,7 +1350,7 @@
  {
   "id": "2329B0",
   "jp": "ちょっと待ってくれよ…",
-  "en": null,
+  "en": "Hang on a sec...",
   "slots": [
    "62D924"
   ]
@@ -1358,7 +1358,7 @@
  {
   "id": "232960",
   "jp": "それじゃ、はじめっから\nエディルレイドなんか探さずに\nエンダがうたってるって。",
-  "en": null,
+  "en": "Then from the very start, instead of hunting for Edel Raids, Enda could've just sung it herself?",
   "slots": [
    "62D948"
   ]
@@ -1366,7 +1366,7 @@
  {
   "id": "232928",
   "jp": "いいえ、レンさんのおっしゃる\n通りかもしれませんよ。",
-  "en": null,
+  "en": "No, it may be just as Ren-san says.",
   "slots": [
    "62D96C"
   ]
@@ -1374,7 +1374,7 @@
  {
   "id": "2328F8",
   "jp": "もし、自分がうたえることを\n知らなかったら…",
-  "en": null,
+  "en": "If she didn't know she could sing it...",
   "slots": [
    "62D990"
   ]
@@ -1382,7 +1382,7 @@
  {
   "id": "2328D0",
   "jp": "うたってみることすら\nしないのでは？",
-  "en": null,
+  "en": "she wouldn't even try singing it, would she?",
   "slots": [
    "62D9B4"
   ]
@@ -1390,7 +1390,7 @@
  {
   "id": "2328C8",
   "jp": "私が？",
-  "en": null,
+  "en": "Me?",
   "slots": [
    "62D9D8"
   ]
@@ -1398,7 +1398,7 @@
  {
   "id": "2328B0",
   "jp": "私が『目ざめの謳』を？",
-  "en": null,
+  "en": "I could sing the \"song of awakening\"?",
   "slots": [
    "62D9FC"
   ]
@@ -1406,7 +1406,7 @@
  {
   "id": "2328A0",
   "jp": "そんなはずは…",
-  "en": null,
+  "en": "That can't be...",
   "slots": [
    "62DA20"
   ]
@@ -1414,7 +1414,7 @@
  {
   "id": "23287C",
   "jp": "どうして、うたえないと\n考えたの？",
-  "en": null,
+  "en": "Why did you think you couldn't sing it?",
   "slots": [
    "62DA44"
   ]
@@ -1422,7 +1422,7 @@
  {
   "id": "232854",
   "jp": "私には…うたえないって\n言われたから…",
-  "en": null,
+  "en": "Because... I was told I couldn't...",
   "slots": [
    "62DA8C"
   ]
@@ -1430,7 +1430,7 @@
  {
   "id": "232814",
   "jp": "でも、彼は、あなたと\nリアクトしたままで事故に\nあったんだから",
-  "en": null,
+  "en": "But he was in the accident while still Reacted with you, so",
   "slots": [
    "62DAB0"
   ]
@@ -1438,7 +1438,7 @@
  {
   "id": "2327D8",
   "jp": "眠り続けることに、\nあなたの力が関係してると\n私は思う。",
-  "en": null,
+  "en": "I think your power has something to do with him staying asleep.",
   "slots": [
    "62DAD4"
   ]
@@ -1446,7 +1446,7 @@
  {
   "id": "2327B4",
   "jp": "私の力が、カールを\n眠らせている…",
-  "en": null,
+  "en": "My power is what's keeping Carl asleep...",
   "slots": [
    "62DAF8"
   ]
@@ -1454,7 +1454,7 @@
  {
   "id": "232768",
   "jp": "眠らせたのがエンダさんなら\n目ざめさせられるのも\nエンダさん、ってことか。",
-  "en": null,
+  "en": "If Enda-san's the one who put him to sleep, then Enda-san's the one who can wake him up, huh?",
   "slots": [
    "62DB1C"
   ]
@@ -1462,7 +1462,7 @@
  {
   "id": "23274C",
   "jp": "自分の力を無力化する謳。",
-  "en": null,
+  "en": "A song that cancels out your own power.",
   "slots": [
    "62DB40"
   ]
@@ -1470,7 +1470,7 @@
  {
   "id": "23271C",
   "jp": "そんな謳を持っていても\nおかしくなさそうね。",
-  "en": null,
+  "en": "It wouldn't be strange for you to have a song like that.",
   "slots": [
    "62DB64"
   ]
@@ -1478,7 +1478,7 @@
  {
   "id": "232708",
   "jp": "きっとそうですよ！",
-  "en": null,
+  "en": "I'm sure that's it!",
   "slots": [
    "62DB88"
   ]
@@ -1486,7 +1486,7 @@
  {
   "id": "2326CC",
   "jp": "眠り続ける彼の目を\nさまさせるのは、\n彼女の愛の謳だった…",
-  "en": null,
+  "en": "What wakes him from his endless sleep is her song of love...",
   "slots": [
    "62DBAC"
   ]
@@ -1494,7 +1494,7 @@
  {
   "id": "2326AC",
   "jp": "ああ、何てステキなんでしょう。",
-  "en": null,
+  "en": "Oh, how wonderful!",
   "slots": [
    "62DBD0"
   ]
@@ -1502,7 +1502,7 @@
  {
   "id": "2326A4",
   "jp": "でも…",
-  "en": null,
+  "en": "But...",
   "slots": [
    "62DBF4"
   ]
@@ -1510,7 +1510,7 @@
  {
   "id": "232670",
   "jp": "私はうたえません。\n『目ざめの謳』なんて知らない。",
-  "en": null,
+  "en": "I can't sing it. I don't know any \"song of awakening.\"",
   "slots": [
    "62DC18"
   ]
@@ -1518,7 +1518,7 @@
  {
   "id": "232668",
   "jp": "え。",
-  "en": null,
+  "en": "Huh.",
   "slots": [
    "62DC3C"
   ]
@@ -1526,7 +1526,7 @@
  {
   "id": "232624",
   "jp": "でも、知ってる謳じゃなくても\nプレジャーと気持ちが\nシンクロしたら",
-  "en": null,
+  "en": "But even if it's not a song you know, when your feelings sync with your Pledger,",
   "slots": [
    "62DC60"
   ]
@@ -1534,7 +1534,7 @@
  {
   "id": "2325F8",
   "jp": "あたらしく思い出す謳とか\nあるんじゃない？",
-  "en": null,
+  "en": "couldn't a new song come back to you?",
   "slots": [
    "62DC84"
   ]
@@ -1542,7 +1542,7 @@
  {
   "id": "2325A4",
   "jp": "そういう謳もあるのかも\nしれませんが、今のカールでは\n気持ちをシンクロさせても…",
-  "en": null,
+  "en": "There may be songs like that, but with Carl the way he is now, even if I synced my feelings...",
   "slots": [
    "62DCA8"
   ]
@@ -1550,7 +1550,7 @@
  {
   "id": "232584",
   "jp": "そっか…眠ったままだもんね。",
-  "en": null,
+  "en": "Right... He's still asleep.",
   "slots": [
    "62DCCC"
   ]
@@ -1558,7 +1558,7 @@
  {
   "id": "23255C",
   "jp": "でも、謳をうたえるのは\nあなただけ。",
-  "en": null,
+  "en": "But you're the only one who can sing the song.",
   "slots": [
    "62DCF0"
   ]
@@ -1566,7 +1566,7 @@
  {
   "id": "232530",
   "jp": "あなたじゃなきゃ、\n誰がうたってもダメ…",
-  "en": null,
+  "en": "If it isn't you, it's no use, no matter who sings...",
   "slots": [
    "62DD14"
   ]
@@ -1574,7 +1574,7 @@
  {
   "id": "232524",
   "jp": "レンさん…",
-  "en": null,
+  "en": "Ren-san...",
   "slots": [
    "62DD38"
   ]
@@ -1582,7 +1582,7 @@
  {
   "id": "232514",
   "jp": "エンダさん。",
-  "en": null,
+  "en": "Enda-san.",
   "slots": [
    "62DD5C"
   ]
@@ -1590,7 +1590,7 @@
  {
   "id": "2324C8",
   "jp": "きっとレンさんの言う通りです。\n自分を信じていれば\n謳もうたえるはずです。",
-  "en": null,
+  "en": "I'm sure Ren-san is right. If you believe in yourself, you should be able to sing the song.",
   "slots": [
    "62DD80"
   ]
@@ -1598,7 +1598,7 @@
  {
   "id": "2324A8",
   "jp": "私たちも力をおかししますから！",
-  "en": null,
+  "en": "We'll lend you a hand, too!",
   "slots": [
    "62DDA4"
   ]
@@ -1606,7 +1606,7 @@
  {
   "id": "23248C",
   "jp": "ありがとう…ございます…",
-  "en": null,
+  "en": "Thank you... so much...",
   "slots": [
    "62DDC8"
   ]
@@ -1614,7 +1614,7 @@
  {
   "id": "232474",
   "jp": "ところで、エンダさん。",
-  "en": null,
+  "en": "By the way, Enda-san.",
   "slots": [
    "62DDEC"
   ]
@@ -1622,7 +1622,7 @@
  {
   "id": "23243C",
   "jp": "『目ざめの謳』をうたえる\nエディルレイドを探すために",
-  "en": null,
+  "en": "To find an Edel Raid who could sing the \"song of awakening,\"",
   "slots": [
    "62DE10"
   ]
@@ -1630,7 +1630,7 @@
  {
   "id": "2323FC",
   "jp": "なぜ、\nエディルレイドプレジャーを、\nおそったりしたんですか？",
-  "en": null,
+  "en": "why did you attack Edel Raid Pledgers?",
   "slots": [
    "62DE34"
   ]
@@ -1638,7 +1638,7 @@
  {
   "id": "2323C4",
   "jp": "謳がうたえるかきいて、\nたのんでみてもよかったのでは？",
-  "en": null,
+  "en": "Couldn't you have just asked if they could sing it and asked for their help?",
   "slots": [
    "62DE58"
   ]
@@ -1646,7 +1646,7 @@
  {
   "id": "232370",
   "jp": "私も…そう思ったのですが、\n私がうたえる謳はリアクトをとき\n人をあやつれるから…",
-  "en": null,
+  "en": "I... thought so too, but the song I can sing undoes a React and lets me control people, so...",
   "slots": [
    "62DE7C"
   ]
@@ -1654,7 +1654,7 @@
  {
   "id": "232328",
   "jp": "はじめから、謳を使って\nエディルレイドだけを\n連れさった方が早いと…",
-  "en": null,
+  "en": "using the song from the start and carrying off only the Edel Raids would be faster...",
   "slots": [
    "62DEA0"
   ]
@@ -1662,7 +1662,7 @@
  {
   "id": "232318",
   "jp": "神父さまが…",
-  "en": null,
+  "en": "That's what Father said...",
   "slots": [
    "62DEC4"
   ]
@@ -1670,7 +1670,7 @@
  {
   "id": "2322F8",
   "jp": "やはり、神父さまなんですね。",
-  "en": null,
+  "en": "So it was the priest after all.",
   "slots": [
    "62DEE8"
   ]
@@ -1678,7 +1678,7 @@
  {
   "id": "2322E8",
   "jp": "『やはり』…？",
-  "en": null,
+  "en": "\"After all\"...?",
   "slots": [
    "62DF0C"
   ]
@@ -1686,7 +1686,7 @@
  {
   "id": "2322E0",
   "jp": "先輩。",
-  "en": null,
+  "en": "Senpai.",
   "slots": [
    "62DF30",
    "62FCB8"
@@ -1695,7 +1695,7 @@
  {
   "id": "2322C4",
   "jp": "ええ。\nわかっています。",
-  "en": null,
+  "en": "Yes. I know.",
   "slots": [
    "62DF54"
   ]
@@ -1703,7 +1703,7 @@
  {
   "id": "232284",
   "jp": "つぎに会ったときには\nぞんぶんに、しぼって\n差し上げますわ！",
-  "en": null,
+  "en": "The next time we meet him, I'll wring him out to my heart's content!",
   "slots": [
    "62DF78"
   ]
@@ -1711,7 +1711,7 @@
  {
   "id": "232278",
   "jp": "神父さま…",
-  "en": null,
+  "en": "Father...",
   "slots": [
    "62DF9C"
   ]
@@ -1719,7 +1719,7 @@
  {
   "id": "232268",
   "jp": "そうでした。",
-  "en": null,
+  "en": "That's right.",
   "slots": [
    "62DFC0"
   ]
@@ -1727,7 +1727,7 @@
  {
   "id": "232224",
   "jp": "私が『目ざめの謳』を\nうたえるかもしれないと\nお知らせしないと。",
-  "en": null,
+  "en": "I have to let him know I might be able to sing the \"song of awakening.\"",
   "slots": [
    "62DFE4"
   ]

@@ -45,6 +45,24 @@
 - minor b023: 22070C; 220188 "Hey, wait, Mister Merchant!"; 2200D8 "Gah!"; 2239C0 "Like an animal."
   b024: 221D9C "Vol-k..."; 222808 Kea "Oh, nothing~"; 221734 no "right?"; 2214E0/221498; 2225A0.
 
+## b025-b032 (Importants fixed: work/tl/fixes_w4b.tsv)
+- minor b025: 22136C "Carlsen-san...?"; 221174; 223D74 "you seem uneasy around that person". b026: 224E9C "That's the
+  point, isn't it?"; 228D74 song names; 229060 drop "--".
+- minor b027: 227024; 2275D8/227598; 22718C. b028: 22AD90/22ABCC/22AB74 "ain't done a thing"; 229C04; 229A4C "?".
+- minor b029: 22C720; 22C67C "Why they were taken"; 22CDB0; 22CD78 "I split them up"; 22AFAC; 22C56C/22C5B4 I vs We.
+  b030: 22B9F0 drop "the" before Braves Arca; 22D558/22D544 "Isn't that fine?"; 22D09C.
+- minor b031: 22F6E4/22F6BC; 22F778 "N-no, not at all!"; 22EE94 "The accident, huh."; 22FB4C; 231E54/231E10 "cry uncle".
+  b032: 2317D0/2317B8; 230B6C "Huh..."; 23022C Rowen's おじーさん; 230754/23073C.
+
+## b033-b040 (all Approved; Howdy/Reckon fixed globally)
+- minor b033: 232FE0; 233128 "But, you know~."; 233078/233134 "old man" repeats; 2357C0 "Not bothered at all, ma'am!"
+- minor b034: 234D38/234D00; 234CC0 "Instead of waking Carlsen-san?"; 234624 "Ask her to pack all you can carry!";
+  233F70 Coud "Come on, play some more."; 233CA8 "Mister Merchant here".
+- minor b037: 239878; 239B08 "I never imagined it until yesterday."; 23BF94 "hidin' what those two are."
+  b038: food choices 23C6B0/23C69C/23C688 sentence case; 23CDB0 "Use of force~!"
+- minor b039: 0B7908 "Arc Aile Trio"; 03DD64; 03DCA0/03DCCC credits wording; 0B7804; 0B79D0. 0B852C ほうしょうの謳
+  "song of Hosho" unverified (豊穣? 鳳翔?). b040: 0B8C3C font-test placeholder; 0B8A28; 0B8A48.
+
 ## b007-b008
 - IMPORTANT 200EE0 Mister Hunter: "If we put Mister Hunter in our debt now, it'll come in handy later in all sorts of ways..."
 - IMPORTANT 204C78/204C5C ふとっぱら pun: Merchant "Ma'am, you're big-bellied generous!" / Cisqua "Who are you calling fat?!"

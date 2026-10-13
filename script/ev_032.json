@@ -363,7 +363,7 @@
  {
   "id": "22DB2C",
   "jp": "この中の…",
-  "en": "Somewhere...",
+  "en": "Somewhere in here...",
   "slots": [
    "627AC8"
   ]
@@ -371,7 +371,7 @@
  {
   "id": "22DAF8",
   "jp": "どこかにエディルレイドたちが\nいるんでしょうか。",
-  "en": "in here... are the Edel Raids, I wonder?",
+  "en": "are the Edel Raids, I wonder?",
   "slots": [
    "627AEC"
   ]
@@ -1560,7 +1560,7 @@
  {
   "id": "22EBE8",
   "jp": "人間ではない、エディルレイド\nという武器になる者。\nそういうところも、全部。",
-  "en": "Not being human, being one who becomes a weapon called an Edel Raid... All of that, too.",
+  "en": "That I'm not human, that I'm an Edel Raid, one who becomes a weapon... All of it.",
   "slots": [
    "6292F8"
   ]

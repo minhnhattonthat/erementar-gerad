@@ -2,7 +2,7 @@
  {
   "id": "23B604",
   "jp": "えッ！？　何言ってるんだよ。\nゼンゼンちがうって。",
-  "en": null,
+  "en": "Huh?! What are you saying? That's not it at all.",
   "slots": [
    "63A6E0"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "23B5F0",
   "jp": "約束したから、さ…",
-  "en": null,
+  "en": "It's 'cause I made a promise...",
   "slots": [
    "63A704"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "23B5A8",
   "jp": "エディルガーデンへつれてって\nやれなかったらって\n考えると不安なんだ。",
-  "en": null,
+  "en": "I get uneasy thinking I might not be able to take you to Edel Garden.",
   "slots": [
    "63A74C"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "23B550",
   "jp": "どんなヤツラがおそってきても\nレンのこと、ちゃんと守れるか\n悩むんだ。おかしいだろ。",
-  "en": null,
+  "en": "No matter who comes after us, I worry if I can really protect you, Ren. Pretty silly, huh?",
   "slots": [
    "63A770"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "23B548",
   "jp": "クー…",
-  "en": null,
+  "en": "Cou...",
   "slots": [
    "63A794"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "23B510",
   "jp": "おかしいですッ！\nちゃんちゃらおかしいです\nクーさん！",
-  "en": null,
+  "en": "It IS silly! Utterly ridiculous, Cou-san!",
   "slots": [
    "63A7B8"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "23B4F8",
   "jp": "うわッ、シ、シスカ？",
-  "en": null,
+  "en": "Whoa! C-Cisqua?",
   "slots": [
    "63A7DC"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "23B4B0",
   "jp": "クーさんがレンさんを守る？\nそんなのできるわけ\nないじゃないですか！",
-  "en": null,
+  "en": "You, protect Ren-san? There's no way you could do that!",
   "slots": [
    "63A800"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "23B46C",
   "jp": "いいですか、クーさん。\nあなたはラッキーボーイな\nだけなんです。",
-  "en": null,
+  "en": "Listen, Cou-san. You're nothing but a lucky boy.",
   "slots": [
    "63A824"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "23B418",
   "jp": "レンさんと知り合えただけでも\nラッキーなんですよ！？\n両手をあげてよろこびなさい！",
-  "en": null,
+  "en": "Just getting to know Ren-san makes you lucky, you know?! Put both hands up and rejoice!",
   "slots": [
    "63A848"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "23B3FC",
   "jp": "先輩、武器はいけません…",
-  "en": null,
+  "en": "Senpai, no weapons...",
   "slots": [
    "63A86C"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "23B3B0",
   "jp": "そしてレンさんのそばに\nいてあげて下さい。\nレンさんはあなただけじゃない…",
-  "en": null,
+  "en": "And stay by Ren-san's side. Ren-san doesn't just have you...",
   "slots": [
    "63A8B4"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "23B380",
   "jp": "ローウェンとキーア、\nそれから私が守ります。",
-  "en": null,
+  "en": "Rowen, Kea and I will protect her too.",
   "slots": [
    "63A8D8"
   ]
@@ -106,7 +106,7 @@
  {
   "id": "23B354",
   "jp": "必ずエディルガーデンへ\n行きましょう！！",
-  "en": null,
+  "en": "We'll make it to Edel Garden, no matter what!!",
   "slots": [
    "63A8FC"
   ]
@@ -114,7 +114,7 @@
  {
   "id": "23B348",
   "jp": "…シスカ…",
-  "en": null,
+  "en": "...Cisqua...",
   "slots": [
    "63A920"
   ]
@@ -122,7 +122,7 @@
  {
   "id": "23B320",
   "jp": "そうだよな。ヘヘッ。\nみんなで行こう。",
-  "en": null,
+  "en": "Yeah, you're right. Heh heh. Let's all go together.",
   "slots": [
    "63A944"
   ]
@@ -130,7 +130,7 @@
  {
   "id": "23B308",
   "jp": "エディルガーデンへ。",
-  "en": null,
+  "en": "To Edel Garden.",
   "slots": [
    "63A968"
   ]
@@ -138,7 +138,7 @@
  {
   "id": "23B2EC",
   "jp": "アークエイルはこわくない？",
-  "en": null,
+  "en": "Aren't you scared of Arc Aile?",
   "slots": [
    "63A9B0"
   ]
@@ -146,7 +146,7 @@
  {
   "id": "23B2E0",
   "jp": "どうして？",
-  "en": null,
+  "en": "Why?",
   "slots": [
    "63A9F8"
   ]
@@ -154,7 +154,7 @@
  {
   "id": "23B298",
   "jp": "だってねらわれるのは\nレン本人じゃんか。\n本人にきくのがイチバンって…",
-  "en": null,
+  "en": "Well, you're the one they're after, Ren. I figured asking you was the best way...",
   "slots": [
    "63AA1C"
   ]
@@ -162,7 +162,7 @@
  {
   "id": "23B288",
   "jp": "ねぇ、クー。",
-  "en": null,
+  "en": "Hey, Cou.",
   "slots": [
    "63AA64"
   ]
@@ -170,7 +170,7 @@
  {
   "id": "23B280",
   "jp": "何？",
-  "en": null,
+  "en": "What?",
   "slots": [
    "63AA88"
   ]
@@ -178,7 +178,7 @@
  {
   "id": "23B240",
   "jp": "クーは本当にシスカやローを\n信じてないの？\n一回も信じてない？",
-  "en": null,
+  "en": "Do you really not trust Cisqua and Ro, Cou? Not even once?",
   "slots": [
    "63AAAC"
   ]
@@ -186,7 +186,7 @@
  {
   "id": "23B238",
   "jp": "え…",
-  "en": null,
+  "en": "Huh...",
   "slots": [
    "63AAD0"
   ]
@@ -194,7 +194,7 @@
  {
   "id": "23B1EC",
   "jp": "私はシスカやロー、キーアが\n私とクーのために\nいろいろしてくれたと思う。",
-  "en": null,
+  "en": "I think Cisqua, Ro and Kea have done a lot for you and me.",
   "slots": [
    "63AAF4"
   ]
@@ -202,7 +202,7 @@
  {
   "id": "23B1B8",
   "jp": "こうやって、今いっしょに\nいるのだって心強いし。",
-  "en": null,
+  "en": "Being together with them like this is reassuring, too.",
   "slots": [
    "63AB18"
   ]
@@ -210,7 +210,7 @@
  {
   "id": "23B17C",
   "jp": "私たち二人だけじゃ\nできないこともきっとある。\nだから…",
-  "en": null,
+  "en": "There must be things the two of us can't do alone. So...",
   "slots": [
    "63AB3C"
   ]
@@ -218,7 +218,7 @@
  {
   "id": "23B170",
   "jp": "レンさん…",
-  "en": null,
+  "en": "Ren-san...",
   "slots": [
    "63AB60"
   ]
@@ -226,7 +226,7 @@
  {
   "id": "23B128",
   "jp": "そうだよな…\nヘンなこときいてごめんな。\nシスカも、ローも、キーアも。",
-  "en": null,
+  "en": "Yeah, you're right... Sorry for asking something weird. Cisqua, Ro, Kea, all of you.",
   "slots": [
    "63ABA8"
   ]
@@ -234,7 +234,7 @@
  {
   "id": "23B120",
   "jp": "クー。",
-  "en": null,
+  "en": "Cou.",
   "slots": [
    "63ABCC"
   ]
@@ -242,7 +242,7 @@
  {
   "id": "23B0F4",
   "jp": "問題なしだよ。\nみんなでがんばっていこう。",
-  "en": null,
+  "en": "No problem at all. Let's all do our best together.",
   "slots": [
    "63ABF0"
   ]
@@ -250,7 +250,7 @@
  {
   "id": "23B0AC",
   "jp": "さあさあ、もたもたしてないで\n街へ行きましょ。\n港街ポルトガレオンへ。",
-  "en": null,
+  "en": "Come on, come on, quit dawdling and let's head into town. To the port town of Porto Galeon.",
   "slots": [
    "63AC14"
   ]
@@ -258,7 +258,7 @@
  {
   "id": "23B0A4",
   "jp": "ああ。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "63AC38"
   ]
@@ -266,7 +266,7 @@
  {
   "id": "23C734",
   "jp": "ここが待ち合わせ場所の\n広場か。",
-  "en": null,
+  "en": "So this is the plaza where we're meeting.",
   "slots": [
    "63AC80"
   ]
@@ -274,7 +274,7 @@
  {
   "id": "23C700",
   "jp": "お、屋台が出てる。\nおやつが売ってるみたいだな。",
-  "en": null,
+  "en": "Oh, there are food stalls out. Looks like they're selling snacks.",
   "slots": [
    "63ACA4"
   ]
@@ -282,7 +282,7 @@
  {
   "id": "23C6E4",
   "jp": "レン、ちょっと待ってて。",
-  "en": null,
+  "en": "Ren, wait here a sec.",
   "slots": [
    "63ACC8"
   ]
@@ -290,7 +290,7 @@
  {
   "id": "23C6DC",
   "jp": "うん。",
-  "en": null,
+  "en": "Okay.",
   "slots": [
    "63ACEC",
    "63B538",
@@ -300,7 +300,7 @@
  {
   "id": "23C6C0",
   "jp": "さ～って、何を買おっかな。",
-  "en": null,
+  "en": "Now then~ What should I buy?",
   "slots": [
    "63AD10"
   ]
@@ -308,7 +308,7 @@
  {
   "id": "23C6B0",
   "jp": "イチゴクレープ",
-  "en": null,
+  "en": "Strawberry Crepe",
   "slots": [
    "63AD34"
   ]
@@ -316,7 +316,7 @@
  {
   "id": "23C69C",
   "jp": "みどりのジュース",
-  "en": null,
+  "en": "Green Juice",
   "slots": [
    "63AD58"
   ]
@@ -324,7 +324,7 @@
  {
   "id": "23C688",
   "jp": "やきトウモロコシ",
-  "en": null,
+  "en": "Grilled Corn",
   "slots": [
    "63AD7C"
   ]
@@ -332,7 +332,7 @@
  {
   "id": "23C634",
   "jp": "イチゴにホイップ生クリーム、\nカスタードもそえてあって\nやっぱ女の子はこれっしょ！",
-  "en": null,
+  "en": "Strawberries and whipped cream, with custard on the side. This is what girls go for, no question!",
   "slots": [
    "63ADA0"
   ]
@@ -340,7 +340,7 @@
  {
   "id": "23C624",
   "jp": "お待たせ～。",
-  "en": null,
+  "en": "Sorry for the wait~",
   "slots": [
    "63ADC4",
    "63B028",
@@ -350,7 +350,7 @@
  {
   "id": "23C604",
   "jp": "レン、これ食べてみてくれよ。",
-  "en": null,
+  "en": "Ren, give this a try.",
   "slots": [
    "63ADE8",
    "63B2D4"
@@ -359,7 +359,7 @@
  {
   "id": "23C5E8",
   "jp": "きっと気にいると思うぜ。",
-  "en": null,
+  "en": "I bet you'll like it.",
   "slots": [
    "63AE0C",
    "63B070",
@@ -369,7 +369,7 @@
  {
   "id": "23C5D8",
   "jp": "いただきます。",
-  "en": null,
+  "en": "Thank you. I'll have some.",
   "slots": [
    "63AE30",
    "63B094",
@@ -379,7 +379,7 @@
  {
   "id": "23C5CC",
   "jp": "う………",
-  "en": null,
+  "en": "Ugh......",
   "slots": [
    "63AE78"
   ]
@@ -387,7 +387,7 @@
  {
   "id": "23C5BC",
   "jp": "なに、コレ……",
-  "en": null,
+  "en": "What... is this......",
   "slots": [
    "63AE9C"
   ]
@@ -395,7 +395,7 @@
  {
   "id": "23C5B0",
   "jp": "あま……",
-  "en": null,
+  "en": "So sweet......",
   "slots": [
    "63AEC0"
   ]
@@ -403,7 +403,7 @@
  {
   "id": "23C5A4",
   "jp": "あ、あれ？",
-  "en": null,
+  "en": "Wh-what?",
   "slots": [
    "63AEE4"
   ]
@@ -411,7 +411,7 @@
  {
   "id": "23C588",
   "jp": "おいしく…なかった、とか？",
-  "en": null,
+  "en": "You didn't... like it, or something?",
   "slots": [
    "63AF08"
   ]
@@ -419,7 +419,7 @@
  {
   "id": "23C57C",
   "jp": "…うん…",
-  "en": null,
+  "en": "...Yeah...",
   "slots": [
    "63AF2C"
   ]
@@ -427,7 +427,7 @@
  {
   "id": "23C56C",
   "jp": "ご、ごめん！",
-  "en": null,
+  "en": "S-sorry!",
   "slots": [
    "63AF50"
   ]
@@ -435,7 +435,7 @@
  {
   "id": "23C54C",
   "jp": "すぐちがうの買ってくるから！",
-  "en": null,
+  "en": "I'll go buy something else right away!",
   "slots": [
    "63AF74"
   ]
@@ -443,7 +443,7 @@
  {
   "id": "23C540",
   "jp": "イラナイ…",
-  "en": null,
+  "en": "Don't want it...",
   "slots": [
    "63AF98"
   ]
@@ -451,7 +451,7 @@
  {
   "id": "23C538",
   "jp": "レン…",
-  "en": null,
+  "en": "Ren...",
   "slots": [
    "63AFBC"
   ]
@@ -459,7 +459,7 @@
  {
   "id": "23C51C",
   "jp": "信用ガタおちだな…トホホ。",
-  "en": null,
+  "en": "So much for her trust in me... Sigh.",
   "slots": [
    "63AFE0"
   ]
@@ -467,7 +467,7 @@
  {
   "id": "23C4D8",
   "jp": "けんこうブームってヤツ？\n体によさそうだし、\nこれにしようっと。",
-  "en": null,
+  "en": "That health craze thing? It looks good for you, so I'll go with this.",
   "slots": [
    "63B004"
   ]
@@ -475,7 +475,7 @@
  {
   "id": "23C4B8",
   "jp": "レン、これのんでみてくれよ。",
-  "en": null,
+  "en": "Ren, try drinking this.",
   "slots": [
    "63B04C"
   ]
@@ -483,7 +483,7 @@
  {
   "id": "23C4B0",
   "jp": "うん…",
-  "en": null,
+  "en": "Okay...",
   "slots": [
    "63B0DC"
   ]
@@ -491,7 +491,7 @@
  {
   "id": "23C498",
   "jp": "いける？　ダメそう？",
-  "en": null,
+  "en": "Can you handle it? No good?",
   "slots": [
    "63B100"
   ]
@@ -499,7 +499,7 @@
  {
   "id": "23C484",
   "jp": "すこし…でも平気…",
-  "en": null,
+  "en": "A little... but I'm fine...",
   "slots": [
    "63B124"
   ]
@@ -507,7 +507,7 @@
  {
   "id": "23C478",
   "jp": "のめる。",
-  "en": null,
+  "en": "I can drink it.",
   "slots": [
    "63B148"
   ]
@@ -515,7 +515,7 @@
  {
   "id": "23C464",
   "jp": "…クー…のんで…",
-  "en": null,
+  "en": "...Cou... you drink some...",
   "slots": [
    "63B16C"
   ]
@@ -523,7 +523,7 @@
  {
   "id": "23C45C",
   "jp": "おう。",
-  "en": null,
+  "en": "Sure.",
   "slots": [
    "63B190"
   ]
@@ -531,7 +531,7 @@
  {
   "id": "23C450",
   "jp": "にがっ…",
-  "en": null,
+  "en": "Bitter...",
   "slots": [
    "63B1D8"
   ]
@@ -539,7 +539,7 @@
  {
   "id": "23C414",
   "jp": "何だよコレ！\nすっげぇニガイじゃん？\nのみものかっての！",
-  "en": null,
+  "en": "What the heck is this?! It's super bitter! You call this a drink?!",
   "slots": [
    "63B1FC"
   ]
@@ -547,7 +547,7 @@
  {
   "id": "23C3DC",
   "jp": "うわぁ～ッ\nニガッニガッニガッ！\nぐうううううううぅ…",
-  "en": null,
+  "en": "Waaugh~! Bitter, bitter, bitter! Ngggggghhh...",
   "slots": [
    "63B220"
   ]
@@ -555,7 +555,7 @@
  {
   "id": "23C3CC",
   "jp": "ダイジョウブ？",
-  "en": null,
+  "en": "Are you okay?",
   "slots": [
    "63B244"
   ]
@@ -563,7 +563,7 @@
  {
   "id": "23C3BC",
   "jp": "な、なんとか…",
-  "en": null,
+  "en": "I-I'll live...",
   "slots": [
    "63B268"
   ]
@@ -571,7 +571,7 @@
  {
   "id": "23C388",
   "jp": "こうばしいニオイが\nたまんねーぜ。\nこれにキマリ！",
-  "en": null,
+  "en": "That toasty smell is too good to resist. This one it is!",
   "slots": [
    "63B28C"
   ]
@@ -579,7 +579,7 @@
  {
   "id": "23C37C",
   "jp": "おいしい。",
-  "en": null,
+  "en": "It's good.",
   "slots": [
    "63B364"
   ]
@@ -587,7 +587,7 @@
  {
   "id": "23C370",
   "jp": "だろ！？",
-  "en": null,
+  "en": "Right?!",
   "slots": [
    "63B388"
   ]
@@ -595,7 +595,7 @@
  {
   "id": "23C340",
   "jp": "やっぱうまいよな～。\n俺にもちょっとくれよ。",
-  "en": null,
+  "en": "Yep, it's tasty~ Gimme a little too.",
   "slots": [
    "63B3AC"
   ]
@@ -603,7 +603,7 @@
  {
   "id": "23C338",
   "jp": "やだ。",
-  "en": null,
+  "en": "No.",
   "slots": [
    "63B3D0"
   ]
@@ -611,7 +611,7 @@
  {
   "id": "23C330",
   "jp": "へ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "63B3F4"
   ]
@@ -619,7 +619,7 @@
  {
   "id": "23C328",
   "jp": "ウソ。",
-  "en": null,
+  "en": "Kidding.",
   "slots": [
    "63B418"
   ]
@@ -627,7 +627,7 @@
  {
   "id": "23C314",
   "jp": "はい、めしあがれ。",
-  "en": null,
+  "en": "Here, enjoy.",
   "slots": [
    "63B43C"
   ]
@@ -635,7 +635,7 @@
  {
   "id": "23C2FC",
   "jp": "いっただっきま～す。",
-  "en": null,
+  "en": "Don't mind if I do~",
   "slots": [
    "63B460"
   ]
@@ -643,7 +643,7 @@
  {
   "id": "23C2F0",
   "jp": "ンまいッ！",
-  "en": null,
+  "en": "Mmm, tasty!",
   "slots": [
    "63B484"
   ]
@@ -651,7 +651,7 @@
  {
   "id": "23C2E0",
   "jp": "なぁ、レン。",
-  "en": null,
+  "en": "Hey, Ren.",
   "slots": [
    "63B4A8"
   ]
@@ -659,7 +659,7 @@
  {
   "id": "23C2C8",
   "jp": "ほかも行ってみよっか？",
-  "en": null,
+  "en": "Wanna check out some other places?",
   "slots": [
    "63B4CC"
   ]
@@ -667,7 +667,7 @@
  {
   "id": "23C294",
   "jp": "行ってもいいけど…\nここにいたほうが\nよくない？",
-  "en": null,
+  "en": "We can go, but... wouldn't it be better to stay here?",
   "slots": [
    "63B4F0"
   ]
@@ -675,7 +675,7 @@
  {
   "id": "23C258",
   "jp": "大丈夫だって。\nまだ約束まで時間あるし。\nな？　行こう？",
-  "en": null,
+  "en": "It's fine. We've still got time before the meetup. Right? Let's go?",
   "slots": [
    "63B514"
   ]
@@ -683,7 +683,7 @@
  {
   "id": "23CCDC",
   "jp": "あっれ…",
-  "en": null,
+  "en": "Huh...",
   "slots": [
    "63B580"
   ]
@@ -691,7 +691,7 @@
  {
   "id": "23CCC4",
   "jp": "どうしたの？　クー。",
-  "en": null,
+  "en": "What's wrong, Cou?",
   "slots": [
    "63B5C8"
   ]
@@ -699,7 +699,7 @@
  {
   "id": "23CC8C",
   "jp": "いや…道はこっちで\nまちがってないと\n思うんだけど…",
-  "en": null,
+  "en": "Well... I'm pretty sure this is the right way, but...",
   "slots": [
    "63B5EC"
   ]
@@ -707,7 +707,7 @@
  {
   "id": "23CC78",
   "jp": "あは、アハハハハ…",
-  "en": null,
+  "en": "Aha, ahahaha...",
   "slots": [
    "63B610"
   ]
@@ -715,7 +715,7 @@
  {
   "id": "23CC48",
   "jp": "おい、そこの女。\nお前はエディルレイドだな。",
-  "en": null,
+  "en": "Hey, you there, girl. You're an Edel Raid, aren't you?",
   "slots": [
    "63B634"
   ]
@@ -723,7 +723,7 @@
  {
   "id": "23CC30",
   "jp": "レン、俺のうしろに。",
-  "en": null,
+  "en": "Ren, get behind me.",
   "slots": [
    "63B658"
   ]
@@ -731,7 +731,7 @@
  {
   "id": "23CC24",
   "jp": "誰だお前！",
-  "en": null,
+  "en": "Who the heck are you!",
   "slots": [
    "63B67C"
   ]
@@ -739,7 +739,7 @@
  {
   "id": "23CC08",
   "jp": "エディルレイドを回収する。",
-  "en": null,
+  "en": "We are here to collect the Edel Raid.",
   "slots": [
    "63B6A0"
   ]
@@ -747,7 +747,7 @@
  {
   "id": "23CBC0",
   "jp": "わけわかんねぇこと\n言ってんじゃねーよ。\n人ちがいいじゃないのか！？",
-  "en": null,
+  "en": "Quit talking nonsense! You've got the wrong person, haven't you?!",
   "slots": [
    "63B6C4"
   ]
@@ -755,7 +755,7 @@
  {
   "id": "23CBB4",
   "jp": "おろかな。",
-  "en": null,
+  "en": "Foolish.",
   "slots": [
    "63B6E8"
   ]
@@ -763,7 +763,7 @@
  {
   "id": "23CB80",
   "jp": "かくそうとしても、\nわれわれは、知っているのだよ。",
-  "en": null,
+  "en": "Hide it all you like. We already know.",
   "slots": [
    "63B70C"
   ]
@@ -771,7 +771,7 @@
  {
   "id": "23CB74",
   "jp": "いいかね？",
-  "en": null,
+  "en": "Now, listen.",
   "slots": [
    "63B730"
   ]
@@ -779,7 +779,7 @@
  {
   "id": "23CB2C",
   "jp": "人とエディルレイドが\n共にすごしていられる明日など\nありはしないのだ。",
-  "en": null,
+  "en": "There is no tomorrow in which humans and Edel Raids can spend their days together.",
   "slots": [
    "63B754"
   ]
@@ -787,7 +787,7 @@
  {
   "id": "23CB00",
   "jp": "われわれが正しい道へ\nみちびいてやろう。",
-  "en": null,
+  "en": "We shall guide you onto the right path.",
   "slots": [
    "63B778"
   ]
@@ -795,7 +795,7 @@
  {
   "id": "23CAB4",
   "jp": "こいつら何人いるんだ…\nみんなへんなかっこう\nしやがってあやしすぎるぜ。",
-  "en": null,
+  "en": "How many of these guys are there...? They're all dressed so weird. Way too suspicious.",
   "slots": [
    "63B79C"
   ]
@@ -803,7 +803,7 @@
  {
   "id": "23CA9C",
   "jp": "待てよ、あのかっこう…",
-  "en": null,
+  "en": "Wait, those clothes...",
   "slots": [
    "63B7C0"
   ]
@@ -811,7 +811,7 @@
  {
   "id": "23CA5C",
   "jp": "はね橋で声をかけてきたヤツと\n同じじゃねーかー。\nまずった！",
-  "en": null,
+  "en": "That's just like the guy who talked to us at the drawbridge! I blew it!",
   "slots": [
    "63B7E4"
   ]
@@ -819,7 +819,7 @@
  {
   "id": "23CA48",
   "jp": "クー…どうしよう。",
-  "en": null,
+  "en": "Cou... what do we do?",
   "slots": [
    "63B808"
   ]
@@ -827,7 +827,7 @@
  {
   "id": "23CA10",
   "jp": "リアクトしてやつらを\nけちらそう。\n俺たちならやれる！",
-  "en": null,
+  "en": "Let's React and scatter 'em. We can do this!",
   "slots": [
    "63B82C"
   ]
@@ -835,7 +835,7 @@
  {
   "id": "23C9DC",
   "jp": "『あかかるこころ\n　かぜをまといて　ちぎりこん』",
-  "en": null,
+  "en": "\"Bright heart, wrapped in wind, let us pledge.\"",
   "slots": [
    "63B874"
   ]
@@ -843,7 +843,7 @@
  {
   "id": "23C9AC",
   "jp": "ほらほら！　どっからでも\nかかって来やがれ！",
-  "en": null,
+  "en": "C'mon, c'mon! Come at me from any direction!",
   "slots": [
    "63B898"
   ]
@@ -851,7 +851,7 @@
  {
   "id": "23C978",
   "jp": "これをきいてもそうやって\nいきがっていられるかな？",
-  "en": null,
+  "en": "Will you still be so cocky after hearing this?",
   "slots": [
    "63B8BC"
   ]
@@ -859,7 +859,7 @@
  {
   "id": "23C954",
   "jp": "忘却の謳…\n『ナスカムメモリア』",
-  "en": null,
+  "en": "The song of oblivion... \"Nascam Memoria.\"",
   "slots": [
    "63B8E0"
   ]
@@ -867,7 +867,7 @@
  {
   "id": "23C920",
   "jp": "謳…？　まさかコイツ\nエディルレイドがいるのか！？",
-  "en": null,
+  "en": "A song...? Don't tell me this guy has an Edel Raid?!",
   "slots": [
    "63B904"
   ]
@@ -875,7 +875,7 @@
  {
   "id": "23C8E4",
   "jp": "何の謳…かは知らねェけど\nそっちが来ないなら\nこっちから！",
-  "en": null,
+  "en": "I dunno what song that is, but if you won't come at me, I'm coming at you!",
   "slots": [
    "63B928"
   ]
@@ -883,7 +883,7 @@
  {
   "id": "23C8D4",
   "jp": "クー、ダメ！！",
-  "en": null,
+  "en": "Cou, no!!",
   "slots": [
    "63B94C"
   ]
@@ -891,7 +891,7 @@
  {
   "id": "23C8B4",
   "jp": "何ッ！\nリアクトが…とけた。",
-  "en": null,
+  "en": "What?! Our React... it came undone.",
   "slots": [
    "63B970"
   ]
@@ -899,7 +899,7 @@
  {
   "id": "23C898",
   "jp": "レン。もっかいリアクトだ！",
-  "en": null,
+  "en": "Ren. Let's React again!",
   "slots": [
    "63B994"
   ]
@@ -907,7 +907,7 @@
  {
   "id": "23C87C",
   "jp": "『あかかる　こ…こころ…』",
-  "en": null,
+  "en": "\"Bright... h-heart...\"",
   "slots": [
    "63B9B8"
   ]
@@ -915,7 +915,7 @@
  {
   "id": "23C860",
   "jp": "『……か……かぜ…………』",
-  "en": null,
+  "en": "\"...w...wind......\"",
   "slots": [
    "63B9DC"
   ]
@@ -923,7 +923,7 @@
  {
   "id": "23C854",
   "jp": "……あれ？",
-  "en": null,
+  "en": "...Huh?",
   "slots": [
    "63BA00"
   ]
@@ -931,7 +931,7 @@
  {
   "id": "23C84C",
   "jp": "レン？",
-  "en": null,
+  "en": "Ren?",
   "slots": [
    "63BA24"
   ]
@@ -939,7 +939,7 @@
  {
   "id": "23C810",
   "jp": "どうしよう…\n謳をうたおうとすると\n謳がどっか消えちゃう。",
-  "en": null,
+  "en": "What do I do... When I try to sing my song, it just disappears somewhere.",
   "slots": [
    "63BA48"
   ]
@@ -947,7 +947,7 @@
  {
   "id": "23C800",
   "jp": "何だって！？",
-  "en": null,
+  "en": "What?!",
   "slots": [
    "63BA6C"
   ]
@@ -955,7 +955,7 @@
  {
   "id": "23C7DC",
   "jp": "…さっきの…謳のせいか？\nくそッ！",
-  "en": null,
+  "en": "...Was it... that song just now? Damn it!",
   "slots": [
    "63BAB4"
   ]
@@ -963,7 +963,7 @@
  {
   "id": "23C7B4",
   "jp": "お前たちはリアクト\nできなくなった。",
-  "en": null,
+  "en": "You can no longer React.",
   "slots": [
    "63BAD8"
   ]
@@ -971,7 +971,7 @@
  {
   "id": "23C774",
   "jp": "リアクトできない\nエディルレイドなど\n武器としても使えない。",
-  "en": null,
+  "en": "An Edel Raid that cannot React is useless, even as a weapon.",
   "slots": [
    "63BAFC"
   ]
@@ -979,7 +979,7 @@
  {
   "id": "23C758",
   "jp": "さあ、おとなしくわたせ！",
-  "en": null,
+  "en": "Now, hand her over quietly!",
   "slots": [
    "63BB20"
   ]
@@ -987,7 +987,7 @@
  {
   "id": "23CED8",
   "jp": "はぁ～い、みなさぁ～ん。",
-  "en": null,
+  "en": "Hello~, everyone~!",
   "slots": [
    "63BB68"
   ]
@@ -995,7 +995,7 @@
  {
   "id": "23CEC4",
   "jp": "そういうわけで、",
-  "en": null,
+  "en": "And so,",
   "slots": [
    "63BB8C"
   ]
@@ -1003,7 +1003,7 @@
  {
   "id": "23CE78",
   "jp": "エレメンタルジェレイドの\nゲームボーイアドバンス用\nゲームソフトが出ます！",
-  "en": null,
+  "en": "an Erementar Gerad game is coming out for the Game Boy Advance!",
   "slots": [
    "63BBB0"
   ]
@@ -1011,7 +1011,7 @@
  {
   "id": "23CE30",
   "jp": "この私の手にかかれば\nどんなむずかしい事件も\nあっという間にカイケツ。",
-  "en": null,
+  "en": "In my capable hands, even the toughest case gets solved in no time.",
   "slots": [
    "63BBD4"
   ]
@@ -1019,7 +1019,7 @@
  {
   "id": "23CDEC",
   "jp": "そんな私をたっぷり見て\nいただける、ステキな\n一本になってます。",
-  "en": null,
+  "en": "It's a lovely game where you'll get to see plenty of me!",
   "slots": [
    "63BBF8"
   ]
@@ -1027,7 +1027,7 @@
  {
   "id": "23CDC4",
   "jp": "買って下さらないという\nお客サマには…",
-  "en": null,
+  "en": "And as for any customers who won't buy it...",
   "slots": [
    "63BC1C"
   ]
@@ -1035,7 +1035,7 @@
  {
   "id": "23CDB0",
   "jp": "ぶりょくこうし～！",
-  "en": null,
+  "en": "Armed force~!",
   "slots": [
    "63BC40"
   ]
@@ -1043,7 +1043,7 @@
  {
   "id": "23CDA0",
   "jp": "ですからね。",
-  "en": null,
+  "en": "Just so you know.",
   "slots": [
    "63BC64"
   ]
@@ -1051,7 +1051,7 @@
  {
   "id": "23CD8C",
   "jp": "…あの…先輩…？",
-  "en": null,
+  "en": "...Um... Senpai...?",
   "slots": [
    "63BC88"
   ]
@@ -1059,7 +1059,7 @@
  {
   "id": "23CD58",
   "jp": "お客さまに武器をむけるのは\nどうかと思うんですが…",
-  "en": null,
+  "en": "I don't think pointing weapons at customers is such a good idea...",
   "slots": [
    "63BCAC"
   ]
@@ -1067,7 +1067,7 @@
  {
   "id": "23CD4C",
   "jp": "…先輩？…",
-  "en": null,
+  "en": "...Senpai?...",
   "slots": [
    "63BCF4"
   ]
@@ -1075,7 +1075,7 @@
  {
   "id": "23CD40",
   "jp": "オダマリ…",
-  "en": null,
+  "en": "Hush...",
   "slots": [
    "63BD18"
   ]
@@ -1083,7 +1083,7 @@
  {
   "id": "23CD30",
   "jp": "…は、はい…",
-  "en": null,
+  "en": "...Y-yes...",
   "slots": [
    "63BD3C"
   ]
@@ -1091,7 +1091,7 @@
  {
   "id": "23CD00",
   "jp": "それでは、みなさん。\nよろしくお願いしますね。",
-  "en": null,
+  "en": "Well then, everyone. We look forward to your support!",
   "slots": [
    "63BD60"
   ]
@@ -1099,7 +1099,7 @@
  {
   "id": "23CCE8",
   "jp": "よろしくお願いします…",
-  "en": null,
+  "en": "We look forward to your support...",
   "slots": [
    "63BD84"
   ]
@@ -1107,7 +1107,7 @@
  {
   "id": "23CF44",
   "jp": "ショー用イベント0",
-  "en": null,
+  "en": "Show Event 0",
   "slots": [
    "63BF10"
   ]
@@ -1115,7 +1115,7 @@
  {
   "id": "23CF30",
   "jp": "ショー用イベント1",
-  "en": null,
+  "en": "Show Event 1",
   "slots": [
    "63BF14"
   ]
@@ -1123,7 +1123,7 @@
  {
   "id": "23CF1C",
   "jp": "ショー用イベント2",
-  "en": null,
+  "en": "Show Event 2",
   "slots": [
    "63BF18"
   ]
@@ -1131,7 +1131,7 @@
  {
   "id": "23CF08",
   "jp": "ショー用イベント3",
-  "en": null,
+  "en": "Show Event 3",
   "slots": [
    "63BF1C"
   ]
@@ -1139,7 +1139,7 @@
  {
   "id": "23CEF4",
   "jp": "ショー用イベント4",
-  "en": null,
+  "en": "Show Event 4",
   "slots": [
    "63BF20"
   ]

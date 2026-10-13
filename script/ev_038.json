@@ -2,7 +2,7 @@
  {
   "id": "237458",
   "jp": "この街でカードを使って\nお金をはらっていないことに\nなりました。",
-  "en": null,
+  "en": "so it has been decided that you never paid for anything in this town with a card.",
   "slots": [
    "635184"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "23744C",
   "jp": "…ハイ？",
-  "en": null,
+  "en": "...Pardon?",
   "slots": [
    "6351A8"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "2373FC",
   "jp": "今回の事件を、本部に報告\nしないかわりに、この街には\nあなたたちは来ていない。",
-  "en": null,
+  "en": "In exchange for not reporting this incident to headquarters, you never came to this town.",
   "slots": [
    "6351CC"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "2373B0",
   "jp": "来ていない人たちが使ったお金を\nアークエイルがはらえる\nわけがありません。",
-  "en": null,
+  "en": "Arc Aile can hardly pay for money spent by people who never came.",
   "slots": [
    "6351F0"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "23735C",
   "jp": "先ほど、その商人とも話を\nしましたが、商人の店から買った\nアイテムの代金をふくめ",
-  "en": null,
+  "en": "I spoke with that merchant earlier as well. Including the cost of the items you bought from his shop,",
   "slots": [
    "635214"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "237304",
   "jp": "宿代、食事代、そのほか\nこわした施設にかかった代金など\nそれらをまとめてはらうように。",
-  "en": null,
+  "en": "your lodging, your meals, the cost of the facilities you damaged and so on, you are to pay it all in full.",
   "slots": [
    "635238"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "2372D8",
   "jp": "それまでは、この街から\n出ないで下さい。",
-  "en": null,
+  "en": "Until then, please do not leave this town.",
   "slots": [
    "63525C"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "2372D0",
   "jp": "では。",
-  "en": null,
+  "en": "Good day.",
   "slots": [
    "635280"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "2372C4",
   "jp": "え？　え？",
-  "en": null,
+  "en": "Huh? What?",
   "slots": [
    "6352C8"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "2372B0",
   "jp": "何の話…ですか？",
-  "en": null,
+  "en": "What is... going on?",
   "slots": [
    "6352EC"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "237278",
   "jp": "僕たちは、借金をかえすまで\nこの街から出てはいけない。",
-  "en": null,
+  "en": "We aren't allowed to leave this town until we pay back the debt.",
   "slots": [
    "635310"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "237260",
   "jp": "そういうことですね。",
-  "en": null,
+  "en": "That's what it comes down to, isn't it?",
   "slots": [
    "635334"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "237250",
   "jp": "なぜですッ！？",
-  "en": null,
+  "en": "But why?!",
   "slots": [
    "635358"
   ]
@@ -106,7 +106,7 @@
  {
   "id": "23720C",
   "jp": "商人さんから買った\nアイテム代だけじゃなく、\n宿代も、食事代も…",
-  "en": null,
+  "en": "Not just the items we bought from Mister Merchant, but the lodging and the meals too...",
   "slots": [
    "63537C"
   ]
@@ -114,7 +114,7 @@
  {
   "id": "2371D4",
   "jp": "こわれた施設にかかった\n代金ってどういうことですか！",
-  "en": null,
+  "en": "And what's this about the cost of damaged facilities?!",
   "slots": [
    "6353A0"
   ]
@@ -122,7 +122,7 @@
  {
   "id": "237184",
   "jp": "おそらく、事件がなかったことに\nなったから、黒集団も\nいなかったことになって…",
-  "en": null,
+  "en": "Probably, since the incident officially never happened, the Black Group never existed either, and",
   "slots": [
    "6353C4"
   ]
@@ -130,7 +130,7 @@
  {
   "id": "237158",
   "jp": "われわれにまわってきたんじゃ\nないかと…",
-  "en": null,
+  "en": "the bill got passed on to us, I'd guess...",
   "slots": [
    "6353E8"
   ]
@@ -138,7 +138,7 @@
  {
   "id": "237130",
   "jp": "街の中で、けっこう\n戦いましたからね。",
-  "en": null,
+  "en": "We did do quite a lot of fighting in town, after all.",
   "slots": [
    "63540C"
   ]
@@ -146,7 +146,7 @@
  {
   "id": "237124",
   "jp": "そんな…",
-  "en": null,
+  "en": "No way...",
   "slots": [
    "635430"
   ]
@@ -154,7 +154,7 @@
  {
   "id": "237104",
   "jp": "がんばって\nかえしたってな～。",
-  "en": null,
+  "en": "Good luck payin' it back~!",
   "slots": [
    "635454"
   ]
@@ -162,7 +162,7 @@
  {
   "id": "2370D4",
   "jp": "…何が…がんばって\nかえしたってな～ですか！！",
-  "en": null,
+  "en": "...What do you mean, \"good luck payin' it back~\"?!",
   "slots": [
    "635478"
   ]
@@ -170,7 +170,7 @@
  {
   "id": "237098",
   "jp": "事件がなかったことになれば\n私のサテイは、何もかわらない。",
-  "en": null,
+  "en": "If the incident never happened, my performance review doesn't change one bit.",
   "slots": [
    "63549C"
   ]
@@ -178,7 +178,7 @@
  {
   "id": "23705C",
   "jp": "これだけの手がらをあげておいて\n１ガネーのボーナスも無い！",
-  "en": null,
+  "en": "After an achievement like this, not even a 1 Ganee bonus!",
   "slots": [
    "6354C0"
   ]
@@ -186,7 +186,7 @@
  {
   "id": "237038",
   "jp": "…このイカリのやり場を…\nどこに…",
-  "en": null,
+  "en": "...Where am I supposed to... vent this fury...",
   "slots": [
    "6354E4"
   ]
@@ -194,7 +194,7 @@
  {
   "id": "237018",
   "jp": "そ、そんじゃ、後はまかせたで。",
-  "en": null,
+  "en": "W-well then, I'll leave the rest to you folks.",
   "slots": [
    "635508"
   ]
@@ -202,7 +202,7 @@
  {
   "id": "237000",
   "jp": "オレは、関係無いし…",
-  "en": null,
+  "en": "I ain't got nothin' to do with it...",
   "slots": [
    "63552C"
   ]
@@ -210,7 +210,7 @@
  {
   "id": "236FCC",
   "jp": "自分だけ…楽になろうったって\nそうはいきませんよ！",
-  "en": null,
+  "en": "Don't think you can just... get off scot-free all by yourself!",
   "slots": [
    "635550"
   ]
@@ -218,7 +218,7 @@
  {
   "id": "236FC0",
   "jp": "ヒーッ！！",
-  "en": null,
+  "en": "Eeek!!",
   "slots": [
    "635574"
   ]
@@ -226,7 +226,7 @@
  {
   "id": "236FB0",
   "jp": "お助け～ッ！",
-  "en": null,
+  "en": "Somebody help me~!",
   "slots": [
    "635598"
   ]
@@ -234,7 +234,7 @@
  {
   "id": "236F9C",
   "jp": "逃がしませんッ！！",
-  "en": null,
+  "en": "You won't get away!!",
   "slots": [
    "6355E0"
   ]
@@ -242,7 +242,7 @@
  {
   "id": "236F80",
   "jp": "先輩は、今日も元気そうだ。",
-  "en": null,
+  "en": "Senpai seems as lively as ever today.",
   "slots": [
    "635628"
   ]
@@ -250,7 +250,7 @@
  {
   "id": "236F50",
   "jp": "そうね。\n朝ごはんがおいしかった\nせいかしら？",
-  "en": null,
+  "en": "Yeah. Maybe because breakfast was so tasty?",
   "slots": [
    "63564C"
   ]
@@ -258,7 +258,7 @@
  {
   "id": "236F1C",
   "jp": "あの…おいかけなくても…\n大丈夫なんでしょうか…",
-  "en": null,
+  "en": "Um... is it really all right... not to go after them...?",
   "slots": [
    "635670"
   ]
@@ -266,7 +266,7 @@
  {
   "id": "236EF8",
   "jp": "とめた方が…\nいいかもしれないね…",
-  "en": null,
+  "en": "Maybe someone... should stop her...",
   "slots": [
    "635694"
   ]
@@ -274,7 +274,7 @@
  {
   "id": "236EF0",
   "jp": "クー…",
-  "en": null,
+  "en": "Cou...",
   "slots": [
    "6356B8"
   ]
@@ -282,7 +282,7 @@
  {
   "id": "236ED0",
   "jp": "まったく、世話がやけんなー。",
-  "en": null,
+  "en": "Jeez, what a handful.",
   "slots": [
    "6356DC"
   ]
@@ -290,7 +290,7 @@
  {
   "id": "236EAC",
   "jp": "おーい、シスカーッ！\n待てよー！",
-  "en": null,
+  "en": "Heyyy, Cisqua! Wait up!",
   "slots": [
    "635700"
   ]
@@ -298,7 +298,7 @@
  {
   "id": "236E9C",
   "jp": "お気をつけて…",
-  "en": null,
+  "en": "Take care...",
   "slots": [
    "63576C"
   ]
@@ -306,7 +306,7 @@
  {
   "id": "238AFC",
   "jp": "まだしばらく、街にいるんなら\n毎日でもツリに出とるから\nいっしょにやろうな。",
-  "en": null,
+  "en": "If you're staying in town a while yet, I'm out fishing every day, so come fish with me.",
   "slots": [
    "6357D8"
   ]
@@ -314,7 +314,7 @@
  {
   "id": "238AD4",
   "jp": "おいしいごはん、\n作って待っとくよ。",
-  "en": null,
+  "en": "I'll have a tasty meal made and waiting for you.",
   "slots": [
    "6357FC"
   ]
@@ -322,7 +322,7 @@
  {
   "id": "238B84",
   "jp": "あたしの歌、\nきいてくれるかい？",
-  "en": null,
+  "en": "Will you listen to my song?",
   "slots": [
    "635844"
   ]
@@ -330,7 +330,7 @@
  {
   "id": "238B4C",
   "jp": "うまくうたえるか心配だけど\n時間があったら、たのむよ。",
-  "en": null,
+  "en": "I'm worried I won't sing it well, but if you have time, please come.",
   "slots": [
    "635868"
   ]
@@ -338,7 +338,7 @@
  {
   "id": "238BC4",
   "jp": "母ちゃんが元気になったから\nまたいっしょに店に\n出ることになってん。",
-  "en": null,
+  "en": "Now that my ma's feelin' better, we're gonna run the shop together again.",
   "slots": [
    "6358B0"
   ]
@@ -346,7 +346,7 @@
  {
   "id": "238BA8",
   "jp": "へへ。\nやっぱうれしいわ。",
-  "en": null,
+  "en": "Heh heh. Gotta say, I'm real happy.",
   "slots": [
    "6358D4"
   ]
@@ -354,7 +354,7 @@
  {
   "id": "238C50",
   "jp": "今回のことで、私も\nいろいろ考えさせられました。",
-  "en": null,
+  "en": "This whole affair gave me a lot to think about as well.",
   "slots": [
    "63591C"
   ]
@@ -362,7 +362,7 @@
  {
   "id": "238C0C",
   "jp": "また、ちがったかたちで\nいっしょに仕事ができればと\n思っています。",
-  "en": null,
+  "en": "I hope we can work together again someday, in a different way.",
   "slots": [
    "635940"
   ]
@@ -370,7 +370,7 @@
  {
   "id": "238CD0",
   "jp": "これから、やらなければならない\nことが、たくさんあるけれど\n今は…とても幸せだ。",
-  "en": null,
+  "en": "There's a lot we have to do from here on, but right now... I'm very happy.",
   "slots": [
    "635988"
   ]
@@ -378,7 +378,7 @@
  {
   "id": "238C84",
   "jp": "今度、教会でコンサートを\n開こうと思っているの。\nぜひ見に来て下さいね。",
-  "en": null,
+  "en": "I'm thinking of holding a concert at the church soon. Please come and see it.",
   "slots": [
    "6359AC"
   ]
@@ -386,7 +386,7 @@
  {
   "id": "238D88",
   "jp": "ねぇねぇ、ヴォル君。\n『ブレイブスアルカ』って\n『小さな箱』ってイミなのヨ！",
-  "en": null,
+  "en": "Hey, hey, Vol-kun. \"Braves Arca\" means \"little box,\" you know!",
   "slots": [
    "6359F4"
   ]
@@ -394,7 +394,7 @@
  {
   "id": "238D7C",
   "jp": "知ってた？",
-  "en": null,
+  "en": "Did you know that?",
   "slots": [
    "635A18"
   ]
@@ -402,7 +402,7 @@
  {
   "id": "238D50",
   "jp": "小さな箱…\nあの『音の鳴る箱』のことか。",
-  "en": null,
+  "en": "A little box... You mean that \"music box\"?",
   "slots": [
    "635A3C"
   ]
@@ -410,7 +410,7 @@
  {
   "id": "238D38",
   "jp": "下らんな。\n行くぞ。",
-  "en": null,
+  "en": "Pointless. Let's go.",
   "slots": [
    "635A60"
   ]
@@ -418,7 +418,7 @@
  {
   "id": "238D24",
   "jp": "ああ、待って～ッ！",
-  "en": null,
+  "en": "Ah, wait for me~!",
   "slots": [
    "635A84"
   ]
@@ -558,7 +558,7 @@
  {
   "id": "2393BC",
   "jp": "で…",
-  "en": null,
+  "en": "So...",
   "slots": [
    "635B14"
   ]
@@ -566,7 +566,7 @@
  {
   "id": "23937C",
   "jp": "われわれは、いつの間にか\nかかえてしまった借金を\nかえすまでは",
-  "en": null,
+  "en": "until we pay back this debt we somehow got saddled with,",
   "slots": [
    "635B38"
   ]
@@ -574,7 +574,7 @@
  {
   "id": "239344",
   "jp": "このままこの街にいなければ\nならないってことですか…",
-  "en": null,
+  "en": "we have to stay right here in this town, is that it...?",
   "slots": [
    "635B5C"
   ]
@@ -582,7 +582,7 @@
  {
   "id": "239330",
   "jp": "そ、そうですねん…",
-  "en": null,
+  "en": "Th-that's about the size of it...",
   "slots": [
    "635B80"
   ]
@@ -590,7 +590,7 @@
  {
   "id": "2392FC",
   "jp": "それで、どうやって借金を\nかえせと言うんですか？",
-  "en": null,
+  "en": "And how exactly are we supposed to pay it back?",
   "slots": [
    "635BA4"
   ]
@@ -598,7 +598,7 @@
  {
   "id": "2392F0",
   "jp": "それは…",
-  "en": null,
+  "en": "Well...",
   "slots": [
    "635BC8"
   ]
@@ -606,7 +606,7 @@
  {
   "id": "2392C4",
   "jp": "ほら！　この街には\n闘技場がありますやん！",
-  "en": null,
+  "en": "Look! This town's got an arena, ain't it!",
   "slots": [
    "635BEC"
   ]
@@ -614,7 +614,7 @@
  {
   "id": "23928C",
   "jp": "あそこのバトルでお金を\nかせいだら…ええんちゃうかな？",
-  "en": null,
+  "en": "If ya earn some money in the battles there... wouldn't that work?",
   "slots": [
    "635C10"
   ]
@@ -622,7 +622,7 @@
  {
   "id": "239248",
   "jp": "闘技場は、今日から\n再開してるみたいですから\n問題なさそうですね。",
-  "en": null,
+  "en": "The arena seems to have reopened as of today, so that shouldn't be a problem.",
   "slots": [
    "635C34"
   ]
@@ -630,7 +630,7 @@
  {
   "id": "23922C",
   "jp": "問題あるとか…ないとか…",
-  "en": null,
+  "en": "A problem... or no problem...",
   "slots": [
    "635C58"
   ]
@@ -638,7 +638,7 @@
  {
   "id": "239204",
   "jp": "そういう問題では\nないんですけどね。",
-  "en": null,
+  "en": "That's not really the problem, though.",
   "slots": [
    "635C7C"
   ]
@@ -646,7 +646,7 @@
  {
   "id": "2391EC",
   "jp": "ま、いいんじゃないの？",
-  "en": null,
+  "en": "Well, what's the harm?",
   "slots": [
    "635CA0"
   ]
@@ -654,7 +654,7 @@
  {
   "id": "2391C4",
   "jp": "そんなたいした借金でも\nないんでしょ？",
-  "en": null,
+  "en": "It's not that big a debt anyway, right?",
   "slots": [
    "635CC4"
   ]
@@ -662,7 +662,7 @@
  {
   "id": "23918C",
   "jp": "借金は『ステータス』で\n確認できるようになってるし、",
-  "en": null,
+  "en": "You can check the debt under \"Status,\"",
   "slots": [
    "635CE8"
   ]
@@ -670,7 +670,7 @@
  {
   "id": "239150",
   "jp": "借金がなくなったら\nアークエイル支部まで\n行ったってな。",
-  "en": null,
+  "en": "and once it's gone, head on over to the Arc Aile branch.",
   "slots": [
    "635D0C"
   ]
@@ -678,7 +678,7 @@
  {
   "id": "239138",
   "jp": "『ステータス』ですね。",
-  "en": null,
+  "en": "\"Status,\" got it.",
   "slots": [
    "635D30"
   ]
@@ -708,7 +708,7 @@
  {
   "id": "239124",
   "jp": "アアッ！！",
-  "en": null,
+  "en": "Aaah!!",
   "slots": [
    "635D78"
   ]
@@ -716,7 +716,7 @@
  {
   "id": "2390DC",
   "jp": "闘技場で戦うってことは\nアイテムを使うかもしれない\nじゃないですか！？",
-  "en": null,
+  "en": "Fighting in the arena means we might use items, doesn't it?!",
   "slots": [
    "635D9C"
   ]
@@ -724,7 +724,7 @@
  {
   "id": "2390D4",
   "jp": "何？",
-  "en": null,
+  "en": "What?",
   "slots": [
    "635DC0",
    "636120"
@@ -733,7 +733,7 @@
  {
   "id": "2390B4",
   "jp": "アイテム使ったら\nマズイのか？",
-  "en": null,
+  "en": "Is using items bad?",
   "slots": [
    "635DE4"
   ]
@@ -741,7 +741,7 @@
  {
   "id": "23906C",
   "jp": "使ったらマズイんじゃなく\n使ってへったアイテムを\n買うと、借金が、ね。",
-  "en": null,
+  "en": "Using them isn't the problem. But if we buy items to replace the ones we used up, the debt, well...",
   "slots": [
    "635E08"
   ]
@@ -749,7 +749,7 @@
  {
   "id": "239050",
   "jp": "…ふえるから、へらない…",
-  "en": null,
+  "en": "...goes up, so it doesn't go down...",
   "slots": [
    "635E2C"
   ]
@@ -757,7 +757,7 @@
  {
   "id": "23903C",
   "jp": "ああ…なるほど。",
-  "en": null,
+  "en": "Ah... I get it.",
   "slots": [
    "635E50"
   ]
@@ -765,7 +765,7 @@
  {
   "id": "238FF4",
   "jp": "そうやって、私たちから\nどんどんガネーを\nせしめるのが目的ですかっ！？",
-  "en": null,
+  "en": "So your goal is to keep squeezing more and more Ganee out of us like that?!",
   "slots": [
    "635E74"
   ]
@@ -773,7 +773,7 @@
  {
   "id": "238FD4",
   "jp": "そ、そんなんと\nちがうって！",
-  "en": null,
+  "en": "Th-that ain't it at all!",
   "slots": [
    "635E98"
   ]
@@ -781,7 +781,7 @@
  {
   "id": "238F8C",
   "jp": "これから買うアイテムは\nアークエイル支部から\n出してくれるみたいやし",
-  "en": null,
+  "en": "Seems the Arc Aile branch'll be payin' for any items ya buy from here on,",
   "slots": [
    "635EBC"
   ]
@@ -789,7 +789,7 @@
  {
   "id": "238F68",
   "jp": "気にせんかったら\nエエと思うで。",
-  "en": null,
+  "en": "so I don't think ya need to worry about it.",
   "slots": [
    "635EE0"
   ]
@@ -797,7 +797,7 @@
  {
   "id": "238F60",
   "jp": "はい？",
-  "en": null,
+  "en": "Pardon?",
   "slots": [
    "635F04",
    "639210"
@@ -806,7 +806,7 @@
  {
   "id": "238F44",
   "jp": "どうして、アークエイルが…",
-  "en": null,
+  "en": "Why would Arc Aile...",
   "slots": [
    "635F28"
   ]
@@ -814,7 +814,7 @@
  {
   "id": "238EF8",
   "jp": "『再開した闘技場バトルへの\n　参加者が少ないため、\n　参加願いを出した者』",
-  "en": null,
+  "en": "\"Persons invited to take part, owing to the low number of entrants in the reopened arena battles.\"",
   "slots": [
    "635F4C"
   ]
@@ -822,7 +822,7 @@
  {
   "id": "238EB8",
   "jp": "あんたらは、今回、\nちょっとしたゲストみたいな\nもんやねん。",
-  "en": null,
+  "en": "This time, you folks are kinda like special guests.",
   "slots": [
    "635F70"
   ]
@@ -830,7 +830,7 @@
  {
   "id": "238E7C",
   "jp": "せやから、その間に買った\nアイテムは、お金はいらへんで。",
-  "en": null,
+  "en": "So any items ya buy in the meantime don't cost a thing.",
   "slots": [
    "635F94"
   ]
@@ -838,7 +838,7 @@
  {
   "id": "238E74",
   "jp": "へぇ。",
-  "en": null,
+  "en": "Huh.",
   "slots": [
    "635FB8"
   ]
@@ -846,7 +846,7 @@
  {
   "id": "238E44",
   "jp": "じゃ、気にせず買えるなぁ。\nよかったんじゃね？",
-  "en": null,
+  "en": "Then we can buy stuff without worrying. Pretty good deal, huh?",
   "slots": [
    "635FDC"
   ]
@@ -854,7 +854,7 @@
  {
   "id": "238E34",
   "jp": "そうですね…",
-  "en": null,
+  "en": "I suppose so...",
   "slots": [
    "636000"
   ]
@@ -862,7 +862,7 @@
  {
   "id": "238DFC",
   "jp": "では、ちゃっちゃとおわらせて\n旅を再開させましょう。",
-  "en": null,
+  "en": "Well then, let's wrap this up in a jiffy and get back on the road.",
   "slots": [
    "636024"
   ]
@@ -870,7 +870,7 @@
  {
   "id": "238DDC",
   "jp": "よっしゃ。\nやってやろうぜ！",
-  "en": null,
+  "en": "All right! Let's do this!",
   "slots": [
    "636048"
   ]
@@ -878,7 +878,7 @@
  {
   "id": "23AF70",
   "jp": "はぁ～。",
-  "en": null,
+  "en": "Whew...",
   "slots": [
    "636090"
   ]
@@ -886,7 +886,7 @@
  {
   "id": "23AF3C",
   "jp": "この街に来て、あんな事件に\nまきこまれるなんてな…",
-  "en": null,
+  "en": "Coming to this town and getting dragged into a mess like that...",
   "slots": [
    "6360B4"
   ]
@@ -894,7 +894,7 @@
  {
   "id": "23AF24",
   "jp": "考えてもみなかったぜ。",
-  "en": null,
+  "en": "I never would've imagined.",
   "slots": [
    "6360D8"
   ]
@@ -902,7 +902,7 @@
  {
   "id": "23AF14",
   "jp": "ねぇ、クー。",
-  "en": null,
+  "en": "Hey, Cou.",
   "slots": [
    "6360FC"
   ]
@@ -910,7 +910,7 @@
  {
   "id": "23AEF0",
   "jp": "エンダとカールセンは\n幸せかしら。",
-  "en": null,
+  "en": "Do you think Enda and Carlsen are happy?",
   "slots": [
    "636144"
   ]
@@ -918,7 +918,7 @@
  {
   "id": "23AED0",
   "jp": "あ…うん。\n幸せだと思うぜ。",
-  "en": null,
+  "en": "Oh... yeah. I think they're happy.",
   "slots": [
    "636168"
   ]
@@ -926,7 +926,7 @@
  {
   "id": "23AE90",
   "jp": "好きな相手といっしょに\nいられるってのは\n幸せってことだろ？",
-  "en": null,
+  "en": "Getting to be with the one you love, that's what being happy means, right?",
   "slots": [
    "63618C"
   ]
@@ -934,7 +934,7 @@
  {
   "id": "23AE84",
   "jp": "クーは？",
-  "en": null,
+  "en": "What about you, Cou?",
   "slots": [
    "6361B0"
   ]
@@ -942,7 +942,7 @@
  {
   "id": "23AE74",
   "jp": "へ！？　俺？",
-  "en": null,
+  "en": "Huh?! Me?",
   "slots": [
    "6361D4"
   ]
@@ -950,7 +950,7 @@
  {
   "id": "23AE60",
   "jp": "好きな人は、いる？",
-  "en": null,
+  "en": "Is there someone you love?",
   "slots": [
    "6361F8"
   ]
@@ -958,7 +958,7 @@
  {
   "id": "23AE50",
   "jp": "どうだろうな。",
-  "en": null,
+  "en": "Who knows.",
   "slots": [
    "636240"
   ]
@@ -966,7 +966,7 @@
  {
   "id": "23AE48",
   "jp": "そ。",
-  "en": null,
+  "en": "Okay.",
   "slots": [
    "636264"
   ]
@@ -974,7 +974,7 @@
  {
   "id": "23AE34",
   "jp": "好きな人、ねェ。",
-  "en": null,
+  "en": "Someone I love, huh.",
   "slots": [
    "6362AC"
   ]
@@ -982,7 +982,7 @@
  {
   "id": "23AE2C",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "6362F4",
    "6363CC",
@@ -1015,7 +1015,7 @@
  {
   "id": "23ADFC",
   "jp": "借金さえかえせば、\nこの街ともオサラバだな。",
-  "en": null,
+  "en": "Once we pay off the debt, we can say goodbye to this town.",
   "slots": [
    "636384"
   ]
@@ -1023,7 +1023,7 @@
  {
   "id": "23ADEC",
   "jp": "ごくろうさま。",
-  "en": null,
+  "en": "Good work.",
   "slots": [
    "6364A4"
   ]
@@ -1031,7 +1031,7 @@
  {
   "id": "23ADC0",
   "jp": "いかがですか？\n借金はなくなりそうですか？",
-  "en": null,
+  "en": "How is it going? Does it look like the debt will be cleared?",
   "slots": [
    "6364C8"
   ]
@@ -1039,7 +1039,7 @@
  {
   "id": "23ADB4",
   "jp": "は…はぁ…",
-  "en": null,
+  "en": "W-well... um...",
   "slots": [
    "6364EC"
   ]
@@ -1047,7 +1047,7 @@
  {
   "id": "23AD68",
   "jp": "のんびりやっていれば\nそのうち終わるでしょうし\nあまりおちこまないように。",
-  "en": null,
+  "en": "If you take it easy, it'll be done eventually, so try not to get too discouraged.",
   "slots": [
    "636510"
   ]
@@ -1055,7 +1055,7 @@
  {
   "id": "23AD4C",
   "jp": "あ、ありがとうございます…",
-  "en": null,
+  "en": "Th-thank you very much...",
   "slots": [
    "636534"
   ]
@@ -1063,7 +1063,7 @@
  {
   "id": "23AD40",
   "jp": "とほほ。",
-  "en": null,
+  "en": "Woe is me.",
   "slots": [
    "6365A0"
   ]
@@ -1071,7 +1071,7 @@
  {
   "id": "23AD24",
   "jp": "借金…シャッキンですか…",
-  "en": null,
+  "en": "Debt... We're actually in debt...",
   "slots": [
    "636678"
   ]
@@ -1079,7 +1079,7 @@
  {
   "id": "23AD1C",
   "jp": "さぁ！",
-  "en": null,
+  "en": "All right!",
   "slots": [
    "636750"
   ]
@@ -1087,7 +1087,7 @@
  {
   "id": "23AD08",
   "jp": "やって来ましたよ！",
-  "en": null,
+  "en": "We're here!",
   "slots": [
    "636774"
   ]
@@ -1095,7 +1095,7 @@
  {
   "id": "23ACE0",
   "jp": "今日は、ずっと橋が\nおりてるみたいね。",
-  "en": null,
+  "en": "Looks like the drawbridge is staying down all day today.",
   "slots": [
    "636798"
   ]
@@ -1103,7 +1103,7 @@
  {
   "id": "23ACD8",
   "jp": "ああ…",
-  "en": null,
+  "en": "Yeah...",
   "slots": [
    "6367BC"
   ]
@@ -1111,7 +1111,7 @@
  {
   "id": "23ACAC",
   "jp": "どうしたんだろうな。\n船が少ないのかな？",
-  "en": null,
+  "en": "Wonder what's up. Not many ships, maybe?",
   "slots": [
    "6367E0"
   ]
@@ -1119,7 +1119,7 @@
  {
   "id": "23AC78",
   "jp": "闘技場にお客さんが入るように\nあげないんじゃない？",
-  "en": null,
+  "en": "Maybe they're not raising it so customers can get to the arena?",
   "slots": [
    "636804"
   ]
@@ -1127,7 +1127,7 @@
  {
   "id": "23AC6C",
   "jp": "そっか…",
-  "en": null,
+  "en": "I see...",
   "slots": [
    "636828"
   ]
@@ -1135,7 +1135,7 @@
  {
   "id": "23AC4C",
   "jp": "橋が動いてるとこが\n見たい…",
-  "en": null,
+  "en": "I want to see the bridge move...",
   "slots": [
    "636900"
   ]
@@ -1143,7 +1143,7 @@
  {
   "id": "23AC30",
   "jp": "おお、待っとったんじゃ。",
-  "en": null,
+  "en": "Oh, I've been waiting for you.",
   "slots": [
    "6369D8"
   ]
@@ -1151,7 +1151,7 @@
  {
   "id": "23AC18",
   "jp": "さっそく、つらんかね。",
-  "en": null,
+  "en": "Ready to do some fishing right away?",
   "slots": [
    "6369FC"
   ]
@@ -1159,7 +1159,7 @@
  {
   "id": "23AC04",
   "jp": "え？　俺が、つり？",
-  "en": null,
+  "en": "Huh? Me, fishing?",
   "slots": [
    "636A20"
   ]
@@ -1167,7 +1167,7 @@
  {
   "id": "23ABF4",
   "jp": "つれるかなぁ…",
-  "en": null,
+  "en": "Wonder if I can catch anything...",
   "slots": [
    "636A44"
   ]
@@ -1175,7 +1175,7 @@
  {
   "id": "23ABAC",
   "jp": "やってみるのがイチバン。\nサオを持って、エサをつけて\nねらった場所に…",
-  "en": null,
+  "en": "Best way to learn is to give it a go. Take the rod, bait the hook, aim for a spot...",
   "slots": [
    "636A68"
   ]
@@ -1183,7 +1183,7 @@
  {
   "id": "23ABA0",
   "jp": "ホイッ。",
-  "en": null,
+  "en": "There.",
   "slots": [
    "636A8C"
   ]
@@ -1191,7 +1191,7 @@
  {
   "id": "23AB98",
   "jp": "へェ。",
-  "en": null,
+  "en": "Huh.",
   "slots": [
    "636AB0"
   ]
@@ -1199,7 +1199,7 @@
  {
   "id": "23AB78",
   "jp": "じゃあ、俺も\nやってみっかな…",
-  "en": null,
+  "en": "Guess I'll give it a shot too...",
   "slots": [
    "636AD4"
   ]
@@ -1207,7 +1207,7 @@
  {
   "id": "23AB5C",
   "jp": "どうじゃ。\nつってみんか？",
-  "en": null,
+  "en": "Well? Want to try casting?",
   "slots": [
    "636AF8"
   ]
@@ -1215,7 +1215,7 @@
  {
   "id": "23AB40",
   "jp": "おっし。\nやってやるぜ！",
-  "en": null,
+  "en": "Okay. Here goes!",
   "slots": [
    "636B1C"
   ]
@@ -1223,7 +1223,7 @@
  {
   "id": "23AB30",
   "jp": "このポイント",
-  "en": null,
+  "en": "This spot",
   "slots": [
    "636B40",
    "636B64",
@@ -1233,7 +1233,7 @@
  {
   "id": "23AB24",
   "jp": "えーっと…",
-  "en": null,
+  "en": "Let's see...",
   "slots": [
    "636BAC",
    "636F54",
@@ -1243,7 +1243,7 @@
  {
   "id": "23AAF4",
   "jp": "サオを持って、エサをつけて\nねらった場所に…",
-  "en": null,
+  "en": "Take the rod, bait the hook, aim for a spot...",
   "slots": [
    "636BD0",
    "636F78",
@@ -1253,7 +1253,7 @@
  {
   "id": "23AAE8",
   "jp": "ソレッ！",
-  "en": null,
+  "en": "Hyah!",
   "slots": [
    "636BF4",
    "636F9C",
@@ -1263,7 +1263,7 @@
  {
   "id": "23AADC",
   "jp": "どうだ？",
-  "en": null,
+  "en": "How's that?",
   "slots": [
    "636C18",
    "636FC0",
@@ -1273,7 +1273,7 @@
  {
   "id": "23AACC",
   "jp": "まだじゃよ。",
-  "en": null,
+  "en": "Not yet.",
   "slots": [
    "636C3C",
    "636FE4",
@@ -1283,7 +1283,7 @@
  {
   "id": "23AAA8",
   "jp": "サカナが食いつくまで\n待つんじゃ。",
-  "en": null,
+  "en": "You wait till a fish bites.",
   "slots": [
    "636C60",
    "637008",
@@ -1293,7 +1293,7 @@
  {
   "id": "23AAA0",
   "jp": "お。",
-  "en": null,
+  "en": "Oh.",
   "slots": [
    "636CF0",
    "637098"
@@ -1302,7 +1302,7 @@
  {
   "id": "23AA88",
   "jp": "何かビクッとしたぜ！？",
-  "en": null,
+  "en": "Whoa, something just twitched?!",
   "slots": [
    "636D14"
   ]
@@ -1310,7 +1310,7 @@
  {
   "id": "23AA7C",
   "jp": "引っぱれ！",
-  "en": null,
+  "en": "Pull!",
   "slots": [
    "636D38",
    "6370E0"
@@ -1319,7 +1319,7 @@
  {
   "id": "23AA70",
   "jp": "ソレッ！！",
-  "en": null,
+  "en": "Hyah!!",
   "slots": [
    "636D5C"
   ]
@@ -1327,7 +1327,7 @@
  {
   "id": "23AA5C",
   "jp": "ど、どうだった？",
-  "en": null,
+  "en": "H-how'd I do?",
   "slots": [
    "636D80"
   ]
@@ -1335,7 +1335,7 @@
  {
   "id": "23AA48",
   "jp": "ワオ、おっきぃ～。",
-  "en": null,
+  "en": "Wow, it's huuuge~.",
   "slots": [
    "636DA4"
   ]
@@ -1343,7 +1343,7 @@
  {
   "id": "23AA24",
   "jp": "おいしそうだわ。\nやったじゃない。",
-  "en": null,
+  "en": "It looks delicious. Nice going.",
   "slots": [
    "636DC8"
   ]
@@ -1351,7 +1351,7 @@
  {
   "id": "23AA14",
   "jp": "そ、そうか？",
-  "en": null,
+  "en": "Y-you think so?",
   "slots": [
    "636DEC"
   ]
@@ -1359,7 +1359,7 @@
  {
   "id": "23AA08",
   "jp": "へへへ。",
-  "en": null,
+  "en": "Heh heh heh.",
   "slots": [
    "636E10",
    "637C20"
@@ -1368,7 +1368,7 @@
  {
   "id": "23A9E0",
   "jp": "はじめてにしては、\nたいしたもんじゃ。",
-  "en": null,
+  "en": "Not bad at all for a first try.",
   "slots": [
    "636E34"
   ]
@@ -1376,7 +1376,7 @@
  {
   "id": "23A9D0",
   "jp": "おめでとう。",
-  "en": null,
+  "en": "Congratulations.",
   "slots": [
    "636E58"
   ]
@@ -1384,7 +1384,7 @@
  {
   "id": "23A9AC",
   "jp": "ツリってけっこう\nおもしろいな。",
-  "en": null,
+  "en": "Fishing's actually pretty fun.",
   "slots": [
    "636E7C"
   ]
@@ -1392,7 +1392,7 @@
  {
   "id": "23A984",
   "jp": "…何か、手ごたえが\nあったような…？",
-  "en": null,
+  "en": "...Did I feel a bite just now...?",
   "slots": [
    "6370BC"
   ]
@@ -1400,7 +1400,7 @@
  {
   "id": "23A97C",
   "jp": "え？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "637104"
   ]
@@ -1408,7 +1408,7 @@
  {
   "id": "23A96C",
   "jp": "そ、ソレッ！！",
-  "en": null,
+  "en": "H-hyah!!",
   "slots": [
    "637128"
   ]
@@ -1416,7 +1416,7 @@
  {
   "id": "23A95C",
   "jp": "どうだった？",
-  "en": null,
+  "en": "How'd I do?",
   "slots": [
    "63714C"
   ]
@@ -1424,7 +1424,7 @@
  {
   "id": "23A93C",
   "jp": "あら、かわいらしいおサカナ。",
-  "en": null,
+  "en": "Oh my, what an adorable little fish.",
   "slots": [
    "637170"
   ]
@@ -1432,7 +1432,7 @@
  {
   "id": "23A910",
   "jp": "これじゃあ、おなかは\nふくれませんわね。",
-  "en": null,
+  "en": "That won't fill anyone's stomach, though.",
   "slots": [
    "637194"
   ]
@@ -1440,7 +1440,7 @@
  {
   "id": "23A904",
   "jp": "そんな…",
-  "en": null,
+  "en": "Aw, come on...",
   "slots": [
    "6371B8"
   ]
@@ -1448,7 +1448,7 @@
  {
   "id": "23A8EC",
   "jp": "わ、ホントにちっせぇ…",
-  "en": null,
+  "en": "Whoa, it really is tiny...",
   "slots": [
    "6371DC"
   ]
@@ -1456,7 +1456,7 @@
  {
   "id": "23A8C4",
   "jp": "つれただけでも\nたいしたもんじゃよ。",
-  "en": null,
+  "en": "Just catching one is quite something.",
   "slots": [
    "637200"
   ]
@@ -1464,7 +1464,7 @@
  {
   "id": "23A8BC",
   "jp": "うん。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "637224",
    "637EF0"
@@ -1473,7 +1473,7 @@
  {
   "id": "23A8A4",
   "jp": "そうだよな。\nへへ。",
-  "en": null,
+  "en": "You're right. Heh.",
   "slots": [
    "637248"
   ]
@@ -1481,7 +1481,7 @@
  {
   "id": "23A898",
   "jp": "もしや…",
-  "en": null,
+  "en": "Could it be...",
   "slots": [
    "6374AC"
   ]
@@ -1489,7 +1489,7 @@
  {
   "id": "23A874",
   "jp": "なぁ。\n何も動かないんだけど…？",
-  "en": null,
+  "en": "Hey. Nothing's moving...",
   "slots": [
    "6374D0"
   ]
@@ -1497,7 +1497,7 @@
  {
   "id": "23A860",
   "jp": "サオを上げてみな。",
-  "en": null,
+  "en": "Try lifting the rod.",
   "slots": [
    "6374F4"
   ]
@@ -1505,7 +1505,7 @@
  {
   "id": "23A858",
   "jp": "ああ。",
-  "en": null,
+  "en": "Okay.",
   "slots": [
    "637518",
    "63942C"
@@ -1514,7 +1514,7 @@
  {
   "id": "23A848",
   "jp": "よいしょっと。",
-  "en": null,
+  "en": "Heave-ho.",
   "slots": [
    "63753C"
   ]
@@ -1522,7 +1522,7 @@
  {
   "id": "23A840",
   "jp": "あれ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "637560"
   ]
@@ -1530,7 +1530,7 @@
  {
   "id": "23A824",
   "jp": "エサが…なくなってますね…",
-  "en": null,
+  "en": "The bait... is gone...",
   "slots": [
    "637584"
   ]
@@ -1538,7 +1538,7 @@
  {
   "id": "23A818",
   "jp": "ウソ！？",
-  "en": null,
+  "en": "No way?!",
   "slots": [
    "6375A8"
   ]
@@ -1546,7 +1546,7 @@
  {
   "id": "23A7E8",
   "jp": "サカナさんたちに\nとられてしまったんですね。",
-  "en": null,
+  "en": "The fishies must have made off with it.",
   "slots": [
    "6375CC"
   ]
@@ -1554,7 +1554,7 @@
  {
   "id": "23A7BC",
   "jp": "そんなこともあるさ。\n元気だすんじゃよ？",
-  "en": null,
+  "en": "That happens sometimes. Cheer up, eh?",
   "slots": [
    "6375F0"
   ]
@@ -1562,7 +1562,7 @@
  {
   "id": "23A7B0",
   "jp": "とほほー。",
-  "en": null,
+  "en": "Oh, brother...",
   "slots": [
    "637614"
   ]
@@ -1570,7 +1570,7 @@
  {
   "id": "23A79C",
   "jp": "つりたかったなぁ。",
-  "en": null,
+  "en": "I really wanted to catch one...",
   "slots": [
    "637638"
   ]
@@ -1578,7 +1578,7 @@
  {
   "id": "23A778",
   "jp": "あら、今日はみんな\nおそろいだね。",
-  "en": null,
+  "en": "Oh my, everyone's together today.",
   "slots": [
    "637710"
   ]
@@ -1586,7 +1586,7 @@
  {
   "id": "23A768",
   "jp": "こんにちは。",
-  "en": null,
+  "en": "Hello.",
   "slots": [
    "637734",
    "637758",
@@ -1597,7 +1597,7 @@
  {
   "id": "23A714",
   "jp": "それより、きいとくれよ。\nあたし、森の向こうの教会で\n歌をうたうことになってね。",
-  "en": null,
+  "en": "But listen to this. I'm going to be singing at the church beyond the forest.",
   "slots": [
    "63777C"
   ]
@@ -1605,7 +1605,7 @@
  {
   "id": "23A708",
   "jp": "本当か！？",
-  "en": null,
+  "en": "Really?!",
   "slots": [
    "6377A0"
   ]
@@ -1613,7 +1613,7 @@
  {
   "id": "23A6E4",
   "jp": "スゲーじゃん！\n俺、見に行くぜ。",
-  "en": null,
+  "en": "That's awesome! I'll come watch.",
   "slots": [
    "6377C4"
   ]
@@ -1621,7 +1621,7 @@
  {
   "id": "23A6CC",
   "jp": "フフフ。\nありがとう。",
-  "en": null,
+  "en": "Heh heh. Thank you.",
   "slots": [
    "6377E8"
   ]
@@ -1629,7 +1629,7 @@
  {
   "id": "23A68C",
   "jp": "まだ、もうちょっと時間が\nあるけど、来てくれたら\nうれしいよ。",
-  "en": null,
+  "en": "It's still a little while off, but I'd be happy if you came.",
   "slots": [
    "63780C"
   ]
@@ -1637,7 +1637,7 @@
  {
   "id": "23A67C",
   "jp": "歌は、好き？",
-  "en": null,
+  "en": "Do you like singing?",
   "slots": [
    "637830"
   ]
@@ -1645,7 +1645,7 @@
  {
   "id": "23A668",
   "jp": "好きか、だって？",
-  "en": null,
+  "en": "Do I like it, you ask?",
   "slots": [
    "637854"
   ]
@@ -1653,7 +1653,7 @@
  {
   "id": "23A618",
   "jp": "そりゃそうだよ。\n何たって、心をいやしてくれる。\nステキなおまじない、だよ。",
-  "en": null,
+  "en": "Of course I do. After all, it soothes the heart. It's a wonderful little charm, you see.",
   "slots": [
    "637878"
   ]
@@ -1661,7 +1661,7 @@
  {
   "id": "23A608",
   "jp": "おまじない…",
-  "en": null,
+  "en": "A charm...",
   "slots": [
    "63789C"
   ]
@@ -1669,7 +1669,7 @@
  {
   "id": "23A5E4",
   "jp": "それじゃ、\n楽しみにしてておくれ。",
-  "en": null,
+  "en": "Well then, look forward to it.",
   "slots": [
    "6378C0"
   ]
@@ -1677,7 +1677,7 @@
  {
   "id": "23A5C4",
   "jp": "まずは、歌をおぼえないとね。",
-  "en": null,
+  "en": "First, I need to learn the song.",
   "slots": [
    "637998"
   ]
@@ -1685,7 +1685,7 @@
  {
   "id": "23A5B8",
   "jp": "まいど。",
-  "en": null,
+  "en": "Hey there.",
   "slots": [
    "637A70"
   ]
@@ -1693,7 +1693,7 @@
  {
   "id": "23A5A0",
   "jp": "借金は、かえせとる？",
-  "en": null,
+  "en": "Payin' off that debt all right?",
   "slots": [
    "637A94"
   ]
@@ -1701,7 +1701,7 @@
  {
   "id": "23A56C",
   "jp": "はぁ…まぁ、それなりに\nがんばらせていただきます。",
-  "en": null,
+  "en": "Well... we're doing our best, in our own way.",
   "slots": [
    "637AB8"
   ]
@@ -1709,7 +1709,7 @@
  {
   "id": "23A534",
   "jp": "商人さんは、ずっとこの街で\n商売を続けられるんですか？",
-  "en": null,
+  "en": "Mister Merchant, will you keep doing business in this town from now on?",
   "slots": [
    "637ADC"
   ]
@@ -1717,7 +1717,7 @@
  {
   "id": "23A528",
   "jp": "せやで。",
-  "en": null,
+  "en": "Yep, that's right.",
   "slots": [
    "637B00"
   ]
@@ -1725,7 +1725,7 @@
  {
   "id": "23A4E0",
   "jp": "母ちゃんが元気になったから\nそろそろいっしょに\n店やることになるやろし",
-  "en": null,
+  "en": "My ma's back on her feet, so we'll be runnin' the shop together soon enough,",
   "slots": [
    "637B24"
   ]
@@ -1733,7 +1733,7 @@
  {
   "id": "23A4AC",
   "jp": "今のうちに、商売うまく\nなっとかんといかんからな。",
-  "en": null,
+  "en": "so I gotta get better at business while I can.",
   "slots": [
    "637B48"
   ]
@@ -1741,7 +1741,7 @@
  {
   "id": "23A48C",
   "jp": "まぁ。\nそうだったんですか。",
-  "en": null,
+  "en": "My. Is that so?",
   "slots": [
    "637B6C"
   ]
@@ -1749,7 +1749,7 @@
  {
   "id": "23A470",
   "jp": "みんなも、がんばってな。",
-  "en": null,
+  "en": "You all hang in there too.",
   "slots": [
    "637B90"
   ]
@@ -1757,7 +1757,7 @@
  {
   "id": "23A454",
   "jp": "オレ、オウエンしてるし。",
-  "en": null,
+  "en": "I'm rootin' for ya.",
   "slots": [
    "637BB4"
   ]
@@ -1765,7 +1765,7 @@
  {
   "id": "23A428",
   "jp": "お金をかえすのを、\nオウエンされましても…",
-  "en": null,
+  "en": "Being cheered on to pay back money isn't exactly...",
   "slots": [
    "637BFC"
   ]
@@ -1773,7 +1773,7 @@
  {
   "id": "23A400",
   "jp": "アイテムがいるときは\nここに来てな。",
-  "en": null,
+  "en": "When ya need items, come see me here.",
   "slots": [
    "637CF8"
   ]
@@ -1781,7 +1781,7 @@
  {
   "id": "23A3F0",
   "jp": "おばーちゃん！",
-  "en": null,
+  "en": "Granny!",
   "slots": [
    "637E18"
   ]

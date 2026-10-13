@@ -394,7 +394,7 @@
  {
   "id": "2261F8",
   "jp": "しかし、\nエディルレイドでもないのに、",
-  "en": "However, if you're not an Edel Raid,",
+  "en": "However, something that isn't an Edel Raid",
   "slots": [
    "61FEC0"
   ]
@@ -402,7 +402,7 @@
  {
   "id": "2261C4",
   "jp": "レーダーにうつることは\nできないんじゃないかと。",
-  "en": "I don't think you can show up on the radar.",
+  "en": "shouldn't be able to show up on the radar.",
   "slots": [
    "61FEE4"
   ]
@@ -1210,7 +1210,7 @@
  {
   "id": "229E54",
   "jp": "ま…まいど…",
-  "en": "H-howdy...",
+  "en": "H-hey there...",
   "slots": [
    "62109C"
   ]
@@ -1628,7 +1628,7 @@
  {
   "id": "22ACF4",
   "jp": "商人さん。\nかくしてもムダなんですよ。\n神父さまが話して下さいました。",
-  "en": "Mister Merchant. It's no use hiding it. Father told us everything.",
+  "en": "Mister Merchant. It's no use hiding it. Father told us.",
   "slots": [
    "621C48"
   ]
