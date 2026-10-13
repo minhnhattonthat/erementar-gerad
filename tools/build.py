@@ -8,7 +8,7 @@ The pair glyphs actually used are rendered into ROM and asm/pairs.asm is assembl
 """
 import argparse, json, struct, subprocess, sys
 from pathlib import Path
-import fit, romlib, vwf
+import fit, gfx, romlib, vwf
 
 FREE_LO, FREE_HI = 0x640000, 0x800000
 OUT = romlib.ROOT / 'build' / 'eg_en.gba'
@@ -86,16 +86,19 @@ def build(out, marker=False, qa=None, identity=False):
     if missing:
         raise SystemExit(f'font lacks {missing}')
     tab = [0] * (96 * 128)
-    gfx = [font.pair_tiles(ord('?'), 0)]
+    glyphs = [font.pair_tiles(ord('?'), 0)]
     for c in pairs:
-        tab[(c[0] - 0x20) * 128 + c[1]] = len(gfx)
-        gfx.append(font.pair_tiles(c[0], c[1]))
+        tab[(c[0] - 0x20) * 128 + c[1]] = len(glyphs)
+        glyphs.append(font.pair_tiles(c[0], c[1]))
     pair_tab = free.put(struct.pack('<%dH' % len(tab), *tab))
-    pair_gfx = free.put(b''.join(gfx))
+    pair_gfx = free.put(b''.join(glyphs))
     for i, cs in enc.items():
         a = free.put(b''.join(cs) + b'\0')
         for s in texts[i][1]:
             struct.pack_into('<I', d, int(s, 16), romlib.BASE + a)
+    if not identity:
+        for a, b in gfx.tag_patches(d):   # dialogue name tags, redrawn in place (same size)
+            d[a:a + len(b)] = b
     Path(out).parent.mkdir(exist_ok=True)
     Path(out).write_bytes(d)
     assemble(out, {'CODE_AT': romlib.BASE + code_at, 'WIDTHS': romlib.BASE + widths,

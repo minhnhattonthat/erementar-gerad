@@ -1307,7 +1307,7 @@
  {
   "id": "215CEC",
   "jp": "おばーちゃんのごはん\n食べたいぃ～！！",
-  "en": null,
+  "en": "I want Granny's cooking~!!",
   "slots": [
    "60285C"
   ]
@@ -1315,7 +1315,7 @@
  {
   "id": "215CD4",
   "jp": "キーア、がまんして。",
-  "en": null,
+  "en": "Kea, be patient.",
   "slots": [
    "602880"
   ]
@@ -1323,7 +1323,7 @@
  {
   "id": "215CAC",
   "jp": "夜にはたっぷり\n食べさせてあげるから。",
-  "en": null,
+  "en": "I'll let you eat all you want tonight.",
   "slots": [
    "6028A4"
   ]
@@ -1331,7 +1331,7 @@
  {
   "id": "215C9C",
   "jp": "…たっぷり…",
-  "en": null,
+  "en": "...All I want...",
   "slots": [
    "6028C8"
   ]
@@ -1339,7 +1339,7 @@
  {
   "id": "215C84",
   "jp": "本当ね！？\n約束よ！！",
-  "en": null,
+  "en": "Really?! It's a promise!!",
   "slots": [
    "6028EC"
   ]
@@ -1347,7 +1347,7 @@
  {
   "id": "215C7C",
   "jp": "ああ。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "602910"
   ]
@@ -1569,7 +1569,7 @@
  {
   "id": "215C70",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "602958",
    "602A30",
@@ -1622,7 +1622,7 @@
  {
   "id": "215C48",
   "jp": "おばーちゃんのごはん。\nたっのしみ～。",
-  "en": null,
+  "en": "Granny's cooking. Can't wa~it.",
   "slots": [
    "6029E8"
   ]
@@ -1630,7 +1630,7 @@
  {
   "id": "215C38",
   "jp": "あ、いたいた。",
-  "en": null,
+  "en": "Ah, there you are.",
   "slots": [
    "602AC0"
   ]
@@ -1638,7 +1638,7 @@
  {
   "id": "215C18",
   "jp": "午前中、どこ行ってたんだよ。",
-  "en": null,
+  "en": "Where'd you go this morning?",
   "slots": [
    "602AE4"
   ]
@@ -1646,7 +1646,7 @@
  {
   "id": "215C10",
   "jp": "え？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "602B08",
    "6039A8",
@@ -1659,7 +1659,7 @@
  {
   "id": "215C00",
   "jp": "いや…別に…",
-  "en": null,
+  "en": "Nah... nowhere special...",
   "slots": [
    "602B2C"
   ]
@@ -1667,7 +1667,7 @@
  {
   "id": "215BAC",
   "jp": "お客さん、オレを探してたん？\nそりゃもうしわけない…\nちょっと仕事が入って、な。",
-  "en": null,
+  "en": "You were lookin' for me, pal? Real sorry 'bout that... Some work came up, see.",
   "slots": [
    "602B50"
   ]
@@ -1675,7 +1675,7 @@
  {
   "id": "215B98",
   "jp": "ちょっと仕事って…",
-  "en": null,
+  "en": "Some work...",
   "slots": [
    "602B74"
   ]
@@ -1683,7 +1683,7 @@
  {
   "id": "215B7C",
   "jp": "いろいろがんばってんだな。",
-  "en": null,
+  "en": "You're really hustlin' at all kinds of stuff, huh.",
   "slots": [
    "602B98"
   ]
@@ -1691,7 +1691,7 @@
  {
   "id": "215B58",
   "jp": "そうなんですよ～。\nよ、ダンナ！",
-  "en": null,
+  "en": "Ain't that the truth~. Hey there, big shot!",
   "slots": [
    "602BBC"
   ]
@@ -1699,7 +1699,7 @@
  {
   "id": "215B44",
   "jp": "気持ち悪いなぁ。",
-  "en": null,
+  "en": "That's creepy.",
   "slots": [
    "602BE0"
   ]
@@ -1707,7 +1707,7 @@
  {
   "id": "215B2C",
   "jp": "カンベンしてくれよォ…",
-  "en": null,
+  "en": "Gimme a break...",
   "slots": [
    "602C04"
   ]
@@ -1715,7 +1715,7 @@
  {
   "id": "215AF0",
   "jp": "オレ、薬代かせぐのに\nいろいろかまってられへん\nねんて…",
-  "en": null,
+  "en": "I gotta earn money for medicine, so I can't go fussin' over every little thing...",
   "slots": [
    "602C28"
   ]
@@ -1723,7 +1723,7 @@
  {
   "id": "215AE8",
   "jp": "薬代？",
-  "en": null,
+  "en": "Medicine money?",
   "slots": [
    "602C4C"
   ]
@@ -1731,7 +1731,7 @@
  {
   "id": "215AD4",
   "jp": "どっか悪いのか？",
-  "en": null,
+  "en": "You sick or somethin'?",
   "slots": [
    "602C70"
   ]
@@ -1739,7 +1739,7 @@
  {
   "id": "215AC0",
   "jp": "何でもないって！",
-  "en": null,
+  "en": "It's nothin'!",
   "slots": [
    "602C94"
   ]
@@ -1747,7 +1747,7 @@
  {
   "id": "215A74",
   "jp": "買い物がすんだら\nとっとと行ってくれんか。\nほかのお客さんのジャマなるし。",
-  "en": null,
+  "en": "Once you're done shoppin', could ya get movin'? You're in the way of my other customers.",
   "slots": [
    "602CB8"
   ]
@@ -1755,7 +1755,7 @@
  {
   "id": "215A58",
   "jp": "わかったよ。ジャマしたな。",
-  "en": null,
+  "en": "Fine. Sorry for buggin' you.",
   "slots": [
    "602CDC"
   ]
@@ -1763,7 +1763,7 @@
  {
   "id": "215A28",
   "jp": "ムダな話はせぇへんで。\nショウバイショウバイ！",
-  "en": null,
+  "en": "No idle chatter here. Business, business!",
   "slots": [
    "602DB4"
   ]
@@ -1771,7 +1771,7 @@
  {
   "id": "215A1C",
   "jp": "はぁ～。",
-  "en": null,
+  "en": "Haaah...",
   "slots": [
    "602E8C",
    "609BD0"
@@ -1780,7 +1780,7 @@
  {
   "id": "215A04",
   "jp": "何だよ、ローウェン。",
-  "en": null,
+  "en": "What's up, Rowen?",
   "slots": [
    "602EB0",
    "609BF4"
@@ -1789,7 +1789,7 @@
  {
   "id": "2159CC",
   "jp": "でっかいためいきなんて\nついてさ。\nつかれてるのか？",
-  "en": null,
+  "en": "Heaving a huge sigh like that. You tired?",
   "slots": [
    "602ED4",
    "609C18"
@@ -1798,7 +1798,7 @@
  {
   "id": "2159BC",
   "jp": "そうなんだ。",
-  "en": null,
+  "en": "I am.",
   "slots": [
    "602EF8",
    "609C3C"
@@ -1807,7 +1807,7 @@
  {
   "id": "215984",
   "jp": "最近、少しずつなんだけど\nつかれがたまっちゃってね…",
-  "en": null,
+  "en": "Lately, little by little, the fatigue's been piling up...",
   "slots": [
    "602F1C",
    "609C60"
@@ -1816,7 +1816,7 @@
  {
   "id": "215970",
   "jp": "あーわかるわかる。",
-  "en": null,
+  "en": "Ah, I get it, I get it.",
   "slots": [
    "602F40",
    "609C84"
@@ -1825,7 +1825,7 @@
  {
   "id": "215940",
   "jp": "シスカのヤツ、人づかいが\nあらいからなぁ～。",
-  "en": null,
+  "en": "Cisqua works people like dogs~.",
   "slots": [
    "602F64",
    "609CA8"
@@ -1834,7 +1834,7 @@
  {
   "id": "215910",
   "jp": "そこで、何で先輩の\n名前が出てくるんだい！？",
-  "en": null,
+  "en": "Why does Senpai's name come up there?!",
   "slots": [
    "602F88",
    "609CCC"
@@ -1843,7 +1843,7 @@
  {
   "id": "2158FC",
   "jp": "え？　ちがうのか？",
-  "en": null,
+  "en": "Huh? It's not that?",
   "slots": [
    "602FAC",
    "609CF0"
@@ -1852,7 +1852,7 @@
  {
   "id": "2158DC",
   "jp": "ちがうっ、ぜんぜんっちがう。",
-  "en": null,
+  "en": "No, absolutely not.",
   "slots": [
    "602FD0",
    "609D14"
@@ -1861,7 +1861,7 @@
  {
   "id": "2158A4",
   "jp": "戦うことがふえたから、とか\n旅をつづけてるせいだ、とか",
-  "en": null,
+  "en": "It's things like fighting more often, or all this traveling,",
   "slots": [
    "602FF4",
    "609D38"

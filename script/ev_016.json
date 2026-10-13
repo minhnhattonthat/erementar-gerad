@@ -758,7 +758,7 @@
  {
   "id": "20FA3C",
   "jp": "黒集団の正体だとされている\n『ブレイブスアルカ』の\nリーダーで…",
-  "en": "he's the leader of \"Braves Arca,\" which is said to be the true face of the Black Group...",
+  "en": "he's the leader of \"Braves Arca,\" which is said to be the true identity of the Black Group...",
   "slots": [
    "5FEB30"
   ]
@@ -1264,7 +1264,7 @@
  {
   "id": "213D3C",
   "jp": "商人さんがいないから\n買い物ができません。",
-  "en": "The merchant isn't here, so we can't shop.",
+  "en": "Mister Merchant isn't here, so we can't shop.",
   "slots": [
    "5FFA3C"
   ]
@@ -1384,7 +1384,7 @@
  {
   "id": "213B44",
   "jp": "森へ行く前に、\n商人さんのところで、いろいろ\n買いそろえたかったですね…",
-  "en": "We should have stocked up on all sorts of things at the merchant's before going to the forest...",
+  "en": "We should have stocked up at Mister Merchant's before going to the forest...",
   "slots": [
    "600048"
   ]

@@ -2,7 +2,7 @@
  {
   "id": "21A818",
   "jp": "ブレイブスアルカの人たちに\n見つかってしまったのか…\nわかりません。",
-  "en": null,
+  "en": "Maybe the Braves Arca people found her... I don't know.",
   "slots": [
    "60B5F8"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "21A7D0",
   "jp": "見つかったなら、\nこの宿にでも、連れて来られると\n思うんですけどね。",
-  "en": null,
+  "en": "If they'd found her, I'd think they would bring her here to this inn.",
   "slots": [
    "60B61C"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "21A784",
   "jp": "そうでないと、\nわざわざ自分たちが悪者だと\n言ってるようなものですから。",
-  "en": null,
+  "en": "Otherwise, it'd be like going out of their way to announce that they're the bad guys.",
   "slots": [
    "60B640"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "21A764",
   "jp": "しかし、本当に世話のやける…",
-  "en": null,
+  "en": "Honestly, she really is a handful...",
   "slots": [
    "60B664"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "21A754",
   "jp": "心配ですね。",
-  "en": null,
+  "en": "I'm worried.",
   "slots": [
    "60B688",
    "60B85C"
@@ -43,7 +43,7 @@
  {
   "id": "21A740",
   "jp": "…そうですねぇ。",
-  "en": null,
+  "en": "...Yes, I am too.",
   "slots": [
    "60B6AC"
   ]
@@ -51,7 +51,7 @@
  {
   "id": "21A718",
   "jp": "ここでじっとしてるのも\nツライ感じ？",
-  "en": null,
+  "en": "Kinda hard just sitting around here?",
   "slots": [
    "60B6D0"
   ]
@@ -59,7 +59,7 @@
  {
   "id": "21A6FC",
   "jp": "…そう…かもしれませんね。",
-  "en": null,
+  "en": "...Maybe... you're right.",
   "slots": [
    "60B6F4"
   ]
@@ -67,7 +67,7 @@
  {
   "id": "21A6EC",
   "jp": "助けに行こう",
-  "en": null,
+  "en": "Go help her",
   "slots": [
    "60B718"
   ]
@@ -75,7 +75,7 @@
  {
   "id": "21A6E0",
   "jp": "外は危険だ",
-  "en": null,
+  "en": "Too risky",
   "slots": [
    "60B73C"
   ]
@@ -167,7 +167,7 @@
  {
   "id": "21A6C4",
   "jp": "じゃ、助けに行こう！",
-  "en": null,
+  "en": "Then let's go help her!",
   "slots": [
    "60B784"
   ]
@@ -175,7 +175,7 @@
  {
   "id": "21A6B4",
   "jp": "…そうですね！",
-  "en": null,
+  "en": "...Yes, let's!",
   "slots": [
    "60B7A8"
   ]
@@ -183,7 +183,7 @@
  {
   "id": "21A68C",
   "jp": "って、何でそんな話に\nなるんですか！",
-  "en": null,
+  "en": "Wait, how did it come to that?!",
   "slots": [
    "60B7CC"
   ]
@@ -191,7 +191,7 @@
  {
   "id": "21A644",
   "jp": "外にはあの黒集団が\nうろついてて、われわれも\n危険だっていうのに！？",
-  "en": null,
+  "en": "The Black Group is prowling around out there, and we're in danger too?!",
   "slots": [
    "60B7F0"
   ]
@@ -199,7 +199,7 @@
  {
   "id": "21A628",
   "jp": "それなのに助けになんて…",
-  "en": null,
+  "en": "And you still want to go help her...",
   "slots": [
    "60B814"
   ]
@@ -207,7 +207,7 @@
  {
   "id": "21A620",
   "jp": "でも。",
-  "en": null,
+  "en": "But...",
   "slots": [
    "60B838"
   ]
@@ -215,7 +215,7 @@
  {
   "id": "21A610",
   "jp": "…そうですね…",
-  "en": null,
+  "en": "...Yes, well...",
   "slots": [
    "60B880"
   ]
@@ -223,7 +223,7 @@
  {
   "id": "21A5E0",
   "jp": "ここでじっとしてるのも\nガマンできないでしょ？",
-  "en": null,
+  "en": "You can't stand just sitting here either, right?",
   "slots": [
    "60B8A4"
   ]
@@ -231,7 +231,7 @@
  {
   "id": "21A5C8",
   "jp": "…そう…なんですよね…",
-  "en": null,
+  "en": "...That's... true...",
   "slots": [
    "60B8C8"
   ]
@@ -239,7 +239,7 @@
  {
   "id": "21A5A8",
   "jp": "じゃあ、\n助けに行きましょう。",
-  "en": null,
+  "en": "Then let's go help her.",
   "slots": [
    "60B8EC"
   ]
@@ -247,7 +247,7 @@
  {
   "id": "21A570",
   "jp": "そうしましょう、レンさん！\n今すぐにでも行きましょう！",
-  "en": null,
+  "en": "Yes, let's, Ren-san! Let's go right this minute!",
   "slots": [
    "60B910"
   ]
@@ -255,7 +255,7 @@
  {
   "id": "21A554",
   "jp": "クーさんグズグズしないッ！",
-  "en": null,
+  "en": "Cou-san, stop dawdling!",
   "slots": [
    "60B934"
   ]
@@ -263,7 +263,7 @@
  {
   "id": "21A538",
   "jp": "そりゃ俺のセリフだって。",
-  "en": null,
+  "en": "Hey, that's my line.",
   "slots": [
    "60B958"
   ]
@@ -271,7 +271,7 @@
  {
   "id": "21A528",
   "jp": "外は危険だ。",
-  "en": null,
+  "en": "It's dangerous out there.",
   "slots": [
    "60B97C"
   ]
@@ -279,7 +279,7 @@
  {
   "id": "21A508",
   "jp": "黒いヤツラが今日もいるはず！",
-  "en": null,
+  "en": "Those black guys are bound to be out again today!",
   "slots": [
    "60B9A0"
   ]
@@ -287,7 +287,7 @@
  {
   "id": "21A4F8",
   "jp": "そうですね…",
-  "en": null,
+  "en": "That's true...",
   "slots": [
    "60B9C4"
   ]
@@ -295,7 +295,7 @@
  {
   "id": "21A4C0",
   "jp": "チルルさんには、何とか\n一人でがんばっていただいて…",
-  "en": null,
+  "en": "Chiruru-san will just have to hang in there on her own somehow...",
   "slots": [
    "60B9E8"
   ]
@@ -303,7 +303,7 @@
  {
   "id": "21A474",
   "jp": "ここで何もしなかったら\nあのハンターといっしょに\nバケて出てくるかもね～！",
-  "en": null,
+  "en": "If we do nothing now, she might come back to haunt us along with that hunter~!",
   "slots": [
    "60BA0C"
   ]
@@ -311,7 +311,7 @@
  {
   "id": "21A45C",
   "jp": "そんなこと、無いよ…",
-  "en": null,
+  "en": "That won't happen...",
   "slots": [
    "60BA30"
   ]
@@ -319,7 +319,7 @@
  {
   "id": "21A44C",
   "jp": "助けに行こう。",
-  "en": null,
+  "en": "Let's go help her.",
   "slots": [
    "60BA54"
   ]
@@ -340,7 +340,7 @@
  {
   "id": "21A430",
   "jp": "そ、そうですね。",
-  "en": null,
+  "en": "Y-yes, quite.",
   "slots": [
    "60BA9C"
   ]
@@ -348,7 +348,7 @@
  {
   "id": "21A3FC",
   "jp": "レンさんのおっしゃる通り\n今すぐでも行きましょう！",
-  "en": null,
+  "en": "Just as Ren-san says, let's go right now!",
   "slots": [
    "60BAC0"
   ]
@@ -356,7 +356,7 @@
  {
   "id": "21A3C0",
   "jp": "チルルさんが入れちがいで\nもどって来たときのことを\n考えて",
-  "en": null,
+  "en": "In case Chiruru-san comes back while we're out,",
   "slots": [
    "60BAE4"
   ]
@@ -364,7 +364,7 @@
  {
   "id": "21A394",
   "jp": "おかみさんに、伝言を\nたのんでおきますか。",
-  "en": null,
+  "en": "shall we leave a message with the landlady?",
   "slots": [
    "60BB08"
   ]
@@ -372,7 +372,7 @@
  {
   "id": "21A384",
   "jp": "そうですね。",
-  "en": null,
+  "en": "Good idea.",
   "slots": [
    "60BB2C"
   ]
@@ -380,7 +380,7 @@
  {
   "id": "21A368",
   "jp": "すみません、おかみさん。",
-  "en": null,
+  "en": "Excuse me, landlady.",
   "slots": [
    "60BB50"
   ]
@@ -388,7 +388,7 @@
  {
   "id": "21A35C",
   "jp": "何だね。",
-  "en": null,
+  "en": "What is it?",
   "slots": [
    "60BB74"
   ]
@@ -396,7 +396,7 @@
  {
   "id": "21A320",
   "jp": "お夜食だったら\nサンドイッチか何かなら\nすぐ作れるけど…",
-  "en": null,
+  "en": "If it's a late-night snack, I can whip up some sandwiches or something right quick...",
   "slots": [
    "60BB98"
   ]
@@ -404,7 +404,7 @@
  {
   "id": "21A314",
   "jp": "ウワォ！",
-  "en": null,
+  "en": "Wow!",
   "slots": [
    "60BBBC"
   ]
@@ -412,7 +412,7 @@
  {
   "id": "21A2D8",
   "jp": "いえいえいえいえいえいえ。\nお夜食のことでは無いんです。",
-  "en": null,
+  "en": "No no no no no no. It's not about a snack.",
   "slots": [
    "60BBE0"
   ]
@@ -420,7 +420,7 @@
  {
   "id": "21A2A0",
   "jp": "私たち、これから出かけるんで\nもし入れちがいに小さな…",
-  "en": null,
+  "en": "We're heading out now, so if, while we're gone, a little...",
   "slots": [
    "60BC04"
   ]
@@ -428,7 +428,7 @@
  {
   "id": "21A26C",
   "jp": "カミを二つにくくった女の子が\nこちらに来ましたら、",
-  "en": null,
+  "en": "girl with her hair tied in two bunches comes here,",
   "slots": [
    "60BC28"
   ]
@@ -436,7 +436,7 @@
  {
   "id": "21A22C",
   "jp": "こちらの宿で、\nおとなしく待つように\n伝えていただけますか？",
-  "en": null,
+  "en": "could you tell her to wait quietly here at the inn?",
   "slots": [
    "60BC4C"
   ]
@@ -444,7 +444,7 @@
  {
   "id": "21A220",
   "jp": "はいはい。",
-  "en": null,
+  "en": "Sure, sure.",
   "slots": [
    "60BC70"
   ]
@@ -452,7 +452,7 @@
  {
   "id": "21A1E4",
   "jp": "あのちっちゃくて\nかわいらしい女の子だね。\nまかせとくれ。",
-  "en": null,
+  "en": "That tiny, cute little girl, right? Leave it to me.",
   "slots": [
    "60BC94"
   ]
@@ -460,7 +460,7 @@
  {
   "id": "21A1CC",
   "jp": "ありがとうございます。",
-  "en": null,
+  "en": "Thank you very much.",
   "slots": [
    "60BCB8"
   ]
@@ -468,7 +468,7 @@
  {
   "id": "21A1B0",
   "jp": "よろしくお願いしますね。",
-  "en": null,
+  "en": "We're counting on you.",
   "slots": [
    "60BCDC"
   ]
@@ -476,7 +476,7 @@
  {
   "id": "21B600",
   "jp": "あのちっちゃい女の子。\nまだ来ちゃないようだよ。",
-  "en": null,
+  "en": "That tiny girl? Doesn't look like she's come by yet.",
   "slots": [
    "60BD6C"
   ]
@@ -484,7 +484,7 @@
  {
   "id": "21B5C8",
   "jp": "ごはん、食べてないんだったら\n何か作ってあげようかね。",
-  "en": null,
+  "en": "If you haven't eaten, how about I make you something?",
   "slots": [
    "60BD90"
   ]
@@ -492,7 +492,7 @@
  {
   "id": "21B5C0",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "60BDFC",
    "60BED4",
@@ -513,7 +513,7 @@
  {
   "id": "21B588",
   "jp": "チルルに悪いことが\n何も起きていなければ\nいいけど…",
-  "en": null,
+  "en": "I hope nothing bad has happened to Chiruru...",
   "slots": [
    "60BE8C"
   ]
@@ -521,7 +521,7 @@
  {
   "id": "21B57C",
   "jp": "オッス！",
-  "en": null,
+  "en": "Yo!",
   "slots": [
    "60BF64"
   ]
@@ -529,7 +529,7 @@
  {
   "id": "21B570",
   "jp": "商人さん！",
-  "en": null,
+  "en": "Mister Merchant!",
   "slots": [
    "60BF88"
   ]
@@ -537,7 +537,7 @@
  {
   "id": "21B548",
   "jp": "そんなに大きな声\n出さないで下さい！",
-  "en": null,
+  "en": "Please don't shout like that!",
   "slots": [
    "60BFAC"
   ]
@@ -545,7 +545,7 @@
  {
   "id": "21B528",
   "jp": "ビックリするじゃないですか…",
-  "en": null,
+  "en": "You startled us...",
   "slots": [
    "60BFD0"
   ]
@@ -553,7 +553,7 @@
  {
   "id": "21B518",
   "jp": "いやいやいや。",
-  "en": null,
+  "en": "Nah, nah, nah.",
   "slots": [
    "60BFF4"
   ]
@@ -561,7 +561,7 @@
  {
   "id": "21B4EC",
   "jp": "何か、マジメなカオして\n考えごとしてるから",
-  "en": null,
+  "en": "You were all wearin' serious faces, thinkin' somethin' over,",
   "slots": [
    "60C018"
   ]
@@ -569,7 +569,7 @@
  {
   "id": "21B4B8",
   "jp": "ちょっとおどかしたろーと\n思っただけやねんけど。",
-  "en": null,
+  "en": "so I just figured I'd give ya a little scare, is all.",
   "slots": [
    "60C03C"
   ]
@@ -577,7 +577,7 @@
  {
   "id": "21B4AC",
   "jp": "あ、せや。",
-  "en": null,
+  "en": "Oh, right.",
   "slots": [
    "60C060"
   ]
@@ -585,7 +585,7 @@
  {
   "id": "21B47C",
   "jp": "明日、朝、\nたのみたいことが\nあるんやけど…",
-  "en": null,
+  "en": "There's somethin' I'd like to ask ya tomorrow mornin'...",
   "slots": [
    "60C084"
   ]
@@ -593,7 +593,7 @@
  {
   "id": "21B470",
   "jp": "何です？",
-  "en": null,
+  "en": "What is it?",
   "slots": [
    "60C0A8",
    "60D314"
@@ -602,7 +602,7 @@
  {
   "id": "21B44C",
   "jp": "商人さんが\n私たちにたのみごと…？",
-  "en": null,
+  "en": "Mister Merchant has a favor to ask us...?",
   "slots": [
    "60C0CC"
   ]
@@ -610,7 +610,7 @@
  {
   "id": "21B444",
   "jp": "そそ。",
-  "en": null,
+  "en": "Yep, yep.",
   "slots": [
    "60C0F0"
   ]
@@ -618,7 +618,7 @@
  {
   "id": "21B400",
   "jp": "ちょっと森の向こうに\n行かなあかんくなってしもて\n一人やと危ないし",
-  "en": null,
+  "en": "I gotta head over past the woods, and goin' alone's risky,",
   "slots": [
    "60C114"
   ]
@@ -626,7 +626,7 @@
  {
   "id": "21B3B8",
   "jp": "ケモノやらサンゾクやらを\nこないだみたいに\nやっつけてもらえんかな。",
-  "en": null,
+  "en": "so could ya take care of the beasts and bandits for me, like last time?",
   "slots": [
    "60C138"
   ]
@@ -634,7 +634,7 @@
  {
   "id": "21B3A4",
   "jp": "明日の朝ですか…",
-  "en": null,
+  "en": "Tomorrow morning...",
   "slots": [
    "60C15C"
   ]
@@ -642,7 +642,7 @@
  {
   "id": "21B378",
   "jp": "わかりました。\n私たちにまかせて下さい。",
-  "en": null,
+  "en": "All right. Leave it to us.",
   "slots": [
    "60C180"
   ]
@@ -650,7 +650,7 @@
  {
   "id": "21B36C",
   "jp": "ほんま？",
-  "en": null,
+  "en": "Really?",
   "slots": [
    "60C1A4"
   ]
@@ -658,7 +658,7 @@
  {
   "id": "21B360",
   "jp": "助かるわ。",
-  "en": null,
+  "en": "That's a big help.",
   "slots": [
    "60C1C8"
   ]
@@ -666,7 +666,7 @@
  {
   "id": "21B328",
   "jp": "ほな、明日ここで待っとるんで\nよろしゅうたのみます。",
-  "en": null,
+  "en": "Then I'll be waitin' here tomorrow. Much obliged.",
   "slots": [
    "60C1EC"
   ]
@@ -674,7 +674,7 @@
  {
   "id": "21B2F8",
   "jp": "明日は商人さんといっしょに\n森へ行きましょう。",
-  "en": null,
+  "en": "Tomorrow, let's go to the woods with Mister Merchant.",
   "slots": [
    "60C2C4"
   ]
@@ -682,7 +682,7 @@
  {
   "id": "21B2D8",
   "jp": "んもうッ！\nシツコイんだから！",
-  "en": null,
+  "en": "Ugh, come on! You're so persistent!",
   "slots": [
    "60C39C"
   ]
@@ -690,7 +690,7 @@
  {
   "id": "21B2C8",
   "jp": "つかれ…たわ…",
-  "en": null,
+  "en": "So... tired...",
   "slots": [
    "60C498"
   ]
@@ -698,7 +698,7 @@
  {
   "id": "21B2B4",
   "jp": "でも、がんばる…",
-  "en": null,
+  "en": "But I'll keep going...",
   "slots": [
    "60C4BC"
   ]
@@ -706,7 +706,7 @@
  {
   "id": "21B27C",
   "jp": "まったく、あきもせず\nよく、おそいかかってきますね。",
-  "en": null,
+  "en": "Honestly, they never get tired of attacking us, do they?",
   "slots": [
    "60C5B8"
   ]
@@ -714,7 +714,7 @@
  {
   "id": "21B22C",
   "jp": "この街は私たちが来る前から\nこんなだったんでしょうか。\n信じられませんけど…",
-  "en": null,
+  "en": "Was this town like this even before we came? I can hardly believe it...",
   "slots": [
    "60C5DC"
   ]
@@ -722,7 +722,7 @@
  {
   "id": "21B1E4",
   "jp": "ねらわれるのは\nエディルレイドを連れた\nプレジャーだけじゃないですか？",
-  "en": null,
+  "en": "Isn't it only Pledgers with Edel Raids who get targeted?",
   "slots": [
    "60C600"
   ]
@@ -730,7 +730,7 @@
  {
   "id": "21B190",
   "jp": "この街には闘技場があるから\nそれを目当てにエディルレイド\nプレジャーがやって来る。",
-  "en": null,
+  "en": "This town has an arena, so Edel Raid Pledgers come here for it.",
   "slots": [
    "60C624"
   ]
@@ -738,7 +738,7 @@
  {
   "id": "21B170",
   "jp": "まさにうってつけの街ですね。",
-  "en": null,
+  "en": "It's the perfect town for them.",
   "slots": [
    "60C648"
   ]
@@ -746,7 +746,7 @@
  {
   "id": "21B128",
   "jp": "でも、人とエディルレイドが\nいっしょにいると不幸になる\nという考えを",
-  "en": null,
+  "en": "But the way they force the idea that people and Edel Raids together only end in misery",
   "slots": [
    "60C66C"
   ]
@@ -754,7 +754,7 @@
  {
   "id": "21B0F8",
   "jp": "一方的におしつけているのは\nゆるせないですね。",
-  "en": null,
+  "en": "onto everyone else, one-sidedly... I can't forgive that.",
   "slots": [
    "60C690"
   ]
@@ -762,7 +762,7 @@
  {
   "id": "21B0B4",
   "jp": "街の人たちが、トラブルに\nまきこまれないことを\nいのるだけです…",
-  "en": null,
+  "en": "All we can do is pray the townspeople don't get dragged into any trouble...",
   "slots": [
    "60C6B4"
   ]
@@ -770,7 +770,7 @@
  {
   "id": "21B090",
   "jp": "エンダさんも、いつ\nねらわれるか…",
-  "en": null,
+  "en": "And who knows when they'll come after Enda-san...",
   "slots": [
    "60C6D8"
   ]
@@ -778,7 +778,7 @@
  {
   "id": "21B07C",
   "jp": "ちょっと待って。",
-  "en": null,
+  "en": "Wait a sec.",
   "slots": [
    "60C6FC"
   ]
@@ -786,7 +786,7 @@
  {
   "id": "21B02C",
   "jp": "黒集団がブレイブスアルカだから\nエンダはねらわれずに\nすんでるんじゃないの？",
-  "en": null,
+  "en": "Isn't the reason Enda hasn't been targeted that the Black Group is Braves Arca?",
   "slots": [
    "60C720"
   ]
@@ -794,7 +794,7 @@
  {
   "id": "21B024",
   "jp": "あ……",
-  "en": null,
+  "en": "Ah...",
   "slots": [
    "60C744"
   ]
@@ -802,7 +802,7 @@
  {
   "id": "21B018",
   "jp": "なるほど。",
-  "en": null,
+  "en": "I see.",
   "slots": [
    "60C768"
   ]
@@ -810,7 +810,7 @@
  {
   "id": "21AFD0",
   "jp": "街を一人で歩いていても\nリーダーであるカールセンの\nエディルレイドは",
-  "en": null,
+  "en": "So even if she walks around town alone, the Edel Raid of their leader, Carlsen,",
   "slots": [
    "60C78C"
   ]
@@ -818,7 +818,7 @@
  {
   "id": "21AFB0",
   "jp": "ねらわれ無いってことですか。",
-  "en": null,
+  "en": "won't be targeted, you mean.",
   "slots": [
    "60C7B0"
   ]
@@ -826,7 +826,7 @@
  {
   "id": "21AF84",
   "jp": "でも、ちょっとちがう気が\nするんですが…",
-  "en": null,
+  "en": "But somehow I feel that's not quite it...",
   "slots": [
    "60C7F8"
   ]
@@ -834,7 +834,7 @@
  {
   "id": "21AF78",
   "jp": "ンーモウ！",
-  "en": null,
+  "en": "Ugh, come on!",
   "slots": [
    "60C81C"
   ]
@@ -842,7 +842,7 @@
  {
   "id": "21AF34",
   "jp": "ちがってもかまわないわ！\nとにかく、チルルを\n助けに行きましょう！",
-  "en": null,
+  "en": "I don't care if it's not it! Anyway, let's go help Chiruru!",
   "slots": [
    "60C840"
   ]
@@ -850,7 +850,7 @@
  {
   "id": "21AF2C",
   "jp": "ええ。",
-  "en": null,
+  "en": "Yes.",
   "slots": [
    "60C864"
   ]
@@ -858,7 +858,7 @@
  {
   "id": "21AF1C",
   "jp": "チルルさん。",
-  "en": null,
+  "en": "Chiruru-san.",
   "slots": [
    "60C960"
   ]
@@ -866,7 +866,7 @@
  {
   "id": "21AF08",
   "jp": "待っていて下さい。",
-  "en": null,
+  "en": "Please wait for us.",
   "slots": [
    "60C984"
   ]
@@ -874,7 +874,7 @@
  {
   "id": "21AED0",
   "jp": "ブレイブスアルカは目前だ。\n何が起きてもいいように、",
-  "en": null,
+  "en": "Braves Arca is right ahead. To be ready for anything,",
   "slots": [
    "60CA5C"
   ]
@@ -882,7 +882,7 @@
  {
   "id": "21AE88",
   "jp": "商人さんのトコロヘ行って\nアイテムをそろえたり\nしなくて大丈夫かな？",
-  "en": null,
+  "en": "shouldn't we go see Mister Merchant and stock up on items first?",
   "slots": [
    "60CA80"
   ]
@@ -890,7 +890,7 @@
  {
   "id": "21AE5C",
   "jp": "支部へよっているヒマは\nありませんよッ！",
-  "en": null,
+  "en": "We don't have time to stop by the branch!",
   "slots": [
    "60CB58"
   ]
@@ -898,7 +898,7 @@
  {
   "id": "21AE44",
   "jp": "夜の森はぶきみだな…",
-  "en": null,
+  "en": "The woods at night are creepy...",
   "slots": [
    "60CC30"
   ]
@@ -906,7 +906,7 @@
  {
   "id": "21AE20",
   "jp": "ねぇ。\nチルルを助けに行かないの？",
-  "en": null,
+  "en": "Hey. Aren't we going to help Chiruru?",
   "slots": [
    "60CD08"
   ]
@@ -914,7 +914,7 @@
  {
   "id": "21ADF4",
   "jp": "この家は、ずっと\nこのままなんだろうか。",
-  "en": null,
+  "en": "I wonder if this house will stay like this forever.",
   "slots": [
    "60CDE0"
   ]
@@ -922,7 +922,7 @@
  {
   "id": "21ADC8",
   "jp": "教会は、明るいうちに\n来たい場所ですね…",
-  "en": null,
+  "en": "A church is a place I'd rather visit while it's light out...",
   "slots": [
    "60CEB8"
   ]
@@ -930,7 +930,7 @@
  {
   "id": "21ADAC",
   "jp": "そーっと、そーっとですよ…",
-  "en": null,
+  "en": "Quietly, quietly now...",
   "slots": [
    "60CF90"
   ]
@@ -938,7 +938,7 @@
  {
   "id": "21AD90",
   "jp": "ぬき足、さし足、しのび足…",
-  "en": null,
+  "en": "Tiptoe, tiptoe, sneak, sneak...",
   "slots": [
    "60CFB4"
   ]
@@ -946,7 +946,7 @@
  {
   "id": "21AD88",
   "jp": "イテ…",
-  "en": null,
+  "en": "Ow...",
   "slots": [
    "60D020"
   ]
@@ -954,7 +954,7 @@
  {
   "id": "21AD74",
   "jp": "レン、どうかした？",
-  "en": null,
+  "en": "Ren, something wrong?",
   "slots": [
    "60D044"
   ]
@@ -962,7 +962,7 @@
  {
   "id": "21AD68",
   "jp": "ううん…",
-  "en": null,
+  "en": "Mm-mm...",
   "slots": [
    "60D068"
   ]
@@ -970,7 +970,7 @@
  {
   "id": "21AD4C",
   "jp": "何かイヤな感じがしただけ…",
-  "en": null,
+  "en": "I just had a bad feeling, that's all...",
   "slots": [
    "60D08C"
   ]
@@ -978,7 +978,7 @@
  {
   "id": "21AD2C",
   "jp": "そっか、\nイヤな感じか…って",
-  "en": null,
+  "en": "I see, a bad feeling... wait,",
   "slots": [
    "60D0B0"
   ]
@@ -986,7 +986,7 @@
  {
   "id": "21AD04",
   "jp": "それってめちゃくちゃ\nヤバイ…とか？",
-  "en": null,
+  "en": "you mean like, seriously bad?",
   "slots": [
    "60D0D4"
   ]
@@ -994,7 +994,7 @@
  {
   "id": "21ACE0",
   "jp": "わからない。\n何となく、だから…",
-  "en": null,
+  "en": "I don't know. It's just a hunch...",
   "slots": [
    "60D0F8"
   ]
@@ -1002,7 +1002,7 @@
  {
   "id": "21ACD4",
   "jp": "そっか…",
-  "en": null,
+  "en": "I see...",
   "slots": [
    "60D11C"
   ]
@@ -1010,7 +1010,7 @@
  {
   "id": "21ACAC",
   "jp": "ところでここ、\n誰も…いないのかな？",
-  "en": null,
+  "en": "By the way, is there... nobody here?",
   "slots": [
    "60D140"
   ]
@@ -1018,7 +1018,7 @@
  {
   "id": "21AC8C",
   "jp": "黒集団が外で動いてるんです。",
-  "en": null,
+  "en": "The Black Group is out on the move.",
   "slots": [
    "60D164"
   ]
@@ -1026,7 +1026,7 @@
  {
   "id": "21AC68",
   "jp": "ここに人がいなくても\nおかしくは…",
-  "en": null,
+  "en": "It wouldn't be strange if no one was here...",
   "slots": [
    "60D188"
   ]
@@ -1034,7 +1034,7 @@
  {
   "id": "21AC58",
   "jp": "そうだ、先輩。",
-  "en": null,
+  "en": "Oh, that's right, Senpai.",
   "slots": [
    "60D1AC"
   ]
@@ -1042,7 +1042,7 @@
  {
   "id": "21AC10",
   "jp": "やみくもに探すより、\nレーダーを使って\nチルルさんを確認しませんか。",
-  "en": null,
+  "en": "Rather than searching blindly, why don't we use the radar to check on Chiruru-san?",
   "slots": [
    "60D1D0"
   ]
@@ -1050,7 +1050,7 @@
  {
   "id": "21ABE0",
   "jp": "あら、そんなアイテム\nすっかり忘れてました。",
-  "en": null,
+  "en": "Oh my, I completely forgot about that item.",
   "slots": [
    "60D1F4"
   ]
@@ -1058,7 +1058,7 @@
  {
   "id": "21ABC0",
   "jp": "どうれ～チルルさんはーっと。",
-  "en": null,
+  "en": "Let's see~ Where's Chiruru-san...",
   "slots": [
    "60D218"
   ]
@@ -1066,7 +1066,7 @@
  {
   "id": "21AB98",
   "jp": "このエディルレイドレーダーを\n使って…",
-  "en": null,
+  "en": "Using this Edel Raid Radar...",
   "slots": [
    "60D23C"
   ]
@@ -1074,7 +1074,7 @@
  {
   "id": "21AB6C",
   "jp": "こちらがレンさんで、\nこちらがキーア………",
-  "en": null,
+  "en": "This one's Ren-san, and this one's Kea......",
   "slots": [
    "60D260"
   ]
@@ -1082,7 +1082,7 @@
  {
   "id": "21AB64",
   "jp": "あれ。",
-  "en": null,
+  "en": "Huh.",
   "slots": [
    "60D284"
   ]
@@ -1090,7 +1090,7 @@
  {
   "id": "21AB48",
   "jp": "ち、チルルさんがいません！",
-  "en": null,
+  "en": "Ch-Chiruru-san isn't here!",
   "slots": [
    "60D2A8"
   ]
@@ -1098,7 +1098,7 @@
  {
   "id": "21AB14",
   "jp": "おかしいですね、午後には\nここにいたはずなのに。",
-  "en": null,
+  "en": "That's strange. She should have been here this afternoon.",
   "slots": [
    "60D2CC"
   ]
@@ -1106,7 +1106,7 @@
  {
   "id": "21AB08",
   "jp": "せ、先輩…",
-  "en": null,
+  "en": "S-Senpai...",
   "slots": [
    "60D2F0"
   ]
@@ -1114,7 +1114,7 @@
  {
   "id": "21AAE0",
   "jp": "今、考え中で\nいそがしいんですけど…",
-  "en": null,
+  "en": "I'm thinking right now, so I'm busy...",
   "slots": [
    "60D338"
   ]
@@ -1122,7 +1122,7 @@
  {
   "id": "21AACC",
   "jp": "に、逃げませんか…",
-  "en": null,
+  "en": "Sh-shouldn't we run...",
   "slots": [
    "60D35C"
   ]
@@ -1130,7 +1130,7 @@
  {
   "id": "21AAC0",
   "jp": "逃げる？",
-  "en": null,
+  "en": "Run?",
   "slots": [
    "60D380"
   ]
@@ -1138,7 +1138,7 @@
  {
   "id": "21AA7C",
   "jp": "まだ、チルルさんが\n見つかっていないのに\nおじけづいたんですか？",
-  "en": null,
+  "en": "We haven't even found Chiruru-san yet, and you've lost your nerve?",
   "slots": [
    "60D3A4"
   ]
@@ -1146,7 +1146,7 @@
  {
   "id": "21AA68",
   "jp": "いえ…あの…後ろ…",
-  "en": null,
+  "en": "No... um... behind you...",
   "slots": [
    "60D3C8"
   ]
@@ -1154,7 +1154,7 @@
  {
   "id": "21AA60",
   "jp": "はい？",
-  "en": null,
+  "en": "Yes?",
   "slots": [
    "60D3EC"
   ]
@@ -1162,7 +1162,7 @@
  {
   "id": "21AA50",
   "jp": "何してんだよ。",
-  "en": null,
+  "en": "What're you doing?",
   "slots": [
    "60D410"
   ]
@@ -1170,7 +1170,7 @@
  {
   "id": "21AA30",
   "jp": "勝手に入りこんでコソコソと…",
-  "en": null,
+  "en": "Sneaking around in here without permission...",
   "slots": [
    "60D434"
   ]
@@ -1178,7 +1178,7 @@
  {
   "id": "21A9EC",
   "jp": "こ、この人、前に\nお会いしたときと\n話し方がちがう気がしますが…",
-  "en": null,
+  "en": "Th-this person seems to talk differently from when we met before...",
   "slots": [
    "60D458"
   ]
@@ -1186,7 +1186,7 @@
  {
   "id": "21A9C0",
   "jp": "彼らは同じコスチュームを\n着てますからね。",
-  "en": null,
+  "en": "They all wear the same costume, after all.",
   "slots": [
    "60D47C"
   ]
@@ -1194,7 +1194,7 @@
  {
   "id": "21A990",
   "jp": "誰が誰かなんて、さっぱり\nわからないですよ。",
-  "en": null,
+  "en": "There's no telling who's who.",
   "slots": [
    "60D4A0"
   ]
@@ -1202,7 +1202,7 @@
  {
   "id": "21A964",
   "jp": "しかし、こうやってここに\nいるということは",
-  "en": null,
+  "en": "But the fact that he's here like this",
   "slots": [
    "60D4C4"
   ]
@@ -1210,7 +1210,7 @@
  {
   "id": "21A930",
   "jp": "ここが黒集団と関係ある\n場所だということでしょう？",
-  "en": null,
+  "en": "means this place is connected to the Black Group, doesn't it?",
   "slots": [
    "60D4E8"
   ]
@@ -1218,7 +1218,7 @@
  {
   "id": "21A918",
   "jp": "…そう…なりますね…",
-  "en": null,
+  "en": "...I suppose... it does...",
   "slots": [
    "60D50C"
   ]
@@ -1226,7 +1226,7 @@
  {
   "id": "21A8FC",
   "jp": "何ぐずぐず言ってるんだ…",
-  "en": null,
+  "en": "What are you muttering about...",
   "slots": [
    "60D530"
   ]
@@ -1234,7 +1234,7 @@
  {
   "id": "21A8DC",
   "jp": "だまっているならこちらから！",
-  "en": null,
+  "en": "If you won't talk, I'll make the first move!",
   "slots": [
    "60D554"
   ]
@@ -1242,7 +1242,7 @@
  {
   "id": "21A8D0",
   "jp": "みなさん！",
-  "en": null,
+  "en": "Everyone!",
   "slots": [
    "60D578"
   ]
@@ -1250,7 +1250,7 @@
  {
   "id": "21A8B0",
   "jp": "とりあえずここは逃げましょう！",
-  "en": null,
+  "en": "For now, let's run for it!",
   "slots": [
    "60D59C"
   ]
@@ -1258,7 +1258,7 @@
  {
   "id": "21B898",
   "jp": "まだ追ってきやがる！",
-  "en": null,
+  "en": "They're still after us!",
   "slots": [
    "60D5E4"
   ]
@@ -1266,7 +1266,7 @@
  {
   "id": "21B884",
   "jp": "しかたありません…",
-  "en": null,
+  "en": "No choice...",
   "slots": [
    "60D608"
   ]
@@ -1274,7 +1274,7 @@
  {
   "id": "21B84C",
   "jp": "外でやりあうと、仲間が\n集まってくるかもしれません。",
-  "en": null,
+  "en": "If we fight outside, more of their friends might show up.",
   "slots": [
    "60D62C"
   ]
@@ -1282,7 +1282,7 @@
  {
   "id": "21B83C",
   "jp": "闘技場の中へ！",
-  "en": null,
+  "en": "Into the arena!",
   "slots": [
    "60D650"
   ]
@@ -1290,7 +1290,7 @@
  {
   "id": "21B830",
   "jp": "わかった！",
-  "en": null,
+  "en": "Got it!",
   "slots": [
    "60D674"
   ]
@@ -1298,7 +1298,7 @@
  {
   "id": "21B828",
   "jp": "レン！",
-  "en": null,
+  "en": "Ren!",
   "slots": [
    "60D698"
   ]
@@ -1306,7 +1306,7 @@
  {
   "id": "21B820",
   "jp": "うん。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "60D6BC",
    "60E388"
@@ -1315,7 +1315,7 @@
  {
   "id": "21B814",
   "jp": "…ったく…",
-  "en": null,
+  "en": "...Damn it...",
   "slots": [
    "60D728"
   ]
@@ -1323,7 +1323,7 @@
  {
   "id": "21B7F4",
   "jp": "ヤツら、どこへ行きやがった…",
-  "en": null,
+  "en": "Where'd those guys go...",
   "slots": [
    "60D74C"
   ]
@@ -1339,7 +1339,7 @@
  {
   "id": "21B7D8",
   "jp": "黒いカラスさんたち～",
-  "en": null,
+  "en": "Little black crows~",
   "slots": [
    "60D794"
   ]
@@ -1347,7 +1347,7 @@
  {
   "id": "21B7A4",
   "jp": "闇にかくれひそむのが\n闇が無くちゃあ、まる見えよ。",
-  "en": null,
+  "en": "You may lurk hidden in the dark, but with no dark, you're in plain sight.",
   "slots": [
    "60D7B8"
   ]
@@ -1355,7 +1355,7 @@
  {
   "id": "21B75C",
   "jp": "ここはおとなしく\n引き下がった方がかしこいと\n私は思うんですけどね。",
-  "en": null,
+  "en": "I really do think it'd be wiser to back down quietly here.",
   "slots": [
    "60D7DC"
   ]
@@ -1363,7 +1363,7 @@
  {
   "id": "21B754",
   "jp": "誰が…",
-  "en": null,
+  "en": "Like we would...",
   "slots": [
    "60D800"
   ]
@@ -1371,7 +1371,7 @@
  {
   "id": "21B728",
   "jp": "きさまらなぞ、\nコテンパンにのしてやる。",
-  "en": null,
+  "en": "We'll beat you lot to a pulp.",
   "slots": [
    "60D824"
   ]
@@ -1379,7 +1379,7 @@
  {
   "id": "21B714",
   "jp": "そう…ですよね～。",
-  "en": null,
+  "en": "Ri~ght, I figured.",
   "slots": [
    "60D848"
   ]
@@ -1387,7 +1387,7 @@
  {
   "id": "21B6BC",
   "jp": "先ほどは、地下施設であることや\nせまさ、ほかに誰かいるかもと\n手を出せませんでしたが…",
-  "en": null,
+  "en": "Earlier, the underground facility, the tight space, and the chance someone else was there kept us from acting...",
   "slots": [
    "60D86C"
   ]
@@ -1395,7 +1395,7 @@
  {
   "id": "21B688",
   "jp": "ここなら、気にしないで\nやりたいほうだいですわ。",
-  "en": null,
+  "en": "But here, we can go all out without a care.",
   "slots": [
    "60D890"
   ]
@@ -1403,7 +1403,7 @@
  {
   "id": "21B674",
   "jp": "さぁ、いきますよ！",
-  "en": null,
+  "en": "Now, here we come!",
   "slots": [
    "60D8B4"
   ]
@@ -1411,7 +1411,7 @@
  {
   "id": "21B64C",
   "jp": "…はじめっから\nやる気だったんじゃん…",
-  "en": null,
+  "en": "...You were itching for a fight from the start...",
   "slots": [
    "60D8D8"
   ]
@@ -1419,7 +1419,7 @@
  {
   "id": "21B634",
   "jp": "泣きごとはきかねぇ！！",
-  "en": null,
+  "en": "No whining!!",
   "slots": [
    "60D8FC"
   ]
@@ -1427,7 +1427,7 @@
  {
   "id": "21C70C",
   "jp": "何とかやったな…",
-  "en": null,
+  "en": "We managed it...",
   "slots": [
    "60D944"
   ]
@@ -1435,7 +1435,7 @@
  {
   "id": "21C6D8",
   "jp": "この人たちは、アークエイルに\n引きわたしましょう。",
-  "en": null,
+  "en": "Let's hand these people over to Arc Aile.",
   "slots": [
    "60D968"
   ]
@@ -1443,7 +1443,7 @@
  {
   "id": "21C6C8",
   "jp": "で、どうする？",
-  "en": null,
+  "en": "So, what now?",
   "slots": [
    "60D98C"
   ]
@@ -1451,7 +1451,7 @@
  {
   "id": "21C6A0",
   "jp": "もう一回、地下施設に\nのりこみますか。",
-  "en": null,
+  "en": "Shall we storm the underground facility again?",
   "slots": [
    "60D9B0"
   ]
@@ -1459,7 +1459,7 @@
  {
   "id": "21C664",
   "jp": "このさわぎでも、チルルさんは\n出てこなかったわけですし。",
-  "en": null,
+  "en": "Chiruru-san didn't come out even with all this commotion, after all.",
   "slots": [
    "60D9D4"
   ]
@@ -1467,7 +1467,7 @@
  {
   "id": "21C64C",
   "jp": "んじゃ、行ってみるか。",
-  "en": null,
+  "en": "Well then, let's go have a look.",
   "slots": [
    "60D9F8"
   ]
@@ -1475,7 +1475,7 @@
  {
   "id": "21C61C",
   "jp": "さっき戦ったやつらしか\nいなかったみたいだな。",
-  "en": null,
+  "en": "Looks like only the guys we just fought were here.",
   "slots": [
    "60DA64"
   ]
@@ -1483,7 +1483,7 @@
  {
   "id": "21C604",
   "jp": "今のうちに探そうぜ。",
-  "en": null,
+  "en": "Let's search while we can.",
   "slots": [
    "60DA88"
   ]
@@ -1491,7 +1491,7 @@
  {
   "id": "21C5F0",
   "jp": "わかってますよ。",
-  "en": null,
+  "en": "I know.",
   "slots": [
    "60DAAC"
   ]
@@ -1499,7 +1499,7 @@
  {
   "id": "21C5C0",
   "jp": "チルルさーん、チルルさーん。\nどこですか～？",
-  "en": null,
+  "en": "Chiruru-sa~n, Chiruru-sa~n. Where are you~?",
   "slots": [
    "60DAD0"
   ]
@@ -1507,7 +1507,7 @@
  {
   "id": "21C5A8",
   "jp": "こわくないですよ～。",
-  "en": null,
+  "en": "There's nothing to be scared of~.",
   "slots": [
    "60DAF4"
   ]
@@ -1515,7 +1515,7 @@
  {
   "id": "21C580",
   "jp": "ペット探してるわけじゃ\nないんだから…",
-  "en": null,
+  "en": "It's not like we're looking for a lost pet...",
   "slots": [
    "60DB18"
   ]
@@ -1523,7 +1523,7 @@
  {
   "id": "21C578",
   "jp": "アッ！",
-  "en": null,
+  "en": "Ah!",
   "slots": [
    "60DB3C"
   ]
@@ -1531,7 +1531,7 @@
  {
   "id": "21C56C",
   "jp": "ヘッ！？",
-  "en": null,
+  "en": "Huh?!",
   "slots": [
    "60DB60"
   ]
@@ -1539,7 +1539,7 @@
  {
   "id": "21C55C",
   "jp": "ッテーッ！！",
-  "en": null,
+  "en": "Owwww!!",
   "slots": [
    "60DBA8"
   ]
@@ -1547,7 +1547,7 @@
  {
   "id": "21C54C",
   "jp": "な、何だよ…",
-  "en": null,
+  "en": "Wh-what the...",
   "slots": [
    "60DBCC"
   ]
@@ -1555,7 +1555,7 @@
  {
   "id": "21C528",
   "jp": "何かでっかいゴミが落ちて\n来たぞ…",
-  "en": null,
+  "en": "Some big piece of junk just fell down...",
   "slots": [
    "60DBF0"
   ]
@@ -1563,7 +1563,7 @@
  {
   "id": "21C500",
   "jp": "ゴミですって！？\nゴミじゃないのヨ！！",
-  "en": null,
+  "en": "Junk?! I'm not junk, you know!!",
   "slots": [
    "60DC14"
   ]
@@ -1571,7 +1571,7 @@
  {
   "id": "21C4B4",
   "jp": "アンタたちがアタシのこと\n探してると思ったから\n出てきてあげたんでショ。",
-  "en": null,
+  "en": "I figured you were looking for me, so I came out for you, didn't I?",
   "slots": [
    "60DC38"
   ]
@@ -1579,7 +1579,7 @@
  {
   "id": "21C49C",
   "jp": "出てきたって…上から？",
-  "en": null,
+  "en": "Came out... from above?",
   "slots": [
    "60DC5C"
   ]
@@ -1587,7 +1587,7 @@
  {
   "id": "21C48C",
   "jp": "わかりました！",
-  "en": null,
+  "en": "I've got it!",
   "slots": [
    "60DC80"
   ]
@@ -1595,7 +1595,7 @@
  {
   "id": "21C440",
   "jp": "上にいたから、それで\nチルルさんは、レーダーに\nうつらなかったんですよ。",
-  "en": null,
+  "en": "She was up above, so that's why Chiruru-san didn't show up on the radar.",
   "slots": [
    "60DCA4"
   ]
@@ -1603,7 +1603,7 @@
  {
   "id": "21C414",
   "jp": "今なら、この\nエディルレイドレーダーで…",
-  "en": null,
+  "en": "Now, with this Edel Raid Radar...",
   "slots": [
    "60DCC8"
   ]
@@ -1611,7 +1611,7 @@
  {
   "id": "21C3F0",
   "jp": "これがレンさん、\nこれがキーアで…",
-  "en": null,
+  "en": "This is Ren-san, this is Kea...",
   "slots": [
    "60DCEC"
   ]
@@ -1619,7 +1619,7 @@
  {
   "id": "21C3D4",
   "jp": "あら？\nやっぱり二つだけ…",
-  "en": null,
+  "en": "Huh? Still only two...",
   "slots": [
    "60DD10"
   ]
@@ -1627,7 +1627,7 @@
  {
   "id": "21C3A8",
   "jp": "チルルさんが、レーダーに\nうつってません！",
-  "en": null,
+  "en": "Chiruru-san isn't showing up on the radar!",
   "slots": [
    "60DD34"
   ]
@@ -1635,7 +1635,7 @@
  {
   "id": "21C37C",
   "jp": "無事だったのね。\n心配して見に来たのよ？",
-  "en": null,
+  "en": "You're safe. We were worried and came to check on you, you know?",
   "slots": [
    "60DD58"
   ]
@@ -1643,7 +1643,7 @@
  {
   "id": "21C360",
   "jp": "さあ、ここから出ましょう。",
-  "en": null,
+  "en": "Come on, let's get out of here.",
   "slots": [
    "60DD7C"
   ]
@@ -1651,7 +1651,7 @@
  {
   "id": "21C348",
   "jp": "待って、待ってなのヨ。",
-  "en": null,
+  "en": "Wait, wait!",
   "slots": [
    "60DDA0"
   ]
@@ -1659,7 +1659,7 @@
  {
   "id": "21C31C",
   "jp": "せっかくヴォル君一人に\nなったんだから！",
-  "en": null,
+  "en": "Vol-kun's finally on his own, you know!",
   "slots": [
    "60DDC4"
   ]
@@ -1667,7 +1667,7 @@
  {
   "id": "21C30C",
   "jp": "…一人って？",
-  "en": null,
+  "en": "...On his own?",
   "slots": [
    "60DDE8"
   ]
@@ -1675,7 +1675,7 @@
  {
   "id": "21C2F4",
   "jp": "まだ、人がいたんだ。",
-  "en": null,
+  "en": "So someone was still here.",
   "slots": [
    "60DE0C"
   ]
@@ -1683,7 +1683,7 @@
  {
   "id": "21C2C8",
   "jp": "さっきほかのヤツラが\n出てっちゃったから",
-  "en": null,
+  "en": "The other guys went out a little while ago,",
   "slots": [
    "60DE30"
   ]
@@ -1691,7 +1691,7 @@
  {
   "id": "21C2A0",
   "jp": "今ここには\nヴォル君しかいないのヨ。",
-  "en": null,
+  "en": "so right now only Vol-kun's here.",
   "slots": [
    "60DE54"
   ]

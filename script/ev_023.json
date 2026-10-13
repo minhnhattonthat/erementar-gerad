@@ -2,7 +2,7 @@
  {
   "id": "21D518",
   "jp": "いっしょに、\nエディルガーデンへ\n行こうな。",
-  "en": null,
+  "en": "Let's go to Edel Garden together.",
   "slots": [
    "60FFA8"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "21D50C",
   "jp": "よっしゃ。",
-  "en": null,
+  "en": "All right!",
   "slots": [
    "60FFF0"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "21D4F8",
   "jp": "宿へもどろうぜ！",
-  "en": null,
+  "en": "Let's head back to the inn!",
   "slots": [
    "610014"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "21D4DC",
   "jp": "お、おわったんですね！？",
-  "en": null,
+  "en": "Y-you're finished?!",
   "slots": [
    "61005C"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "21D4C8",
   "jp": "ああ。バッチシ！",
-  "en": null,
+  "en": "Yeah. Nailed it!",
   "slots": [
    "610080"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "21D480",
   "jp": "シスカったらね、\n『クーさんだけにまかせて\n　られませんワッ』とかって",
-  "en": null,
+  "en": "Cisqua was all, \"I can't just leave this to Cou-san!\" and she was",
   "slots": [
    "6100A4"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "21D460",
   "jp": "ジタバタうるさかったのよ～。",
-  "en": null,
+  "en": "flailing around and making a racket the whole time~",
   "slots": [
    "6100C8"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "21D430",
   "jp": "見せてあげたかったわ\nあの不安そうなシスカ。",
-  "en": null,
+  "en": "I wish you could've seen how worried Cisqua looked.",
   "slots": [
    "6100EC"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "21D400",
   "jp": "何言ってるんですか！\nわ、私は…別に…そんな…",
-  "en": null,
+  "en": "What are you saying?! I-I wasn't... particularly... like that...",
   "slots": [
    "610110"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "21D3B4",
   "jp": "とにかくこれで準備が\nととのったわけですし\nエディルレイドを探しますよ！",
-  "en": null,
+  "en": "Anyway, now we're all prepared, so let's go find the Edel Raid!",
   "slots": [
    "610134"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "21D35C",
   "jp": "それから、カールセンさんの\n昔を知るために、教会へ行って\n神父サマに話をききましょう。",
-  "en": null,
+  "en": "And to learn about Carlsen-san's past, let's go to the church and talk to the priest.",
   "slots": [
    "610158"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "21D348",
   "jp": "おう。行こうぜ。",
-  "en": null,
+  "en": "Yeah. Let's go.",
   "slots": [
    "61017C"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "21F1B4",
   "jp": "あれ？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "610230",
    "611670"
@@ -107,7 +107,7 @@
  {
   "id": "21F19C",
   "jp": "ばーちゃん、いないな。",
-  "en": null,
+  "en": "Granny's not here.",
   "slots": [
    "610254"
   ]
@@ -115,7 +115,7 @@
  {
   "id": "21F194",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "6102E4",
    "610620",
@@ -164,7 +164,7 @@
  {
   "id": "21F150",
   "jp": "つかまっている\nプレジャーさんたちと、\n会わせてもらって来ます。",
-  "en": null,
+  "en": "I'll go ask if they'll let me see the Pledgers they're holding.",
   "slots": [
    "610398"
   ]
@@ -172,7 +172,7 @@
  {
   "id": "21F13C",
   "jp": "待っていて下さい。",
-  "en": null,
+  "en": "Please wait here.",
   "slots": [
    "6103BC"
   ]
@@ -180,7 +180,7 @@
  {
   "id": "21F134",
   "jp": "オウ。",
-  "en": null,
+  "en": "Sure.",
   "slots": [
    "6103E0"
   ]
@@ -188,7 +188,7 @@
  {
   "id": "21F128",
   "jp": "あのォ～。",
-  "en": null,
+  "en": "Ummm~",
   "slots": [
    "61044C"
   ]
@@ -196,7 +196,7 @@
  {
   "id": "21F0E8",
   "jp": "黒集団の中にいた\nプレジャーさんたちと\n会ったりできませんか？",
-  "en": null,
+  "en": "Would it be possible to meet the Pledgers who were with the Black Group?",
   "slots": [
    "610470"
   ]
@@ -204,7 +204,7 @@
  {
   "id": "21F0D8",
   "jp": "できません。",
-  "en": null,
+  "en": "No, it would not.",
   "slots": [
    "610494"
   ]
@@ -212,7 +212,7 @@
  {
   "id": "21F0C4",
   "jp": "そ、そうですか…",
-  "en": null,
+  "en": "I-I see...",
   "slots": [
    "6104B8"
   ]
@@ -220,7 +220,7 @@
  {
   "id": "21F0AC",
   "jp": "でもそこを何とか、ね？",
-  "en": null,
+  "en": "But couldn't you make an exception, hmm?",
   "slots": [
    "6104DC"
   ]
@@ -228,7 +228,7 @@
  {
   "id": "21F070",
   "jp": "彼らは、手がつけられないほど\nこうげき的になっています。",
-  "en": null,
+  "en": "They've become so aggressive that no one can handle them.",
   "slots": [
    "610500"
   ]
@@ -236,7 +236,7 @@
  {
   "id": "21F044",
   "jp": "危険なので、会わせることは\nできません。",
-  "en": null,
+  "en": "It's dangerous, so we can't let you see them.",
   "slots": [
    "610524"
   ]
@@ -244,7 +244,7 @@
  {
   "id": "21F02C",
   "jp": "はい…わかりました…",
-  "en": null,
+  "en": "Yes... I understand...",
   "slots": [
    "610548"
   ]
@@ -252,7 +252,7 @@
  {
   "id": "21EFF8",
   "jp": "なかなかキッパリとして\nさっぱりした人ですよね…",
-  "en": null,
+  "en": "He's quite the firm, cut-and-dried sort, isn't he...",
   "slots": [
    "6105B4"
   ]
@@ -260,7 +260,7 @@
  {
   "id": "21EFE4",
   "jp": "何かあったのか？",
-  "en": null,
+  "en": "Something happen?",
   "slots": [
    "6105D8"
   ]
@@ -268,7 +268,7 @@
  {
   "id": "21EF8C",
   "jp": "プレジャーさんたちと会っても、\n話し合いができないのなら\n会ってもしかたありませんね。",
-  "en": null,
+  "en": "Even if we met the Pledgers, there's no point if we can't talk things over with them.",
   "slots": [
    "6106B0"
   ]
@@ -276,7 +276,7 @@
  {
   "id": "21EF50",
   "jp": "橋があがってるせいで\nブレイブスアルカへは\n行けないね。",
-  "en": null,
+  "en": "With the bridge raised, we can't get to Braves Arca.",
   "slots": [
    "610788"
   ]
@@ -284,7 +284,7 @@
  {
   "id": "21EF38",
   "jp": "じーさん、今日もツリ？",
-  "en": null,
+  "en": "Gramps, fishin' again today?",
   "slots": [
    "610860"
   ]
@@ -292,7 +292,7 @@
  {
   "id": "21EF28",
   "jp": "ホッホッホ。",
-  "en": null,
+  "en": "Ho ho ho.",
   "slots": [
    "610884"
   ]
@@ -300,7 +300,7 @@
  {
   "id": "21EF00",
   "jp": "今日も明日もあさっても\nつりじゃよ。",
-  "en": null,
+  "en": "Today, tomorrow and the day after, it's fishing.",
   "slots": [
    "6108A8"
   ]
@@ -308,7 +308,7 @@
  {
   "id": "21EEE0",
   "jp": "うまいもん、つってくれよな！",
-  "en": null,
+  "en": "Catch us somethin' tasty, okay?",
   "slots": [
    "6108CC"
   ]
@@ -316,7 +316,7 @@
  {
   "id": "21EEBC",
   "jp": "さぁ、思い通りに\nつれるかどうか…",
-  "en": null,
+  "en": "Well, whether they'll bite the way I want...",
   "slots": [
    "6108F0"
   ]
@@ -324,7 +324,7 @@
  {
   "id": "21EE9C",
   "jp": "ま、それが楽しいんじゃがな。",
-  "en": null,
+  "en": "Then again, that's the fun of it.",
   "slots": [
    "610914"
   ]
@@ -332,7 +332,7 @@
  {
   "id": "21EE54",
   "jp": "そいや、こないだ港で\nさわぎがあったけど\nあの後、大丈夫だったのか？",
-  "en": null,
+  "en": "Speakin' of which, there was a commotion at the harbor the other day. Was everything okay after that?",
   "slots": [
    "610938"
   ]
@@ -340,7 +340,7 @@
  {
   "id": "21EE4C",
   "jp": "ん？",
-  "en": null,
+  "en": "Hm?",
   "slots": [
    "61095C"
   ]
@@ -348,7 +348,7 @@
  {
   "id": "21EE18",
   "jp": "ああ、船の荷物の中にいた\n危険生物のことじゃな。",
-  "en": null,
+  "en": "Ah, you mean the dangerous creature that was in the ship's cargo.",
   "slots": [
    "610980"
   ]
@@ -356,7 +356,7 @@
  {
   "id": "21EDF8",
   "jp": "あれは、あの荷物の持ちぬしが…",
-  "en": null,
+  "en": "That was... the owner of that cargo...",
   "slots": [
    "6109A4"
   ]
@@ -364,7 +364,7 @@
  {
   "id": "21EDD4",
   "jp": "いや、何でもない。\n大丈夫じゃ。",
-  "en": null,
+  "en": "No, never mind. It's fine.",
   "slots": [
    "6109EC"
   ]
@@ -372,7 +372,7 @@
  {
   "id": "21EDB8",
   "jp": "そっか。\nそれならいいや。",
-  "en": null,
+  "en": "Gotcha. Then that's good.",
   "slots": [
    "610A10"
   ]
@@ -380,7 +380,7 @@
  {
   "id": "21ED98",
   "jp": "今度、俺もツリしてみよっかな。",
-  "en": null,
+  "en": "Maybe I'll try fishin' sometime too.",
   "slots": [
    "610AE8"
   ]
@@ -388,7 +388,7 @@
  {
   "id": "21ED80",
   "jp": "おや、お買い物かね？",
-  "en": null,
+  "en": "Oh my, out shopping?",
   "slots": [
    "610BE4"
   ]
@@ -396,7 +396,7 @@
  {
   "id": "21ED70",
   "jp": "おかみさん！",
-  "en": null,
+  "en": "Landlady!",
   "slots": [
    "610C08"
   ]
@@ -404,7 +404,7 @@
  {
   "id": "21ED28",
   "jp": "…ですよね？\nポルトガレオンのちっさな\nさくらんぼうの妹さんですよね？",
-  "en": null,
+  "en": "...Right? You're the younger sister of the Little Cherries of Porto Galeon, right?",
   "slots": [
    "610C2C"
   ]
@@ -412,7 +412,7 @@
  {
   "id": "21ED1C",
   "jp": "フフフ。",
-  "en": null,
+  "en": "Heh heh heh.",
   "slots": [
    "610C50"
   ]
@@ -420,7 +420,7 @@
  {
   "id": "21ED00",
   "jp": "宿屋のおかみでアタリだよ。",
-  "en": null,
+  "en": "Right you are, the landlady of the inn.",
   "slots": [
    "610C74"
   ]
@@ -428,7 +428,7 @@
  {
   "id": "21ECF8",
   "jp": "ふ～。",
-  "en": null,
+  "en": "Phew~",
   "slots": [
    "610C98"
   ]
@@ -436,7 +436,7 @@
  {
   "id": "21ECBC",
   "jp": "本当にお二人は似て\nいらっしゃるから\nドキドキものですわ。",
-  "en": null,
+  "en": "You two look so much alike, it really makes my heart race.",
   "slots": [
    "610CBC"
   ]
@@ -444,7 +444,7 @@
  {
   "id": "21ECA0",
   "jp": "オバーチャン、買い物中？",
-  "en": null,
+  "en": "Granny, you out shopping?",
   "slots": [
    "610CE0"
   ]
@@ -452,7 +452,7 @@
  {
   "id": "21EC64",
   "jp": "そうだよ。\n今日の買出しをしようと\n思って出てきたんだよ。",
-  "en": null,
+  "en": "That's right. I came out to do today's shopping.",
   "slots": [
    "610D04"
   ]
@@ -460,7 +460,7 @@
  {
   "id": "21EC24",
   "jp": "それより、アンタたち\n森の向こうにある教会へ\n行ったんだって？",
-  "en": null,
+  "en": "More to the point, I hear you went to the church past the forest?",
   "slots": [
    "610D28"
   ]
@@ -468,7 +468,7 @@
  {
   "id": "21EC1C",
   "jp": "ええ。",
-  "en": null,
+  "en": "Yes.",
   "slots": [
    "610D4C",
    "613F38",
@@ -480,7 +480,7 @@
  {
   "id": "21EBF4",
   "jp": "小さくて、かわいらしい\n教会でした…",
-  "en": null,
+  "en": "It was a small, charming church...",
   "slots": [
    "610D70"
   ]
@@ -488,7 +488,7 @@
  {
   "id": "21EBCC",
   "jp": "これから、\nまた行くとこなんですよ。",
-  "en": null,
+  "en": "We're actually heading back there now.",
   "slots": [
    "610D94"
   ]
@@ -496,7 +496,7 @@
  {
   "id": "21EB9C",
   "jp": "いいトコロだろう。\nでも、教会へ行ったんなら…",
-  "en": null,
+  "en": "Nice place, ain't it? But if you went to the church...",
   "slots": [
    "610DB8"
   ]
@@ -504,7 +504,7 @@
  {
   "id": "21EB68",
   "jp": "あの家も見たんだね。\nありゃ、何回見てもつらいわ…",
-  "en": null,
+  "en": "then you saw that house too. It hurts to look at, no matter how many times I see it...",
   "slots": [
    "610DDC"
   ]
@@ -512,7 +512,7 @@
  {
   "id": "21EB4C",
   "jp": "あのこわれた家…ですか。",
-  "en": null,
+  "en": "That ruined house... you mean?",
   "slots": [
    "610E00"
   ]
@@ -520,7 +520,7 @@
  {
   "id": "21EB2C",
   "jp": "事故があったと、ききました。",
-  "en": null,
+  "en": "I heard there was an accident.",
   "slots": [
    "610E24"
   ]
@@ -528,7 +528,7 @@
  {
   "id": "21EB1C",
   "jp": "そうなんだよ。",
-  "en": null,
+  "en": "That's right.",
   "slots": [
    "610E48"
   ]
@@ -536,7 +536,7 @@
  {
   "id": "21EAE4",
   "jp": "カールセンとエンダちゃん。\nあんなに仲がよかったのに…",
-  "en": null,
+  "en": "Carlsen and Enda-chan. They got along so well...",
   "slots": [
    "610E6C"
   ]
@@ -544,7 +544,7 @@
  {
   "id": "21EA98",
   "jp": "くわしいことは知らないけど\n事故があってから、\nカールセンはケガしたって。",
-  "en": null,
+  "en": "I don't know the details, but I hear Carlsen got hurt in the accident.",
   "slots": [
    "610E90"
   ]
@@ -552,7 +552,7 @@
  {
   "id": "21EA7C",
   "jp": "動けないって言うじゃない…",
-  "en": null,
+  "en": "They say he can't move...",
   "slots": [
    "610EB4"
   ]
@@ -560,7 +560,7 @@
  {
   "id": "21EA6C",
   "jp": "かわいそうに。",
-  "en": null,
+  "en": "Poor thing.",
   "slots": [
    "610ED8"
   ]
@@ -568,7 +568,7 @@
  {
   "id": "21EA30",
   "jp": "やはり、あの家は\nカールセンさんのもの\nだったんですね…",
-  "en": null,
+  "en": "So that house really was Carlsen-san's...",
   "slots": [
    "610EFC"
   ]
@@ -576,7 +576,7 @@
  {
   "id": "21E9E8",
   "jp": "でも安心して下さい。\nカールセンさんは、今は\n元気になられましたから。",
-  "en": null,
+  "en": "But don't worry. Carlsen-san is doing well now.",
   "slots": [
    "610F20"
   ]
@@ -584,7 +584,7 @@
  {
   "id": "21E9D0",
   "jp": "あら？　そうなのかい？",
-  "en": null,
+  "en": "Oh? Is that so?",
   "slots": [
    "610F44"
   ]
@@ -592,7 +592,7 @@
  {
   "id": "21E990",
   "jp": "それはおいわいに、\nおいしいごちそう\n持ってってやんなきゃね。",
-  "en": null,
+  "en": "Then I'll have to bring him a tasty feast to celebrate.",
   "slots": [
    "610F68"
   ]
@@ -600,7 +600,7 @@
  {
   "id": "21E968",
   "jp": "さぁッ！\nがんばって買い物しようかね。",
-  "en": null,
+  "en": "All right! Time to do some serious shopping.",
   "slots": [
    "610F8C"
   ]
@@ -608,7 +608,7 @@
  {
   "id": "21E93C",
   "jp": "ばーちゃん、はりきって\n行っちまったけど、",
-  "en": null,
+  "en": "Granny went off all fired up, but",
   "slots": [
    "610FD4"
   ]
@@ -616,7 +616,7 @@
  {
   "id": "21E910",
   "jp": "俺たちのメシのこと\n忘れたりしないよな？",
-  "en": null,
+  "en": "she won't forget about our meals, right?",
   "slots": [
    "610FF8"
   ]
@@ -624,7 +624,7 @@
  {
   "id": "21E8F4",
   "jp": "うう～ん。\nどうだろう。",
-  "en": null,
+  "en": "Hmmm. Who knows.",
   "slots": [
    "61101C"
   ]
@@ -632,7 +632,7 @@
  {
   "id": "21E8DC",
   "jp": "忘れてないといいね。",
-  "en": null,
+  "en": "Let's hope she hasn't forgotten.",
   "slots": [
    "611040"
   ]
@@ -640,7 +640,7 @@
  {
   "id": "21E8B8",
   "jp": "ばーちゃん、\nまだ買い物してる…",
-  "en": null,
+  "en": "Granny's still shopping...",
   "slots": [
    "611118"
   ]
@@ -648,7 +648,7 @@
  {
   "id": "21E89C",
   "jp": "森へ行ってくれる約束やで！",
-  "en": null,
+  "en": "You promised you'd go to the forest with me!",
   "slots": [
    "6111F0"
   ]
@@ -656,7 +656,7 @@
  {
   "id": "21E874",
   "jp": "街もどるんは、\nその後にしてくれんか。",
-  "en": null,
+  "en": "Head back to town after that, would ya?",
   "slots": [
    "611214"
   ]
@@ -664,7 +664,7 @@
  {
   "id": "21E844",
   "jp": "なぁんか、あたし\n教会のことで思ったんだけど、",
-  "en": null,
+  "en": "Y'know, I was thinking about the church, and",
   "slots": [
    "6112EC"
   ]
@@ -672,7 +672,7 @@
  {
   "id": "21E80C",
   "jp": "あの森を通れないんじゃ、\n誰も教会なんか行かないよね。",
-  "en": null,
+  "en": "if no one can get through that forest, nobody's gonna go to the church, right?",
   "slots": [
    "611310"
   ]
@@ -680,7 +680,7 @@
  {
   "id": "21E804",
   "jp": "うん…",
-  "en": null,
+  "en": "Yeah...",
   "slots": [
    "611334"
   ]
@@ -688,7 +688,7 @@
  {
   "id": "21E7EC",
   "jp": "あの教会を建てた人…",
-  "en": null,
+  "en": "The person who built that church...",
   "slots": [
    "611358"
   ]
@@ -696,7 +696,7 @@
  {
   "id": "21E7E0",
   "jp": "なぁに？",
-  "en": null,
+  "en": "What?",
   "slots": [
    "61137C"
   ]
@@ -704,7 +704,7 @@
  {
   "id": "21E7B8",
   "jp": "カールセンの\nお父さんがどうしたの？",
-  "en": null,
+  "en": "What about Carlsen's dad?",
   "slots": [
    "6113A0"
   ]
@@ -712,7 +712,7 @@
  {
   "id": "21E79C",
   "jp": "やさしい人だったのかな。",
-  "en": null,
+  "en": "I wonder if he was a kind person.",
   "slots": [
    "6113C4"
   ]
@@ -720,7 +720,7 @@
  {
   "id": "21E748",
   "jp": "そうねぇ。街の人たちが\n心やすまる場所を作ったんなら\nやっぱやさしい人じゃない？",
-  "en": null,
+  "en": "Hmm. If he made a place where the people of the town could find peace, he must've been kind, right?",
   "slots": [
    "61140C"
   ]
@@ -728,7 +728,7 @@
  {
   "id": "21E714",
   "jp": "それに似て、やさしい子\nだったんでしょ。アイツも。",
-  "en": null,
+  "en": "And that guy must've been a kind kid too, just like him.",
   "slots": [
    "611430"
   ]
@@ -736,7 +736,7 @@
  {
   "id": "21E6F8",
   "jp": "事故があった日まではサ。",
-  "en": null,
+  "en": "Until the day of the accident, anyway.",
   "slots": [
    "611454"
   ]
@@ -744,7 +744,7 @@
  {
   "id": "21E6E8",
   "jp": "なぜかしら…",
-  "en": null,
+  "en": "I wonder why...",
   "slots": [
    "611478"
   ]
@@ -752,7 +752,7 @@
  {
   "id": "21E6D0",
   "jp": "うう～ん、いい天気！",
-  "en": null,
+  "en": "Mmmm~ What nice weather!",
   "slots": [
    "611550"
   ]
@@ -760,7 +760,7 @@
  {
   "id": "21E6A4",
   "jp": "ばーちゃん、いないな。\nどこ行ったんだろ…",
-  "en": null,
+  "en": "Granny's not here. Where'd she go...",
   "slots": [
    "611694"
   ]
@@ -768,7 +768,7 @@
  {
   "id": "21E694",
   "jp": "あ、まいどッ！",
-  "en": null,
+  "en": "Oh, howdy!",
   "slots": [
    "6117D8"
   ]
@@ -776,7 +776,7 @@
  {
   "id": "21E650",
   "jp": "約束通り、来てくれたんやな。\nそんじゃ、よろしゅう\nたのんます。",
-  "en": null,
+  "en": "Ya came, just like ya promised. Well then, I'm countin' on ya.",
   "slots": [
    "6117FC"
   ]
@@ -784,7 +784,7 @@
  {
   "id": "21E628",
   "jp": "お。ちょうどエエトコに\n来てくれた。",
-  "en": null,
+  "en": "Oh. You came at just the right time.",
   "slots": [
    "611820"
   ]
@@ -792,7 +792,7 @@
  {
   "id": "21E600",
   "jp": "は？　商人さんが\nこんなトコロで何を？",
-  "en": null,
+  "en": "Huh? Mister Merchant, what are you doing in a place like this?",
   "slots": [
    "611844"
   ]
@@ -800,7 +800,7 @@
  {
   "id": "21E5B4",
   "jp": "じつは、森の向こうへ行かな\nあかんようになってしもて。\n一人やと危険やろ？",
-  "en": null,
+  "en": "Truth is, I've gotta get past the forest. Goin' alone's dangerous, ain't it?",
   "slots": [
    "611868"
   ]
@@ -808,7 +808,7 @@
  {
   "id": "21E56C",
   "jp": "ケモノやらサンゾクやらを\nこないだみたいに\nたおしてもらえんかと思て。",
-  "en": null,
+  "en": "I was hopin' you'd take down the beasts and bandits for me, like ya did the other day.",
   "slots": [
    "61188C"
   ]
@@ -816,7 +816,7 @@
  {
   "id": "21E558",
   "jp": "やってくれんかな？",
-  "en": null,
+  "en": "Whaddya say?",
   "slots": [
    "6118B0"
   ]
@@ -824,7 +824,7 @@
  {
   "id": "21E548",
   "jp": "はぁ…まあ…",
-  "en": null,
+  "en": "Um... well...",
   "slots": [
    "6118D4"
   ]
@@ -832,7 +832,7 @@
  {
   "id": "21E514",
   "jp": "ことわる理由もありませんので\n問題ないですけど？",
-  "en": null,
+  "en": "We have no reason to refuse, so I don't see a problem?",
   "slots": [
    "6118F8"
   ]
@@ -840,7 +840,7 @@
  {
   "id": "21E504",
   "jp": "ほなさっそく…",
-  "en": null,
+  "en": "Then let's get goin'...",
   "slots": [
    "61191C"
   ]
@@ -848,7 +848,7 @@
  {
   "id": "21E4EC",
   "jp": "ちょっと待って下さい。",
-  "en": null,
+  "en": "Wait a moment, please.",
   "slots": [
    "611940",
    "618270"
@@ -857,7 +857,7 @@
  {
   "id": "21E4D8",
   "jp": "何や、問題でも？",
-  "en": null,
+  "en": "What, somethin' wrong?",
   "slots": [
    "611964"
   ]
@@ -865,7 +865,7 @@
  {
   "id": "21E490",
   "jp": "商人さんは、森をぬけて\nいったいどちらへ\n行かれるのかと思いまして。",
-  "en": null,
+  "en": "I was just wondering where exactly you're headed once you're through the forest, Mister Merchant.",
   "slots": [
    "611988"
   ]
@@ -873,7 +873,7 @@
  {
   "id": "21E488",
   "jp": "ぐ。",
-  "en": null,
+  "en": "Urk.",
   "slots": [
    "6119AC"
   ]
@@ -881,7 +881,7 @@
  {
   "id": "21E43C",
   "jp": "そ、それはヒミツやわ。\n話すわけにゃいかんねん。\nあかんねん！　商売や。",
-  "en": null,
+  "en": "Th-that's a secret. I can't tell ya. No way! It's business.",
   "slots": [
    "6119D0"
   ]
@@ -889,7 +889,7 @@
  {
   "id": "21E42C",
   "jp": "…そうですか…",
-  "en": null,
+  "en": "...I see...",
   "slots": [
    "6119F4"
   ]
@@ -897,7 +897,7 @@
  {
   "id": "21E3F8",
   "jp": "森をぬけた後、どこか\nほかの街に行かれるんでしたら",
-  "en": null,
+  "en": "If you're going on to some other town after the forest,",
   "slots": [
    "611A18"
   ]
@@ -905,7 +905,7 @@
  {
   "id": "21E3AC",
   "jp": "森の中をごいっしょできるのは\n行きだけになりますが\nそれでよろしいですか？",
-  "en": null,
+  "en": "we can only accompany you through the forest on the way there. Is that all right?",
   "slots": [
    "611A3C"
   ]
@@ -913,7 +913,7 @@
  {
   "id": "21E398",
   "jp": "へ？　あ、あああ…",
-  "en": null,
+  "en": "Huh? Oh, uh, uhh...",
   "slots": [
    "611A60"
   ]
@@ -921,7 +921,7 @@
  {
   "id": "21E36C",
   "jp": "そんな、はなれたトコやなくて…\nそのォ…",
-  "en": null,
+  "en": "It ain't someplace far off like that... Um...",
   "slots": [
    "611A84"
   ]
@@ -929,7 +929,7 @@
  {
   "id": "21E338",
   "jp": "ちょっとばかし待っとって\nもらえたらエエんやけど。",
-  "en": null,
+  "en": "I was hopin' you could just wait for me a little while.",
   "slots": [
    "611AA8"
   ]
@@ -937,7 +937,7 @@
  {
   "id": "21E320",
   "jp": "『ちょっと』…ですか。",
-  "en": null,
+  "en": "\"A little while\"... you say.",
   "slots": [
    "611ACC"
   ]
@@ -945,7 +945,7 @@
  {
   "id": "21E2EC",
   "jp": "われわれも、そんなに時間が\nかかりませんかしら。",
-  "en": null,
+  "en": "Our own business shouldn't take that long either, I suppose.",
   "slots": [
    "611AF0"
   ]
@@ -953,7 +953,7 @@
  {
   "id": "21E2DC",
   "jp": "そうですね…",
-  "en": null,
+  "en": "That's true...",
   "slots": [
    "611B14"
   ]
@@ -961,7 +961,7 @@
  {
   "id": "21E288",
   "jp": "僕たちがもどっていなければ\n商人さんに、待っていてもらう\nということにしませんか？",
-  "en": null,
+  "en": "If we aren't back yet, why don't we have you wait for us, Mister Merchant?",
   "slots": [
    "611B38"
   ]
@@ -969,7 +969,7 @@
  {
   "id": "21E25C",
   "jp": "お、あんたらもどっか\n行くとこやったんか？",
-  "en": null,
+  "en": "Oh, you folks got someplace to be too?",
   "slots": [
    "611B5C"
   ]
@@ -977,7 +977,7 @@
  {
   "id": "21E248",
   "jp": "ええ、僕たちは…",
-  "en": null,
+  "en": "Yes, we're...",
   "slots": [
    "611B80"
   ]
@@ -985,7 +985,7 @@
  {
   "id": "21E228",
   "jp": "それはこちらのコトですので。",
-  "en": null,
+  "en": "That's our own business.",
   "slots": [
    "611BA4"
   ]
@@ -993,7 +993,7 @@
  {
   "id": "21E210",
   "jp": "さ、まいりましょうか。",
-  "en": null,
+  "en": "Well then, shall we go?",
   "slots": [
    "611BC8"
   ]
@@ -1001,7 +1001,7 @@
  {
   "id": "21E1E4",
   "jp": "早くしないと\n夜になってしまいますからね。",
-  "en": null,
+  "en": "If we don't hurry, it'll be nightfall.",
   "slots": [
    "611BEC"
   ]
@@ -1009,7 +1009,7 @@
  {
   "id": "21E1CC",
   "jp": "そんじゃ、たのむで。",
-  "en": null,
+  "en": "All right then, I'm countin' on ya.",
   "slots": [
    "611C34"
   ]
@@ -1017,7 +1017,7 @@
  {
   "id": "21E19C",
   "jp": "はよ、森の向こうまで\n連れてってくれんかな。",
-  "en": null,
+  "en": "Hurry and get me past the forest, would ya?",
   "slots": [
    "611D0C"
   ]
@@ -1025,7 +1025,7 @@
  {
   "id": "21E154",
   "jp": "この森、じーちゃんや\nばーちゃんが歩いて\nぬけられるようになるのって",
-  "en": null,
+  "en": "So that old folks like Gramps and Granny could walk through this forest,",
   "slots": [
    "611DE4"
   ]
@@ -1033,7 +1033,7 @@
  {
   "id": "21E138",
   "jp": "どうすりゃいいんだろうな。",
-  "en": null,
+  "en": "what would it take?",
   "slots": [
    "611E08"
   ]
@@ -1041,7 +1041,7 @@
  {
   "id": "21E12C",
   "jp": "う～ん…",
-  "en": null,
+  "en": "Hmm...",
   "slots": [
    "611E2C"
   ]
@@ -1049,7 +1049,7 @@
  {
   "id": "21E100",
   "jp": "昔は、歩いてこの森を通って\n行けてたんだ。",
-  "en": null,
+  "en": "In the old days, people could walk through this forest.",
   "slots": [
    "611E50"
   ]
@@ -1057,7 +1057,7 @@
  {
   "id": "21E0A8",
   "jp": "危険生物が、どうしてこの森で\nあばれるようになったのかを\nしらべれば、何とかなるかも。",
-  "en": null,
+  "en": "If we look into why dangerous creatures started running wild in this forest, maybe we can do something.",
   "slots": [
    "611E74"
   ]
@@ -1065,7 +1065,7 @@
  {
   "id": "21E074",
   "jp": "俺たちが、この森から\nケモノたちを追い出してやる！",
-  "en": null,
+  "en": "We'll drive the beasts out of this forest!",
   "slots": [
    "611E98"
   ]
@@ -1073,7 +1073,7 @@
  {
   "id": "21E064",
   "jp": "とかはどう？",
-  "en": null,
+  "en": "How about that?",
   "slots": [
    "611EBC"
   ]
@@ -1081,7 +1081,7 @@
  {
   "id": "21E018",
   "jp": "それじゃあ、ケモノは\nそのまま、ほかの森へ行って\nあばれるだけじゃない？",
-  "en": null,
+  "en": "Then the beasts would just go to another forest and run wild there, wouldn't they?",
   "slots": [
    "611EE0"
   ]
@@ -1089,7 +1089,7 @@
  {
   "id": "21DFC8",
   "jp": "ほかの場所で、ポルトガレオンの\n街の人たちと同じ思いを\nする人が出るだけよ。",
-  "en": null,
+  "en": "It'd only mean people somewhere else going through the same thing as the people of Porto Galeon.",
   "slots": [
    "611F04"
   ]
@@ -1097,7 +1097,7 @@
  {
   "id": "21DFBC",
   "jp": "じゃあ…",
-  "en": null,
+  "en": "Then...",
   "slots": [
    "611F28"
   ]
@@ -1105,7 +1105,7 @@
  {
   "id": "21DFA4",
   "jp": "全部たおしてやるゼ！！",
-  "en": null,
+  "en": "I'll take 'em all down!!",
   "slots": [
    "611F4C"
   ]
@@ -1113,7 +1113,7 @@
  {
   "id": "21DF54",
   "jp": "昔から、この森にいた生き物まで\nまきこんでしまったら\nと思うと、コワイですね。",
-  "en": null,
+  "en": "It's scary to think we might drag in creatures that have lived in this forest since long ago, too.",
   "slots": [
    "611F70"
   ]
@@ -1121,7 +1121,7 @@
  {
   "id": "21DF3C",
   "jp": "どうすりゃいいんだよ…",
-  "en": null,
+  "en": "Then what're we supposed to do...",
   "slots": [
    "611F94"
   ]
@@ -1129,7 +1129,7 @@
  {
   "id": "21DF04",
   "jp": "ま、とりあえず今は\nエディルレイドを探すのが\n先よね。",
-  "en": null,
+  "en": "Well, for now, finding the Edel Raid comes first.",
   "slots": [
    "611FB8"
   ]
@@ -1137,7 +1137,7 @@
  {
   "id": "21DEF8",
   "jp": "そうだな。",
-  "en": null,
+  "en": "Yeah.",
   "slots": [
    "611FDC"
   ]
@@ -1145,7 +1145,7 @@
  {
   "id": "21DECC",
   "jp": "助けたエディルレイドと\nプレジャーなら…",
-  "en": null,
+  "en": "If it's the Edel Raid we rescue and a Pledger...",
   "slots": [
    "6120B4",
    "6144FC"
@@ -1154,7 +1154,7 @@
  {
   "id": "21DE9C",
   "jp": "この森の危険な生物たちを\n何とかできるかもな。",
-  "en": null,
+  "en": "maybe they could do something about the dangerous creatures in this forest.",
   "slots": [
    "6120D8",
    "614520"
@@ -1163,7 +1163,7 @@
  {
   "id": "21DE84",
   "jp": "はい、じゃあここで。",
-  "en": null,
+  "en": "Okay, here's good.",
   "slots": [
    "6121B0"
   ]
@@ -1171,7 +1171,7 @@
  {
   "id": "21DE6C",
   "jp": "また帰りもたのむわ。",
-  "en": null,
+  "en": "Count on ya for the trip back too.",
   "slots": [
    "6121D4"
   ]
@@ -1179,7 +1179,7 @@
  {
   "id": "21DE54",
   "jp": "ここで良いんですか？",
-  "en": null,
+  "en": "Is here really all right?",
   "slots": [
    "6121F8"
   ]
@@ -1187,7 +1187,7 @@
  {
   "id": "21DE24",
   "jp": "何だったら、その場所まで\n僕たちもいっしょに…",
-  "en": null,
+  "en": "If you like, we could go with you to wherever you're...",
   "slots": [
    "61221C"
   ]
@@ -1195,7 +1195,7 @@
  {
   "id": "21DE08",
   "jp": "ああああああ、いらんです。",
-  "en": null,
+  "en": "Ahhhhh, no, no need.",
   "slots": [
    "612240"
   ]
@@ -1203,7 +1203,7 @@
  {
   "id": "21DDE8",
   "jp": "そちらも行くトコありますやろ？",
-  "en": null,
+  "en": "You folks got someplace to be too, don't ya?",
   "slots": [
    "612264"
   ]
@@ -1211,7 +1211,7 @@
  {
   "id": "21DDC4",
   "jp": "また後で！　ここで！\nデワッ！！",
-  "en": null,
+  "en": "See ya later! Right here! Bye now!!",
   "slots": [
    "612288"
   ]
@@ -1219,7 +1219,7 @@
  {
   "id": "21DD9C",
   "jp": "行っちゃった。\n何あわててんのかしら。",
-  "en": null,
+  "en": "He's gone. What's he in such a hurry for?",
   "slots": [
    "6122D0"
   ]
@@ -1227,7 +1227,7 @@
  {
   "id": "21DD8C",
   "jp": "あやしいわね…",
-  "en": null,
+  "en": "Suspicious...",
   "slots": [
    "6122F4"
   ]
@@ -1235,7 +1235,7 @@
  {
   "id": "21DD6C",
   "jp": "あやしいのは、はじめからです。",
-  "en": null,
+  "en": "He's been suspicious from the start.",
   "slots": [
    "612318"
   ]
@@ -1243,7 +1243,7 @@
  {
   "id": "21DD40",
   "jp": "ついて行こうにも\nあちらは馬車ですからね…",
-  "en": null,
+  "en": "Even if we wanted to follow him, he's got a carriage...",
   "slots": [
    "61233C"
   ]
@@ -1251,7 +1251,7 @@
  {
   "id": "21DD08",
   "jp": "おいかけてもいいですが\n私たちも教会へ行かなければ。",
-  "en": null,
+  "en": "We could chase after him, but we have to go to the church too.",
   "slots": [
    "612360"
   ]
@@ -1259,7 +1259,7 @@
  {
   "id": "21DCF8",
   "jp": "行きましょう。",
-  "en": null,
+  "en": "Let's go.",
   "slots": [
    "612384"
   ]
@@ -1267,7 +1267,7 @@
  {
   "id": "21F42C",
   "jp": "あら、まだ商人さんは\nいらしてないみたいですね。",
-  "en": null,
+  "en": "Oh, it looks like Mister Merchant isn't here yet.",
   "slots": [
    "612480"
   ]
@@ -1275,7 +1275,7 @@
  {
   "id": "21F408",
   "jp": "とりあえず\n教会へ行きましょう。",
-  "en": null,
+  "en": "Let's head to the church for now.",
   "slots": [
    "6124A4"
   ]
@@ -1283,7 +1283,7 @@
  {
   "id": "21F3D4",
   "jp": "ここが、カールセンの家。\nこんなにこわれちまって…",
-  "en": null,
+  "en": "So this is Carlsen's house. It's all wrecked...",
   "slots": [
    "61257C"
   ]
@@ -1291,7 +1291,7 @@
  {
   "id": "21F3AC",
   "jp": "今は、闘技場の地下に\nすんでんのかな？",
-  "en": null,
+  "en": "I guess he lives under the arena now?",
   "slots": [
    "6125A0"
   ]
@@ -1299,7 +1299,7 @@
  {
   "id": "21F3A0",
   "jp": "はぁ～。",
-  "en": null,
+  "en": "Haaah~",
   "slots": [
    "612678"
   ]
@@ -1307,7 +1307,7 @@
  {
   "id": "21F378",
   "jp": "何回来てもステキな教会\nですよね～。",
-  "en": null,
+  "en": "No matter how many times I come, it's such a lovely church~",
   "slots": [
    "61269C"
   ]
@@ -1315,7 +1315,7 @@
  {
   "id": "21F350",
   "jp": "人生に迷った人たちに\nやすらぎをあたえ",
-  "en": null,
+  "en": "Giving peace to those who have lost their way in life,",
   "slots": [
    "6126C0"
   ]
@@ -1323,7 +1323,7 @@
  {
   "id": "21F32C",
   "jp": "男女のタビダチに\nシュクフクを…",
-  "en": null,
+  "en": "blessing men and women as they set out together...",
   "slots": [
    "6126E4"
   ]
@@ -1331,7 +1331,7 @@
  {
   "id": "21F324",
   "jp": "ああ…",
-  "en": null,
+  "en": "Ahh...",
   "slots": [
    "612708"
   ]
@@ -1339,7 +1339,7 @@
  {
   "id": "21F2F4",
   "jp": "ワタクシもいつかステキな\n男の人とケッコン…",
-  "en": null,
+  "en": "Someday I, too, will marry a wonderful man...",
   "slots": [
    "61272C"
   ]
@@ -1347,7 +1347,7 @@
  {
   "id": "21F2DC",
   "jp": "シスカがケッコン！？",
-  "en": null,
+  "en": "Cisqua, getting married?!",
   "slots": [
    "612750"
   ]
@@ -1355,7 +1355,7 @@
  {
   "id": "21F2B8",
   "jp": "ナイナイナイナイ。\nムリだって。",
-  "en": null,
+  "en": "No way, no way, no way. Not happening.",
   "slots": [
    "612774"
   ]
@@ -1363,7 +1363,7 @@
  {
   "id": "21F2A4",
   "jp": "なんですって！？",
-  "en": null,
+  "en": "What did you say?!",
   "slots": [
    "612798"
   ]
@@ -1371,7 +1371,7 @@
  {
   "id": "21F284",
   "jp": "もう一回おっしゃって下さいな。",
-  "en": null,
+  "en": "Would you kindly say that one more time?",
   "slots": [
    "6127BC"
   ]
@@ -1379,7 +1379,7 @@
  {
   "id": "21F268",
   "jp": "あひゃ～ッ！\nお助け～。",
-  "en": null,
+  "en": "Yikes~! Somebody help~",
   "slots": [
    "6127E0"
   ]
@@ -1387,7 +1387,7 @@
  {
   "id": "21F250",
   "jp": "た、助けてくれぇ～ッ！",
-  "en": null,
+  "en": "H-help meeee~!",
   "slots": [
    "612804"
   ]
@@ -1395,7 +1395,7 @@
  {
   "id": "21F238",
   "jp": "何ですか？　クーさん。",
-  "en": null,
+  "en": "What is it, Cou-san?",
   "slots": [
    "61284C"
   ]
@@ -1403,7 +1403,7 @@
  {
   "id": "21F220",
   "jp": "俺じゃねーって、今の。",
-  "en": null,
+  "en": "That wasn't me just now!",
   "slots": [
    "612870"
   ]
@@ -1411,7 +1411,7 @@
  {
   "id": "21F210",
   "jp": "それじゃあ…",
-  "en": null,
+  "en": "Then...",
   "slots": [
    "6128B8"
   ]
@@ -1419,7 +1419,7 @@
  {
   "id": "21F204",
   "jp": "あそこ！",
-  "en": null,
+  "en": "Over there!",
   "slots": [
    "6128DC"
   ]
@@ -1427,7 +1427,7 @@
  {
   "id": "21F1E4",
   "jp": "誰かがケモノにおそわれてます！",
-  "en": null,
+  "en": "Someone's being attacked by beasts!",
   "slots": [
    "612900"
   ]
@@ -1435,7 +1435,7 @@
  {
   "id": "21F1D4",
   "jp": "何ですって！？",
-  "en": null,
+  "en": "What?!",
   "slots": [
    "612924"
   ]
@@ -1443,7 +1443,7 @@
  {
   "id": "21F1C4",
   "jp": "行きましょう！",
-  "en": null,
+  "en": "Let's go!",
   "slots": [
    "612948"
   ]
@@ -1451,7 +1451,7 @@
  {
   "id": "21F1BC",
   "jp": "おう！",
-  "en": null,
+  "en": "Right!",
   "slots": [
    "61296C"
   ]
@@ -1459,7 +1459,7 @@
  {
   "id": "2200CC",
   "jp": "今の…は…",
-  "en": null,
+  "en": "Wh-what... was that...",
   "slots": [
    "6129D8"
   ]
@@ -1467,7 +1467,7 @@
  {
   "id": "2200B0",
   "jp": "何があったんでしょうか！",
-  "en": null,
+  "en": "What on earth happened?!",
   "slots": [
    "6129FC"
   ]
@@ -1475,7 +1475,7 @@
  {
   "id": "220064",
   "jp": "見たところ、森のケモノたちの\nようでしたが…\nまさかここまで来るなんて。",
-  "en": null,
+  "en": "From what I saw, they looked like beasts from the forest... I can't believe they came all the way here.",
   "slots": [
    "612A20"
   ]
@@ -1483,7 +1483,7 @@
  {
   "id": "22004C",
   "jp": "ど、どうしてだろうね…",
-  "en": null,
+  "en": "I-I wonder why...",
   "slots": [
    "612A44"
   ]
@@ -1491,7 +1491,7 @@
  {
   "id": "220018",
   "jp": "まさか、教会に向かって\n森から歩いて来た…とか？",
-  "en": null,
+  "en": "Don't tell me they walked out of the forest toward the church...?",
   "slots": [
    "612A68"
   ]
@@ -1499,7 +1499,7 @@
  {
   "id": "21FFE4",
   "jp": "きょ…教会へ彼らが来て…\nザンゲでもするのかな？",
-  "en": null,
+  "en": "Th-they came to the church... to make a confession, perhaps?",
   "slots": [
    "612A8C"
   ]
@@ -1507,7 +1507,7 @@
  {
   "id": "21FFC4",
   "jp": "今日も人をおそいました、と。",
-  "en": null,
+  "en": "\"Today I attacked people again,\" and so on.",
   "slots": [
    "612AB0"
   ]
@@ -1515,7 +1515,7 @@
  {
   "id": "21FFA4",
   "jp": "はははっ。\nそれはおもしろい。",
-  "en": null,
+  "en": "Hahaha. That's a funny thought.",
   "slots": [
    "612AD4"
   ]
@@ -1523,7 +1523,7 @@
  {
   "id": "21FF88",
   "jp": "わらってる場合じゃないぜ。",
-  "en": null,
+  "en": "This ain't the time to be laughing.",
   "slots": [
    "612AF8"
   ]
@@ -1531,7 +1531,7 @@
  {
   "id": "21FF5C",
   "jp": "俺たちがいなかったら\nやばかったんだから。",
-  "en": null,
+  "en": "If we weren't here, you'd have been in big trouble.",
   "slots": [
    "612B1C"
   ]
@@ -1539,7 +1539,7 @@
  {
   "id": "21FF3C",
   "jp": "いやいや、それは助かったよ。",
-  "en": null,
+  "en": "Oh, no, I'm grateful for the help.",
   "slots": [
    "612B40"
   ]
@@ -1547,7 +1547,7 @@
  {
   "id": "21FF2C",
   "jp": "礼を言おう。",
-  "en": null,
+  "en": "You have my thanks.",
   "slots": [
    "612B64"
   ]
@@ -1555,7 +1555,7 @@
  {
   "id": "21FF10",
   "jp": "それはそうと…\n神父サマ。",
-  "en": null,
+  "en": "By the way... Father.",
   "slots": [
    "612B88"
   ]
@@ -1563,7 +1563,7 @@
  {
   "id": "21FEE0",
   "jp": "教会の中を、見せていただいて\nかまいませんか？",
-  "en": null,
+  "en": "Would you mind if we took a look inside the church?",
   "slots": [
    "612BAC"
   ]
@@ -1571,7 +1571,7 @@
  {
   "id": "21FED8",
   "jp": "何？",
-  "en": null,
+  "en": "What?",
   "slots": [
    "612BD0",
    "6135A8"
@@ -1580,7 +1580,7 @@
  {
   "id": "21FEAC",
   "jp": "いえ、ちょっと探しモノを\nしていまして…",
-  "en": null,
+  "en": "Oh, we're just looking for something...",
   "slots": [
    "612BF4"
   ]
@@ -1588,7 +1588,7 @@
  {
   "id": "21FE9C",
   "jp": "ダメですか？",
-  "en": null,
+  "en": "Is that not allowed?",
   "slots": [
    "612C18"
   ]
@@ -1596,7 +1596,7 @@
  {
   "id": "21FE8C",
   "jp": "今は…ダメだ。",
-  "en": null,
+  "en": "Not... right now.",
   "slots": [
    "612C3C"
   ]
@@ -1604,7 +1604,7 @@
  {
   "id": "21FE7C",
   "jp": "…ダメですか。",
-  "en": null,
+  "en": "...Not allowed, then.",
   "slots": [
    "612C60"
   ]
@@ -1612,7 +1612,7 @@
  {
   "id": "21FE70",
   "jp": "今日は…",
-  "en": null,
+  "en": "Today...",
   "slots": [
    "612C84"
   ]
@@ -1620,7 +1620,7 @@
  {
   "id": "21FE38",
   "jp": "この中に…誰も入れてはいけない\nことになっているんだ！",
-  "en": null,
+  "en": "No one... is to be let in here today!",
   "slots": [
    "612CA8"
   ]
@@ -1628,7 +1628,7 @@
  {
   "id": "21FE00",
   "jp": "そうだ、今日はこの教会を\n休ませてあげる日なんだよ。",
-  "en": null,
+  "en": "That's right, today is the day the church gets to rest.",
   "slots": [
    "612CCC"
   ]
@@ -1636,7 +1636,7 @@
  {
   "id": "21FDD8",
   "jp": "すまないが、\nまたにしてくれないか。",
-  "en": null,
+  "en": "I'm sorry, but could you come back another time?",
   "slots": [
    "612CF0"
   ]
@@ -1644,7 +1644,7 @@
  {
   "id": "21FD8C",
   "jp": "そうですか。\nそのかわりと言ってはなんですが\n質問にお答えいただけますか？",
-  "en": null,
+  "en": "I see. Then in exchange, if I may, would you answer a question?",
   "slots": [
    "612D14"
   ]

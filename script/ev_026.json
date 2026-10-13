@@ -2,7 +2,7 @@
  {
   "id": "221638",
   "jp": "だが、そのままにしているのは\nよくないかもしれないね。\nそのうち、何とかするよ。",
-  "en": null,
+  "en": "But perhaps leaving it as it is isn't good. I'll do something about it eventually.",
   "slots": [
    "617DF0"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "221614",
   "jp": "こわれてから、\n行ってないのか？",
-  "en": null,
+  "en": "You haven't been back since it got wrecked?",
   "slots": [
    "617E14"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "22160C",
   "jp": "ああ。",
-  "en": null,
+  "en": "No.",
   "slots": [
    "617E38"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "2215F4",
   "jp": "いい思い出はないから…",
-  "en": null,
+  "en": "I have no good memories of it...",
   "slots": [
    "617E5C"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "2215E8",
   "jp": "そっか…",
-  "en": null,
+  "en": "I see...",
   "slots": [
    "617E80"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "2215B8",
   "jp": "ほかに何かあるんだったら\n早くしてくれないか？",
-  "en": null,
+  "en": "If there's anything else, could you make it quick?",
   "slots": [
    "617EA4"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "22159C",
   "jp": "エディルレイドなんだけど…",
-  "en": null,
+  "en": "About Edel Raids...",
   "slots": [
    "617EC8"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "221588",
   "jp": "きらい…なのか？",
-  "en": null,
+  "en": "Do you... hate them?",
   "slots": [
    "617EEC"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "221570",
   "jp": "きらってはいないよ。",
-  "en": null,
+  "en": "I don't hate them.",
   "slots": [
    "617F34"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "221520",
   "jp": "ただ、人とリアクトすることで\n武器になる彼女たちが\nなぜこの世に生まれたのか。",
-  "en": null,
+  "en": "It's just... Why were they born into this world, these girls who become weapons by Reacting with people?",
   "slots": [
    "617F58"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "2214E0",
   "jp": "彼女たちを武器としてしか\nあつかえない人間と\nエディルレイドが",
-  "en": null,
+  "en": "For humans who can only treat them as weapons",
   "slots": [
    "617F7C"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "221498",
   "jp": "いっしょに生きてゆくのは\nむずかしいと私は考えている。\nそれだけだ。",
-  "en": null,
+  "en": "and Edel Raids to live together is difficult, I believe. That's all.",
   "slots": [
    "617FA0"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "221458",
   "jp": "人とエディルレイドが愛し合う\nことなど…その先は見えている。",
-  "en": null,
+  "en": "For a human and an Edel Raid to love each other... where that leads is plain to see.",
   "slots": [
    "617FE8"
   ]

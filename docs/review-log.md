@@ -22,6 +22,21 @@
 - minor: 1FEED0 "No, th--..."; 1FD1C0 "Where there's a will, there's a way... or whatever!"; 1FD4C4 "Ren-san remembers
   the song, but..."; 1FF7D8 "All right, let's go!"; 201AAC, 20177C Chiruru tic; 201A54; 20246C.
 
+## b009-b010 (Approved)
+- minor: 207360 "Hmph!!"; 20700C "They'd be unhappy"; 206FF8 "To recruit them"; 20736C "Nope. It's mine~!"; 207480
+  "macaroni and fish marinade"; 206610 "can't cross the bridge that often"; 20A340 "It Is Nothing. Do Not Mind It.";
+  209F40 "Don't push yourself." (check Coud's reply); 20AF00; 20A7D0.
+
+## b011-b016 (Importants fixed: work/tl/fixes_w2*.tsv)
+- minor b011: 2092B8 "He's got a little tummy ache..."; 208594/208584 sentence case "Inn with good food"/"Forest hut";
+  2088D4 "Searching for something?"; 207CBC "don't think kindly of"; 208AAC drop added "Where does it lead?"; 208ED4.
+- minor b012: 20BA90 no caps "BE!"; 207B44 "but not everyone is like that."; 207918 "practice my song";
+  20C188 "And your Pledger, too."; 20BD54 "Sing with force".
+- minor b013: 20DDB8; 20E954 "That's the rule."; 20E02C "They're not people!"
+- minor b014: 2114EC; 211074 leering; 210F38 lovesickness gag; 20EA54; 2120BC "Go peeping".
+- minor b015: 2106E8 "the previous Father"; 2105F4; 213F94 "Jeez!". b016: 214424 "So Senpai is a woman after all.";
+  2127E4 tense; 2133C0 "I. Don't. Care."; 2141D0 "That can wait! Later!!"
+
 ## b007-b008
 - IMPORTANT 200EE0 Mister Hunter: "If we put Mister Hunter in our debt now, it'll come in handy later in all sorts of ways..."
 - IMPORTANT 204C78/204C5C ふとっぱら pun: Merchant "Ma'am, you're big-bellied generous!" / Cisqua "Who are you calling fat?!"

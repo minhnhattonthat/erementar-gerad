@@ -150,7 +150,7 @@
  {
   "id": "208438",
   "jp": "ここでは『宿のご主人』と\nお呼びすべきでしょうか。",
-  "en": "Or here, perhaps I should call you \"Mister Innkeeper.\"",
+  "en": "Here, should I call you \"Mister Innkeeper\"?",
   "slots": [
    "5F409C"
   ]
@@ -313,7 +313,7 @@
  {
   "id": "20809C",
   "jp": "そこの…『ご主人』とお呼び\nしたほうがいいですかしら。",
-  "en": "Its... perhaps I should call you \"Mister Innkeeper.\"",
+  "en": "The inn's... should I call you \"Mister Innkeeper\"?",
   "slots": [
    "5F4348"
   ]

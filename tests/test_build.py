@@ -2,7 +2,7 @@ import struct, sys, tempfile, unittest
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / 'tools'))
-import build, romlib, vwf
+import build, gfx, romlib, vwf
 
 # Bytes the hooks in asm/pairs.asm may change.
 HOOKS = [(0x00A780, 0x00A788), (0x00A86C, 0x00A874), (0x00E5A4, 0x00E5B0), (0x00EA26, 0x00EA28),
@@ -32,6 +32,12 @@ class BuildTests(unittest.TestCase):
                 self.assertEqual(new[a:new.index(b'\0', a)], want, e['id'])
         diff = [i for i in range(len(orig)) if orig[i] != new[i] and not allowed[i]]
         self.assertEqual(diff[:10], [])
+
+    def test_tags_same_size(self):
+        d = romlib.load()
+        for a, b in gfx.tag_patches(d):
+            self.assertEqual(len(b), gfx.TAG_SIZE)
+            self.assertNotEqual(d[a:a + len(b)], b)
 
     def test_cells(self):
         self.assertEqual(vwf.to_cells('Hi!'), [b'Hi', b'!\0'])

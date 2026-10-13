@@ -41,7 +41,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アークエイル | Arc Aile | | | Ark Ail |
 | エディルガーデン | Edel Garden | | floating city; same エディル as Edel Raid | Edil Garden |
 | ポルトガレオン | Porto Galeon | | port town | Portogaleon |
-| ブレイブスアルカ | Braves Arca | | | |
+| ブレイブスアルカ | Braves Arca | | an organisation (said to be the Black Group's true identity) and its hideout | |
 | 闘技場 | arena | | | colosseum |
 | 広場 | plaza | | | |
 | バザー | bazaar | | | |
@@ -71,6 +71,15 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | 忘却の謳 | song of oblivion | | | |
 | ラグウルス | Raguurus | | forest creature | |
 | おかみさん | landlady | | the innkeeper | |
+| エレメンタルジェレイド | Erementar Gerad | | matches the title logo | Elemental Gelade |
+| アンゲル | Angel | | Coud's throwing weapon | |
+| リジェクトアウト | Reject Out | | song name | |
+| エウロスループ | Euros Loop | | | |
+| クウゾク | sky pirates | | | |
+| カームシップ | calm ship | | | |
+| オカシラ | the Chief | | pirate head (not オヤカタ = the Boss) | |
+| カール | Carl | | Enda's short name for Carlsen | |
+| 後輩 | junior officer | | Cisqua about Rowen | |
 | ノトスコード | Notos Code | | | |
 | ライトシップ | light ship | | | |
 | サテイ | performance review | | | |
