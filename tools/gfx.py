@@ -257,7 +257,8 @@ def tag_text(px, font, text, x, y, fill, shadow):
             if (sx, sy) not in ink and 0 <= sy < len(px) and 0 <= sx < len(px[0]):
                 px[sy][sx] = shadow
     for (ix, iy) in ink:
-        px[iy][ix] = fill
+        if 0 <= iy < len(px) and 0 <= ix < len(px[0]):   # descenders may run off a short sprite
+            px[iy][ix] = fill
 
 
 def composite_patches(d):
@@ -336,6 +337,26 @@ def plate_patches(d):
                         px[gy][x + gx] = 2
             x += len(g[0]) + 1
     return [(PLATES_AT, pack_obj(px, 27 * 8, 8))]
+
+
+ENEMY_TAGS_AT = 0x1D5DBC   # 30 enemy name tags, 48x8 (6 tiles, 0xC0 B), text fill E + shadow 1 (from the
+# enemy records at 0x0B55E0, +4 = tag pointer). Fantasy names romanised; readings marked ? in docs/re/graphics.md.
+ENEMY_NAMES = ['Hyukas', 'Raguurus', 'Ruffian', 'Birnit', 'Bandit', 'Diviper', 'Komos', 'Dishas', 'Ragnant',
+               'Brabless', 'Garidley', 'Molnir', 'Rada', 'Muskib', 'Garaukorou', 'Stingray', 'Garaibin', 'Rau',
+               'Black Hood', 'Black Hood', 'Black Hood', 'Black Hood', 'Fighter', 'Fighter', 'Fighter',
+               'Pledger', 'Pledger', 'Pledger', 'Carlsen', 'Dios']
+
+
+def enemy_tag_patches():
+    font = tag_font()
+    out = []
+    for k, name in enumerate(ENEMY_NAMES):
+        px = [[0] * 48 for _ in range(8)]
+        w = tag_width(font, name) + 1
+        assert w <= 46, (name, w)
+        tag_text(px, font, name, (48 - w) // 2, 0, 0xE, 1)   # row 0: descenders end on row 7
+        out.append((ENEMY_TAGS_AT + 0xC0 * k, pack_obj(px, 48, 8)))
+    return out
 
 
 def badge_patches(d):
