@@ -101,11 +101,11 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | はね橋の入り口 | Drawbridge Gate | | label | |
 | いどう | Move | | menu label | |
 | 傷薬 | Salve | | 上傷薬 Good Salve, 特別傷薬 Special Salve | |
-| 回復香 | Heal Incense | | 上回復香 Good Heal Incense, 最高回復香 Best Heal Incense | |
+| 回復香 | Incense | | 上回復香 Good Incense, 最高回復香 Best Incense (item label has 78 px beside the count) | Heal Incense |
 | 気付け薬 | Smelling Salts | | | |
 | 万能薬 | Panacea | | | |
 | だきマクラ | Hug Pillow | | | |
-| ホネつき肉 | Meat on the Bone | | | |
+| ホネつき肉 | Bone-in Meat | | item label limit 78 px | Meat on the Bone |
 | 音の鳴る箱 | Music Box | | dialogue lowercase "music box" | |
 | 技リスト | Skills | | menu | |
 | 借金 | debt | | | |

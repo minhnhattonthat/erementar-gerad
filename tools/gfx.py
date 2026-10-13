@@ -141,13 +141,19 @@ def label_width(font, text):
     return font.text_width(text) + 1          # +1: right outline
 
 
-def draw_label(font, text):
+def label_region(key):
+    """(left x, usable px) of a label's text: item labels share their frame with the 'x05' count at x~86."""
+    return (4, 78) if key.startswith('I') else (1, LABEL_W)
+
+
+def draw_label(font, text, key='C'):
     """English label -> 0x300 bytes: three 32x16 OBJ, fill = index 2, 1 px outline = index 1, centered."""
+    lo, room = label_region(key)
     w = label_width(font, text)
-    if w > LABEL_W:
-        raise ValueError(f'label {text!r} is {w} px > {LABEL_W}')
+    if w > room:
+        raise ValueError(f'label {key} {text!r} is {w} px > {room}')
     ink = set()
-    x = 1 + (LABEL_W - w) // 2
+    x = lo + (room - w) // 2
     for ch in text:
         for (gx, gy) in font.px[ord(ch)]:
             ink.add((x + gx, gy + 1))
@@ -187,7 +193,7 @@ def label_patches(d):
     out = []
     for key, a, r, _ in label_sets(d):
         if key in en:
-            out.append((a, draw_label(font, en[key])))
+            out.append((a, draw_label(font, en[key], key)))
             if r is not None:
                 out.append((r, bytes(READING_SIZE)))
     return out
@@ -243,8 +249,8 @@ if __name__ == '__main__':
             miss = [c for c in en if not (0x20 <= ord(c) < 0x7F)]
             if miss or not en:
                 print(f'{parts[0]}: empty or non-ASCII {miss}'); bad += 1
-            elif label_width(font, en) > LABEL_W:
-                print(f'{parts[0]}: "{en}" is {label_width(font, en)} px > {LABEL_W}'); bad += 1
+            elif label_width(font, en) > label_region(parts[0])[1]:
+                print(f'{parts[0]}: "{en}" is {label_width(font, en)} px > {label_region(parts[0])[1]}'); bad += 1
         missing = sorted(keys - seen)
         if missing:
             print(f'missing keys: {missing[:20]}{" ..." if len(missing) > 20 else ""}'); bad += 1

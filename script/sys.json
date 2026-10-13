@@ -530,7 +530,7 @@
  {
   "id": "03D0B4",
   "jp": "回復香",
-  "en": "Heal Incense",
+  "en": "Incense",
   "slots": [
    "03D2BC"
   ]
@@ -554,7 +554,7 @@
  {
   "id": "03D0E4",
   "jp": "上回復香",
-  "en": "Good Heal Incense",
+  "en": "Good Incense",
   "slots": [
    "03D2E0"
   ]
@@ -578,7 +578,7 @@
  {
   "id": "03D120",
   "jp": "最高回復香",
-  "en": "Best Heal Incense",
+  "en": "Best Incense",
   "slots": [
    "03D304"
   ]
@@ -674,7 +674,7 @@
  {
   "id": "03D1F0",
   "jp": "ホネつき肉",
-  "en": "Meat on the Bone",
+  "en": "Bone-in Meat",
   "slots": [
    "03D394"
   ]
