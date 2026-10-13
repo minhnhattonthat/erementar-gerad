@@ -25,7 +25,7 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | ロー | Ro | | Rowen's nickname | |
 | キーア | Kea | | Edel Raid | Kiia, Kia |
 | チルル | Chiruru | | Edel Raid; verbal tic のヨ -> "you know" (not every line) | |
-| カールセン | Carlsen | | | |
+| カールセン | Carlsen | | male (he/him), son of the previous priest; his feminine speech in later scenes is a plot point (possession) - translate it as written, keep he/him in narration | |
 | ヴォルクス | Volks | | Chiruru's Pledger, Edel Raid hunter (name tag) | Wolx |
 | ヴォル君 | Vol-kun | | Chiruru's name for Volks | Wol-kun |
 | エンダ | Enda | | | |
@@ -69,6 +69,13 @@ Binding for every translator and reviewer. Agents propose additions in reports; 
 | アークエイルメインバンク | Arc Aile Main Bank | | | |
 | ナスカム | Nascam | | ナスカムメモリア Nascam Memoria, ナスカムリバーツ Nascam Rivarts | Nascum |
 | 忘却の謳 | song of oblivion | | | |
+| あやつりの謳 | song of control | | also あやつる謳; label "Song of control" | controlling song, Mind-control song, Control song |
+| 目ざめの謳 | song of awakening | | also めざめの謳; label "Song of awakening" | |
+| 眠りの謳 | song of sleep | | | |
+| なげきの謳 | song of lament | | | |
+| メザーランス | Messer Lance | | Ren's title among the Seven Glittering Jewels | |
+| 仮面の男 | masked man | | 仮面の男さん = "Mister Masked Man" | |
+| ナイト君 | Sir Knight | | Carlsen's name for Coud | |
 | ラグウルス | Raguurus | | forest creature | |
 | おかみさん | landlady | | the innkeeper | |
 | エレメンタルジェレイド | Erementar Gerad | | matches the title logo | Elemental Gelade |

@@ -102,7 +102,19 @@ def bgr555(data):
 
 if __name__ == '__main__':
     d = romlib.load()
-    if sys.argv[1] == 'tags-en':
+    if sys.argv[1] == 'labels':
+        # 96x16 labels = 3 OBJ 32x16 (4x2 tiles each), 0x300 bytes; tables at 0x5D6DA8 (56 ptrs) and 0x0C1760
+        import struct
+        addrs = [struct.unpack_from('<I', d, 0x5D6DA8 + 4 * i)[0] - romlib.BASE for i in range(56)]
+        addrs += [struct.unpack_from('<I', d, 0x0C1760 + 0x14 * i)[0] - romlib.BASE for i in range(10)]
+        sheet = Image.new('RGB', (100 * 4, 18 * ((len(addrs) + 3) // 4)))
+        for k, a in enumerate(addrs):
+            im = Image.new('RGB', (96, 16))
+            for s in range(3):
+                im.paste(tiles_to_img(d[a + s * 256:a + s * 256 + 256], 4, 2), (s * 32, 0))
+            sheet.paste(im, ((k % 4) * 100, (k // 4) * 18))
+        sheet.resize((sheet.width * 2, sheet.height * 2), Image.NEAREST).save(sys.argv[2])
+    elif sys.argv[1] == 'tags-en':
         pal = [(0, 0, 0), (255, 255, 255), (255, 213, 57), (255, 49, 49), (189, 0, 16), (148, 0, 8), (115, 0, 0),
                (82, 0, 0), (49, 0, 0)] + [(0, 255, 0)] * 7
         sheet = Image.new('RGB', (51 * 4, 18 * 4))

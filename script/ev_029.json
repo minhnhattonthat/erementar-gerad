@@ -2,7 +2,7 @@
  {
   "id": "2269BC",
   "jp": "だとしたら誰が、何のために\nカールセンさんの名前を\nかたったんでしょう。",
-  "en": null,
+  "en": "If so, who used Carlsen-san's name, and for what?",
   "slots": [
    "61F728"
   ]
@@ -10,7 +10,7 @@
  {
   "id": "2269A8",
   "jp": "何のためにって…",
-  "en": null,
+  "en": "For what? Well...",
   "slots": [
    "61F74C"
   ]
@@ -18,7 +18,7 @@
  {
   "id": "226970",
   "jp": "カールセンが起きたってことに\nしたかったんじゃないの？",
-  "en": null,
+  "en": "Didn't they want to make it look like Carlsen woke up?",
   "slots": [
    "61F770"
   ]
@@ -26,7 +26,7 @@
  {
   "id": "226964",
   "jp": "なぜです。",
-  "en": null,
+  "en": "Why would they?",
   "slots": [
    "61F794"
   ]
@@ -34,7 +34,7 @@
  {
   "id": "226934",
   "jp": "ブレイブスアルカを\n自分の物にしたかったから。",
-  "en": null,
+  "en": "Because they wanted Braves Arca for themselves.",
   "slots": [
    "61F7B8"
   ]
@@ -42,7 +42,7 @@
  {
   "id": "226918",
   "jp": "これ！　ゼッタイこれ！！",
-  "en": null,
+  "en": "That's it! Definitely that!!",
   "slots": [
    "61F7DC"
   ]
@@ -50,7 +50,7 @@
  {
   "id": "2268E8",
   "jp": "ブレイブスアルカを\n手に入れるため…ですか。",
-  "en": null,
+  "en": "To get their hands on Braves Arca...?",
   "slots": [
    "61F800"
   ]
@@ -58,7 +58,7 @@
  {
   "id": "2268B8",
   "jp": "手に入れてどうする\nつもりだったんでしょう…",
-  "en": null,
+  "en": "And what would they have planned to do with it...",
   "slots": [
    "61F824"
   ]
@@ -66,7 +66,7 @@
  {
   "id": "226870",
   "jp": "エディルレイドと人間は\nいっしょにいたらダメだって\n言ってまわって…",
-  "en": null,
+  "en": "Going around telling everyone Edel Raids and humans shouldn't be together...",
   "slots": [
    "61F86C"
   ]
@@ -74,7 +74,7 @@
  {
   "id": "226834",
   "jp": "ブレイブスアルカを\n手に入れる理由があまり\n無い…よね。",
-  "en": null,
+  "en": "There's not really much reason to take over Braves Arca... is there?",
   "slots": [
    "61F8B4"
   ]
@@ -82,7 +82,7 @@
  {
   "id": "226824",
   "jp": "そっかなぁ…",
-  "en": null,
+  "en": "You think so...?",
   "slots": [
    "61F8D8"
   ]
@@ -90,7 +90,7 @@
  {
   "id": "2267FC",
   "jp": "いいセンいってたと\n思うんだけどな…",
-  "en": null,
+  "en": "I thought I was onto something...",
   "slots": [
    "61F8FC"
   ]
@@ -98,7 +98,7 @@
  {
   "id": "2267D8",
   "jp": "ほかに何か可能性は\nありませんか？",
-  "en": null,
+  "en": "Are there any other possibilities?",
   "slots": [
    "61F920"
   ]
@@ -106,7 +106,7 @@
  {
   "id": "2267CC",
   "jp": "う～ん…",
-  "en": null,
+  "en": "Hmmm...",
   "slots": [
    "61F944"
   ]
@@ -114,7 +114,7 @@
  {
   "id": "2267A4",
   "jp": "まぼろしだったってのは\nどうかな！？",
-  "en": null,
+  "en": "How about it was an illusion?!",
   "slots": [
    "61F968"
   ]
@@ -122,7 +122,7 @@
  {
   "id": "226794",
   "jp": "まぼろしィ？",
-  "en": null,
+  "en": "An illusion?",
   "slots": [
    "61F98C"
   ]
@@ -130,7 +130,7 @@
  {
   "id": "22675C",
   "jp": "全員でまぼろしのカールセンと\nしゃべってたって言うの？",
-  "en": null,
+  "en": "You're saying we all sat there chatting with an illusion of Carlsen?",
   "slots": [
    "61F9B0"
   ]
@@ -138,7 +138,7 @@
  {
   "id": "226708",
   "jp": "何かフシギな力で作られた\nまぼろしを使って、俺たちを\nワナにはめようとしたんだ！",
-  "en": null,
+  "en": "Someone used an illusion made with some weird power to try and trap us!",
   "slots": [
    "61F9F8"
   ]
@@ -146,7 +146,7 @@
  {
   "id": "2266C8",
   "jp": "そうなると…それは、誰が\nしかけたワナに\nなるんでしょうか…",
-  "en": null,
+  "en": "In that case... who would have set that trap, then...",
   "slots": [
    "61FA1C"
   ]
@@ -154,7 +154,7 @@
  {
   "id": "2266C0",
   "jp": "え？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "61FA40"
   ]
@@ -162,7 +162,7 @@
  {
   "id": "22667C",
   "jp": "僕たちに、カールセンさんが\n眠りからさめていると\n思わせておいて、",
-  "en": null,
+  "en": "By making us believe Carlsen-san has woken up,",
   "slots": [
    "61FA64"
   ]
@@ -170,7 +170,7 @@
  {
   "id": "226650",
   "jp": "いったい何をするつもり\nなんでしょうかね。",
-  "en": null,
+  "en": "what exactly would they be trying to do?",
   "slots": [
    "61FA88"
   ]
@@ -178,7 +178,7 @@
  {
   "id": "226644",
   "jp": "うーん…",
-  "en": null,
+  "en": "Hmm...",
   "slots": [
    "61FAAC"
   ]
@@ -186,7 +186,7 @@
  {
   "id": "226618",
   "jp": "もう少し、ほかの可能性も\n考えてみようか。",
-  "en": null,
+  "en": "Let's think about some other possibilities too.",
   "slots": [
    "61FAD0"
   ]
@@ -194,7 +194,7 @@
  {
   "id": "226608",
   "jp": "それじゃあ…",
-  "en": null,
+  "en": "Well then...",
   "slots": [
    "61FAF4"
   ]
@@ -202,7 +202,7 @@
  {
   "id": "2265DC",
   "jp": "やっぱり、カールセン本人\nだったんだよ。",
-  "en": null,
+  "en": "It really was Carlsen himself after all.",
   "slots": [
    "61FB18"
   ]
@@ -210,7 +210,7 @@
  {
   "id": "226598",
   "jp": "でも、エンダは\n『カールセンは眠ったまま』\nだって言ってたでしょ？",
-  "en": null,
+  "en": "But Enda said \"Carlsen's still asleep,\" didn't she?",
   "slots": [
    "61FB3C"
   ]
@@ -218,7 +218,7 @@
  {
   "id": "226570",
   "jp": "それはエンダがウソを\nついたんだよ。",
-  "en": null,
+  "en": "That's because Enda lied.",
   "slots": [
    "61FB60"
   ]
@@ -226,7 +226,7 @@
  {
   "id": "226564",
   "jp": "あの子が？",
-  "en": null,
+  "en": "That girl did?",
   "slots": [
    "61FB84"
   ]
@@ -234,7 +234,7 @@
  {
   "id": "226558",
   "jp": "どうして？",
-  "en": null,
+  "en": "Why?",
   "slots": [
    "61FBA8"
   ]
@@ -242,7 +242,7 @@
  {
   "id": "226514",
   "jp": "カールセンが起きたことを\n本当はナイショにして\nおきたかったんだ。",
-  "en": null,
+  "en": "She actually wanted to keep it a secret that Carlsen woke up.",
   "slots": [
    "61FBCC"
   ]
@@ -250,7 +250,7 @@
  {
   "id": "2264E0",
   "jp": "でも、俺たちがエンダが\nいない間に会っちゃった。",
-  "en": null,
+  "en": "But we went and met him while Enda was out.",
   "slots": [
    "61FBF0"
   ]
@@ -258,7 +258,7 @@
  {
   "id": "22649C",
   "jp": "みんなをおどろかすために\nまだ、かくしてたんだ…\nきっとそうだよ！",
-  "en": null,
+  "en": "She was still hiding him so she could surprise everyone... That's gotta be it!",
   "slots": [
    "61FC14"
   ]
@@ -266,7 +266,7 @@
  {
   "id": "226470",
   "jp": "そのわりに、何だか\nかなしそうだったわね。",
-  "en": null,
+  "en": "For that, she sure seemed kind of sad.",
   "slots": [
    "61FC38"
   ]
@@ -274,7 +274,7 @@
  {
   "id": "226468",
   "jp": "う…",
-  "en": null,
+  "en": "Ugh...",
   "slots": [
    "61FC5C"
   ]
@@ -282,7 +282,7 @@
  {
   "id": "22643C",
   "jp": "だ、だったら\nみんなはどう思ったんだよ？",
-  "en": null,
+  "en": "Th-then what did you guys think?",
   "slots": [
    "61FC80"
   ]
@@ -290,7 +290,7 @@
  {
   "id": "226414",
   "jp": "一つ、気になってることが\nあります。",
-  "en": null,
+  "en": "There's one thing that's been bothering me.",
   "slots": [
    "61FCA4"
   ]
@@ -298,7 +298,7 @@
  {
   "id": "2263DC",
   "jp": "エディルレイドレーダーが\nこわれていないのだとしたら",
-  "en": null,
+  "en": "If the Edel Raid Radar isn't broken,",
   "slots": [
    "61FCEC"
   ]
@@ -306,7 +306,7 @@
  {
   "id": "226394",
   "jp": "あのカールセンさんは\nエディルレイドだってことに\nなるんじゃないかと。",
-  "en": null,
+  "en": "then wouldn't that mean Carlsen-san is an Edel Raid?",
   "slots": [
    "61FD10"
   ]
@@ -314,7 +314,7 @@
  {
   "id": "226388",
   "jp": "何で！？",
-  "en": null,
+  "en": "How come?!",
   "slots": [
    "61FD34"
   ]
@@ -322,7 +322,7 @@
  {
   "id": "226368",
   "jp": "男のエディルレイドですか！？",
-  "en": null,
+  "en": "A male Edel Raid?!",
   "slots": [
    "61FD58"
   ]
@@ -330,7 +330,7 @@
  {
   "id": "22634C",
   "jp": "まぁ、おちつきなさいって。",
-  "en": null,
+  "en": "Now, now, calm down.",
   "slots": [
    "61FDA0"
   ]
@@ -338,7 +338,7 @@
  {
   "id": "2262F4",
   "jp": "男のエディルレイドではなく\n男に化けられるエディルレイド\nとかなら、ありえるでしょ。",
-  "en": null,
+  "en": "Not a male Edel Raid, but an Edel Raid that can disguise itself as a man... That could be possible, couldn't it?",
   "slots": [
    "61FDC4"
   ]
@@ -346,7 +346,7 @@
  {
   "id": "2262E0",
   "jp": "姿を…かえる…？",
-  "en": null,
+  "en": "Change... form...?",
   "slots": [
    "61FDE8"
   ]
@@ -354,7 +354,7 @@
  {
   "id": "2262C8",
   "jp": "あくまで可能性です。",
-  "en": null,
+  "en": "It's only a possibility.",
   "slots": [
    "61FE0C"
   ]
@@ -362,7 +362,7 @@
  {
   "id": "226284",
   "jp": "エディルレイドがレーダーに\nうつらないようにできるのは\n可能です。",
-  "en": null,
+  "en": "It's possible for an Edel Raid to keep from showing up on the radar.",
   "slots": [
    "61FE30"
   ]
@@ -370,7 +370,7 @@
  {
   "id": "226264",
   "jp": "そうですよね？　チルルさん。",
-  "en": null,
+  "en": "Isn't that right, Chiruru-san?",
   "slots": [
    "61FE54"
   ]
@@ -378,7 +378,7 @@
  {
   "id": "226254",
   "jp": "そうなのヨ。",
-  "en": null,
+  "en": "That's right, you know.",
   "slots": [
    "61FE78"
   ]
@@ -386,7 +386,7 @@
  {
   "id": "226220",
   "jp": "あたしはアークエイルの\nレーダーにはうつらないわ。",
-  "en": null,
+  "en": "I don't show up on Arc Aile's radar.",
   "slots": [
    "61FE9C"
   ]
@@ -394,7 +394,7 @@
  {
   "id": "2261F8",
   "jp": "しかし、\nエディルレイドでもないのに、",
-  "en": null,
+  "en": "However, if you're not an Edel Raid,",
   "slots": [
    "61FEC0"
   ]
@@ -402,7 +402,7 @@
  {
   "id": "2261C4",
   "jp": "レーダーにうつることは\nできないんじゃないかと。",
-  "en": null,
+  "en": "I don't think you can show up on the radar.",
   "slots": [
    "61FEE4"
   ]
@@ -410,7 +410,7 @@
  {
   "id": "226188",
   "jp": "だから、あのカールセンが\nエディルレイドじゃないかって…",
-  "en": null,
+  "en": "So you're saying that Carlsen's an Edel Raid...",
   "slots": [
    "61FF08"
   ]
@@ -418,7 +418,7 @@
  {
   "id": "226164",
   "jp": "そんなことナイって！\nないない。",
-  "en": null,
+  "en": "No way, that can't be! No, no.",
   "slots": [
    "61FF2C"
   ]
@@ -426,7 +426,7 @@
  {
   "id": "226118",
   "jp": "では、なぜレーダーが\nエディルレイドをうつしたか\n説明して下さるんですか？",
-  "en": null,
+  "en": "Then would you kindly explain why the radar picked up an Edel Raid?",
   "slots": [
    "61FF50"
   ]
@@ -434,7 +434,7 @@
  {
   "id": "226110",
   "jp": "え…",
-  "en": null,
+  "en": "Huh...",
   "slots": [
    "61FF74"
   ]
@@ -442,7 +442,7 @@
  {
   "id": "2260F0",
   "jp": "ほらほら。\n説明して下さいよ。",
-  "en": null,
+  "en": "Come on, come on. Please explain.",
   "slots": [
    "61FFBC"
   ]
@@ -450,7 +450,7 @@
  {
   "id": "2260DC",
   "jp": "セ・ツ・メ・イ！",
-  "en": null,
+  "en": "Ex-pla-na-tion!",
   "slots": [
    "61FFE0"
   ]
@@ -458,7 +458,7 @@
  {
   "id": "2260C8",
   "jp": "何だよ、モー！！",
-  "en": null,
+  "en": "Aw, come on, jeez!!",
   "slots": [
    "620004"
   ]
@@ -466,7 +466,7 @@
  {
   "id": "2260B0",
   "jp": "長く…なりそうだね…",
-  "en": null,
+  "en": "This is going to... take a while...",
   "slots": [
    "62004C"
   ]
@@ -474,7 +474,7 @@
  {
   "id": "226098",
   "jp": "…終わるまで、寝てる…",
-  "en": null,
+  "en": "...I'll sleep till it's over...",
   "slots": [
    "620070"
   ]
@@ -482,7 +482,7 @@
  {
   "id": "226070",
   "jp": "レーダーがぶっこわれて\nたんだろ！？",
-  "en": null,
+  "en": "The radar must've just busted, right?!",
   "slots": [
    "620094"
   ]
@@ -490,7 +490,7 @@
  {
   "id": "22605C",
   "jp": "こわれてません！",
-  "en": null,
+  "en": "It is not broken!",
   "slots": [
    "6200B8"
   ]
@@ -498,7 +498,7 @@
  {
   "id": "226024",
   "jp": "こわれてるのは、クーさんの\nアタマじゃないですか！？",
-  "en": null,
+  "en": "Isn't the thing that's broken your head, Cou-san?!",
   "slots": [
    "6200DC"
   ]
@@ -506,7 +506,7 @@
  {
   "id": "226014",
   "jp": "何だとー！！",
-  "en": null,
+  "en": "What was that?!!",
   "slots": [
    "620100"
   ]
@@ -662,7 +662,7 @@
  {
   "id": "2297E8",
   "jp": "何をまよっている…",
-  "en": null,
+  "en": "What are you hesitating for...",
   "slots": [
    "620190"
   ]
@@ -694,7 +694,7 @@
  {
   "id": "2297A8",
   "jp": "あれは、お前がのぞむ謳を\nうたえるエディルレイドだ。",
-  "en": null,
+  "en": "That is an Edel Raid who can sing the song you desire.",
   "slots": [
    "6201D8"
   ]
@@ -702,7 +702,7 @@
  {
   "id": "22975C",
   "jp": "あのレンというエディルレイドは\nまちがいなく『七煌宝樹』の\nメザーランス…",
-  "en": null,
+  "en": "That Edel Raid named Ren is, without a doubt, Messer Lance of the \"Seven Glittering Jewels\"...",
   "slots": [
    "6201FC"
   ]
@@ -710,7 +710,7 @@
  {
   "id": "22974C",
   "jp": "七煌…宝樹…",
-  "en": null,
+  "en": "Seven Glittering... Jewels...",
   "slots": [
    "620220"
   ]
@@ -718,7 +718,7 @@
  {
   "id": "229724",
   "jp": "あのエディルレイドさえ\n手に入れれば…",
-  "en": null,
+  "en": "If you can just get your hands on that Edel Raid...",
   "slots": [
    "620244"
   ]
@@ -726,7 +726,7 @@
  {
   "id": "2296FC",
   "jp": "お前がのぞむものも\n手に入るだろう。",
-  "en": null,
+  "en": "you should be able to get what you desire as well.",
   "slots": [
    "620268"
   ]
@@ -734,7 +734,7 @@
  {
   "id": "2296E8",
   "jp": "私が…のぞむもの？",
-  "en": null,
+  "en": "What I... desire?",
   "slots": [
    "62028C"
   ]
@@ -742,7 +742,7 @@
  {
   "id": "2296D8",
   "jp": "ああ。そうだ。",
-  "en": null,
+  "en": "Yes. That's right.",
   "slots": [
    "6202B0"
   ]
@@ -750,7 +750,7 @@
  {
   "id": "2296BC",
   "jp": "ヤツを助けたいんだろう？",
-  "en": null,
+  "en": "You want to save her, don't you?",
   "slots": [
    "6202D4"
   ]
@@ -758,7 +758,7 @@
  {
   "id": "2296B0",
   "jp": "エンダ…？",
-  "en": null,
+  "en": "Enda...?",
   "slots": [
    "6202F8"
   ]
@@ -766,7 +766,7 @@
  {
   "id": "2296A0",
   "jp": "助け…た…い…",
-  "en": null,
+  "en": "I want... to... save... her...",
   "slots": [
    "620340"
   ]
@@ -774,7 +774,7 @@
  {
   "id": "22965C",
   "jp": "だいたい、クーさんは\n私に話をするときと\nレンさんに話をするときと",
-  "en": null,
+  "en": "To begin with, Cou-san, when you talk to me and when you talk to Ren-san,",
   "slots": [
    "6203AC"
   ]
@@ -782,7 +782,7 @@
  {
   "id": "229624",
   "jp": "ぜっんぜん心づかいが\nちがいます！\nちがいすぎです！！",
-  "en": null,
+  "en": "your consideration is completely different! Way too different!!",
   "slots": [
    "6203D0"
   ]
@@ -790,7 +790,7 @@
  {
   "id": "2295E8",
   "jp": "レンをシスカといっしょにしたら\nレンがかわいそうだろ！？",
-  "en": null,
+  "en": "Lumping Ren together with you would be cruel to Ren, wouldn't it?!",
   "slots": [
    "6203F4"
   ]
@@ -798,7 +798,7 @@
  {
   "id": "2295DC",
   "jp": "んまぁっ！",
-  "en": null,
+  "en": "Well, I never!",
   "slots": [
    "620418"
   ]
@@ -806,7 +806,7 @@
  {
   "id": "2295C4",
   "jp": "言って下さいますね…",
-  "en": null,
+  "en": "You've got some nerve saying that...",
   "slots": [
    "62043C"
   ]
@@ -814,7 +814,7 @@
  {
   "id": "2295A8",
   "jp": "も～、いいかげんにしなよ。",
-  "en": null,
+  "en": "Jeez, knock it off already.",
   "slots": [
    "620460"
   ]
@@ -822,7 +822,7 @@
  {
   "id": "22958C",
   "jp": "夜になっちゃったじゃない。",
-  "en": null,
+  "en": "It's already gotten dark, see?",
   "slots": [
    "620484"
   ]
@@ -830,7 +830,7 @@
  {
   "id": "22955C",
   "jp": "こんなに、クーさんに\n言いたいだけ言われたら、",
-  "en": null,
+  "en": "After letting Cou-san say whatever he likes to me like this,",
   "slots": [
    "6204A8"
   ]
@@ -838,7 +838,7 @@
  {
   "id": "22952C",
   "jp": "こちらも何か言わないと\n気がすみませんわッ！！",
-  "en": null,
+  "en": "I won't be satisfied until I say something back!!",
   "slots": [
    "6204CC"
   ]
@@ -846,7 +846,7 @@
  {
   "id": "2294E8",
   "jp": "俺だって、いつもいつも\nバカにされてて\n今、何か言ってやんないと…",
-  "en": null,
+  "en": "Well, I'm always, always getting made fun of too, so if I don't say something now...",
   "slots": [
    "6204F0"
   ]
@@ -854,7 +854,7 @@
  {
   "id": "2294D0",
   "jp": "はいはい。そこまで。",
-  "en": null,
+  "en": "Okay, okay. That's enough.",
   "slots": [
    "620514"
   ]
@@ -862,7 +862,7 @@
  {
   "id": "2294BC",
   "jp": "お客さんですよ。",
-  "en": null,
+  "en": "We have a visitor.",
   "slots": [
    "620538"
   ]
@@ -870,7 +870,7 @@
  {
   "id": "2294B0",
   "jp": "お客さま？",
-  "en": null,
+  "en": "A visitor?",
   "slots": [
    "62055C"
   ]
@@ -878,7 +878,7 @@
  {
   "id": "22949C",
   "jp": "何をあそんでいる。",
-  "en": null,
+  "en": "What are you fooling around for?",
   "slots": [
    "620580"
   ]
@@ -886,7 +886,7 @@
  {
   "id": "22945C",
   "jp": "お前たちが探している\nエディルレイドが\nどうなってもいいのか？",
-  "en": null,
+  "en": "Don't you care what happens to the Edel Raids you're looking for?",
   "slots": [
    "6205A4"
   ]
@@ -894,7 +894,7 @@
  {
   "id": "229450",
   "jp": "ヴォル君！",
-  "en": null,
+  "en": "Vol-kun!",
   "slots": [
    "6205C8"
   ]
@@ -902,7 +902,7 @@
  {
   "id": "229440",
   "jp": "ヴォルクス！？",
-  "en": null,
+  "en": "Volks?!",
   "slots": [
    "6205EC"
   ]
@@ -910,7 +910,7 @@
  {
   "id": "229400",
   "jp": "エディルレイドが\nどうなってもいいって…\nどういうことですか？",
-  "en": null,
+  "en": "Don't care what happens to the Edel Raids... What do you mean?",
   "slots": [
    "620610"
   ]
@@ -918,7 +918,7 @@
  {
   "id": "2293D4",
   "jp": "この街で商売をしている\nガキを知ってるか。",
-  "en": null,
+  "en": "You know the brat who does business in this town?",
   "slots": [
    "620634"
   ]
@@ -926,7 +926,7 @@
  {
   "id": "2293A8",
   "jp": "あたし、知ってる！\n商人さんのことでしょ？",
-  "en": null,
+  "en": "I know! You mean Mister Merchant, right?",
   "slots": [
    "620658"
   ]
@@ -934,7 +934,7 @@
  {
   "id": "22938C",
   "jp": "どこにいるか、わかるわヨ。",
-  "en": null,
+  "en": "I can tell where he is, you know.",
   "slots": [
    "62067C"
   ]
@@ -942,7 +942,7 @@
  {
   "id": "229378",
   "jp": "そういうことだ。",
-  "en": null,
+  "en": "That's it.",
   "slots": [
    "6206A0"
   ]
@@ -950,7 +950,7 @@
  {
   "id": "229350",
   "jp": "そういうことだ、じゃ\nわかりません！",
-  "en": null,
+  "en": "\"That's it\" doesn't explain anything!",
   "slots": [
    "6206C4"
   ]
@@ -958,7 +958,7 @@
  {
   "id": "229334",
   "jp": "きちんと説明して下さい。",
-  "en": null,
+  "en": "Please explain properly.",
   "slots": [
    "6206E8"
   ]
@@ -966,7 +966,7 @@
  {
   "id": "229318",
   "jp": "ガキが馬車に乗ってるだろ？",
-  "en": null,
+  "en": "The brat rides around in a carriage, right?",
   "slots": [
    "62070C"
   ]
@@ -974,7 +974,7 @@
  {
   "id": "229310",
   "jp": "はい。",
-  "en": null,
+  "en": "Yes.",
   "slots": [
    "620730",
    "624E7C"
@@ -983,7 +983,7 @@
  {
   "id": "2292E0",
   "jp": "馬車は荷物をはこぶだけじゃ\nないってことだ。",
-  "en": null,
+  "en": "Point is, that carriage doesn't just carry cargo.",
   "slots": [
    "620754"
   ]
@@ -991,7 +991,7 @@
  {
   "id": "2292C8",
   "jp": "後は自分たちで考えろ。",
-  "en": null,
+  "en": "Figure out the rest yourselves.",
   "slots": [
    "620778"
   ]
@@ -999,7 +999,7 @@
  {
   "id": "2292B4",
   "jp": "あ！　ヴォル君！！",
-  "en": null,
+  "en": "Ah! Vol-kun!!",
   "slots": [
    "6207C0"
   ]
@@ -1007,7 +1007,7 @@
  {
   "id": "2292A0",
   "jp": "…行っちゃった…",
-  "en": null,
+  "en": "...He left...",
   "slots": [
    "6207E4"
   ]
@@ -1015,7 +1015,7 @@
  {
   "id": "229280",
   "jp": "『荷物…だけじゃない…』って",
-  "en": null,
+  "en": "\"Not... just cargo...\"",
   "slots": [
    "620808"
   ]
@@ -1023,7 +1023,7 @@
  {
   "id": "229268",
   "jp": "そういうことですか！",
-  "en": null,
+  "en": "So that's what he meant!",
   "slots": [
    "620850"
   ]
@@ -1031,7 +1031,7 @@
  {
   "id": "229258",
   "jp": "せ、先輩！？",
-  "en": null,
+  "en": "S-Senpai?!",
   "slots": [
    "620874"
   ]
@@ -1039,7 +1039,7 @@
  {
   "id": "229244",
   "jp": "何だよ、シスカ。",
-  "en": null,
+  "en": "What's up, Cisqua?",
   "slots": [
    "620898"
   ]
@@ -1047,7 +1047,7 @@
  {
   "id": "229220",
   "jp": "行きますよ、商人さんの\nところへ！",
-  "en": null,
+  "en": "Let's go, to Mister Merchant's place!",
   "slots": [
    "6208BC"
   ]
@@ -1055,7 +1055,7 @@
  {
   "id": "2291E0",
   "jp": "彼のわりの合わない\n『こんな仕事』の正体が\nきっと、ソレです！",
-  "en": null,
+  "en": "I'm sure that's the truth behind that unprofitable \"job like this\" of his!",
   "slots": [
    "6208E0"
   ]
@@ -1063,7 +1063,7 @@
  {
   "id": "22A088",
   "jp": "宿を中心に、今夜も\n黒集団を見はります。",
-  "en": null,
+  "en": "Tonight, too, we'll be keeping watch for the Black Group around the inn.",
   "slots": [
    "62094C"
   ]
@@ -1071,7 +1071,7 @@
  {
   "id": "22A040",
   "jp": "どこへ行くのか知りませんが\nあまり無理をしないように。\nいいですね。",
-  "en": null,
+  "en": "I don't know where you're going, but don't push yourselves too hard. All right?",
   "slots": [
    "620970"
   ]
@@ -1079,7 +1079,7 @@
  {
   "id": "22A038",
   "jp": "いどう",
-  "en": null,
+  "en": "Move",
   "slots": [
    "6209B8",
    "620A90",
@@ -1114,7 +1114,7 @@
  {
   "id": "22A004",
   "jp": "黒集団をつかまえるために\nみんな出ているみたい。",
-  "en": null,
+  "en": "Looks like everyone's out trying to catch the Black Group.",
   "slots": [
    "620A48"
   ]
@@ -1122,7 +1122,7 @@
  {
   "id": "229FC4",
   "jp": "橋はあがってるけど、\nエンダさんは向こうに\nいるんだろうか…",
-  "en": null,
+  "en": "The bridge is up, but I wonder if Enda-san is over there...",
   "slots": [
    "620B44"
   ]
@@ -1130,7 +1130,7 @@
  {
   "id": "229FAC",
   "jp": "ブレイブスアルカに。",
-  "en": null,
+  "en": "In Braves Arca.",
   "slots": [
    "620B68"
   ]
@@ -1138,7 +1138,7 @@
  {
   "id": "229F88",
   "jp": "あたしも、ツリして\nみようかしら。",
-  "en": null,
+  "en": "Maybe I'll try some fishing too.",
   "slots": [
    "620C64"
   ]
@@ -1146,7 +1146,7 @@
  {
   "id": "229F48",
   "jp": "自分でつって、自分で食べる。\nきっとおいしいと思うのよね～。",
-  "en": null,
+  "en": "Catch it yourself, eat it yourself. I bet it'd taste great~",
   "slots": [
    "620C88"
   ]
@@ -1154,7 +1154,7 @@
  {
   "id": "229F38",
   "jp": "しずか…ね。",
-  "en": null,
+  "en": "It's... quiet.",
   "slots": [
    "620D60"
   ]
@@ -1162,7 +1162,7 @@
  {
   "id": "229F14",
   "jp": "昼間は、あんなに\nにぎやかなのに。",
-  "en": null,
+  "en": "Even though it's so lively in the daytime.",
   "slots": [
    "620D84"
   ]
@@ -1170,7 +1170,7 @@
  {
   "id": "229ED4",
   "jp": "森の向こうへ行って\nもどってくるまで、\n街へはもどらへんで！",
-  "en": null,
+  "en": "I ain't comin' back to town till I've been past the forest and back!",
   "slots": [
    "620E5C"
   ]
@@ -1178,7 +1178,7 @@
  {
   "id": "229EBC",
   "jp": "商人のとこへ行こうぜ。",
-  "en": null,
+  "en": "Let's go see the merchant.",
   "slots": [
    "620F34"
   ]
@@ -1186,7 +1186,7 @@
  {
   "id": "229EA4",
   "jp": "馬車の中を見てやる！",
-  "en": null,
+  "en": "I'm gonna look inside that carriage!",
   "slots": [
    "620F58"
   ]
@@ -1194,7 +1194,7 @@
  {
   "id": "229E94",
   "jp": "や～、悪いな。",
-  "en": null,
+  "en": "Heya~, sorry 'bout this.",
   "slots": [
    "621054"
   ]
@@ -1202,7 +1202,7 @@
  {
   "id": "229E64",
   "jp": "今回も森の向こうまで\nよろしゅうたのんます。",
-  "en": null,
+  "en": "I'm countin' on ya to get me past the forest again this time.",
   "slots": [
    "621078"
   ]
@@ -1210,7 +1210,7 @@
  {
   "id": "229E54",
   "jp": "ま…まいど…",
-  "en": null,
+  "en": "H-howdy...",
   "slots": [
    "62109C"
   ]
@@ -1218,7 +1218,7 @@
  {
   "id": "229E38",
   "jp": "こんなとこで何してんだ？",
-  "en": null,
+  "en": "What're you doing in a place like this?",
   "slots": [
    "6210C0"
   ]
@@ -1226,7 +1226,7 @@
  {
   "id": "229E2C",
   "jp": "な、何て…",
-  "en": null,
+  "en": "Wh-what're ya...",
   "slots": [
    "6210E4"
   ]
@@ -1234,7 +1234,7 @@
  {
   "id": "229DF8",
   "jp": "クーさん。\nいきなりそんな質問したら\nダメですよ。",
-  "en": null,
+  "en": "Cou-san. You mustn't ask a question like that out of nowhere.",
   "slots": [
    "621108"
   ]
@@ -1242,7 +1242,7 @@
  {
   "id": "229DC4",
   "jp": "商人さんも、こまって\nいらっしゃるじゃないですか。",
-  "en": null,
+  "en": "You're putting Mister Merchant on the spot, too.",
   "slots": [
    "62112C"
   ]
@@ -1250,7 +1250,7 @@
  {
   "id": "229D7C",
   "jp": "それで商人さん。\nこれからどこかへ、行かれる\nところだったんですか？",
-  "en": null,
+  "en": "So, Mister Merchant. Were you on your way somewhere just now?",
   "slots": [
    "621150"
   ]
@@ -1258,7 +1258,7 @@
  {
   "id": "229D64",
   "jp": "森の向こうまで、な。",
-  "en": null,
+  "en": "Past the forest, yeah.",
   "slots": [
    "621198"
   ]
@@ -1266,7 +1266,7 @@
  {
   "id": "229D14",
   "jp": "一人で行くには不安やし。\nかと言って、仕事は仕事や。\n行かんわけにはいかん。",
-  "en": null,
+  "en": "Goin' alone makes me nervous. But then, a job's a job. Can't not go.",
   "slots": [
    "6211BC"
   ]
@@ -1274,7 +1274,7 @@
  {
   "id": "229CD8",
   "jp": "それじゃ、あたしたちが\nいっしょについてって\nあげるのヨ。",
-  "en": null,
+  "en": "Then we'll go along with you, you know.",
   "slots": [
    "6211E0"
   ]
@@ -1282,7 +1282,7 @@
  {
   "id": "229CC4",
   "jp": "そんな、勝手に…",
-  "en": null,
+  "en": "Wait, you can't just decide that...",
   "slots": [
    "621204"
   ]
@@ -1290,7 +1290,7 @@
  {
   "id": "229C8C",
   "jp": "ほんまか。\nそりゃ助かるわ。\nよろしゅうたのんます。",
-  "en": null,
+  "en": "Really? That'd be a big help. Much obliged.",
   "slots": [
    "621228"
   ]
@@ -1298,7 +1298,7 @@
  {
   "id": "229C74",
   "jp": "いいのヨ。いいのヨ。",
-  "en": null,
+  "en": "It's fine, it's fine.",
   "slots": [
    "62124C"
   ]
@@ -1306,7 +1306,7 @@
  {
   "id": "229C24",
   "jp": "だって、ショウニンサンが\n馬車で何をはこんでるのか\nヴォル君がしらべろって…",
-  "en": null,
+  "en": "'Cause Vol-kun told me to find out what Mister Merchant is carrying in his carriage...",
   "slots": [
    "621270"
   ]
@@ -1314,7 +1314,7 @@
  {
   "id": "229C18",
   "jp": "待てって！",
-  "en": null,
+  "en": "Hold it!",
   "slots": [
    "621294"
   ]
@@ -1322,7 +1322,7 @@
  {
   "id": "229C04",
   "jp": "な、何すんのヨ～。",
-  "en": null,
+  "en": "Wh-what are you doing~?!",
   "slots": [
    "6212B8"
   ]
@@ -1330,7 +1330,7 @@
  {
   "id": "229BEC",
   "jp": "オレの馬車が、何やて？",
-  "en": null,
+  "en": "My carriage? What about it?",
   "slots": [
    "6212DC"
   ]
@@ -1338,7 +1338,7 @@
  {
   "id": "229BD4",
   "jp": "別に何でもないって！",
-  "en": null,
+  "en": "It's nothing, really!",
   "slots": [
    "621300"
   ]
@@ -1346,7 +1346,7 @@
  {
   "id": "229BC0",
   "jp": "あは、あはははは…",
-  "en": null,
+  "en": "Aha, ahahahaha...",
   "slots": [
    "621324"
   ]
@@ -1354,7 +1354,7 @@
  {
   "id": "229B8C",
   "jp": "ほんとに、よけいなこと\n言っちゃうんだな…お前。",
-  "en": null,
+  "en": "You really do blurt out stuff you shouldn't... don't you?",
   "slots": [
    "62136C"
   ]
@@ -1362,7 +1362,7 @@
  {
   "id": "229B74",
   "jp": "…ごめんなさいなのヨ…",
-  "en": null,
+  "en": "...I'm sorry, you know...",
   "slots": [
    "621390"
   ]
@@ -1370,7 +1370,7 @@
  {
   "id": "229B3C",
   "jp": "みなさん。\nとりあえず、馬車の中が\n気になりますが…",
-  "en": null,
+  "en": "Everyone. The inside of that carriage does concern me, but...",
   "slots": [
    "6213B4"
   ]
@@ -1378,7 +1378,7 @@
  {
   "id": "229B14",
   "jp": "今は、おとなしく\n森をぬけましょう。",
-  "en": null,
+  "en": "for now, let's quietly get through the forest.",
   "slots": [
    "6213D8"
   ]
@@ -1386,7 +1386,7 @@
  {
   "id": "229B04",
   "jp": "いいですね？",
-  "en": null,
+  "en": "All right?",
   "slots": [
    "6213FC",
    "6220C8"
@@ -1395,7 +1395,7 @@
  {
   "id": "229ACC",
   "jp": "今回はぎょーさん荷物あるから\nゆっくりめで行かんとな。",
-  "en": null,
+  "en": "I got a whole lotta cargo this time, so we gotta take it slow.",
   "slots": [
    "6214D4"
   ]
@@ -1403,7 +1403,7 @@
  {
   "id": "229AA8",
   "jp": "これで終わりに\nならへんかなァ…",
-  "en": null,
+  "en": "Sure wish this'd be the end of it...",
   "slots": [
    "6215AC"
   ]
@@ -1411,7 +1411,7 @@
  {
   "id": "229A90",
   "jp": "ほな、ここでええわ。",
-  "en": null,
+  "en": "All right, this'll do right here.",
   "slots": [
    "621684"
   ]
@@ -1419,7 +1419,7 @@
  {
   "id": "229A68",
   "jp": "また、かえり道、\nよろしゅうたのむで。",
-  "en": null,
+  "en": "I'm countin' on ya for the way back, too.",
   "slots": [
    "6216A8"
   ]
@@ -1427,7 +1427,7 @@
  {
   "id": "229A4C",
   "jp": "行ってしまいました…ね。",
-  "en": null,
+  "en": "He's gone... hasn't he.",
   "slots": [
    "621714"
   ]
@@ -1435,7 +1435,7 @@
  {
   "id": "229A3C",
   "jp": "どうすんだよ？",
-  "en": null,
+  "en": "So what now?",
   "slots": [
    "621738"
   ]
@@ -1443,7 +1443,7 @@
  {
   "id": "229A20",
   "jp": "馬車の中も確認しないで…",
-  "en": null,
+  "en": "We didn't even check inside the carriage...",
   "slots": [
    "62175C"
   ]
@@ -1451,7 +1451,7 @@
  {
   "id": "2299FC",
   "jp": "さぁ、もたもた\nしていられません。",
-  "en": null,
+  "en": "Well, there's no time to dawdle.",
   "slots": [
    "621780"
   ]
@@ -1459,7 +1459,7 @@
  {
   "id": "2299DC",
   "jp": "商人さんを、おいかけますよ。",
-  "en": null,
+  "en": "We're going after Mister Merchant.",
   "slots": [
    "6217A4"
   ]
@@ -1467,7 +1467,7 @@
  {
   "id": "2299D0",
   "jp": "何それ！？",
-  "en": null,
+  "en": "What?!",
   "slots": [
    "6217C8"
   ]
@@ -1475,7 +1475,7 @@
  {
   "id": "2299B4",
   "jp": "おいかけるって、馬車を？",
-  "en": null,
+  "en": "Go after him? The carriage?",
   "slots": [
    "6217EC"
   ]
@@ -1483,7 +1483,7 @@
  {
   "id": "229968",
   "jp": "今日は、いつもより荷物が\nおもいみたいで、馬車の\nスピードもおそいんです。",
-  "en": null,
+  "en": "His cargo seems heavier than usual today, so the carriage is going slowly too.",
   "slots": [
    "621810"
   ]
@@ -1491,7 +1491,7 @@
  {
   "id": "229920",
   "jp": "われわれの足で\nおいつけないスピードでは\nありません。行きましょう。",
-  "en": null,
+  "en": "It's not going so fast that we can't catch up on foot. Let's go.",
   "slots": [
    "621834"
   ]
@@ -1499,7 +1499,7 @@
  {
   "id": "229910",
   "jp": "げ、マジで？",
-  "en": null,
+  "en": "Ugh, seriously?",
   "slots": [
    "621858"
   ]
@@ -1507,7 +1507,7 @@
  {
   "id": "2298E8",
   "jp": "ここで逃がすわけには\nいかないんです。",
-  "en": null,
+  "en": "We can't let him get away here.",
   "slots": [
    "62187C"
   ]
@@ -1515,7 +1515,7 @@
  {
   "id": "229898",
   "jp": "コイツが、そう言ってるんです…\n商人が行く先に、\nエディルレイドがいる、と。",
-  "en": null,
+  "en": "This thing is telling me so... That wherever the merchant is going, there's an Edel Raid.",
   "slots": [
    "6218A0"
   ]
@@ -1523,7 +1523,7 @@
  {
   "id": "22988C",
   "jp": "こいつ？",
-  "en": null,
+  "en": "This thing?",
   "slots": [
    "6218C4"
   ]
@@ -1531,7 +1531,7 @@
  {
   "id": "229870",
   "jp": "エディルレイドレーダー！？",
-  "en": null,
+  "en": "The Edel Raid Radar?!",
   "slots": [
    "6218E8"
   ]
@@ -1539,7 +1539,7 @@
  {
   "id": "229854",
   "jp": "じゃあ、あの馬車の中には…",
-  "en": null,
+  "en": "Then inside that carriage...",
   "slots": [
    "62190C"
   ]
@@ -1547,7 +1547,7 @@
  {
   "id": "229814",
   "jp": "商人さんは、カールセンさんの\n家があった方向へ向かいました。",
-  "en": null,
+  "en": "Mister Merchant headed in the direction where Carlsen-san's house was.",
   "slots": [
    "621930",
    "621A50"
@@ -1556,7 +1556,7 @@
  {
   "id": "229800",
   "jp": "いそぎましょう！",
-  "en": null,
+  "en": "Let's hurry!",
   "slots": [
    "621954"
   ]
@@ -1564,7 +1564,7 @@
  {
   "id": "22ADF4",
   "jp": "われわれも行きましょう。",
-  "en": null,
+  "en": "Let's go, too.",
   "slots": [
    "621A74"
   ]
@@ -1572,7 +1572,7 @@
  {
   "id": "22ADE8",
   "jp": "うわッ！",
-  "en": null,
+  "en": "Whoa!",
   "slots": [
    "621B4C"
   ]
@@ -1580,7 +1580,7 @@
  {
   "id": "22ADD4",
   "jp": "つかまえたッ！！",
-  "en": null,
+  "en": "Gotcha!!",
   "slots": [
    "621B70"
   ]
@@ -1588,7 +1588,7 @@
  {
   "id": "22ADBC",
   "jp": "もう逃がさねーからな。",
-  "en": null,
+  "en": "You're not gettin' away now.",
   "slots": [
    "621B94"
   ]
@@ -1596,7 +1596,7 @@
  {
   "id": "22AD90",
   "jp": "オレ、オレは何も\n悪いことしてないって！",
-  "en": null,
+  "en": "I-I ain't done nothin' wrong!",
   "slots": [
    "621BB8"
   ]
@@ -1604,7 +1604,7 @@
  {
   "id": "22AD74",
   "jp": "じゃあ、何で逃げんだよ？",
-  "en": null,
+  "en": "Then why'd you run?",
   "slots": [
    "621BDC"
   ]
@@ -1612,7 +1612,7 @@
  {
   "id": "22AD64",
   "jp": "そ、そんなん…",
-  "en": null,
+  "en": "Th-that's...",
   "slots": [
    "621C00"
   ]
@@ -1620,7 +1620,7 @@
  {
   "id": "22AD3C",
   "jp": "おっかけてくるからに\n決まってるやん！",
-  "en": null,
+  "en": "'Cause you came chasin' me, obviously!",
   "slots": [
    "621C24"
   ]
@@ -1628,7 +1628,7 @@
  {
   "id": "22ACF4",
   "jp": "商人さん。\nかくしてもムダなんですよ。\n神父さまが話して下さいました。",
-  "en": null,
+  "en": "Mister Merchant. It's no use hiding it. Father told us everything.",
   "slots": [
    "621C48"
   ]
@@ -1636,7 +1636,7 @@
  {
   "id": "22ACE8",
   "jp": "エッ！？",
-  "en": null,
+  "en": "Wha?!",
   "slots": [
    "621C6C"
   ]
@@ -1644,7 +1644,7 @@
  {
   "id": "22ACD8",
   "jp": "…シスカ…？",
-  "en": null,
+  "en": "...Cisqua...?",
   "slots": [
    "621C90"
   ]
@@ -1652,7 +1652,7 @@
  {
   "id": "22AC90",
   "jp": "『われわれがしたことは\n　決してゆるされることでは\n　ないが、どうか…",
-  "en": null,
+  "en": "\"What we did can never be forgiven, but please...",
   "slots": [
    "621CB4"
   ]
@@ -1660,7 +1660,7 @@
  {
   "id": "22AC5C",
   "jp": "　どうか、あの少年だけは\n　助けてやってくれ…』",
-  "en": null,
+  "en": "please, at least save that boy...\"",
   "slots": [
    "621CD8"
   ]
@@ -1668,7 +1668,7 @@
  {
   "id": "22AC2C",
   "jp": "神父さまは、しずかにそう\nおっしゃいました…",
-  "en": null,
+  "en": "That's what Father told us, quietly...",
   "slots": [
    "621CFC"
   ]
@@ -1676,7 +1676,7 @@
  {
   "id": "22AC18",
   "jp": "神父のおっちゃん…",
-  "en": null,
+  "en": "The ol' Father...",
   "slots": [
    "621D20"
   ]
@@ -1684,7 +1684,7 @@
  {
   "id": "22ABCC",
   "jp": "せや。ゆるされるかどうかは\nわからへんけど、オレも\nおっちゃんも悪くない。",
-  "en": null,
+  "en": "Yeah. I dunno if we'll be forgiven, but me and the old man ain't done nothin' wrong.",
   "slots": [
    "621D44"
   ]
@@ -1692,7 +1692,7 @@
  {
   "id": "22AB84",
   "jp": "オレはエディルレイドを\nはこんだだけやし、\nおっちゃんは見てただけ。",
-  "en": null,
+  "en": "All I did was carry Edel Raids, and the old man just watched.",
   "slots": [
    "621D68"
   ]
@@ -1700,7 +1700,7 @@
  {
   "id": "22AB74",
   "jp": "何も悪くない。",
-  "en": null,
+  "en": "We ain't done nothin' wrong.",
   "slots": [
    "621D8C"
   ]
@@ -1708,7 +1708,7 @@
  {
   "id": "22AB6C",
   "jp": "何も…",
-  "en": null,
+  "en": "Nothin'...",
   "slots": [
    "621DB0"
   ]
@@ -1716,7 +1716,7 @@
  {
   "id": "22AB34",
   "jp": "エディルレイドをはこぶように\n言ったのは、誰ですか？",
-  "en": null,
+  "en": "Who told you to carry the Edel Raids?",
   "slots": [
    "621DD4"
   ]
@@ -1724,7 +1724,7 @@
  {
   "id": "22AB1C",
   "jp": "それは…言われへん…",
-  "en": null,
+  "en": "That's... I can't say...",
   "slots": [
    "621DF8"
   ]
@@ -1732,7 +1732,7 @@
  {
   "id": "22AADC",
   "jp": "って、何で知らんの？\nおっちゃんが話して\nくれんかったんか？",
-  "en": null,
+  "en": "Wait, how come ya don't know? Didn't the old man tell ya?",
   "slots": [
    "621E1C"
   ]
@@ -1740,7 +1740,7 @@
  {
   "id": "22AAD4",
   "jp": "え？",
-  "en": null,
+  "en": "Huh?",
   "slots": [
    "621E40",
    "622AA0"
@@ -1749,7 +1749,7 @@
  {
   "id": "22AA94",
   "jp": "ええええ、まぁ。\n話がきける様子では\nありませんでしたので…",
-  "en": null,
+  "en": "Y-y-yes, well, sort of. He wasn't really in a state to talk, so...",
   "slots": [
    "621E64"
   ]
@@ -1757,7 +1757,7 @@
  {
   "id": "22AA60",
   "jp": "で、どうなんです？\n誰に言われてやったんですか？",
-  "en": null,
+  "en": "So, what's the story? Who told you to do it?",
   "slots": [
    "621E88"
   ]
@@ -1765,7 +1765,7 @@
  {
   "id": "22AA38",
   "jp": "黒集団がつかまえた\nエディルレイドを",
-  "en": null,
+  "en": "The Edel Raids the Black Group caught...",
   "slots": [
    "621ED0"
   ]
@@ -1773,7 +1773,7 @@
  {
   "id": "22AA04",
   "jp": "ブレイブスアルカから\n教会へ、はこべって言われた。",
-  "en": null,
+  "en": "I was told to carry 'em from Braves Arca to the church.",
   "slots": [
    "621EF4"
   ]
@@ -1781,7 +1781,7 @@
  {
   "id": "22A9F4",
   "jp": "そうですか…",
-  "en": null,
+  "en": "I see...",
   "slots": [
    "621F18"
   ]

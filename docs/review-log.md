@@ -37,6 +37,14 @@
 - minor b015: 2106E8 "the previous Father"; 2105F4; 213F94 "Jeez!". b016: 214424 "So Senpai is a woman after all.";
   2127E4 tense; 2133C0 "I. Don't. Care."; 2141D0 "That can wait! Later!!"
 
+## b017-b024 (Importants fixed: work/tl/fixes_w3*.tsv; b021-b022 review pending)
+- minor b017: 2178C4 "About the church."; 214E94; 2175B4 drop leading "..."; Cisqua laugh spelling 214AE0 vs 214BA0;
+  215940 "is rough on her people~." b018: 2160BC "are you."; 216DE4; 21981C "only the Edel Raids"; 216A40 "Perhaps".
+- minor b019: 21800C "Thanks for comin'! Welcome!"; 218DFC Ren "I can't love people, but I think your feelings for one
+  are precious."; 218910 "They'll only be unhappy."; 217BE8 pun. b020: 21A430 "Y-yes, of course."; 21A644.
+- minor b023: 22070C; 220188 "Hey, wait, Mister Merchant!"; 2200D8 "Gah!"; 2239C0 "Like an animal."
+  b024: 221D9C "Vol-k..."; 222808 Kea "Oh, nothing~"; 221734 no "right?"; 2214E0/221498; 2225A0.
+
 ## b007-b008
 - IMPORTANT 200EE0 Mister Hunter: "If we put Mister Hunter in our debt now, it'll come in handy later in all sorts of ways..."
 - IMPORTANT 204C78/204C5C ふとっぱら pun: Merchant "Ma'am, you're big-bellied generous!" / Cisqua "Who are you calling fat?!"

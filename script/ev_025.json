@@ -138,7 +138,7 @@
  {
   "id": "2231FC",
   "jp": "あれは私が…",
-  "en": "That was my...",
+  "en": "That was me...",
   "slots": [
    "6155DC"
   ]
@@ -491,7 +491,7 @@
  {
   "id": "222C14",
   "jp": "何年前だったか…\n前の神父さんがいろんな\nお話をして下さってね。",
-  "en": "How many years ago was it... The old priest used to tell us all sorts of stories.",
+  "en": "How many years ago was it... The previous priest used to tell us all sorts of stories.",
   "slots": [
    "615EB8"
   ]
@@ -1123,7 +1123,7 @@
  {
   "id": "22202C",
   "jp": "カールセンさんも\n眠りから起きたっていうのに。",
-  "en": "Carlsen-san has finally woken up from his sleep, too.",
+  "en": "Even though Carlsen-san has woken up, too.",
   "slots": [
    "617124"
   ]

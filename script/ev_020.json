@@ -395,7 +395,7 @@
  {
   "id": "218B74",
   "jp": "ケムリにまかれて\nしまいました。",
-  "en": "and ended up lost in a smokescreen.",
+  "en": "and got the runaround.",
   "slots": [
    "6087FC"
   ]
@@ -755,7 +755,7 @@
  {
   "id": "2182EC",
   "jp": "ここのアークエイルは\nぜんっぜん仕事して\nないんじゃないの！？",
-  "en": "Isn't the Arc Aile here not doing its job at all?!",
+  "en": "Doesn't the Arc Aile here do any work at all?!",
   "slots": [
    "609828"
   ]
@@ -1051,7 +1051,7 @@
  {
   "id": "217C98",
   "jp": "う～ん\nそろそろ、おなかが…",
-  "en": "Mmm... my stomach's about to...",
+  "en": "Mmm... my stomach's...",
   "slots": [
    "60A65C"
   ]
@@ -1059,7 +1059,7 @@
  {
   "id": "217C8C",
   "jp": "ゲンカイ…",
-  "en": "...at my limit...",
+  "en": "...at its limit...",
   "slots": [
    "60A680"
   ]

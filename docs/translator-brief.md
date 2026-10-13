@@ -51,6 +51,9 @@ impossible, keep the meaning and report it as `LONG: id`.
 - A sentence split across two boxes: keep the split, make box 1 end naturally mid-sentence (comma/"and").
 - Choice options: sentence case ("Hold hands", "Run for it"), short and parallel.
 - React がとける/とかれる = "comes undone" (not "broken"). 港 alone = "harbor". "All right", never "Alright".
+- "you know" as a sentence tag belongs to Chiruru only; don't give it to Kea or others. Dropped g's ("nothin'")
+  belong to the Kansai-dialect speakers only.
+- No "&" / "co." / abbreviations in labels or choices: if a choice won't fit its soft target, report LONG.
 - Chiruru's のヨ tic -> "you know" at most once per box, and not every box.
 - Japanese puns: keep the joke working (reviewers flagged a lost ふとっぱら "fat belly" pun and a マクラ/イクラ swap
   mistranslated as "bedding/herring"); get the literal items right first, then adapt.

@@ -334,7 +334,7 @@
  {
   "id": "21F5CC",
   "jp": "何だか、神父さま…\nフシギな感じがしましたね。",
-  "en": "Somehow, the Father... seemed kind of mysterious, didn't he?",
+  "en": "Somehow, that priest... seemed kind of mysterious, didn't he?",
   "slots": [
    "6133F8"
   ]
@@ -849,7 +849,7 @@
  {
   "id": "220550",
   "jp": "まだ少ししか、読んでいませんが\n今のカールセンさんから\n何年か前の、事故の前の日記？",
-  "en": "I've only read a little, but is it a diary from years before today's Carlsen-san, from before the accident?",
+  "en": "I've only read a little, but it seems to be a diary from years ago, before the accident?",
   "slots": [
    "613E84"
   ]

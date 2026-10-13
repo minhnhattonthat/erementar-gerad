@@ -1110,7 +1110,7 @@
  {
   "id": "21CC3C",
   "jp": "私もブレイブスアルカへ\n会いに行ってきましたけど\n会えませんでした。",
-  "en": "I went to Braves Arca to see her as well, but I couldn't meet her.",
+  "en": "I went to Braves Arca to see him as well, but I couldn't meet him.",
   "slots": [
    "60F00C"
   ]
@@ -1569,7 +1569,7 @@
  {
   "id": "21DAA0",
   "jp": "何としても守る",
-  "en": "I'll protect you",
+  "en": "I'll protect you no matter what",
   "slots": [
    "60F9C0"
   ]
@@ -1577,7 +1577,7 @@
  {
   "id": "21DA8C",
   "jp": "シスカたちがいる",
-  "en": "We have Cisqua & co.",
+  "en": "Cisqua's with us",
   "slots": [
    "60F9E4"
   ]
