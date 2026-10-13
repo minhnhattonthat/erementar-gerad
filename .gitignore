@@ -1,0 +1,14 @@
+rom/
+build/
+work/
+dist/
+release/
+# Mesen lives directly in tools/ (user's setup): ignore everything there except our code
+tools/*
+!tools/*.py
+!tools/routes/
+!tools/lua/
+__pycache__/
+*.ss[0-9]
+*.mss
+*.sav

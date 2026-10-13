@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.gba binary
+*.bin binary
+*.png binary
+*.bps binary
+*.ips binary
+*.mss binary
+*.sav binary
+*.exe binary
+*.dll binary
