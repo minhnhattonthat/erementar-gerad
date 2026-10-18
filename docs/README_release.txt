@@ -20,7 +20,16 @@ What is translated
 ------------------
 - All story dialogue, menus, items, skill descriptions, shop and arena text, and the staff credits.
 - Dialogue name tags, battle name plates, enemy names, skill/attack/item name banners, menu tabs,
-  info-box labels, the battle tutorial pages, and the title logo.
+  info-box labels, battle result name boxes, world-map place names, the battle tutorial pages,
+  and the title logo (ELEMENTAL GELADE, the anime's English title, with THE SEALED SONG subtitle).
+
+Changes in 0.9.1-beta
+---------------------
+- New English title logo and subtitle.
+- Choice options: long options no longer disappear; options are centred.
+- Menus: Yes/No (save/load) and other two-line menu text no longer lose their second line; menu items
+  such as "Enter" are centred.
+- Battle result screen and world-map place names in English.
 - A new variable-width English font (two letters per game glyph) gives about 35 letters per line.
 
 Notes

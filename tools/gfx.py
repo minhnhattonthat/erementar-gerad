@@ -2,7 +2,7 @@
 
     python -X utf8 tools/gfx.py tags OUT.png      render every dialogue name tag (48x16) from the original ROM
 """
-import sys
+import struct, sys
 from PIL import Image
 import romlib
 
@@ -203,6 +203,51 @@ def tab_patches():
             for i, n in enumerate(TAB_NAMES)]
 
 
+RESULT_BOXES_AT = 0x19967C   # battle result name boxes: 5 OBJ 32x16 (0x100 each), fill 2 / outline 1, left-aligned
+RESULT_COU_ALT = 0x19957C    # a second Cou box, drawn 8 px further right (where shown: unknown)
+
+
+def result_box_patches():
+    import vwf
+    font = vwf.Font()
+    out = [(RESULT_BOXES_AT + 0x100 * i, pack_obj(outlined(font, n, 32, 16, 0, 32, y0=2, tight=True, center=16), 32, 16))
+           for i, n in enumerate(TAB_NAMES)]
+    return out + [(RESULT_COU_ALT, pack_obj(outlined(font, 'Cou', 32, 16, 8, 24, y0=2, tight=True), 32, 16))]
+
+
+# Map place-name plates: 16 OBJ frames (table 0x5D6218, u32 ptrs) -> {u16 n, n x (attr0, attr1, attr2), u16 0};
+# attr2 = tile in the sheet at 0x6399A (32 B per tile), frames centred on x=40. Text fill 1 / outline 4.
+MAP_NAME_FRAMES, MAP_NAME_SHEET, MAP_NAME_TILES = 0x5D6218, 0x6399A, 202   # tiles 202-211 = frame 15 '???' (kept)
+MAP_NAMES = ['South Forest', 'Town Gate', 'Bazaar', 'Inn', 'Plaza', 'Harbor', 'Drawbridge Gate', 'Arc Aile Branch',
+             'Arena', 'Arena Basement', 'Broken House', 'Church', 'West Forest', 'Braves Arca', "Carlsen's House"]
+OBJ_16H = {4: (0x4000, 0x8000), 2: (0x0000, 0x4000), 1: (0x8000, 0x0000)}   # columns -> (attr0, attr1) 32/16/8 x 16
+
+
+def map_name_patches(d, put):
+    """[(offset, bytes)]: redrawn name tiles in the sheet + table slots repointed to new frames from put(bytes)."""
+    import vwf
+    font = vwf.Font()
+    out, tile = [], 0
+    for i, name in enumerate(MAP_NAMES):
+        name = name.replace(' ', '  ')   # tight letters share outlines; a single space would vanish
+        cols = -(-(font.text_width(name) - len(name) + 2) // 8)
+        px = outlined(font, name, cols * 8, 16, 0, cols * 8, y0=1, tight=True, fill=1, edge=4)
+        x, sprites, data = 40 - cols * 4, [], b''
+        for w in [4] * (cols // 4) + [2] * (cols % 4 // 2) + [1] * (cols % 2):
+            a0, a1 = OBJ_16H[w]
+            c0 = (x - (40 - cols * 4)) // 8
+            sprites.append((a0, a1 | x, tile))
+            data += pack_obj([row[c0 * 8:(c0 + w) * 8] for row in px], w * 8, 16)
+            tile += 2 * w
+            x += w * 8
+        out.append((MAP_NAME_SHEET + 32 * (tile - len(data) // 32), data))
+        frame = struct.pack('<H', len(sprites)) + b''.join(struct.pack('<3H', *s) for s in sprites) + b'\0\0'
+        out.append((MAP_NAME_FRAMES + 4 * i, struct.pack('<I', romlib.BASE + put(frame))))
+    if tile > MAP_NAME_TILES:
+        raise ValueError(f'map names need {tile} tiles > {MAP_NAME_TILES}')
+    return out
+
+
 def read_labels():
     rows = {}
     if LABELS_TSV.exists():
@@ -311,32 +356,36 @@ def status_patches(d):
     return out
 
 
-PLATES_AT = 0x0C45F8   # battle HP-bar name plates: 27 tiles in one 8-px row; (first tile, tiles, name)
-PLATES = [(0, 4, 'Cou'), (10, 4, 'Ren'), (14, 4, 'Cisqua'), (18, 5, 'Rowen'), (23, 4, 'Kea')]
+PLATES_AT, PLATES_N = 0x0C45F8, 47   # battle HP-bar name plates in one 8-px row; (first tile, tiles, name, ink)
+PLATES = [(0, 4, 'Cou', 2), (10, 4, 'Ren', 2), (14, 4, 'Cisqua', 2), (18, 5, 'Rowen', 2), (23, 4, 'Kea', 2),
+          (27, 6, 'Cou & Ren', 3), (39, 8, 'Rowen & Kea', 3)]   # combined plates (battle result screen, fusions)
 
 
 def plate_patches(d):
-    """Text 2 on interior F; redrawn only on interior pixels so the slanted borders stay."""
+    """Text on interior F; redrawn only on interior pixels so the slanted borders stay."""
     font = tag_font()
-    img = tiles_to_img(d[PLATES_AT:PLATES_AT + 27 * 32], 27, 1)
-    px = [[img.getpixel((x, y))[0] // 17 for x in range(27 * 8)] for y in range(8)]
-    for t0, n, name in PLATES:
+    img = tiles_to_img(d[PLATES_AT:PLATES_AT + PLATES_N * 32], PLATES_N, 1)
+    px = [[img.getpixel((x, y))[0] // 17 for x in range(PLATES_N * 8)] for y in range(8)]
+    for t0, n, name, ink in PLATES:
         x0 = t0 * 8
         for y in range(8):
             for x in range(x0, x0 + n * 8):
-                if px[y][x] == 2:
+                if px[y][x] == ink:
                     px[y][x] = 0xF
         interior = {(x, y) for y in range(8) for x in range(x0, x0 + n * 8) if px[y][x] == 0xF}
         x = x0 + 1
         for c in name:
+            if c == ' ':
+                x += 2
+                continue
             g = font[c]
             for gy, row in enumerate(g):
                 for gx, on in enumerate(row):
                     if on and gy < 7:   # descenders may cross row 7 (bottom border): drop those pixels
                         assert (x + gx, gy) in interior, f'plate {name}: ink outside the plate at {x + gx},{gy}'
-                        px[gy][x + gx] = 2
+                        px[gy][x + gx] = ink
             x += len(g[0]) + 1
-    return [(PLATES_AT, pack_obj(px, 27 * 8, 8))]
+    return [(PLATES_AT, pack_obj(px, PLATES_N * 8, 8))]
 
 
 ENEMY_TAGS_AT = 0x1D5DBC   # 30 enemy name tags, 48x8 (6 tiles, 0xC0 B), text fill E + shadow 1 (from the

@@ -100,8 +100,11 @@ def build(out, marker=False, qa=None, identity=False):
         # full-screen pictures (tutorial pages): re-encoded into free space, literal-pool pointers repointed
         for slot, a in screens.patches(d, lambda b: free.put(b)):
             struct.pack_into('<I', d, slot, romlib.BASE + a)
+        # map place names: tiles redrawn in their sheet, frames rebuilt in free space
+        for a, b in gfx.map_name_patches(d, lambda b: free.put(b)):
+            d[a:a + len(b)] = b
         # name tags, skill/attack/item labels (font/labels.tsv): redrawn in place, same size
-        for a, b in gfx.tag_patches(d) + gfx.label_patches(d) + gfx.tab_patches() + gfx.composite_patches(d) + gfx.badge_patches(d) + gfx.status_patches(d) + gfx.plate_patches(d) + gfx.enemy_tag_patches():
+        for a, b in gfx.tag_patches(d) + gfx.label_patches(d) + gfx.tab_patches() + gfx.result_box_patches() +gfx.composite_patches(d) + gfx.badge_patches(d) + gfx.status_patches(d) + gfx.plate_patches(d) + gfx.enemy_tag_patches():
             d[a:a + len(b)] = b
     Path(out).parent.mkdir(exist_ok=True)
     Path(out).write_bytes(d)
@@ -112,7 +115,10 @@ def build(out, marker=False, qa=None, identity=False):
                 f.write('%s %06X\n' % (s, struct.unpack_from('<I', d, int(s, 16))[0] - romlib.BASE))
     # Japanese we keep on purpose (debug labels): jp_left.py --known
     with open(Path(out).with_suffix('.known.txt'), 'w', newline='\n') as f:
-        f.writelines(e['id'] + '\n' for e in load_entries() if fit.form(e) == 'keep')
+        for e in load_entries():
+            if fit.form(e) == 'keep':   # every cell of the first line: a run may start after leading ー/symbols
+                a = int(e['id'], 16)
+                f.writelines('%06X\n' % (a + 2 * k) for k in range(len(e['jp'].split('\n')[0])))
     assemble(out, {'CODE_AT': romlib.BASE + code_at, 'WIDTHS': romlib.BASE + widths,
                    'PAIR_TAB': romlib.BASE + pair_tab, 'PAIR_GFX': romlib.BASE + pair_gfx})
     print(f'{len(enc)} strings, {len(pairs)} pair glyphs, free space used to {free.pos:06X}; wrote {out}')

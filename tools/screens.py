@@ -14,7 +14,6 @@ SCREENS = {
     'battle_tutorial': (0x09C97C, 0x01BBB8, [0x01BBBC, 0x01BBC0, 0x01BBC4]),
     'title_logo': (0x09C53C, 0x0181CC, [0x0181D0, 0x0181D4, 0x0181D8]),
 }
-FONT_DIR = 'C:/Windows/Fonts/'
 WHITE, YELLOW, BLACK, PLATE = (255, 255, 255), (255, 255, 148), (0, 0, 0), (246, 246, 246)
 PLATE_TEXT = [(5, 'Cou'), (53, 'Ren'), (101, 'Cisqua'), (149, 'Rowen'), (197, 'Kea')]   # battle bar, rows 6-12
 
@@ -42,45 +41,184 @@ EDITS = {
             ('box', (140, 44, 228, 62), (['B: Once more'],))],
     },
     'title_logo': {
-        # katakana エレメンタル / ジェレイド -> big silver lettering (the small romaji line under it stays)
-        1: [('logo', (4, 33, 112, 58), ('EREMENTAR', 'impact.ttf', 22)),
-            ('logo', (146, 33, 236, 58), ('GERAD', 'impact.ttf', 22))],
-        # 封印されし謳 (Fuuin sareshi Uta) inside its swoosh
-        2: [('logo', (54, 75, 166, 106), ('The Sealed Song', 'georgiab.ttf', 13, 'blue'))],
+        # Rebuild the layer around the original girl and her left-hand swirl/staff.
+        1: [('main_logo', (0, 0, 240, 160), ())],
+        # Clear the whole Japanese subtitle, including its outline/glints at x=186 and y=111.
+        2: [('subtitle', (48, 72, 192, 112), ())],
     },
 }
 GRADIENTS = {
-    'silver': ([(255, 255, 255), (246, 246, 246), (238, 238, 238), (230, 238, 238), (213, 213, 222), (197, 205, 205),
-                (164, 164, 164), (131, 131, 131)], BLACK),          # palette-2 greys, top to bottom
     'blue': ([(255, 255, 255), (238, 246, 255), (230, 230, 246), (205, 213, 238), (189, 197, 230), (172, 180, 213),
               (156, 164, 205)], (8, 16, 24)),                        # palette-3 blues
 }
-def draw_logo_text(img, rect, text, font_file, size, style='silver', transparent=None):
-    """Erase rect (to each tile's transparent colour), draw text centred: vertical gradient + 1 px outline."""
-    from PIL import ImageDraw, ImageFont
+# Hand-drawn native-resolution faces; never rasterize or resample a reference/font.
+# Each placement is the face's top-left, leaving one pixel for the black outline.
+TITLE_LOGO_ART = romlib.ROOT / 'font' / 'title-logo.txt'
+TITLE_LOGO_POSITION = (2, 27)
+TITLE_LOGO_SIZE = (234, 37)
+TITLE_LETTERS = (
+    ('outer_E_left', 3), ('L_left', 15), ('E_left', 25), ('M', 36),
+    ('E_left', 49), ('N', 60), ('T', 72), ('A_left', 83), ('L_left', 95),
+    ('G', 153), ('E_right', 168), ('L_right', 181), ('A_right', 193),
+    ('D', 208), ('outer_E_right', 223),
+)
+# Shared chrome bands: upper highlight, dark middle, bright lower reflection.
+# The directional dark bevel is separate from these flat, undithered face bands.
+TITLE_CHROME = '88ff88667788ffff8888'
+# Half-open source rectangles follow the gaps between the girl and Japanese glyphs.
+# The last includes the left swirl/staff. The master extends the rod beneath GELADE;
+# the original right glyph and romaji are erased.
+TITLE_ICON_REGIONS = ((108, 0, 150, 45), (113, 45, 148, 57), (40, 57, 146, 75))
+
+
+def parse_art(art):
+    """Pixel masters use # for ink and . for transparent; retain their side bearings."""
+    rows = art.strip().splitlines()
+    if len({len(row) for row in rows}) != 1 or set(''.join(rows)) - {'.', '#'}:
+        raise ValueError('invalid logo pixel master')
+    mask = Image.new('L', (len(rows[0]), len(rows)))
+    mask.putdata([255 if c == '#' else 0 for row in rows for c in row])
+    return mask
+
+
+def title_logo_art(palette):
+    """Compose chunky angular faces, black rims, dark bevels and the original rod."""
+    glyphs = {}
+    for block in TITLE_LOGO_ART.read_text('ascii').strip().split('\n\n'):
+        header, pixels = block.split('\n', 1)
+        if not header.startswith('glyph ') or header[6:] in glyphs:
+            raise ValueError(f'invalid/duplicate title glyph: {header}')
+        glyphs[header[6:]] = parse_art(pixels)
+    art = Image.new('RGBA', TITLE_LOGO_SIZE, (*palette[32], 0))
+    ox, oy = TITLE_LOGO_POSITION
+
+    def put(x, y, ink):
+        art.putpixel((x - ox, y - oy), (*palette[32 + ink], 255))
+
+    for name, left in TITLE_LETTERS:
+        mask = glyphs[name]
+        if mask.height != (20 if name.startswith('outer_') else 16):
+            raise ValueError(f'invalid title glyph height: {name}')
+        face = {(left + x, 39 + y) for y in range(mask.height) for x in range(mask.width)
+                if mask.getpixel((x, y))}
+        for x, y in face:
+            for dx in (-1, 0, 1):
+                for dy in (-1, 0, 1):
+                    put(x + dx, y + dy, 1)
+        for x, y in face:
+            # A continuous lower/right edge gives the heavy letters depth without
+            # stippling or isolated glints. Leave the upper/left face bands flat.
+            bevel = (x + 1, y) not in face or (x, y + 1) not in face
+            put(x, y, 4 if bevel else int(TITLE_CHROME[y - 39], 16))
+    for y, ink in ((60, 1), (61, 14), (62, 4), (63, 1)):
+        for x in range(146, 234):
+            put(x, y, ink)
+        put(234, y, 4 if y in (61, 62) else 1)
+    for y in range(58, 64):
+        put(235, y, 1)
+    return art
+
+
+def title_logo_icon(idx, pals, palette):
+    """Extract the original girl and staff, without resampling or palette conversion."""
+    icon = Image.new('RGBA', (240, 160), (*palette[32], 0))
+    for x0, y0, x1, y1 in TITLE_ICON_REGIONS:
+        for y in range(y0, y1):
+            for x in range(x0, x1):
+                if idx[y][x]:
+                    icon.putpixel((x, y), (*palette[pals[y // 8][x // 8] * 16 + idx[y][x]], 255))
+    return icon
+
+
+def draw_main_logo(img, transparent, palette, icon):
+    """Erase the previous layer, then place the lettering and the exact ROM icon."""
+    for y in range(img.height):
+        for x in range(img.width):
+            img.putpixel((x, y), transparent(x, y))
+    art = title_logo_art(palette)
+    img.paste(art.convert('RGB'), TITLE_LOGO_POSITION, art.getchannel('A'))
+    img.paste(icon.convert('RGB'), (0, 0), icon.getchannel('A'))
+
+
+# Eleven-pixel serif capitals, drawn at final resolution (no font rasterizer or rescaling).
+SUBTITLE_ART = {
+    'S': '.#####.\n##...##\n##....#\n##.....\n.###...\n..###..\n....###\n.....##\n#....##\n##...##\n.#####.',
+    'E': '#######\n.##..##\n.##...#\n.##....\n.##.#..\n.####..\n.##.#..\n.##....\n.##...#\n.##..##\n#######',
+    'A': '...##...\n..####..\n..####..\n..#.##..\n.##..##.\n.##..##.\n.######.\n##....##\n##....##\n##....##\n###..###',
+    'L': '####...\n.##....\n.##....\n.##....\n.##....\n.##....\n.##....\n.##....\n.##...#\n.##..##\n#######',
+    'D': '######..\n.##..##.\n.##...##\n.##...##\n.##...##\n.##...##\n.##...##\n.##...##\n.##...##\n.##..##.\n######..',
+    'O': '..####..\n.##..##.\n##....##\n##....##\n##....##\n##....##\n##....##\n##....##\n##....##\n.##..##.\n..####..',
+    'N': '###..###\n.###..#.\n.###..#.\n.#.##.#.\n.#.##.#.\n.#.##.#.\n.#..###.\n.#..###.\n.#...##.\n.#...##.\n###...#.',
+    'G': '..#####.\n.##..###\n##.....#\n##......\n##......\n##..####\n##....##\n##....##\n##....##\n.##..###\n..####.#',
+}
+
+
+def clean_subtitle(img, rect, transparent):
+    """Restore the transparent backdrop and ribbon before placing any English ink.
+
+    The original subtitle is a separate BG layer: index zero reveals the title's gradient.
+    Erase its *entire* footprint, including the ribbon, so no glyph, shadow or cyan glint
+    survives. Reconstruct the ribbon through the areas formerly obscured by the kanji.
+    """
+    from PIL import ImageDraw
     x0, y0, x1, y1 = rect
-    grad, edge = GRADIENTS[style]
     for y in range(y0, y1):
         for x in range(x0, x1):
-            img.putpixel((x, y), transparent(x, y) if transparent else img.getpixel((0, 0)))
-    f = ImageFont.truetype(FONT_DIR + font_file, size, layout_engine=ImageFont.Layout.BASIC)
-    mask = Image.new('L', (x1 - x0, y1 - y0), 0)
-    dr = ImageDraw.Draw(mask)
-    l, t, r, b = dr.textbbox((0, 0), text, font=f)
-    w, h = r - l, b - t
-    if w > x1 - x0 - 2 or h > y1 - y0 - 2:
-        raise ValueError(f'{text!r} {w}x{h} does not fit {x1 - x0}x{y1 - y0}')
-    ox, oy = (x1 - x0 - w) // 2 - l, (y1 - y0 - h) // 2 - t
-    dr.text((ox, oy), text, fill=255, font=f)
-    ink = {(x, y) for y in range(mask.height) for x in range(mask.width) if mask.getpixel((x, y)) >= 128}
-    top, bot = min(y for _, y in ink), max(y for _, y in ink)
-    for (x, y) in ink:
+            img.putpixel((x, y), transparent(x, y))
+    dr = ImageDraw.Draw(img)
+    # Tapered, tilted loop: dark rim, pearl upper edge and a blue-silver lower band.
+    outer = [(82, 95), (86, 102), (97, 107), (115, 110), (138, 110), (158, 106),
+             (173, 99), (182, 91), (186, 83), (184, 78), (178, 74), (164, 72),
+             (147, 73), (130, 76), (113, 81), (100, 86), (92, 91), (95, 91),
+             (108, 85), (124, 80), (143, 76), (161, 75), (176, 77), (181, 81),
+             (180, 87), (173, 94), (160, 101), (141, 105), (120, 106), (103, 104),
+             (91, 100)]
+    dr.polygon(outer, fill=(8, 16, 24))
+    dr.line([(96, 90), (113, 82), (131, 77), (148, 74), (164, 73), (178, 75),
+             (183, 79), (184, 83)], fill=(238, 246, 255))
+    dr.line([(98, 90), (114, 83), (132, 78), (148, 75), (164, 74), (176, 76)],
+            fill=(82, 106, 172))
+    dr.polygon([(85, 97), (92, 102), (104, 106), (120, 108), (138, 108),
+                (158, 104), (172, 97), (180, 90), (183, 84), (181, 91),
+                (173, 98), (158, 105), (138, 109), (115, 109), (98, 106), (88, 101)],
+               fill=(156, 164, 205))
+    dr.line([(92, 102), (104, 105), (120, 107), (139, 107), (158, 103), (172, 96)],
+            fill=(238, 246, 255))
+    dr.line([(141, 108), (158, 104), (172, 97), (180, 90), (183, 84)],
+            fill=(106, 123, 189))
+
+
+def draw_subtitle(img, rect, transparent):
+    """Hand-letter THE / SEALED SONG over the fully cleaned subtitle background."""
+    clean_subtitle(img, rect, transparent)
+    mask = Image.new('L', img.size)
+    small = {'T': '###\n.#.\n.#.\n.#.\n.#.', 'H': '#.#\n#.#\n###\n#.#\n#.#',
+             'E': '###\n#..\n##.\n#..\n###'}
+    for i, c in enumerate('THE'):
+        mask.paste(parse_art(small[c]), (108 + i * 5, 80))
+    glyphs = [parse_art(SUBTITLE_ART[c]) if c != ' ' else Image.new('L', (3, 11))
+              for c in 'SEALED SONG']
+    width = sum(g.width for g in glyphs) + 2 * (len(glyphs) - 1)
+    x = 114 - width // 2
+    for glyph in glyphs:
+        mask.paste(glyph, (x, 89))
+        x += glyph.width + 2
+    ink = {(x, y) for y in range(rect[1], rect[3]) for x in range(rect[0], rect[2])
+           if mask.getpixel((x, y))}
+    edge = (8, 16, 24)
+    for x, y in ink:
         for dx in (-1, 0, 1):
             for dy in (-1, 0, 1):
-                if (x + dx, y + dy) not in ink and 0 <= x + dx < mask.width and 0 <= y + dy < mask.height:
-                    img.putpixel((x0 + x + dx, y0 + y + dy), edge)
-    for (x, y) in ink:
-        img.putpixel((x0 + x, y0 + y), grad[(y - top) * len(grad) // (bot - top + 1)])
+                if (x + dx, y + dy) not in ink:
+                    img.putpixel((x + dx, y + dy), edge)
+    grad = GRADIENTS['blue'][0]
+    for x, y in ink:
+        row = y - (80 if y < 89 else 89)
+        # Pearl face with a bright upper bevel; the lower strokes shade to periwinkle.
+        shade = min(6, row * 7 // (5 if y < 89 else 11))
+        if (x, y - 1) not in ink:
+            shade = 0
+        img.putpixel((x, y), grad[shade])
 
 
 def ptr(d, slot):
@@ -134,8 +272,8 @@ def draw_glyphs(img, text, x, y, color, font, mask=None):
         x += font.w[ord(c)]
 
 
-def edit_page(img, edits, transparent=None):
-    """transparent(x, y) -> colour of palette index 0 for the tile at x, y (erase target for 'logo')."""
+def edit_page(img, edits, transparent=None, palette=None, title_icon=None):
+    """transparent(x, y) -> colour of palette index 0 for the tile at x, y (title erase target)."""
     font, tf = vwf.Font(), tag_font()
     grey = lambda c: c[0] == c[1] == c[2]
     orig = img.copy()
@@ -170,8 +308,10 @@ def edit_page(img, edits, transparent=None):
                 draw_glyphs(img, line, x0 + 1, top + 14 * i, WHITE, font)
         elif kind == 'plates':
             pass   # handled above
-        elif kind == 'logo':
-            draw_logo_text(img, (x0, y0, x1, y1), *args, transparent=transparent)
+        elif kind == 'main_logo':
+            draw_main_logo(img, transparent, palette, title_icon)
+        elif kind == 'subtitle':
+            draw_subtitle(img, (x0, y0, x1, y1), transparent)
         elif kind in ('shadow', 'badge'):
             ink_colors = (WHITE, BLACK, PLATE) if kind == 'shadow' else (YELLOW, BLACK)
             for y in range(y0, y1):
@@ -207,14 +347,41 @@ def edit_page(img, edits, transparent=None):
     return img
 
 
+def render_page(tiles, m, pal, edits):
+    """Render edits with their palette banks; return the image and encoding grids."""
+    idx, pals = page_indices(tiles, m)
+    img = to_img(idx, pals, pal)
+    title_icon = None
+    for kind, (x0, y0, x1, y1), _ in edits:
+        if kind == 'main_logo':
+            title_icon = title_logo_icon(idx, pals, pal)
+            # Preserve the icon's exact indices and tile banks (1 above y=48, 2
+            # below). Lettering fits outside its bank-1 tiles and uses silver bank 2.
+            for ty in range(20):
+                for tx in range(30):
+                    if not title_icon.crop((tx * 8, ty * 8, tx * 8 + 8, ty * 8 + 8)).getbbox():
+                        pals[ty][tx] = 2
+            for y in range(160):
+                for x in range(240):
+                    if not title_icon.getpixel((x, y))[3]:
+                        idx[y][x] = 0
+        elif kind == 'subtitle':
+            # The old text mixes banks 3/4 and blank bank-0 tiles. Its replacement uses
+            # the existing blue bank throughout the fully erased, tile-aligned area.
+            assert all(v % 8 == 0 for v in (x0, y0, x1, y1))
+            for ty in range(y0 // 8, y1 // 8):
+                for tx in range(x0 // 8, x1 // 8):
+                    pals[ty][tx] = 3
+    edit_page(img, edits, lambda x, y: pal[pals[y // 8][x // 8] * 16], pal, title_icon)
+    return img, idx, pals
+
+
 def encode(d, name):
     """-> (tileset bytes, [map bytes]) for the English pages."""
     pal, tiles, maps = load(d, name)
     out_tiles, seen, new_maps = [bytes(32)], {bytes(32): 0}, []
     for page, m in enumerate(maps):
-        idx, pals = page_indices(tiles, m)
-        img = edit_page(to_img(idx, pals, pal), EDITS.get(name, {}).get(page, []),
-                        lambda x, y, pals=pals: pal[pals[y // 8][x // 8] * 16])
+        img, idx, pals = render_page(tiles, m, pal, EDITS.get(name, {}).get(page, []))
         nm = bytearray(m)
         for ty in range(20):
             for tx in range(30):
@@ -273,6 +440,5 @@ if __name__ == '__main__':
                 idx, pals = page_indices(tiles, m)
                 img = to_img(idx, pals, pal)
                 img.save(out / f'{name}_{i}.png')
-                edit_page(img, EDITS.get(name, {}).get(i, []),
-                          lambda x, y, pals=pals: pal[pals[y // 8][x // 8] * 16]).save(out / f'{name}_{i}_en.png')
+                render_page(tiles, m, pal, EDITS.get(name, {}).get(i, []))[0].save(out / f'{name}_{i}_en.png')
                 print(out / f'{name}_{i}_en.png')

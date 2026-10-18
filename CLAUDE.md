@@ -1,7 +1,7 @@
 # Erementar Gerad (GBA) English translation
 
-Skill: translate-retro-game (H:/translation/erementar-gerad/.claude/skills/translate-retro-game/SKILL.md).
-Read it before ROM, text or QA work. `$S` below = `.claude/skills/translate-retro-game/scripts`.
+Skill: translate-retro-game (Claude Code plugin translate-retro-game@retro-translation).
+Read it before ROM, text or QA work. `$S` below = `~/.claude/plugins/marketplaces/retro-translation/skills/translate-retro-game/scripts`.
 
 ## Commands (repo root; `python`, never `python3`)
 - Check:   `python -X utf8 tools/check.py` (unittest + lint; the pre-commit hook runs this)
@@ -31,7 +31,9 @@ Read it before ROM, text or QA work. `$S` below = `.claude/skills/translate-retr
   Minors queued in docs/review-log.md for one polish pass), name tags, 267 skill/attack/item labels
   (font/labels.tsv), menu tabs. jp_left on build: 0 reachable Japanese text.
 - Also done: info headers, badges, status labels, battle plates, enemy tags, battle tutorial pages, title logo.
-  v0.9-beta packaged (release/, gitignored).
+  v0.9-beta packaged (release/, gitignored). 2026-10-19 v0.9.1-beta: ELEMENTAL GELADE logo + subtitle,
+  choice rows (16-cell buffer, width centring, lint CHOICE_W), list-menu centring, menu newline fix
+  (Yes/No), battle result boxes, map place names (gfx.map_name_patches). QA state: work/states/en_choice_first.mss.
 - Next: QA past the first battle (need a battle fast-forward: tools/lua/strong.lua pins the party record but the
   battle uses its own copy - find it), check choice/shop/arena/credits boxes in-game, docs/re/graphics.md rows
   10-11 (orange pool plates, tiny katakana font: find where shown), Minors polish pass (docs/review-log.md).

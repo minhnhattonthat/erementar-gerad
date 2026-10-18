@@ -45,13 +45,94 @@ WRAP_EXTRA equ 20
 
 ; ---- menu layout 0800E4FC: entry advance byte (was 12)
 .org 0x0800E5A4
-  ldr r1,=menu_advance|1
+  ldr r1,[pc,#0]               ; E5A8
   bx r1
-  nop
-  nop
+  .word menu_advance|1
+newline_tail:                  ; E5AC: the newline cell ("nn", empty entry) skips the glyph: r4 += 8 / r7++
+  add r4,#8
+  add r7,#1
+  nop                          ; falls into the loop head at E5B2
+.org 0x0800E54C
+  b newline_tail               ; was b 0x0800E5AA, which now lands in the hook above
+
+; ---- choice rows (task_adv_menuTabList, class 0x085D9A58): the glyph entry buffer at +0x44 holds 8 cells and
+;      overflows into the fields after it. Move it to +0x98 (past the original object) with room for CHOICE_CELLS,
+;      and centre the row on the text's pixel width instead of 12 px per cell.
+CHOICE_CELLS equ 16
+.org 0x085D9A6C
+  .word 0x98 + CHOICE_CELLS * 8  ; object size
+.org 0x0802993A
+  add r4,#0x84                 ; init: entry buffer +0x14 +0x84 = +0x98 (was +0x30)
+  add r0,r4,#0
+  mov r1,#CHOICE_CELLS         ; entries cleared (was 8)
+.org 0x08029BE2
+  add r2,#0x98                 ; draw (was +0x44)
+.org 0x08029C28
+  add r2,#0x98                 ; draw (was +0x44)
+.org 0x08029C8E
+  add r4,#0x98                 ; free (was +0x44)
+.org 0x08029BBE                ; draw, side 0 (replaced 08029BBE-BCF: r1 = (4 - cells)*6 + 16)
+  mov r2,#40
+  ldr r3,=0x08029BD0|1
+  ldr r1,=choice_x|1
+  bx r1
+  .pool
+.org 0x08029C04                ; draw, side 1 (replaced 08029C04-C15: r1 = (8 - cells)*6 + 16)
+  mov r2,#64
+  ldr r3,=0x08029C16|1
+  ldr r1,=choice_x|1
+  bx r1
+  .pool
+
+; ---- list menus (generic list 0801162C, e.g. map View/Menu/Save/Enter): item {entries, u16 count, ..}; the draw
+;      centred each item on x+40 at 12 px per cell (08011572-0801157F: r0 = (4 - count)*6 + 16)
+.org 0x08011572
+  ldr r1,=menu_x|1
+  bx r1
   .pool
 
 .org CODE_AT
+menu_x:                        ; r5 = item -> back at 08011580 with r0 = 40 - width/2 (r1-r4 reloaded there)
+  ldr r2,[r5]                  ; entries {OBJ handle, u8 advance}
+  ldrh r3,[r5,#4]              ; count
+  mov r0,#0
+@@next:
+  cmp r3,#0
+  beq @@done
+  ldrb r1,[r2,#4]
+  add r0,r0,r1
+  add r2,#8
+  sub r3,#1
+  b @@next
+@@done:
+  lsr r0,r0,#1
+  mov r1,#40
+  sub r0,r1,r0
+  ldr r1,=0x08011580|1
+  bx r1
+
+choice_x:                      ; r0 = row x (kept), r2 = centre, r3 = return, r5 = object -> r1 = centre - width/2
+  push {r0,r2,r3,r4,r6}        ; r2/r3 are reloaded after the return points
+  add r4,r5,#0                 ; width = sum of the entries' advances (the string pointer at +0x94 is shared
+  add r4,#0x41                 ; by all rows, so it only holds the last row's text by draw time)
+  ldrb r1,[r4]                 ; entry count
+  add r4,#0x98 - 0x41 + 4      ; first entry's advance byte
+  mov r6,#0
+@@next:
+  cmp r1,#0
+  beq @@done
+  ldrb r0,[r4]
+  add r6,r6,r0
+  add r4,#8
+  sub r1,#1
+  b @@next
+@@done:
+  lsr r6,r6,#1
+  ldr r2,[sp,#4]
+  sub r1,r2,r6
+  pop {r0,r2,r3,r4,r6}
+  bx r3
+
 lookup_hook:
   push {r4,r5,r6,lr}           ; replaced: push / adds r3,r1,#0 / lsls r0,#16 / lsrs r4,r0,#16
   add r3,r1,#0

@@ -2,11 +2,31 @@
 
 Per translated entry: printable ASCII only, no leftover Japanese, fits its box (tools/fit.py), no glossary
 'Avoid' spelling. Glossary terms whose English is missing are summarised in one warning line.
+Choice options (task_adv_menuTabList rows) must fit CHOICE_W px.
 """
 import json, re, sys
 import fit, romlib
 
 ROOT = romlib.ROOT
+CHOICE_W = 96   # original 8 cells x 12 px; the row centres on x+40 and the box is ~104 px wide
+
+
+def choice_ids():
+    """Ids of script strings shown as choice options. Heuristic from the script records (string ptr at +0x10):
+    a choice record carries a 0x10xx jump label at +0x22 and its Japanese is one line of <= 8 cells."""
+    if not romlib.ROM.exists():
+        return set()
+    d = romlib.load()
+    out = set()
+    for p in sorted(romlib.SCRIPT_DIR.glob('*.json')):
+        for e in json.loads(p.read_text('utf-8')):
+            if len(e['jp']) > 8 or '\n' in e['jp']:
+                continue
+            for s in e.get('slots', []):
+                r = int(s, 16) - 0x10
+                if 0x5D0000 <= r < 0x63CB7C and d[r + 0x23] == 0x10:
+                    out.add(e['id'])
+    return out
 
 
 def glossary():
@@ -42,6 +62,7 @@ def check_entry(e, en, gloss):
 
 def main():
     gloss = glossary()
+    choices = choice_ids()
     nerr, nwarn, done, total = 0, 0, 0, 0
     for p in sorted(romlib.SCRIPT_DIR.glob('*.json')):
         for e in json.loads(p.read_text('utf-8')):
@@ -51,6 +72,8 @@ def main():
                 continue
             done += 1
             errs, warns = check_entry(e, e['en'], gloss)
+            if e['id'] in choices and fit.width(e['en']) > CHOICE_W:
+                errs.append(f'choice option {fit.width(e["en"])} px > {CHOICE_W}')
             for x in errs:
                 print(f"{p.name} {e['id']}: {x}")
             nerr += len(errs)

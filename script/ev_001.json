@@ -162,7 +162,7 @@
  {
   "id": "1F5EE8",
   "jp": "大丈夫！　平気！",
-  "en": "I'm fine! No problem!",
+  "en": "I'm fine! All good!",
   "slots": [
    "5DA6B0"
   ]
@@ -178,7 +178,7 @@
  {
   "id": "1F5ECC",
   "jp": "レンは？",
-  "en": "What about you, Ren?",
+  "en": "And you, Ren?",
   "slots": [
    "5DA6F8",
    "5DAC50",
@@ -1151,7 +1151,7 @@
  {
   "id": "1F6B40",
   "jp": "レンさんまで…",
-  "en": "Even you, Ren-san...",
+  "en": "You too, Ren-san...",
   "slots": [
    "5DB988"
   ]

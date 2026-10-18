@@ -3,12 +3,14 @@
     python -X utf8 tools/release.py VERSION        e.g. 0.9   -> release/Erementar_Gerad_EN_v0.9.zip
 Stops at the first failure. Never uploads anything.
 """
-import hashlib, subprocess, sys, zipfile, zlib
+import hashlib, os, subprocess, sys, zipfile, zlib
 from pathlib import Path
 import romlib
 
 ROOT = romlib.ROOT
-SKILL = ROOT / '.claude' / 'skills' / 'translate-retro-game' / 'scripts'
+# translate-retro-game skill scripts: installed by the Claude Code plugin (override with RETRO_SKILL_SCRIPTS)
+SKILL = Path(os.environ.get('RETRO_SKILL_SCRIPTS') or Path.home() / '.claude' / 'plugins' / 'marketplaces' /
+             'retro-translation' / 'skills' / 'translate-retro-game' / 'scripts')
 PY = [sys.executable, '-X', 'utf8']
 
 

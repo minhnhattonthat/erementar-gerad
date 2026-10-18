@@ -25,3 +25,22 @@
 - `nn` stays newline: an "nn" letter pair is encoded 6E 7F (0x7F = alternate 'n').
 - Font: font/en11.txt (11 px proportional, from monster-guardians), ink = palette index 1.
 - Non-ASCII characters in English text stay Shift-JIS cells (game font, 12 px), aligned to a cell boundary.
+
+## Menu layout newline
+- 0800E4FC turns an `nn` cell into an empty entry (handle 0 = draw does x reset, y += 14) and branches to the loop
+  tail 0800E5AA, inside the menu_advance hook; the hook keeps a valid tail at E5AC (newline_tail) and E54C points
+  there. Before this fix every multi-line menu string (save/load Yes\nNo) lost everything after the first line.
+
+## List menus (builder 0801162C, item init 08011384.., draw 08011560..)
+- Item = {glyph entries, u16 cell count, ..}, buffer sized from the count (no overflow). The draw centred each item
+  on x+40 at 12 px per cell (08011572); pairs.asm menu_x centres on the summed entry advances. Map menu
+  View/Menu/Save/Enter = table 0x03C5B0 {string, handler}.
+
+## Choice options (task_adv_menuTabList, class 0x085D9A58: name, init 08029854, update, draw 08029BAC, free, size)
+- One object per option row; menu layout 0800E4FC fills a glyph-entry buffer at +0x44 that holds 8 cells and
+  overflows into +0x84.. (longer options vanished or broke the row). pairs.asm moves the buffer to +0x98, sized
+  CHOICE_CELLS (16), by growing the class size word at 0x085D9A6C.
+- Draw centres the row from the cell count (+0x88): side 0 x+40, side 1 x+64 minus 6 px per cell. Hook choice_x
+  centres on the summed entry advances instead (the string pointer at +0x94 is shared by all rows by draw time).
+- Width budget: tools/lint.py CHOICE_W = 96 px; choice strings found by heuristic (record +0x23 = 0x10 jump label,
+  Japanese one line <= 8 cells). QA state before the first choice: from the battle result, mash A ~3000 frames.

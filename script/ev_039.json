@@ -1350,7 +1350,7 @@
  {
   "id": "23BC94",
   "jp": "レンは？",
-  "en": "What about you, Ren?",
+  "en": "And you, Ren?",
   "slots": [
    "63A23C",
    "63A98C"
@@ -1495,7 +1495,7 @@
  {
   "id": "23B8DC",
   "jp": "レンさんまで…",
-  "en": "Even you, Ren-san...",
+  "en": "You too, Ren-san...",
   "slots": [
    "63A4C4"
   ]
