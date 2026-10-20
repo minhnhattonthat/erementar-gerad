@@ -25,6 +25,7 @@ Read it before ROM, text or QA work. `$S` below = `~/.claude/plugins/marketplace
   else Hepburn, credits English, all graphics text in scope, no abbreviations. Pre-approved: report at the end.
 - Mesen: `tools/settings.json` needs `AllowIoOsAccess: true` (set) or runs hang to timeout.
 - Another project's Mesen may be running (monster-guardians); don't kill processes you didn't start.
+- Player bug reports: GitHub issues (`gh issue list --label bug`). Copy the attached save into `work/states/`, reproduce in the emulator, fix, commit with `Fixes #N`, and update the Status section.
 
 ## Status (2026-10-14)
 - Done: engine (pair-glyph VWF, 212 px dialogue lines), all 8344 strings translated + reviewed (Importants fixed;
