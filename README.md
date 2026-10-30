@@ -9,13 +9,21 @@ no game data you can play; you need your own dump of the Japanese game.
 **Found a bug?** [Report it](../../issues/new/choose): untranslated text, typos, overflow, crashes. Attaching a savestate
 helps most.
 
-## What's translated
+## Translation status
 
-- All story dialogue, menus, items, skill descriptions, shop and arena text, and the staff credits.
-- Graphics text: title logo, dialogue name tags, battle name plates and result screen, enemy names, skill/attack/item
-  banners, menu tabs, info-box labels, battle tutorial pages and world-map place names.
-- A variable-width English font (two letters per game glyph) gives about 35 letters per line.
-- Names follow the English anime release (*Elemental Gelade*); honorifics are kept.
+| Part | Status |
+|---|---|
+| Story dialogue, staff credits | Translated |
+| Menus, items, skill descriptions, shop and arena text | Translated |
+| Battle graphics (name plates, result screen, enemy names, skill/attack/item banners, tutorial pages) | Translated |
+| Title logo, dialogue name tags, menu tabs, info-box labels, world-map place names | Translated (logo reads ELEMENTAL GELADE, the anime's English title) |
+| Debug / developer screens | Left in Japanese (developer-only) |
+
+A variable-width English font (two letters per game glyph) gives about 35 letters per line. Names follow the English
+anime release (*Elemental Gelade*); honorifics are kept.
+
+Known issues: this is a beta; play past the first battle (shop, arena and credits boxes) is not fully checked on screen.
+[Report](../../issues/new/choose) anything that overflows or looks wrong.
 
 ## What's here
 
